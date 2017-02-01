@@ -123,6 +123,8 @@ box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
 }
 
 
+
+
 .more-info{
  background: #EA067E;
   padding:6px 15px;
@@ -238,3 +240,17 @@ box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
   margin: auto;
 
 }
+
+.book-content-year, .book-content-area{
+  background: #D2DB0E !important;
+   padding:6px 15px;
+   margin:3px;
+   color: #fff;
+    -moz-border-radius: 25px !important;
+   -webkit-border-radius: 25px !important;
+   border-radius: 25px !important;
+  font-size:12px;
+   text-align:center;
+       float: left;
+     position: relative;
+     }
