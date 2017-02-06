@@ -1,0 +1,38 @@
+<div ng-controller="detail-controller">
+  <ion-view view-title="Detalle del libro">
+    <ion-content>
+      <ion-card>
+        <!-- HARDCODED until refactor to abstract mvc and use factory and service angular
+        <img src="{{book.image}}"/>-->
+
+        <ion-card-content>
+          <ion-card-title>
+            {{book.title}}
+          </ion-card-title>
+          <p>
+            {{book.author}}
+          </p>
+        </ion-card-content>
+
+        <ion-row no-padding>
+          <ion-col>
+            <button ion-button clear small color="danger" icon-left>
+              <ion-icon name='star'></ion-icon>
+              Libro
+            </button>
+          </ion-col>
+          <ion-col text-center>
+            <button ion-button clear small color="danger" icon-left>
+              <ion-icon name='musical-notes'></ion-icon>
+              eBook
+            </button>
+          </ion-col>
+        </ion-row>
+
+      </ion-card>
+
+
+    </ion-content>
+  </ion-view>
+</div>
+
