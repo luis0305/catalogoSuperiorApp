@@ -1,6 +1,7 @@
 var appBooks = {
-  controller : function ($scope, Books){
-    $scope.books = Books.all();
+  controller : function ($scope, $state, Books){
+    var slug = $state.params.slug;
+    $scope.books = Books.getBySlug(slug);
   },
 
   detail : function($scope, $state, Books){

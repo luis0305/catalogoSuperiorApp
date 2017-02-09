@@ -10,6 +10,11 @@
         return books.filter(function(book){
           return book.id == id;
         })[0];
+      },
+      getBySlug: function(slug){
+        return books.filter(function(book){
+          return book.subcategory.slug == slug;
+        });
       }
     }
   });
