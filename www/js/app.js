@@ -1,5 +1,5 @@
 (function(){
-  var app = angular.module('starter', ['ionic', 'starter.service','starter.controller.subcategories']);
+  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.subcategories']);
 
   app.config(function($stateProvider, $urlRouterProvider){
 
@@ -39,10 +39,6 @@
     });
     $urlRouterProvider.otherwise('/app/subcategories');
   });
-
-  app.controller('book-controller', appBooks.controller);
-
-  app.controller('detail-controller', appBooks.detail);
 
   app.run(function($ionicPlatform) {
     $ionicPlatform.ready(function() {

@@ -1,11 +1,15 @@
-var appBooks = {
-  controller : function ($scope, $state, Books){
+(function (){
+
+  var booksController = angular.module('starter.controller.books',['starter.service.books']);
+
+  booksController.controller('book-controller', function ($scope, $state, Books){
     var slug = $state.params.slug;
     $scope.books = Books.getBySlug(slug);
-  },
+  });
 
-  detail : function($scope, $state, Books){
+  booksController.controller('detail-controller', function($scope, $state, Books){
     $scope.id = $state.params.id;
     $scope.book = Books.getById($scope.id);
-  }
-};
+  });
+
+})();

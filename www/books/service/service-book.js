@@ -1,5 +1,5 @@
 (function (){
-  var services = angular.module('starter.service', []);
+  var services = angular.module('starter.service.books', []);
 
   services.factory('Books', function(){
     return {
