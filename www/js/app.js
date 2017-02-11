@@ -3,6 +3,12 @@
 
   app.config(function($stateProvider, $urlRouterProvider){
 
+    $stateProvider.state('home',{
+      url: "/home",
+      templateUrl: 'subcategories/views/slider-subcategories.html',
+      controller: 'slider-subcategories-controller'
+    });
+
     $stateProvider.state('app', {
       url: "/app",
       abstract: true,
@@ -19,6 +25,7 @@
         }
       }
     });
+
     $stateProvider.state('app.books', {
       url: '/:slug/books',
       views : {
@@ -28,6 +35,7 @@
         }
       }
     });
+
     $stateProvider.state('app.detail', {
       url: '/books/detail/:id',
       views: {
@@ -37,7 +45,9 @@
         }
       }
     });
-    $urlRouterProvider.otherwise('/app/subcategories');
+
+    $urlRouterProvider.otherwise('/home');
+
   });
 
   app.run(function($ionicPlatform) {

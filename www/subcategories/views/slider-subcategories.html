@@ -1,18 +1,7 @@
 <ion-view>
-  <ion-nav-buttons side="left">
-    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
-  </ion-nav-buttons>
-  <!--
-  <ion-content>
-    <ion-list>
-      <ion-item ng-repeat="subcategory in subcategories"
-                href="/#/app/{{subcategory.slug}}/books">
-        <h2>{{subcategory.name}}</h2>
-      </ion-item>
-    </ion-list>
-  </ion-content>-->
+
   <ion-content scroll="false">
-    <ion-slides  options="options" >
+    <ion-slides  options="options" slider="data.slider">
 
       <ion-slide-page>
         <div class="box catalogo_universitario">
@@ -40,6 +29,21 @@
           </div>
         </div>
       </ion-slide-page>
+
+      <ion-slide-page ng-repeat="subcategory in subcategories">
+        <div class="box {{subcategory.styleName}}">
+          <img src="../img/{{subcategory.imageSource}}" alt="" class="svg_image_slide">
+          <div class="row">
+            <div class="col col-67 col-offset-10">
+              <a href="/#/app/{{subcategory.slug}}/books">
+                  Ver catálogo
+              </a>
+            </div>
+          </div>
+        </div>
+      </ion-slide-page>
+
+      <!--
 
       <ion-slide-page>
         <div class="box productos_digitales">
@@ -106,7 +110,7 @@
             </div>
           </div>
         </div>
-      </ion-slide-page>
+      </ion-slide-page>-->
 
     </ion-slides>
   </ion-content>

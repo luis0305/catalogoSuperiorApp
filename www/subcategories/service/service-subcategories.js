@@ -10,7 +10,13 @@
         return subcategories.filter(function(subcategory){
           return subcategory.id == id;
         })[0];
+      },
+      getBySlider: function(showSlider){
+        return subcategories.filter(function(subcategory){
+          return subcategory.showSlider == showSlider;
+        });
       }
+
     }
   });
 })();
