@@ -1,38 +1,76 @@
-<div ng-controller="detail-controller">
-  <ion-view view-title="Detalle del libro">
-    <ion-content>
-      <ion-card>
-        <!-- HARDCODED until refactor to abstract mvc and use factory and service angular
-        <img src="{{book.image}}"/>-->
-
-        <ion-card-content>
-          <ion-card-title>
-            {{book.title}}
-          </ion-card-title>
-          <p>
-            {{book.author}}
-          </p>
-        </ion-card-content>
-
-        <ion-row no-padding>
-          <ion-col>
-            <button ion-button clear small color="danger" icon-left>
-              <ion-icon name='star'></ion-icon>
-              Libro
-            </button>
-          </ion-col>
-          <ion-col text-center>
-            <button ion-button clear small color="danger" icon-left>
-              <ion-icon name='musical-notes'></ion-icon>
-              eBook
-            </button>
-          </ion-col>
-        </ion-row>
-
-      </ion-card>
+<ion-view view-title="Detalle del libro">
 
 
-    </ion-content>
-  </ion-view>
-</div>
 
+  <ion-header-bar class="bar-stable green">
+    <h1 class="title">Catálogo / Administración general</h1>
+  </ion-header-bar>
+
+  <ion-content>
+
+    <div class = "row responsive-md" style="background: #f3f3f3;">
+      <div class="col" style="background:#fff">
+        <div class=" ">
+          <div class="row responsive-md">
+            <div class="col col-80">
+              <h3 class="book-title">{{book.title}}</h3>
+              <p class="book-author">{{book.author}}</p>
+            </div>
+
+            <div class="col col-20 text-right">
+              <span class="book-content-year">2016</span>
+              <span class="book-content-area">Geografía </span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+
+            </div>
+            <div class="col">
+              <img class="image_book" src="http://www.pearsonenespanol.com/images/librariesprovider5/cris_e-commer/pearson-ciencias-de-la-tierra-10ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="col col-bottom">
+              <span class="ebook-cta">Ebook </span>
+              <span class="book-cta">Libro </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="background: #f3f3f3;">
+      <div class="col"  style="background:#fff">
+        <ul class="tab">
+          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Introduction')">Introducción</a></li>
+          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Content')">Contenido</a></li>
+          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Author')">Autor</a></li>
+          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Request')">Solicitar</a></li>
+        </ul>
+
+        <div id="Introduction" class="tabcontent">
+          <h3>Introducción</h3>
+          <p>Get introducción</p>
+        </div>
+
+        <div id="Content" class="tabcontent">
+          <h3>Contenido</h3>
+          <p>Get content</p>
+        </div>
+
+        <div id="Author" class="tabcontent">
+          <h3>Autor</h3>
+          <p>Get author</p>
+        </div>
+
+        <div id="Request" class="tabcontent">
+          <h3>Solicitar</h3>
+          <p>Get book</p>
+        </div>
+
+      </div>
+    </div>
+
+  </ion-content>
+
+</ion-view>
