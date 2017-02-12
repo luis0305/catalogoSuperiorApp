@@ -15,8 +15,12 @@
         return subcategories.filter(function(subcategory){
           return subcategory.showSlider == showSlider;
         });
+      },
+      getBySlug: function(slug){
+        return subcategories.filter(function(subcategory){
+          return subcategory.slug == slug;
+        })[0];
       }
-
     }
   });
 })();

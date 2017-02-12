@@ -37,7 +37,7 @@
     });
 
     $stateProvider.state('pearson.detail', {
-      url: '/books/detail/:id',
+      url: '/books/detail/{id:int}',
       views: {
         'menu-content' : {
           templateUrl: 'books/views/book-detail-view.html',
