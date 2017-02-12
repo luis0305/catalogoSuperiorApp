@@ -9,14 +9,14 @@
       controller: 'slider-subcategories-controller'
     });
 
-    $stateProvider.state('app', {
-      url: "/app",
+    $stateProvider.state('pearson', {
+      url: "/pearson",
       abstract: true,
       templateUrl: 'subcategories/views/side-menu-subcategories.html',
-      controller: 'menu-side-subcategories-controller'
+      controller: 'side-menu-subcategories-controller'
     });
 
-    $stateProvider.state('app.subcategories', {
+    /*$stateProvider.state('pearson.subcategories', {
       url: '/subcategories',
       views: {
         'menu-content' :{
@@ -24,9 +24,9 @@
           controller: 'subcategories-controller'
         }
       }
-    });
+    });*/
 
-    $stateProvider.state('app.books', {
+    $stateProvider.state('pearson.books', {
       url: '/:slug/books',
       views : {
         'menu-content' : {
@@ -36,7 +36,7 @@
       }
     });
 
-    $stateProvider.state('app.detail', {
+    $stateProvider.state('pearson.detail', {
       url: '/books/detail/:id',
       views: {
         'menu-content' : {

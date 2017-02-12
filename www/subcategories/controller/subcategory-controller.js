@@ -4,7 +4,7 @@
   appSubcategories.controller('subcategories-controller', function($scope, Subcategories){
     $scope.subcategories = Subcategories.all();
   });
-  appSubcategories.controller('menu-side-subcategories-controller', function($scope, Subcategories){
+  appSubcategories.controller('side-menu-subcategories-controller', function($scope, Subcategories){
       $scope.subcategories = Subcategories.all();
   });
   appSubcategories.controller('slider-subcategories-controller', function($scope, Subcategories){
