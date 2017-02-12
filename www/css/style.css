@@ -1,93 +1,86 @@
 /* Empty. Add your own CSS if you like */
 
 .cta-pearson{
-    border-color: transparent;
-    background-color: #f538bb;
-    color: #fff;
-    border-radius: 25px;
-    }
-
-.cta-pearson:hover {
-    color: #f538bb;
-    background-color: #fff;
-    text-decoration: none;
+  border-color: transparent;
+  background-color: #f538bb;
+  color: #fff;
+  border-radius: 25px;
 }
 
-
+.cta-pearson:hover {
+  color: #f538bb;
+  background-color: #fff;
+  text-decoration: none;
+}
 
 .image_slide_title{
-max-width: 250px !important;
-    height: auto !important;
+  max-width: 250px !important;
+  height: auto !important;
 }
 
 .mision, .catalogo_universitario, .ciencias_sociales, .ciencias_y_matematicas, .ingenieria_y_computacion, .productos_digitales, .administracion_general {
-    bottom: 0;
-    left: 0;
-    margin: auto;
-        width: auto;
-        height: 100vh;
-    right: 0;
-    top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: auto;
+  height: 100vh;
+  right: 0;
+  top: 0;
 }
 
 .mision{
-background: #ccebe6;
+  background: #ccebe6;
 }
 
 .administracion_general {
-background: url('../img/bckgr_administracion_general.jpg') center right;
-    background-size:cover
+  background: url('../img/bckgr_administracion_general.jpg') center right;
+  background-size:cover
 }
 
 .catalogo_universitario {
-background: url('../img/bckgr_catalogo_universitario.jpg') center right;
-    background-size:cover
+  background: url('../img/bckgr_catalogo_universitario.jpg') center right;
+  background-size:cover
 }
 
 
  .productos_digitales {
-background: url('../img/bckgr_productos_digitales.jpg') center right;
-    background-size:cover
+  background: url('../img/bckgr_productos_digitales.jpg') center right;
+  background-size:cover
 }
 
 .ingenieria_y_computacion {
-background: url('../img/bckgr_ingenieria_y_computacion.jpg') center right;
-    background-size:cover
+  background: url('../img/bckgr_ingenieria_y_computacion.jpg') center right;
+  background-size:cover
 }
 
  .ciencias_y_matematicas {
-background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
-    background-size:cover
+  background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
+  background-size:cover
 }
 
- .ciencias_sociales {
-background: url('../img/bckgr_ciencias_sociales.jpg') center right;
-    background-size:cover
+.ciencias_sociales {
+  background: url('../img/bckgr_ciencias_sociales.jpg') center right;
+  background-size:cover
 }
-
-
 
 .svg_image_slide{
-top: 0 !important;
-    left: 0 !important;
-    max-width: 250px !important;
-    width: 250px !important;
-    height:auto;
+  top: 0 !important;
+  left: 0 !important;
+  max-width: 250px !important;
+  width: 250px !important;
+  height:auto;
 }
 
 .swiper-pagination-bullet {
-    background: #f538bb !important;
-    border: 1px solid #FFF;
-        width: 15px;
-        height: 15px;
+  background: #f538bb !important;
+  border: 1px solid #FFF;
+  width: 15px;
+  height: 15px;
 }
-
 
 .bar-green{
-background: #d1db0d;
+  background: #d1db0d;
 }
-
-
 
 .title{
   font-family: 'Playfair Display', serif !important;

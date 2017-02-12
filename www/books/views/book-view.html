@@ -1,5 +1,13 @@
 <ion-view view-title="Libros">
+
+  <ion-header-bar class="bar-stable green">
+    <h1 class="title">Catálogo / Administración general {{getCatalogo}}</h1>
+  </ion-header-bar>
+
+
   <ion-content >
+
+    <!--
     <ion-list>
       <ion-item ng-repeat="book in books"
                 href="/#/app/books/detail/{{book.id}}"
@@ -8,7 +16,99 @@
         <p>{{book.categoryName}}</p>
         <h3>{{book.author}}</h3>
       </ion-item>
-    </ion-list>
+    </ion-list>-->
+
+    <div class="list list-inset buscar">
+      <label class="item item-input">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="text" placeholder="Buscar">
+      </label>
+    </div>
+    <div style="background: #fff">
+      <div class="row">
+        <!--Swiper-->
+        <!-- Swiper -->
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-chemistry-the-central-science-13ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-biology-a-global-approach-10ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-manual-de-practicas-de-lab-de-biologia-general-2ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-solucion-de-problemas-de-fisica-ii-1ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/default-source/mexico/biologia-celular-molecular-jimenez-1ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-quimica-organica--volumen-1-9ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/cris_e-commer/pearson-ciencias-de-la-tierra-10ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-anatomia-humana-6ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/9788490353929.tmb-thumb160.jpg?Status=Master&sfvrsn=1"/>
+            </div>
+            <div class="swiper-slide"><img
+              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/fisica-universitaria-vol1-sears-13ed.tmb-thumb160.jpg?sfvrsn=3"/>
+            </div>
+          </div>
+          <!-- Add Pagination -->
+          <div class="swiper-pagination"></div>
+        </div>
+
+        <!-- Swiper JS -->
+        <script src="js/swipper.js"></script>
+
+        <!--Swiper-->
+      </div>
+    </div>
+
+    <div class="row responsive-lg">
+
+      <div class="col col-50" ng-repeat="book in books">
+        <a href="/#/app/books/detail/{{book.id}}">
+          <div class="row box-title">
+            <div class="col col-25">
+              <img src="http://www.pearsonenespanol.com/images/librariesprovider5/cris_e-commer/pearson-ciencias-de-la-tierra-10ed-ebook.tmb-thumb160.jpg?sfvrsn=1"
+                   style="max-width:100%"/>
+            </div>
+            <div class="col col-75">
+              <h3 class="book-title">{{book.title}}</h3>
+              <p class="book-area">Geografía </p>
+              <p class="book-author">{{book.author}}</p>
+              <span class="ebook-cta">Ebook </span>
+              <span class="book-cta">Libro </span>
+              <span class="more-info">Mas información </span>
+            </div>
+          </div>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="row bottom-items">
+      <div class="col-50 novedades">
+        <div class="col col-center" style="padding: 0;">
+          <img src="../img/catalogo-spot.svg" alt="">
+        </div>
+      </div>
+      <div class="col-50 best-seller">
+        <div class="col col-center" style="padding: 0;">
+          <img src="../img/bestseller-spot.svg" alt="">
+        </div>
+      </div>
+    </div>
+
+
   </ion-content>
 
 </ion-view>
