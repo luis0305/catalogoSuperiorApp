@@ -1,5 +1,9 @@
 /* Empty. Add your own CSS if you like */
 
+a{
+text-decoration:none !important;
+}
+
 .cta-pearson{
   border-color: transparent;
   background-color: #f538bb;
@@ -85,3 +89,180 @@
 .title{
   font-family: 'Playfair Display', serif !important;
 }
+
+.buscador{
+  -moz-border-radius: 25px !important;
+  -webkit-border-radius: 25px !important;
+  border-radius: 25px !important;
+  border-style: solid !important;
+  border-color: #EA067E !important;
+  border-width:1px !important;
+}
+
+h3.book-title{
+  color:#007FA3;
+  font-size: 18px;
+  margin-bottom:0;
+  padding-top:5px;
+}
+
+.book-title{
+  color:#007FA3;
+  font-size: 16px;
+}
+
+.book-area{
+  color:#505759;
+  font-size: 12px;
+}
+
+.book-author{
+  border-top:1px solid #505759;
+    color:#505759;
+}
+
+.box-title{
+  -webkit-box-shadow: 0px -1px 9px 2px rgba(194,194,194,1);
+-moz-box-shadow: 0px -1px 9px 2px rgba(194,194,194,1);
+box-shadow: 0px -1px 9px 2px rgba(194,194,194,1);
+  background:#fff;
+  max-width:95%;
+  margin: 5px auto;
+    transition: all 0.5s ease;
+
+}
+
+.box-title:hover{
+background: rgba(18, 178, 166, 0.6);
+cursor:pointer;
+}
+
+.box-title:hover>.col-75 h3{
+color: #fff;
+}
+
+.box-title:hover>.col-75 p.book-author {
+border-top: 1px solid #FFF;
+color: #fff;
+}
+
+.box-title:hover>.col-75 p.book-area{
+color: #fff;
+
+}
+
+h3.book-title:hover, p.book-area:hover, p.book-author:hover {
+color: #fff;
+}
+
+
+
+.list-books{
+      background: #f2f2f2;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  -webkit-box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
+-moz-box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
+box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
+}
+
+.ebook-cta{
+  background: #003057;
+  padding:6px 15px;
+  margin:3px;
+  color: #fff;
+   -moz-border-radius: 25px !important;
+  -webkit-border-radius: 25px !important;
+  border-radius: 25px !important;
+ font-size:12px;
+  text-align:center;
+      float: left;
+    position: relative;
+}
+
+
+.book-cta{
+  background: #003057;
+  padding:6px 15px;
+  margin:3px;
+  color: #fff;
+   -moz-border-radius: 25px !important;
+  -webkit-border-radius: 25px !important;
+  border-radius: 25px !important;
+ font-size:12px;
+  text-align:center;
+      float: left;
+    position: relative;
+}
+
+
+
+
+.more-info{
+ background: #EA067E;
+  padding:6px 15px;
+  margin:3px;
+  color: #fff;
+   -moz-border-radius: 25px !important;
+  -webkit-border-radius: 25px !important;
+  border-radius: 25px !important;
+ font-size:12px;
+  text-align:center;
+      float: left;
+    position: relative;
+}
+
+.bottom-items{
+  background: #fff;
+  padding:0px !important;
+  height:150px;
+}
+
+.novedades{
+  background: #003057;
+  padding-top:20px;
+  min-height: 250px;
+  }
+
+.best-seller{
+background: #505759;
+  padding-top:20px;
+  min-height: 250px;
+}
+
+.best-seller img, .novedades img{
+    min-height: 200px;
+    left: 0;
+    position: relative;
+    float: left;
+    height: 200px;
+}
+
+.best-seller h3, .novedades h3{
+   color:#fff;
+  text-align:center;
+}
+
+
+.image_book{
+  height: 100%;
+  width: auto;
+  display: block;
+  margin: auto;
+
+}
+
+.book-content-year, .book-content-area{
+  background: #D2DB0E !important;
+   padding:6px 15px;
+   margin:3px;
+   color: #fff;
+    -moz-border-radius: 25px !important;
+   -webkit-border-radius: 25px !important;
+   border-radius: 25px !important;
+  font-size:12px;
+   text-align:center;
+       float: left;
+     position: relative;
+     }

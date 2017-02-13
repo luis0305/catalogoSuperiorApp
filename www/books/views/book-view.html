@@ -18,60 +18,19 @@
     </ion-list>-->
 
     <div class="list list-inset buscar">
-      <label class="item item-input">
+      <label class="item item-input buscador">
         <i class="icon ion-search placeholder-icon"></i>
         <input type="text" placeholder="Buscar">
       </label>
     </div>
     <div style="background: #fff">
       <div class="row">
-        <!--Swiper-->
-        <!-- Swiper -->
-        <div class="swiper-container">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-chemistry-the-central-science-13ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-biology-a-global-approach-10ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-manual-de-practicas-de-lab-de-biologia-general-2ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-solucion-de-problemas-de-fisica-ii-1ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/default-source/mexico/biologia-celular-molecular-jimenez-1ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-quimica-organica--volumen-1-9ed-book.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/cris_e-commer/pearson-ciencias-de-la-tierra-10ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/pearson-anatomia-humana-6ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/9788490353929.tmb-thumb160.jpg?Status=Master&sfvrsn=1"/>
-            </div>
-            <div class="swiper-slide"><img
-              src="http://www.pearsonenespanol.com/images/librariesprovider5/default-album/fisica-universitaria-vol1-sears-13ed.tmb-thumb160.jpg?sfvrsn=3"/>
-            </div>
-          </div>
-          <!-- Add Pagination -->
-          <div class="swiper-pagination"></div>
-        </div>
 
-        <!-- Swiper JS -->
-        <script src="js/swipper.js"></script>
 
-        <!--Swiper-->
       </div>
     </div>
 
-    <div class="row responsive-lg">
+    <div class="list row responsive-lg">
 
       <div class="col col-50" ng-repeat="book in books">
         <a href="/#/pearson/books/detail/{{book.id}}">
