@@ -8,18 +8,23 @@
       },
       getById: function(id){
         return subcategories.filter(function(subcategory){
-          return subcategory.id == id;
+          return subcategory.Id == id;
         })[0];
       },
       getBySlider: function(showSlider){
         return subcategories.filter(function(subcategory){
-          return subcategory.showSlider == showSlider;
+          return subcategory.ShowSlider == showSlider;
         });
       },
       getBySlug: function(slug){
         return subcategories.filter(function(subcategory){
-          return subcategory.slug == slug;
+          return subcategory.Slug == slug;
         })[0];
+      },
+      getParents: function(){
+        return subcategories.filter(function(subcategory){
+          return subcategory.ParentId == null;
+        });
       }
     }
   });

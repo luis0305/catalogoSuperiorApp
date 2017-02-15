@@ -5,7 +5,7 @@
     $scope.subcategories = Subcategories.all();
   });
   appSubcategories.controller('side-menu-subcategories-controller', function($scope, Subcategories){
-      $scope.subcategories = Subcategories.all();
+      $scope.subcategories = Subcategories.getParents();
   });
   appSubcategories.controller('slider-subcategories-controller', function($scope, Subcategories){
     $scope.subcategories = Subcategories.getBySlider(true);
