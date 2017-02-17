@@ -1,6 +1,6 @@
 <ion-side-menus enable-menu-with-back-views="false">
   <ion-pane ion-side-menu-content>
-    <ion-nav-bar class="bar-stable">
+    <ion-nav-bar class="bar-stable blue">
       <ion-nav-back-button class="button-clear">
         <i class="icon ion-chevron-left"></i>
       </ion-nav-back-button>
@@ -9,14 +9,14 @@
   </ion-pane>
 
   <ion-side-menu side="left">
-    <header class="bar bar-header bar-stable">
-      <h1 class="title">Catálogo completo</h1>
+    <header class="bar bar-header bar-stable green">
+      <h1 class="title black">Catálogo completo</h1>
     </header>
     <ion-content class="has-header">
       <ion-list>
         <ion-item menu-close ng-repeat="subcategory in subcategories"
                   href="/#/pearson/{{subcategory.Slug}}/books">
-          <h2>{{subcategory.Name}}</h2>
+          <h2 class="lateral-menu-buttons">{{subcategory.Name}}</h2>
         </ion-item>
       </ion-list>
     </ion-content>

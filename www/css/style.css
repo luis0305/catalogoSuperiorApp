@@ -1,18 +1,51 @@
 /* Empty. Add your own CSS if you like */
 
+body {
+    font-family: "Open Sans",sans-serif;
+    font-weight: 400;
+    margin: 0;
+    color: #666;
+}
+
 a{
 text-decoration:none !important;
 }
 
+ .green{
+    background: #D2DB0E !important;
+  }
+
+  .blue{
+    background: #003057 !important;
+  }
+
+   .gray{
+   background: #84BD00 important;
+   }
+
+  .white{
+  color: #ffffff !important;
+  }
+
+  .lateral-menu-buttons{
+    font-family: 'Playfair Display', serif !important;
+    font-size: 13px !important;
+
+  }
+
 .cta-pearson{
   border-color: transparent;
-  background-color: #f538bb;
+  background-color: #EA067E;
   color: #fff;
   border-radius: 25px;
+  font-size:14px;
+  padding: 0 10px;
+      min-height: 35px;
+          line-height: 35px;
 }
 
 .cta-pearson:hover {
-  color: #f538bb;
+  color: #EA067E;
   background-color: #fff;
   text-decoration: none;
 }
@@ -33,7 +66,7 @@ text-decoration:none !important;
 }
 
 .mision{
-  background: #ccebe6;
+  background: #D4EAE4;
 }
 
 .administracion_general {
@@ -76,14 +109,14 @@ text-decoration:none !important;
 }
 
 .swiper-pagination-bullet {
-  background: #f538bb !important;
+  background: #EA067E !important;
   border: 1px solid #FFF;
   width: 15px;
   height: 15px;
 }
 
 .bar-green{
-  background: #d1db0d;
+  background: #D2DB0E;
 }
 
 .title{
@@ -99,7 +132,7 @@ text-decoration:none !important;
   border-width:1px !important;
 }
 
-h3.book-title{
+h3.book-title, .detail-book-title{
   color:#007FA3;
   font-size: 18px;
   margin-bottom:0;
@@ -114,11 +147,13 @@ h3.book-title{
 .book-area{
   color:#505759;
   font-size: 12px;
+      margin: 0 0 4px;
 }
 
-.book-author{
+.book-author, .detail-book-author {
   border-top:1px solid #505759;
     color:#505759;
+        font-size: 10px;
 }
 
 .box-title{
@@ -133,7 +168,7 @@ box-shadow: 0px -1px 9px 2px rgba(194,194,194,1);
 }
 
 .box-title:hover{
-background: rgba(18, 178, 166, 0.6);
+background: #EA067E;
 cursor:pointer;
 }
 
@@ -148,7 +183,11 @@ color: #fff;
 
 .box-title:hover>.col-75 p.book-area{
 color: #fff;
+}
 
+.box-title:hover>.col-75 span.more-info{
+background: #fff;
+color: #EA067E;
 }
 
 h3.book-title:hover, p.book-area:hover, p.book-author:hover {
@@ -169,7 +208,7 @@ box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
 
 .ebook-cta{
   background: #003057;
-  padding:6px 15px;
+  padding:6px 10px;
   margin:3px;
   color: #fff;
    -moz-border-radius: 25px !important;
@@ -184,7 +223,7 @@ box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
 
 .book-cta{
   background: #003057;
-  padding:6px 15px;
+  padding:6px 10px;
   margin:3px;
   color: #fff;
    -moz-border-radius: 25px !important;
@@ -201,7 +240,7 @@ box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
 
 .more-info{
  background: #EA067E;
-  padding:6px 15px;
+  padding:6px 10px;
   margin:3px;
   color: #fff;
    -moz-border-radius: 25px !important;
@@ -223,12 +262,24 @@ box-shadow: inset 0px 3px 5px 0px rgba(87,87,87,0.6);
   background: #003057;
   padding-top:20px;
   min-height: 250px;
+      transition: all 0.5s ease;
+
   }
 
 .best-seller{
 background: #505759;
   padding-top:20px;
   min-height: 250px;
+      transition: all 0.5s ease;
+
+}
+
+.novedades:hover{
+  background: #02213b;
+  }
+
+.best-seller:hover{
+background: #2a2f31;
 }
 
 .best-seller img, .novedades img{
@@ -254,8 +305,8 @@ background: #505759;
 }
 
 .book-content-year, .book-content-area{
-  background: #D2DB0E !important;
-   padding:6px 15px;
+  background: #005A70 !important;
+   padding:6px 10px;
    margin:3px;
    color: #fff;
     -moz-border-radius: 25px !important;
@@ -266,3 +317,18 @@ background: #505759;
        float: left;
      position: relative;
      }
+
+.bar-stable .button.button-icon, .bar.bar-stable .title, .button .icon {
+     color: #fff !important;
+ }
+
+ h1.black{
+ color:#444 !important;
+ }
+
+
+
+.title-detail{
+font-family: 'Playfair Display', serif !important;
+    font-size: 15px !important;
+}
