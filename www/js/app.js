@@ -1,7 +1,9 @@
 (function(){
   var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.subcategories']);
 
-  app.config(function($stateProvider, $urlRouterProvider){
+  app.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
+
+    $ionicConfigProvider.backButton.previousTitleText(false).text('');
 
     $stateProvider.state('home',{
       url: "/home",
@@ -15,16 +17,6 @@
       templateUrl: 'subcategories/views/side-menu-subcategories.html',
       controller: 'side-menu-subcategories-controller'
     });
-
-    /*$stateProvider.state('pearson.subcategories', {
-      url: '/subcategories',
-      views: {
-        'menu-content' :{
-          templateUrl: 'subcategories/views/subcategory-view.html',
-          controller: 'subcategories-controller'
-        }
-      }
-    });*/
 
     $stateProvider.state('pearson.books', {
       url: '/:slug/books',
