@@ -7,13 +7,13 @@
         <div class=" ">
           <div class="row responsive-md">
             <div class="col col-80">
-              <h3 class="detail-book-title">{{book.title}}</h3>
-              <p class="detail-book-author">{{book.author}}</p>
+              <h3 class="detail-book-title">{{book.Title}}</h3>
+              <p class="detail-book-author" ng-repeat="author in book.Authors" >{{author.Name}}</p>
             </div>
 
             <div class="col col-20 text-right">
-              <span class="book-content-year">2016</span>
-              <span class="book-content-area">Geografía </span>
+              <span class="book-content-year">{{book.Year}}</span>
+              <span class="book-content-area">{{book.Subcategory.Name}} </span>
             </div>
           </div>
           <div class="row">
@@ -21,11 +21,10 @@
 
             </div>
             <div class="col">
-              <img class="image_book" ng-src="http://www.pearsonenespanol.com/images/librariesprovider5/cris_e-commer/pearson-ciencias-de-la-tierra-10ed-ebook.tmb-thumb160.jpg?sfvrsn=1"/>
+              <img class="image_book" ng-src="{{book.ImageSource}}"/>
             </div>
             <div class="col col-bottom">
-              <span class="ebook-cta">Ebook</span>
-              <span class="book-cta">Libro</span>
+              <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
             </div>
 
           </div>
@@ -43,23 +42,23 @@
         </ul>
 
         <div id="Introduction" class="tabcontent">
-          <h3 class="title-detail">Introducción</h3>
-          <p>Get introducción</p>
+          <h3 class="title-detail"></h3>
+          <p>{{book.Description}}</p>
         </div>
 
         <div id="Content" class="tabcontent">
           <h3 class="title-detail">Contenido</h3>
-          <p>Get content</p>
+          <p></p>
         </div>
 
         <div id="Author" class="tabcontent">
           <h3 class="title-detail">Autor</h3>
-          <p>Get author</p>
+          <p></p>
         </div>
 
         <div id="Request" class="tabcontent">
           <h3 class="title-detail">Solicitar</h3>
-          <p>Get book</p>
+          <p></p>
         </div>
 
       </div>

@@ -8,12 +8,12 @@
       },
       getById: function(id){
         return books.filter(function(book){
-          return book.id == id;
+          return book.Id == id;
         })[0];
       },
       getBySlug: function(slug){
         return books.filter(function(book){
-          return book.subcategory.slug == slug;
+          return book.Subcategory.Slug == slug;
         });
       }
     }
