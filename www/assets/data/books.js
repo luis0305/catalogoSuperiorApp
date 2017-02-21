@@ -4,7 +4,7 @@ books = [
             "Title": "Matemáticas financieras",
             "Edition": "5ª edición",
             "Description": "Fundamentos de matemáticas. Series y sucesiones. Interés y descuento simple. Interés compuesto. Anualidades. Amortización de créditos. Constitución de fondos. Depreciación de activos. Acciones bonos y obligaciones. Anualidades contingentes.",
-            "ImageSource": "../img/portadas/",
+            "ImageSource": "../img/portadas/my_mathlab_matematicas_financieras.png",
             "Authors": [
               {
                 "Id": 1,
@@ -165,7 +165,7 @@ books = [
             "Title": "Matemáticas universitarias introductorias con nivelador",
             "Edition": "",
             "Description": "Álgebra. Teoría de ecuaciones y desigualdades. Desigualdades. Funciones trigonométricas. Geometría analítica. Funciones. Cálculo. Principios de álgebra lineal. Principios de conteo. Probabilidad.",
-            "ImageSource": "../img/portadas/",
+            "ImageSource": "../img/portadas/mymathlab_universitarias.png",
             "Authors": [
               {
                 "Id": 6,
@@ -558,7 +558,7 @@ books = [
             "Title": "Economía",
             "Edition": "",
             "Description": "Qué es la economía. El problema económico. Oferta y demanda. Elasticidad. Eficiencia y equidad. Acciones gubernamentales en los mercados. Los mercados globales en acción. Utilidad y demanda. Posibilidades preferencias y elecciones. Organización de la producción. Producción y costos. Competencia perfecta. Monopolio. Competencia monopolística. Oligopolio. Elecciones públicas y bienes públicos. Externalidades y el medio ambiente. Mercados de factores de producción. Desigualdad económica. Incertidumbre e información. Medición del PIB y el crecimiento económico. Seguimiento del nivel de los empleos y la inflación. Crecimiento económico. Finanzas",
-            "ImageSource": "../img/portadas/ nivel de precios e inflación. Tipo de cambio y balanza de pagos. Oferta agregada y demanda agregada. Los multiplicadores del gasto. Inflación",
+            "ImageSource": "../img/portadas/etext_economia.png",
             "Authors": [
               {
                 "Id": 26,
@@ -1213,7 +1213,7 @@ books = [
             "Title": "Sears y Zemansky Física universitaria con física moderna",
             "Edition": "",
             "Description": "Volumen 1 Mecánica Unidades",
-            "ImageSource": "../img/portadas/ impulso y colisiones. Rotación de cuerpos rígidos. Dinámica del movimiento de rotación. Equilibrio y elasticidad. Mecánica de fluidos. Gravitación. Movimiento periódico. Onda/Acústica Ondas mecánicas. Sonido y oído. Termodinámica Temperatura y calor. Propiedades térmicas de la materia. Primera ley de la termodinámica. Segunda ley de la termodinámica. Apéndices.",
+            "ImageSource": "../img/portadas/mastering_fisica_universitaria.png",
             "Authors": [
               {
                 "Id": 54,

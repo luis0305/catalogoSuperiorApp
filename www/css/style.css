@@ -137,6 +137,12 @@ h3.book-title, .detail-book-title{
   font-size: 18px;
   margin-bottom:0;
   padding-top:5px;
+  white-space: normal !important;
+}
+
+.item p {
+    white-space: normal;
+    font-size: 10px;
 }
 
 .book-title{
@@ -297,7 +303,7 @@ background: #2a2f31;
 
 
 .image_book{
-  height: 100%;
+  height: auto;
   width: auto;
   display: block;
   margin: auto;
