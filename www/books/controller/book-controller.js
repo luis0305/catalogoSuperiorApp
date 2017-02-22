@@ -11,7 +11,8 @@
   booksController.controller('detail-controller', function($scope, $state, Books, Subcategories){
     $scope.id = $state.params.id;
     $scope.book = Books.getById($scope.id);
-    $scope.subcategory = $scope.book.subcategory;
+    var slug = $state.params.slug;
+    $scope.subcategory = Subcategories.getBySlug(slug);
   });
 
 })();
