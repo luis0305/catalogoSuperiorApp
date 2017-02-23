@@ -1,5 +1,6 @@
 (function(){
-  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.subcategories']);
+  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.subcategories',
+    'starter.login.controller']);
 
   app.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
 
@@ -38,7 +39,13 @@
       }
     });
 
-    $urlRouterProvider.otherwise('/home');
+    $stateProvider.state('signup',{
+      url: "/signup",
+      templateUrl: 'home/views/sign-up-view.html',
+      controller: 'login-controller'
+    });
+
+    $urlRouterProvider.otherwise('/signup');
 
   });
 
