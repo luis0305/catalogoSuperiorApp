@@ -1,6 +1,6 @@
 (function(){
   var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.subcategories',
-    'starter.login.controller']);
+    'starter.signup.controller']);
 
   app.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
 
@@ -41,8 +41,8 @@
 
     $stateProvider.state('signup',{
       url: "/signup",
-      templateUrl: 'home/views/sign-up-view.html',
-      controller: 'login-controller'
+      templateUrl: 'home/views/signup-view.html',
+      controller: 'signup-controller'
     });
 
     $urlRouterProvider.otherwise('/signup');
