@@ -4,7 +4,7 @@ books = [
             "Title": "Matemáticas financieras",
             "Edition": "5ª edición",
             "Description": "Fundamentos de matemáticas. Series y sucesiones. Interés y descuento simple. Interés compuesto. Anualidades. Amortización de créditos. Constitución de fondos. Depreciación de activos. Acciones bonos y obligaciones. Anualidades contingentes.",
-            "ImageSource": "../img/portadas/my_mathlab_matematicas_financieras.png",
+            "ImageSource": "img/portadas/my_mathlab_matematicas_financieras.png",
             "Authors": [
               {
                 "Id": 1,
@@ -45,7 +45,7 @@ books = [
             "Title": "Álgebra lineal y sus aplicaciones",
             "Edition": "",
             "Description": "Ecuaciones lineales en álgebra lineal. Álgebra de matrices. Determinantes. Espacios vectoriales. Valores propios y vectores propios. Ortogonalidad y mínimos cuadrados. Matrices simétricas y formas cuadráticas. Geometría de los espacios vectoriales. Optimización (disponible en inglés en el sitio web del libro). Cadenas de Markov de estado finito (disponible en inglés en el sitio web del libro). Mercado meta. Estudiantes de los cursos de álgebra lineal para ingenierías y carreras del área físicomatemáticas",
-            "ImageSource": "../img/portadas/mymathlab_algebra_lineal.png",
+            "ImageSource": "img/portadas/mymathlab_algebra_lineal.png",
             "Authors": [
               {
                 "Id": 2,
@@ -100,7 +100,7 @@ books = [
             "Title": "Matemáticas para administración y economía",
             "Edition": "",
             "Description": "Álgebra. Teoría de ecuaciones y desigualdades. Desigualdades. Funciones trigonométricas. Geometría analítica. Funciones. Cálculo. Principios del álgebra lineal. Principios de conteo. Probabilidad. Mercado meta. Estudiantes de negocios administración y economía de primeros semestres.",
-            "ImageSource": "../img/portadas/mymathlab_matematicas_para_administracion_y_economia.png",
+            "ImageSource": "img/portadas/mymathlab_matematicas_para_administracion_y_economia.png",
             "Authors": [
               {
                 "Id": 3,
@@ -165,7 +165,7 @@ books = [
             "Title": "Matemáticas universitarias introductorias con nivelador",
             "Edition": "",
             "Description": "Álgebra. Teoría de ecuaciones y desigualdades. Desigualdades. Funciones trigonométricas. Geometría analítica. Funciones. Cálculo. Principios de álgebra lineal. Principios de conteo. Probabilidad.",
-            "ImageSource": "../img/portadas/mymathlab_universitarias.png",
+            "ImageSource": "img/portadas/mymathlab_universitarias.png",
             "Authors": [
               {
                 "Id": 6,
@@ -234,7 +234,7 @@ books = [
             "Title": "Estadística",
             "Edition": "",
             "Description": "Introducción a la estadística. Resumen y gráficas de datos. Estadísticos para describir explorar y comparar datos. Probabilidad.Distribuciones de probabilidad discreta. Distribuciones de probabilidad normal. Estimaciones y tamaño de la muestra. Prueba de hipótesis. Inferencias a partir de dos muestras. Correlación y regresión. Bondad de ajuste y tablas de contingencia. Análisis de varianza. Estadística no paramétrica. Control estadístico de procesos.",
-            "ImageSource": "../img/portadas/mymathlab_estadistica.png",
+            "ImageSource": "img/portadas/mymathlab_estadistica.png",
             "Authors": [
               {
                 "Id": 11,
@@ -283,7 +283,7 @@ books = [
             "Title": "Matemática: razonamiento y aplicaciones",
             "Edition": "",
             "Description": "El arte de resolver problemas. Conceptos básicos de la teoría de conjuntos. Introducción a la lógica. Teoría de números. Los números reales y sus representaciones. Conceptos básicos de álgebra. Gráficas funciones sistemas de ecuaciones y desigualdades. Métodos de conteo. Probabilidad. Estadística. Administración de finanzas personales.",
-            "ImageSource": "../img/portadas/mymathlab_razonamiento_y_aplicaciones.png",
+            "ImageSource": "img/portadas/mymathlab_razonamiento_y_aplicaciones.png",
             "Authors": [
               {
                 "Id": 12,
@@ -336,7 +336,7 @@ books = [
             "Title": "Cálculo Una Variable",
             "Edition": "13 edición",
             "Description": "Funciones. Límites y continuidad. Derivadas. Aplicaciones de las derivadas. Integrales. Aplicaciones de las integrales definidas. Funciones trascendentes. Técnicas de integración. Ecuaciones diferenciales de primer orden. Secuencias infinitas y series. Ecuaciones paramétricas y coordenadas polares.",
-            "ImageSource": "../img/portadas/mymathlab_calculo_una_variable.png",
+            "ImageSource": "img/portadas/mymathlab_calculo_una_variable.png",
             "Authors": [
               {
                 "Id": 15,
@@ -406,7 +406,7 @@ books = [
             "Title": "Cálculo Varias Variables",
             "Edition": "13 edición",
             "Description": "Ecuaciones paramétricas y coordenadas polares. Los vectores y la geometría del espacio. Funciones con valores vectoriales y movimiento en el espacio. Derivadas parciales. Integrales múltiples. Integrales y campos vectoriales. Ecuaciones diferenciales de segundo orden.",
-            "ImageSource": "../img/portadas/mymathlab_calculo_varias_variables.png",
+            "ImageSource": "img/portadas/mymathlab_calculo_varias_variables.png",
             "Authors": [
               {
                 "Id": 19,
@@ -457,7 +457,7 @@ books = [
             "Title": "Manual de diagnósticos de enfermería",
             "Edition": "",
             "Description": "Sección I. Introducción. Sección II. Diagnósticos de enfermería con resultados e intervenciones. Sección III. Guía de condiciones clínicas para los diagnósticos de enfermería y problemas de colaboración. Apéndices. Bibliografía.",
-            "ImageSource": "../img/portadas/etext_manual_de_diagnosticos_de_enfermeria.png",
+            "ImageSource": "img/portadas/etext_manual_de_diagnosticos_de_enfermeria.png",
             "Authors": [
               {
                 "Id": 23,
@@ -505,7 +505,7 @@ books = [
             "Title": "Matemáticas para diseño",
             "Edition": "1a edición",
             "Description": "Introducción. Funciones. Aproximación y modelado. La derivada de una función. Funciones trascendentes. Integrales. Razón áurea. Geometría fractal. Anexos. Soluciones a problemas y ejercicios. Glosario.",
-            "ImageSource": "../img/portadas/etext_Matematicas_para_diseno.png",
+            "ImageSource": "img/portadas/etext_Matematicas_para_diseno.png",
             "Authors": [
               {
                 "Id": 24,
@@ -558,7 +558,7 @@ books = [
             "Title": "Economía",
             "Edition": "",
             "Description": "Qué es la economía. El problema económico. Oferta y demanda. Elasticidad. Eficiencia y equidad. Acciones gubernamentales en los mercados. Los mercados globales en acción. Utilidad y demanda. Posibilidades preferencias y elecciones. Organización de la producción. Producción y costos. Competencia perfecta. Monopolio. Competencia monopolística. Oligopolio. Elecciones públicas y bienes públicos. Externalidades y el medio ambiente. Mercados de factores de producción. Desigualdad económica. Incertidumbre e información. Medición del PIB y el crecimiento económico. Seguimiento del nivel de los empleos y la inflación. Crecimiento económico. Finanzas",
-            "ImageSource": "../img/portadas/etext_economia.png",
+            "ImageSource": "img/portadas/etext_economia.png",
             "Authors": [
               {
                 "Id": 26,
@@ -601,7 +601,7 @@ books = [
             "Title": "Sears y Zemansky Física universitaria con física moderna",
             "Edition": "",
             "Description": "Mecánica Unidades cantidades físicas y vectores. Movimiento rectilíneo. Movimiento en dos o en tres dimensiones. Leyes del movimiento de Newton. Aplicación de las Leyes de Newton. Trabajo y energía cinética. Energía potencial y conservación de la energía. Momento lineal impulso y colisiones. Rotación de cuerpos rígidos. Dinámica del movimiento de rotación. Equilibrio y elasticidad. Mecánica de fluidos. Gravitación. Movimiento periódico. Ondas/Acústicas Ondas mecánicas. Sonido y oído. Termodinámica. Temperatura y calor. Propiedades térmicas de la materia. Primera ley de la termodinámica. Segunda ley de la termodinámica. Apéndices.",
-            "ImageSource": "../img/portadas/etext_fisica_universitaria.png",
+            "ImageSource": "img/portadas/etext_fisica_universitaria.png",
             "Authors": [
               {
                 "Id": 27,
@@ -649,7 +649,7 @@ books = [
             "Title": "Cálculo diferencial",
             "Edition": "",
             "Description": "El concepto de función y sus diferentes representaciones. Funciones lineales y cuadráticas. Operaciones con funciones. Traslaciones y cambios de escala. Biblioteca de funciones. Funciones trigonométricas. Función inversa. Funciones trigonométricas inversas. Funciones exponenciales. Funciones logarítmicas. Concepto de infinito. Cálculo de límites. Cálculo de asíntotas. Continuidad. El concepto de derivada. Reglas de derivación. Derivadas de funciones trascendentes. Derivación implícita y logarítmica. Interpretación geométrica de la primera derivada. Interpretación geométrica de la segunda derivada. Extremos absolutos. Aplicaciones de las rectas tangente y normal. Razones de cambio relacionadas. Optimización. Graficación.",
-            "ImageSource": "../img/portadas/etext_calculo_diferencia.png",
+            "ImageSource": "img/portadas/etext_calculo_diferencia.png",
             "Authors": [
               {
                 "Id": 29,
@@ -702,7 +702,7 @@ books = [
             "Title": "Química Un enfoque molecular",
             "Edition": "",
             "Description": "Antes de empezar. Cantidades y reacciones químicas acuosas. Gases. Termoquímica. Propiedades periódicas de los elementos. Enlace químico I: estructura de Lewis. Enlace químico II: formas moleculares teoría del enlace de valencia. Líquidos sólidos y fuerzas intermoleculares. Soluciones. Cinética química. Equilibrio químico. Ácidos y bases. Energía libre y termodinámica. Electroquímica. Respuestas a los ejercicios seleccionados. Respuestas a los ejemplos de cada capítulo. Apéndices.",
-            "ImageSource": "../img/portadas/etext_quimica_un_enfoque_molecular.png",
+            "ImageSource": "img/portadas/etext_quimica_un_enfoque_molecular.png",
             "Authors": [
               {
                 "Id": 32,
@@ -745,7 +745,7 @@ books = [
             "Title": "Comportamiento organizacional",
             "Edition": "",
             "Description": "¿Qué es el comportamiento organizacional? La diversidad en las organizaciones. Las actividades y la satisfacción en el trabajo. Las emociones y los estados de ánimo. La personalidad y los valores. La percepción y la toma de decisiones individual. Conceptos de motivación. Motivación: de los conceptos a las aplicaciones. Fundamentos del comportamiento de los grupos. Los equipos de trabajo. Comunicación. Liderazgo. Poder y política. Conflicto y negociación. Fundamentos de la estructura organizacional. Cultura organizacional. Políticas y prácticas de recursos humanos. Cambio organizacional y manejo del estrés.",
-            "ImageSource": "../img/portadas/my_lab_espanol_comportamiento_organizacional.png",
+            "ImageSource": "img/portadas/my_lab_espanol_comportamiento_organizacional.png",
             "Authors": [
               {
                 "Id": 34,
@@ -799,7 +799,7 @@ books = [
             "Title": "Marketing",
             "Edition": "",
             "Description": "Marketing. Creación y captación de valor del cliente. Empresa y estrategia de marketing. Asociaciones para establecer relaciones con el cliente. Análisis del entorno de marketing. Administración de la información de marketing para conocer a los clientes. Mercados de consumo y comportamiento de compra de los consumidores. Mercados de negocios y comportamiento de compra de negocios. Estrategia de marketing impulsada por el cliente: creación de valor para los clientes meta. Productos servicios y marcas. Creación de valor para el cliente. Desarrollo de nuevos productos y estrategias del ciclo de vida de los productos. Comprensión de la fijación de precios y obtención del valor del cliente. Estrategias de fijación de precios. Canales de marketing: transferencia de valor para el cliente. Venta al menudeo y al mayoreo. Comunicación de valor para el cliente: estrategia de comunicación de marketing integrada.",
-            "ImageSource": "../img/portadas/my_lab_espanol_marketing.png",
+            "ImageSource": "img/portadas/my_lab_espanol_marketing.png",
             "Authors": [
               {
                 "Id": 36,
@@ -853,7 +853,7 @@ books = [
             "Title": "Recursos humanos Versión Latinoamérica",
             "Edition": "",
             "Description": "La administración de recursos humanos en la actualidad. Administración de la igualdad de oportunidades y de la diversidad. Planeación y reclutamiento de personal. Las pruebas y la selección de empleados. Capacitación y desarrollo de la fuerza laboral. Administración y evaluación del desempeño. Remuneración de los empleados. Ética y trato justo en la administración de recursos humanos. Administración de las relaciones laborales y la negociación colectiva. Protección de la seguridad y la salud.",
-            "ImageSource": "../img/portadas/my_lab_espanol_recursos_humanos.png",
+            "ImageSource": "img/portadas/my_lab_espanol_recursos_humanos.png",
             "Authors": [
               {
                 "Id": 38,
@@ -907,7 +907,7 @@ books = [
             "Title": "Administración de operaciones",
             "Edition": "",
             "Description": "Parte 1. Creación de valor mediante la administración de operaciones Uso de las operaciones para competir. Suplemento A. Toma de decisiones. Administración de proyectos. Parte 2. Administración de procesos Estrategia de procesos. Análisis de procesos. Calidad y desempeño. Planeación de la calidad. Suplemento B. Líneas de espera. Administración de restricciones. Sistemas esbeltos. Parte 3. Administración de la cadena de suministro Administración del inventario de la cadena de suministro. Suplemento C. Modelos especiales de inventarios. Diseño de la cadena de suministro. Decisiones de localización en la cadena de suministro. Integración de la cadena de suministro. Sustentabilidad de la cadena de suministro y logística humanitaria. Pronósticos. Planeación y programación de las operaciones. Planeación de los recursos. Suplemento D. Programación lineal.",
-            "ImageSource": "../img/portadas/my_lab_espanol_administracion_de_operaciones.png",
+            "ImageSource": "img/portadas/my_lab_espanol_administracion_de_operaciones.png",
             "Authors": [
               {
                 "Id": 40,
@@ -966,7 +966,7 @@ books = [
             "Title": "Administración",
             "Edition": "",
             "Description": "I. Introducción a la administración La administración y las organizaciones. El contexto administrativo: restricciones y desafíos. II. Problemas administrativos de integración La administración en el entorno global. Administración de la diversidad. III. Cambio y toma de decisiones Administración de la responsabilidad social y la ética. Los gerentes como tomadores de decisiones. Manejo del cambio y la innovación. IV. Planeación y control Fundamentos de la planeación. Administración estratégica. Controles administrativos. Módulo de técnicas de planeación y control. V. Organización Diseño organizacional básico. Diseño organizacional a la medida. Administración de los recursos humanos. Administración de equipos. VI. Liderazgo Comprensión del comportamiento individual. Los gerentes y la comunicación. Motivar a los empleados. Los gerentes como líderes.",
-            "ImageSource": "../img/portadas/my_lab_espanol_administracion.png",
+            "ImageSource": "img/portadas/my_lab_espanol_administracion.png",
             "Authors": [
               {
                 "Id": 43,
@@ -1020,7 +1020,7 @@ books = [
             "Title": "Sistemas de información gerencial",
             "Edition": "",
             "Description": "Los sistemas de información en los negocios globales contemporáneos. Comercio electrónico global y colaboración. Sistemas de información organizaciones y estrategia. Aspectos éticos y sociales en los sistemas de información. Infraestructura de TI y tecnologías emergentes. Fundamentos de inteligencia de negocios: bases de datos y administración de la información. Telecomunicaciones Internet y tecnología inalámbrica. Seguridad en los sistemas de información. Obtención de la excelencia operacional e intimidad con el cliente: aplicaciones empresariales. Comercio electrónico: mercados digitales productos digitales. Administración del conocimiento. Mejora en la toma de decisiones. Creación de sistemas de información. Administración de proyectos.",
-            "ImageSource": "../img/portadas/my_lab_espanol_sistemas_de_informacion_gerencial.png",
+            "ImageSource": "img/portadas/my_lab_espanol_sistemas_de_informacion_gerencial.png",
             "Authors": [
               {
                 "Id": 47,
@@ -1074,7 +1074,7 @@ books = [
             "Title": "Psicología educativa",
             "Edition": "",
             "Description": "Parte 1. Estudiantes Aprendizaje enseñanza y psicología educativa. Desarrollo cognoscitivo y lenguaje. Desarrollo personal social y moral. Diferencias entre los aprendices y necesidades de aprendizaje. Cultura y diversidad. Parte 2. Aprendizaje y motivación Perspectivas conductistas del aprendizaje. Perspectivas cognoscitivas del aprendizaje. Procesos cognoscitivos complejos. Ciencias del aprendizaje y constructivismo. Perspectivas cognoscitivas sociales del aprendizaje y la motivación. Motivación para el aprendizaje y la enseñanza. Parte 3. Enseñanza y evaluación Creación de ambientes de aprendizaje. Enseñanza para cada estudiante. Evaluación en el aula asignación de calificaciones y pruebas.",
-            "ImageSource": "../img/portadas/my_lab_espanol_psicologia_educativa.png",
+            "ImageSource": "img/portadas/my_lab_espanol_psicologia_educativa.png",
             "Authors": [
               {
                 "Id": 49,
@@ -1110,7 +1110,7 @@ books = [
             "Title": "Psicología",
             "Edition": "",
             "Description": "La ciencia de la psicología. Las bases biológicas de la conducta. Sensación y percepción. Estados de conciencia. Aprendizaje. Memoria. Cognición y capacidades mentales. Motivación y emoción. Desarrollo del ciclo vital. Personalidad. Estrés y psicología de la salud. Trastornos psicológicos. Terapias. Psicología social. Componentes especiales. Más de 65 actividades ordenadas por capítulo entre: Videos. Simuladores. Actividades interactivas. Actividades de desarrollo. Evaluaciones. Glosario interactivo.",
-            "ImageSource": "../img/portadas/my_lab_espanol_psicologia.png",
+            "ImageSource": "img/portadas/my_lab_espanol_psicologia.png",
             "Authors": [
               {
                 "Id": 50,
@@ -1164,7 +1164,7 @@ books = [
             "Title": "Estrategias docentes con tecnologías",
             "Edition": "",
             "Description": "Fundamentos para el aprovechamiento. docente de las tecnologías de la información y la comunicación: un modelo. Características de los ambientes y herramientas digitales: revisión y tipología. La comunicación y la interactividad como base para el diseño de actividades de enseñanza y aprendizaje. Modalidades interactivas y actividades mediadas por herramientas tecnológicas. Un modelo de diseño instruccional con apoyo de tecnologías: revisión y propuesta. Aplicación de cuatro familias de estrategias de enseñanza y aprendizaje con tecnologías. Una mirada al estudiante: habilidades y estrategias para la autonomía en entornos de aprendizaje mediados por tecnologías. Conclusiones y panorama del uso de tecnologías para la enseñanza y el aprendizaje.",
-            "ImageSource": "../img/portadas/my_lab_espanol_estrategias_docentes.png",
+            "ImageSource": "img/portadas/my_lab_espanol_estrategias_docentes.png",
             "Authors": [
               {
                 "Id": 52,
@@ -1213,7 +1213,7 @@ books = [
             "Title": "Sears y Zemansky Física universitaria con física moderna",
             "Edition": "",
             "Description": "Volumen 1 Mecánica Unidades",
-            "ImageSource": "../img/portadas/mastering_fisica_universitaria.png",
+            "ImageSource": "img/portadas/mastering_fisica_universitaria.png",
             "Authors": [
               {
                 "Id": 54,

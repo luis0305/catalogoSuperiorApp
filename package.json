@@ -1,7 +1,7 @@
 {
-  "name": "catalogosuperiorapp",
+  "name": "Pearson Collage",
   "version": "1.1.1",
-  "description": "catalogoSuperiorApp: An Ionic project",
+  "description": "Pearson Collage",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
@@ -22,11 +22,5 @@
     "cordova-plugin-splashscreen",
     "ionic-plugin-keyboard"
   ],
-  "cordovaPlatforms": [
-    {
-      "platform": "ios",
-      "version": "",
-      "locator": "ios"
-    }
-  ]
+  "cordovaPlatforms": []
 }
