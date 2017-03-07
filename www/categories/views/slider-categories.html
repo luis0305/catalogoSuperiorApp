@@ -30,12 +30,12 @@
         </div>
       </ion-slide-page>
 
-      <ion-slide-page ng-repeat="subcategory in subcategories">
-        <div class="box {{subcategory.StyleName}}">
-          <img ng-src="../img/{{subcategory.ImageSource}}" alt="" class="svg_image_slide">
+      <ion-slide-page ng-repeat="category in categories">
+        <div class="box {{category.StyleName}}">
+          <img ng-src="../img/{{category.ImageSource}}" alt="" class="svg_image_slide">
           <div class="row">
             <div class="col col-67 col-offset-10">
-              <a href="/#/pearson/{{subcategory.Slug}}/books">
+              <a href="/#/pearson/{{category.Slug}}/books">
                 <button class="button cta-pearson">
                   Ver catálogo
                 </button>

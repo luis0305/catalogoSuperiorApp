@@ -1,4 +1,4 @@
-subcategories = [
+ subcategories = [
  {
    "Id": 1,
    "ParentId": null,
@@ -611,4 +611,4 @@ subcategories = [
    "ImageSource": null,
    "ShowSlider": false
  }
-]
+];
