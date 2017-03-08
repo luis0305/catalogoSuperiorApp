@@ -7,24 +7,26 @@
           <div class="row responsive-md">
             <div class="col col-50">
 
+
+
               <h3 class="white text-center">¡Registrate ahora!</h3>
 
-              <p class="white text-center">Obtén beneficios, promociones especiales, descuentos por estar registrado y mucho más del Pearson  </p>
+              <p class="white text-center">Al registrarte obtienes beneficios, promociones especiales, descuentos, asistencia a eventos y mucho más Pearson  </p>
 
               <form name="signupForm" novalidate="" ng-submit="signUp(signupForm)" role="form">
                 <div class="list">
                   <label class="item item-input item-float-label">
                     <span class="input-label input-label-registro">Nombre:</span>
                     <input type="text" ng-model="user.name" name="name" required>
-            <span style="color:red" ng-show="signupForm.name.$touched && signupForm.name.$invalid">
-              <span ng-show="signupForm.name.$error.required">El nombre es obligatorio</span>
+            <span class="error_input" ng-show="signupForm.name.$touched && signupForm.name.$invalid">
+              <span ng-show="signupForm.name.$error.required">Obligatorio</span>
             </span>
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Correo:</span>
                     <input type="email" ng-model="user.email" name="email" required>
-            <span style="color:red" ng-show="signupForm.email.$touched && signupForm.email.$invalid">
-              <span ng-show="signupForm.email.$error.required || signupForm.email.$invalid">El correo es obligatorio</span>
+            <span class="error_input" ng-show="signupForm.email.$touched && signupForm.email.$invalid">
+              <span ng-show="signupForm.email.$error.required || signupForm.email.$invalid">Obligatorio</span>
             </span>
                   </label>
                   <label class="item item-input">
