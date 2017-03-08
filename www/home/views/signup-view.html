@@ -1,40 +1,59 @@
 <ion-view title="Registro">
-  <ion-conten scroll="false">
-    <form name="signupForm" novalidate="" ng-submit="signUp(signupForm)" role="form">
-      <div class="list">
-        <label class="item item-input">
-          <span class="input-label">Nombre</span>
-          <input type="text" ng-model="user.name" name="name" required>
-          <span style="color:red" ng-show="signupForm.name.$touched && signupForm.name.$invalid">
-            <span ng-show="signupForm.name.$error.required">El nombre es obligatorio</span>
-          </span>
-        </label>
-        <label class="item item-input">
-          <span class="input-label" >Correo</span>
-          <input type="email" ng-model="user.email" name="email" required>
-          <span style="color:red" ng-show="signupForm.email.$touched && signupForm.email.$invalid">
-            <span ng-show="signupForm.email.$error.required || signupForm.email.$invalid">El correo es obligatorio</span>
-          </span>
-        </label>
-        <label class="item item-input">
-          <span class="input-label" >Universidad</span>
-          <input type="text" ng-model="user.university" name="university">
-        </label>
-        <label class="item item-input item-select">
-          <span class="input-label">Localidad</span>
-          <select>
-            <option>Ciudad de México</option>
-            <option>Estado de México</option>
-            <option>Jalisco</option>
-            <option>Nuevo León</option>
-          </select>
-        </label>
+  <ion-content scroll="false">
+
+    <div class = "row responsive-md blue" >
+      <div class="col" >
+        <div class=" ">
+          <div class="row responsive-md">
+            <div class="col col-50">
+
+              <h3 class="white text-center">¡Registrate ahora!</h3>
+
+              <p class="white text-center">Obtén beneficios, promociones especiales, descuentos por estar registrado y mucho más del Pearson  </p>
+
+              <form name="signupForm" novalidate="" ng-submit="signUp(signupForm)" role="form">
+                <div class="list">
+                  <label class="item item-input item-float-label">
+                    <span class="input-label input-label-registro">Nombre:</span>
+                    <input type="text" ng-model="user.name" name="name" required>
+            <span style="color:red" ng-show="signupForm.name.$touched && signupForm.name.$invalid">
+              <span ng-show="signupForm.name.$error.required">El nombre es obligatorio</span>
+            </span>
+                  </label>
+                  <label class="item item-input">
+                    <span class="input-label input-label-registro" >Correo:</span>
+                    <input type="email" ng-model="user.email" name="email" required>
+            <span style="color:red" ng-show="signupForm.email.$touched && signupForm.email.$invalid">
+              <span ng-show="signupForm.email.$error.required || signupForm.email.$invalid">El correo es obligatorio</span>
+            </span>
+                  </label>
+                  <label class="item item-input">
+                    <span class="input-label input-label-registro" >Universidad:</span>
+                    <input type="text" ng-model="user.university" name="university">
+                  </label>
+                  <label class="item item-input item-select">
+                    <span class="input-label input-label-registro">Estado:</span>
+                    <select>
+                      <option>Ciudad de México</option>
+                      <option>Estado de México</option>
+                      <option>Jalisco</option>
+                      <option>Nuevo León</option>
+                    </select>
+                  </label>
+                </div>
+                <div class="padding text-center">
+                  <button class="button cta-pearson" type="submit" ng-disabled="signupForm.$invalid">
+                    Registrarme
+                  </button>
+                </div>
+              </form>
+
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="padding">
-        <button class="button cta-pearson" type="submit" ng-disabled="signupForm.$invalid">
-          Registrarme
-        </button>
-      </div>
-    </form>
-  </ion-conten>
+    </div>
+
+
+  </ion-content>
 </ion-view>
