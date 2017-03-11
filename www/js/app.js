@@ -1,6 +1,6 @@
 (function(){
-  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.subcategories',
-    'starter.signup.controller']);
+  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.categories',
+  'starter.signup.controller']);
 
   app.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
 
@@ -8,15 +8,15 @@
 
     $stateProvider.state('home',{
       url: "/home",
-      templateUrl: 'subcategories/views/slider-subcategories.html',
-      controller: 'slider-subcategories-controller'
+      templateUrl: 'categories/views/slider-categories.html',
+      controller: 'slider-categories-controller'
     });
 
     $stateProvider.state('pearson', {
       url: "/pearson",
       abstract: true,
-      templateUrl: 'subcategories/views/side-menu-subcategories.html',
-      controller: 'side-menu-subcategories-controller'
+      templateUrl: 'categories/views/side-menu-categories.html',
+      controller: 'side-menu-categories-controller'
     });
 
     $stateProvider.state('pearson.books', {
