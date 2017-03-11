@@ -578,7 +578,7 @@ categories = [
  {
    "Id": 65,
    "ParentId": "64",
-   "Name": "MyMathLab español",
+   "Name": "MyMathLab Español",
    "Slug": null,
    "StyleName": null,
    "ImageSource": null,
@@ -610,5 +610,23 @@ categories = [
    "StyleName": null,
    "ImageSource": null,
    "ShowSlider": false
- }
-]
+ },
+ {
+    "Id": 69,
+    "ParentId": "64",
+    "Name": "Pearson eText",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 70,
+    "ParentId": null,
+    "Name": "Custom",
+    "Slug": "custo",
+    "StyleName": "custom",
+    "ImageSource": "fingerprint_custom.svg",
+    "ShowSlider": true
+  }
+];

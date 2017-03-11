@@ -13,7 +13,7 @@
       },
       getBySlug: function(slug){
         return books.filter(function(book){
-          return book.Subcategory.Slug == slug;
+          return book.Category.Slug == slug;
         });
       }
     }
