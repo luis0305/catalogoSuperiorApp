@@ -55,7 +55,7 @@ text-decoration:none !important;
   height: auto !important;
 }
 
-.mision, .catalogo_universitario, .ciencias_sociales, .ciencias_y_matematicas, .ingenieria_y_computacion, .productos_digitales, .administracion_general, .custom {
+.mision, .catalogo_universitario, .ciencias_sociales, .ciencias_y_matematicas, .ingenieria_y_computacion, .productos_digitales, .administracion_general, .custom, .green_about_us {
   bottom: 0;
   left: 0;
   margin: auto;
@@ -105,6 +105,28 @@ text-decoration:none !important;
   background-size:cover
 }
 
+.green_about_us{
+    background: #D2DB0E !important;
+      background-size:cover
+}
+
+.fingerprint_about_us{
+  background: url('../img/fingerprint_about_us-01.png') center ;
+  background-repeat: no-repeat;
+   width: 100%;
+      height: 400px;
+  margin: 0 auto;
+  padding:10px;
+  margin:10px;
+}
+
+.margin_responsive_about_us{
+margin-top:10%
+}
+
+.margin_responsive_about_us h5 a{
+color: #505759;
+}
 
 .svg_image_slide{
   top: 0 !important;
@@ -343,5 +365,26 @@ background: #2a2f31;
 .title-detail{
 font-family: 'Playfair Display', serif !important;
     font-size: 15px !important;
+}
+
+.center_about_us{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+
+@media (max-width:680px) and (min-width:414px) {
+.margin_responsive_about_us{
+margin-top:20%;
+}
+}
+
+
+@media (max-width:413px) and (min-width:260px) {
+.margin_responsive_about_us{
+margin-top:30%;
+}
 }
 
