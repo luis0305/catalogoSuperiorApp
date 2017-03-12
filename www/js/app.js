@@ -38,7 +38,16 @@
       }
     });
 
-    $urlRouterProvider.otherwise('/home');
+    $stateProvider.state('pearson.about', {
+      url: '/about',
+      views: {
+        'menu-content' : {
+          templateUrl: 'home/views/about-us-view.html'
+        }
+      }
+    });
+
+    $urlRouterProvider.otherwise('/pearson/about');
 
   });
 
