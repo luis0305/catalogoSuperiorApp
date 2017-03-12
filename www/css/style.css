@@ -338,3 +338,8 @@ background: #2a2f31;
 font-family: 'Playfair Display', serif !important;
     font-size: 15px !important;
 }
+
+.custom {
+  background: url('../img/bckgr_custom.jpg') center right;
+  background-size:cover
+}
