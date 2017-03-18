@@ -65,18 +65,29 @@
               })[0];
 
               book.Id = parseInt(book.Id);
-              book.ImageSource = "../img/" + book.ImageSource;
 
-              var contents = book.Content.split("&#10;");
+              try{
+                book.ImageSource = "../img/" + book.ImageSource.replace('.png','.jpg');
+              } catch(e) {
+                book.ImageSource = "../img/" + book.ImageSource;
+              }
 
-              var itemsContent = "";
 
-              contents.forEach(function(content){
-                itemsContent += "<li>{{content}}</li>".replace("{{content}}", content);
+              try{
 
-              });
+                var contents = book.Content.split("&#10;");
 
-              book.Content = "<ul style=\"list-style-type:none\">" + itemsContent + "</ul>";
+                var itemsContent = "";
+
+                contents.forEach(function(content){
+                  itemsContent += "<li>{{content}}</li>".replace("{{content}}", content);
+
+                });
+
+                book.Content = "<ul style=\"list-style-type:none\">" + itemsContent + "</ul>";
+              } catch (e){
+                book.Content = "<ul style=\"list-style-type:none\"><li></li></ul>";
+              }
 
               try
               {
@@ -94,6 +105,7 @@
                 book.Introduction = "<ul style=\"list-style-type:none\">" + itemsIntroduction + "</ul>";
               } catch ( e) {
                 console.log(book.Id);
+                book.Introduction = "<ul style=\"list-style-type:none\"><li>" + book.Introduction + "<li></ul>";
 
               }
 

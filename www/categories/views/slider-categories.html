@@ -5,7 +5,7 @@
 
       <ion-slide-page>
         <div class="box catalogo_universitario">
-          <img src="../img/fingerprint_catalogo_universitario.png" alt="" class="svg_image_slide">
+          <img src="img/fingerprint_catalogo_universitario.png" alt="" class="svg_image_slide">
           <div class="row">
             <div class="col col-67 col-offset-10">
             </div>
@@ -17,7 +17,7 @@
         <div class="box mision">
           <div class="row row-center">
             <div class="col col-center ">
-              <img src="../img/mision.png" alt="" class="image_slide_title">
+              <img src="img/mision.png" alt="" class="image_slide_title">
             </div>
           </div>
           <div class="row">
@@ -32,10 +32,10 @@
 
       <ion-slide-page ng-repeat="category in categories">
         <div class="box {{category.StyleName}}">
-          <img ng-src="../img/{{category.ImageSource}}" alt="" class="svg_image_slide">
+          <img ng-src="img/{{category.ImageSource}}" alt="" class="svg_image_slide">
           <div class="row">
             <div class="col col-67 col-offset-10">
-              <a href="/#/pearson/{{category.Slug}}/books">
+              <a href="#/pearson/{{category.Slug}}/books">
                 <button class="button cta-pearson">
                   Ver catálogo
                 </button>

@@ -470,7 +470,7 @@ categories = [
  {
    "Id": 53,
    "ParentId": null,
-   "Name": "Ciencias sociales",
+   "Name": "Ciencias Sociales",
    "Slug": "socia",
    "StyleName": 'ciencias_sociales',
    "ImageSource": 'fingerprint_ciencias_sociales.png',

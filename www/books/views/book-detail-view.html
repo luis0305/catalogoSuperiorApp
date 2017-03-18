@@ -35,17 +35,17 @@
     <div class="row" style="background: #f3f3f3;">
       <div class="col"  style="background:#fff">
         <ul class="tab">
-          <li><a href="javascript:void(0)" class="tablinks active" onclick="openInfo(event, 'Introduction')">Introducción</a></li>
-          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Content')">Contenido</a></li>
+          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Introduction')">Introducción</a></li>
+          <li><a href="javascript:void(0)" class="tablinks active" onclick="openInfo(event, 'Content')">Contenido</a></li>
           <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Detail')">Ficha técnica</a></li>
           <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Request')">Solicitar</a></li>
         </ul>
 
-        <div id="Introduction" class="tabcontent" style="display:block">
+        <div id="Introduction" class="tabcontent" >
           <p ng-bind-html="book.Introduction">{{book.Introduction}}</p>
         </div>
 
-        <div id="Content" class="tabcontent">
+        <div id="Content" class="tabcontent" style="display:block">
           <p ng-bind-html="book.Content">{{book.Content}}</p>
         </div>
 
@@ -64,7 +64,11 @@
         </div>
 
         <div id="Request" class="tabcontent">
-          <p></p>
+          <a href="#" onclick="window.open('{{book.eCommerce}}', '_self'); return false;">
+            <button class="button cta-pearson">
+              {{book.eCommerce}}
+            </button>
+          </a>
         </div>
 
       </div>

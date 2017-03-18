@@ -10,7 +10,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nEnfoque \nEste sistema de ejercicios en línea se desarrolló como complemento al libro Matemáticas financieras, 5/E de José Luis Villalobos. \nElementos para la enseñanza \nEste sistema de ejercicios permite al usuario trabajar en la plataforma por su cuenta para mejorar sus habilidades matemáticas mediante el plan de estudio y el diagnóstico personalizado que proporciona el sistema, \no bien, puede registrarse como asistente al curso creado por su profesor donde realizará tareas y evaluaciones, y podrá revisar los avances que va alcanzando. Es también una herramienta que permite a los profesores administrar un curso ligado al libro del mismo nombre, asignando de manera fácil y rápida tareas, exámenes y calificaciones en línea.",
       "Content": "Fundamentos de matemáticas. \nSeries y sucesiones.\nInterés y descuento simple.\nInterés compuesto.\nAnualidades. \nAmortización de créditos.\nConstitución de fondos. \nDepreciación de activos. \nAcciones bonos y obligaciones. \nAnualidades contingentes.\n\nPuntos clave \nContiene más de 500 ejercicios acompañados del libro en versión eText. Los ejercicios cuentan con tutoriales de ayuda y ejemplos resueltos.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "my_mathlab_matematicas_financieras.png",
@@ -25,7 +24,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 700 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "Ecuaciones lineales en álgebra lineal.\nÁlgebra de matrices. \nDeterminantes. \nEspacios vectoriales. \nValores propios y vectores propios. \nOrtogonalidad y mínimos cuadrados. \nMatrices simétricas y formas cuadráticas. \nGeometría de los espacios vectoriales. \nOptimización (disponible en inglés en el sitio web del libro). \nCadenas de Markov de estado finito (disponible en inglés en el sitio web del libro). \nMercado meta. Estudiantes de los cursos de álgebra lineal para ingenierías y carreras del área físicomatemáticas",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_algebra_lineal.png",
@@ -40,7 +38,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 800 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "Álgebra. \nTeoría de ecuaciones y desigualdades.\nDesigualdades.\nFunciones trigonométricas. \nGeometría analítica. Funciones. \nCálculo. \nPrincipios del álgebra lineal. \nPrincipios de conteo. \nProbabilidad. Mercado meta. \nEstudiantes de negocios administración y economía de primeros semestres.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_matematicas_para_administracion_y_economia.png",
@@ -55,7 +52,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 1200 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "Álgebra. Teoría de ecuaciones y desigualdades. Desigualdades. Funciones trigonométricas. Geometría analítica. Funciones. Cálculo. Principios de álgebra lineal. Principios de conteo. Probabilidad.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_universitarias.png",
@@ -70,7 +66,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 800 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "Introducción a la estadística. \nResumen y gráficas de datos. \nEstadísticos para describir, explorar y comparar datos. \nProbabilidad. Distribuciones de probabilidad discreta. Distribuciones de probabilidad normal. Estimaciones y tamaño de la muestra. Prueba de hipótesis. Inferencias a partir de dos muestras. Correlación y regresión. Bondad de ajuste y tablas de contingencia. Análisis de varianza. Estadística no paramétrica. Control estadístico de procesos.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_estadistica.png",
@@ -85,7 +80,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 800 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "El arte de resolver problemas. Conceptos básicos de la teoría de conjuntos. Introducción a la lógica. Teoría de números. Los números reales y sus representaciones. Conceptos básicos de álgebra. Gráficas, funciones, sistemas de ecuaciones y desigualdades. Métodos de conteo. Probabilidad. Estadística. Administración de finanzas personales.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_razonamiento_y_aplicaciones.png"
@@ -100,7 +94,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 1698 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "Funciones. Límites y continuidad. Derivadas. Aplicaciones de las derivadas. Integrales. Aplicaciones de las integrales definidas. Funciones trascendentes. Técnicas de integración. Ecuaciones diferenciales de primer orden. Secuencias infinitas y series. Ecuaciones paramétricas y coordenadas polares.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_calculo_una_variable.png",
@@ -116,7 +109,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea que ofrece soluciones de aprendizaje en el área de matemáticas para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales on line. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, permiten al docente crear sesiones con una base de ejercicios y logros específicos, y tomando en cuenta el desempeño mostrado por sus estudiantes a través de su herramienta de aprendizaje adaptativo. \nPresenta 700 ejercicios para el estudiante con ayudas como: \n • Ayúdame a resolverlo \n • Ver ejemplo \n • Preguntar a mi instructor \n • Enlaces a multimedia o tutoriales",
       "Content": "Ecuaciones paramétricas y coordenadas polares. Los vectores y la geometría del espacio. Funciones con valores vectoriales y movimiento en el espacio.\nDerivadas parciales. Integrales múltiples. Integrales y campos vectoriales. Ecuaciones diferenciales de segundo orden.",
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
       "ImageSource": "mymathlab_calculo_varias_variables.png",
@@ -131,7 +123,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes. \nEnfoque \nLibro electrónico que incluye los diagnósticos aprobados por la NANDA de 2012-2014 con intervenciones de enfermería NIC y una clasificación actualizada de resultados de enfermería NOC. Está dirigido a estudiantes y profesionales de la enfermería.",
       "Content": "Sección I. Introducción. Sección II. Diagnósticos de enfermería con resultados e intervenciones. Sección III. Guía de condiciones clínicas para los diagnósticos de enfermería y problemas de colaboración. Apéndices. Bibliografía. \nPuntos clave \nContiene una lista breve de cuidados como una referencia para evaluar la calidad de los planes de cuidado conforme son desarrollados. Incluye también los diagnósticos aprobados por la NANDA \nde 2012-2014 con intervenciones de enfermería NIC y una clasificación de resultados de enfermería NOC, así como sugerencias de uso. Por su presentación digital, cada diagnóstico, de acuerdo con la NANDA International, se puede consultar de forma fácil y rápida utilizando computadoras personales o laptops y dispositivos móviles como tabletas y celulares. \nEl formato eText contiene además herramientas que resultan de gran utilidad para el manejo del contenido, como resaltado de texto, anotaciones, integración de accesos directos a páginas, diagnósticos y conceptos, entre otros usos. \nElementos para la enseñanza \nEl libro está dividido en tres secciones que facilitan su manejo y comprensión. En la primera se da un panorama del uso y relevancia de los diagnósticos de enfermería. En la segunda se ofrece una lista exhaustiva de los diagnósticos de enfermería, cada uno con intervenciones de enfermería NIC, una clasificación actualizada de resultados de enfermería NOC y sugerencias de uso que sirven para un mejor entendimiento de los subtítulos que aparecen en los diagnósticos de enfermería, así como para ayudar a su mejor utilización. En la tercera sección se presenta una guía de condiciones clínicas para los diagnósticos de enfermería y problemas de colaboración. \nEl formato eText en el que se presenta este libro se puede consultar en varios dispositivos electrónicos. Para facilidad de manejo y visualización se sugiere la tableta de 7’’. El índice se presenta en tres niveles que facilitan la búsqueda y localización tanto de conceptos como de diagnósticos. El primer nivel corresponde a cada sección, apéndices y bibliografía. En la sección II, el segundo nivel corresponde a la lista de los diagnósticos de enfermería, mientras que en la sección III corresponde a la lista de las condiciones clínicas y también se utiliza para clasificar los apéndices y para brindar una lista bibliográfica para cada diagnóstico. En la sección III se hace uso de un tercer nivel para ofrecer la clasificación detallada de cada una de las condiciones médicas, quirúrgicas, psiquiátricas, del preparto y postparto, neonatales y pediátricas. \nAdemás, la herramienta de búsqueda del eText permite localizar rápidamente cualquier diagnóstico, concepto, sugerencia, intervención de enfermería NIC, resultado de enfermería NOC, etc., lo cual ofrece una ventaja incomparable para la accesibilidad en poco tiempo a la consulta tanto en el estudio de los diagnósticos de enfermería como en la práctica.",
       "Format": "Formas de entrega \nEste eText se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso, o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_manual_de_diagnosticos_de_enfermeria.png",
@@ -147,7 +138,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes. \nEnfoque \nLibro electrónico que ofrece un contenido de matemáticas dirigido a las carreras de diseño, arquitectura y animación digital.",
       "Content": "Introducción. Funciones. Aproximación y modelado. La derivada de una función. Funciones trascendentes. Integrales. \nRazón áurea. Geometría fractal. Anexos. Soluciones a problemas y ejercicios. Glosario. \nPuntos clave \nRevisa contenido de cálculo diferencial e integral y geometría con enfoque y aplicaciones a las carreras de diseño. Contiene además temas de modelado, razón áurea y fractales y tanto estos temas como los anteriores se desarrollan a lo largo de siete capítulos que muestran teoría, ejemplos, ejercicios, anécdotas \ny aplicaciones en las áreas de diseño y arquitectura, así como imágenes, diagramas, tablas, ilustraciones y fotografías a todo color. \nEl formato eText en el que este libro se presenta tiene funcionalidades diferenciadas para alumnos y docentes entre las que se encuentran capacidades de búsqueda de texto completo, relieve de notas, marcadores, glosarios y capacidad para crear grupos de estudio. \nElementos para la enseñanza \nAl inicio del libro y de cada capítulo se presentan esquemas de guía para que tanto el profesor como los estudiantes conozcan cómo están ligados los contenidos totales y por capítulo. La estructura didáctica del libro inicia con información relevante al capítulo a revisar así como de aplicaciones prácticas y anécdotas históricas. Los conceptos y teoría se exponen mediante el uso de múltiples ejemplos entre los que se incluyen aplicaciones prácticas a las áreas de diseño y arquitectura tanto en el mundo físico como el digital. Con este libro se busca que el alumno aprenda con base a la reflexión y comprensión de la teoría, practique con los ejercicios pero más aún, aplique lo revisado a lo largo del capítulo con los proyectos propuestos al final del mismo. Además, aprovechando el formato electrónico del libro, se ofrecen gráficos, imágenes y fotografías a todo color y en una resolución que brinda una riqueza visual que puede utilizarse como apoyo a la clase o durante el autoestudio.",
       "Format": "Formas de entrega \nEste eText se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso, o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_Matematicas_para_diseno.png"
@@ -161,7 +151,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes.",
       "Content": "Qué es la economía. El problema económico. Oferta y demanda. Elasticidad. Eficiencia y equidad. Acciones gubernamentales en los mercados. Los mercados globales en acción. Utilidad y demanda. Posibilidades, preferencias y elecciones. Organización de la producción. Producción y costos. Competencia perfecta. Monopolio. Competencia monopolística. Oligopolio. Elecciones públicas y bienes públicos. Externalidades y el medio ambiente. Mercados de factores de producción. Desigualdad económica. Incertidumbre e información. Medición del PIB y el crecimiento económico. Seguimiento del nivel de los empleos y la inflación. Crecimiento económico. Finanzas, ahorro e inversión. Dinero, nivel de precios e inflación. Tipo de cambio y balanza de pagos. Oferta agregada y demanda agregada. Los multiplicadores del gasto. Inflación, empleo y el ciclo económico en Estados Unidos. Política fiscal. Política monetaria.",
       "Format": "Formas de entrega \nEste eText se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso, o bien a través del portal de Pearson www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_economia.png",
@@ -176,7 +165,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes.\nPresenta 700 ejercicios para el estudiante con ayudas como: • Ayúdame a resolverlo • Ver ejemplo \n• Preguntar a mi instructor • Enlaces a multimedia o tutoriales • Próximamente nueva edición actualizada y con más ejercicios.",
       "Content": "Volumen 1 \nMecánica Unidades, cantidades físicas y vectores. Movimiento rectilíneo. Movimiento en dos o en tres dimensiones. Leyes del movimiento de Newton. Aplicación de las Leyes de Newton. Trabajo y energía cinética. Energía potencial y conservación de la energía. Momento lineal, impulso y colisiones. Rotación de cuerpos rígidos. Dinámica del movimiento de rotación. Equilibrio y elasticidad. Mecánica de fluidos. Gravitación. Movimiento periódico. Ondas/Acústicas Ondas mecánicas. Sonido y oído. Termodinámica Temperatura y calor. Propiedades térmicas de la materia. Primera ley de la termodinámica. Segunda ley de la termodinámica. Apéndices. \nVolumen 2 \nElectromagnetismo Carga eléctrica y campo eléctrico. Ley de Gauss. Potencial eléctrico. Capacitancia y dieléctricos. Corriente, resistencia y fuerza electromotriz. Circuitos de corriente directa. Campo magnético y fuerzas magnéticas. Fuentes de campo magnético. Inducción electromagnética. Inductancia. Corriente alterna. Ondas electromagnéticas. Óptica. Naturaleza y propagación de la luz. Óptica geométrica. Interferencia. Difracción. Física moderna Relatividad. Fotones: ondas de luz que se comportan como partículas. Partículas que se comportan como ondas. Mecánica cuántica. Estructura atómica. Moléculas y materia condensada. Física nuclear. Física de partículas y cosmología. Apéndices.",
       "Format": "Formas de entrega \nAcceso a través del registro del código que se entrega en una tarjeta. www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_fisica_universitaria.png"
@@ -190,7 +178,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes.",
       "Content": "El concepto de función y sus diferentes representaciones. Funciones lineales y cuadráticas. Operaciones con funciones. Traslaciones y cambios de escala. \nBiblioteca de funciones. Funciones trigonométricas. Función inversa. Funciones trigonométricas inversas. Funciones exponenciales. Funciones logarítmicas. \nConcepto de infinito. Cálculo de límites. \nCálculo de asíntotas. \nContinuidad. \nEl concepto de derivada. Reglas de derivación. Derivadas de funciones trascendentes. Derivación implícita y logarítmica. Interpretación geométrica de la primera derivada. Interpretación geométrica de la segunda derivada. Extremos absolutos. Aplicaciones de las rectas tangente y normal. Razones de cambio relacionadas. \nOptimización. Graficación.",
       "Format": "Formas de entrega \nAcceso a través del registro del código que se entrega en una tarjeta. www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_calculo_diferencia.png",
@@ -205,7 +192,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes.",
       "Content": "Antes de empezar. Cantidades y reacciones químicas acuosas. Gases. Termoquímica. Propiedades periódicas de los elementos.\nEnlace químico I: estructura de Lewis. \nEnlace químico II: formas moleculares, teoría del enlace de valencia. Líquidos, sólidos y fuerzas intermoleculares. \nSoluciones. Cinética química. Equilibrio químico. Ácidos y bases. Energía libre y termodinámica. \nElectroquímica. Respuestas a los ejercicios seleccionados. \nRespuestas a los ejemplos de cada capítulo. \nApéndices.",
       "Format": "Formas de entrega \nAcceso a través del registro del código que se entrega en una tarjeta. www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_quimica_un_enfoque_molecular.png",
@@ -220,7 +206,6 @@
       "Introduction": "¿Qué es? \nEs un libro electrónico enriquecido, con funcionalidades diferenciadas para alumnos y docentes, que pueden ser interactivas, multimedia, con herramientas de presentación, actividades de audio y video en los capítulos, capacidad de búsqueda de texto completo, relieve de notas, marcadores, glosarios, tareas, ejercicios interactivos, capacidad para crear grupos de estudio y muchas otras características interesantes.",
       "Content": "Administración y gestión. Evolución. Proceso administrativo. Planeación. Organización. \nIntegración. Dirección y liderazgo. Evaluación y control. La administración y sus escuelas. Administración estratégica. Tendencias actuales de gestión. La empresa. Áreas funcionales de la empresa. El espíritu empresarial y emprendedor. La administración y la empresa en el entorno global. Ética y responsabilidad social en la empresa y en la administración.",
       "Format": "Formas de entrega \nAcceso a través del registro del código que se entrega en una tarjeta. www.mypearsonshop.com.mx",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
       "ImageSource": "etext_administracion_gestion_organizacional.png"
@@ -234,7 +219,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 190 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "¿Qué es el comportamiento organizacional? \nLa diversidad en las organizaciones. Las actividades y la satisfacción en el trabajo. \nLas emociones y los estados de ánimo. La personalidad y los valores. La percepción y la toma de decisiones individual. \nConceptos de motivación. Motivación: de los conceptos a las aplicaciones. Fundamentos del comportamiento de los grupos. Los equipos de trabajo. Comunicación. Liderazgo. Poder y política. Conflicto y negociación. Fundamentos de la estructura organizacional. Cultura organizacional. Políticas y prácticas de recursos humanos. \nCambio organizacional y manejo del estrés.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_comportamiento_organizacional.png",
@@ -249,7 +233,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 76 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "Marketing. Creación y captación de valor del cliente. Empresa y estrategia de marketing. Asociaciones para establecer relaciones con el cliente. \nAnálisis del entorno de marketing. \nAdministración de la información de marketing para conocer a los clientes. Mercados de consumo y comportamiento de compra de los consumidores. \nMercados de negocios y comportamiento de compra de negocios. \nEstrategia de marketing impulsada por el cliente: creación de valor para los clientes meta. Productos, servicios y marcas. Creación de valor para el cliente. \nDesarrollo de nuevos productos y estrategias del ciclo de vida de los productos. Comprensión de la fijación de precios y obtención del valor del cliente. \nEstrategias de fijación de precios. Canales de marketing: transferencia de valor para el cliente. Venta al menudeo y al mayoreo. Comunicación de valor para el cliente: estrategia de comunicación de marketing integrada. \nPublicidad y relaciones públicas. Ventas personales y promoción de ventas. \nMarketing directo y marketing en línea: establecimiento de relaciones directas con los clientes. Creación de una ventaja competitiva. El mercado global. Marketing sustentable: ética y responsabilidad social.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_marketing.png",
@@ -264,7 +247,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 76 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "La administración de recursos humanos en la actualidad. Administración de la igualdad de oportunidades y de la diversidad. \nPlaneación y reclutamiento de personal. \nLas pruebas y la selección de empleados. Capacitación y desarrollo de la fuerza laboral. \nAdministración y evaluación del desempeño. \nRemuneración de los empleados. Ética y trato justo en la administración de recursos humanos. \nAdministración de las relaciones laborales y la negociación colectiva. Protección de la seguridad y la salud.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_recursos_humanos.png"
@@ -278,7 +260,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 68 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "Parte 1. Creación de valor mediante la administración de operaciones Uso de las operaciones para competir. \nSuplemento A.Toma de decisiones. \nAdministración de proyectos. \nParte 2. Administración de procesos\n Estrategia de procesos. Análisis de procesos. Calidad y desempeño. \nPlaneación de la calidad. Suplemento B. Líneas de espera. \nAdministración de restricciones. Sistemas esbeltos. Parte 3. Administración de la cadena de suministro Administración del inventario de la cadena de suministro. Suplemento C. Modelos especiales de inventarios. Diseño de la cadena de suministro. \nDecisiones de localización en la cadena de suministro. Integración de la cadena de suministro. \nSustentabilidad de la cadena de suministro y logística humanitaria. Pronósticos. Planeación y programación de las operaciones. Planeación de los recursos. Suplemento D. Programación lineal.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_administracion_de_operaciones.png",
@@ -293,7 +274,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 90 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "Introducción a la administración La administración y las organizaciones. El contexto administrativo: restricciones y desafíos. \nProblemas administrativos de integración La administración en el entorno global. Administración de la diversidad. \nCambio y toma de decisiones Administración de la responsabilidad social y la ética. Los gerentes como tomadores de decisiones. Manejo del cambio y la innovación. \nPlaneación y control Fundamentos de la planeación. Administración estratégica. Controles administrativos. Módulo de técnicas de planeación y control. \nOrganización Diseño organizacional básico. Diseño organizacional a la medida. Administración de los recursos humanos. Administración de equipos. \nLiderazgo Comprensión del comportamiento individual. Los gerentes y la comunicación. Motivar a los empleados. Los gerentes como líderes.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_administracion.png",
@@ -308,7 +288,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 73 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "Parte I Fundamentos de materiales\nLa estructura de los metales. \nComportamiento mecánico, ensayos y propiedades de manufactura de los materiales. \nPropiedades físicas de los materiales. \nAleaciones metálicas: estructura y reforzamiento mediante tratamiento térmico.\nMetales y aleaciones ferrosas: producción, propiedades generales y aplicaciones.\nMetales y aleaciones no ferrosas: producción, propiedades generales y aplicaciones. \nPolímeros: estructura, propiedades generales y aplicaciones.\nCerámicos, grafito y diamante: estructura, propiedades generales y aplicaciones.\nMateriales compósitos: estructura, propiedades generales y aplicaciones.\nParte II Procesos y equipo para la fundición de metales \nFundamentos de la fundición de metales. \nProcesos de fundición de metales. \nFundición de metales: diseño, materiales y economía. \nParte III Procesos y equipo de formado y modelado\nLaminación de metales.\nForjado de metales. \nExtrusión y estirado (trefilado) de metales. \nProceso de formado de hojas metálicas. \nProcesamiento de los polvos metálicos. \nProcesamiento de cerámicos, vidrio y superconductores. \nFormado y moldeo de plástico y materiales \nOperaciones de producción de prototipos rápidos.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_manufactura_ingenieria.png"
@@ -318,12 +297,10 @@
       "Title": "Sistemas de información gerencial",
       "CategoryName": "Productos digitales",
       "SubcategoryName": "MyLab | en español",
-      "Edition": "—",
       "Year": "2013",
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 94 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Simulaciones sencillas",
       "Content": "Los sistemas de información en los negocios globales contemporáneos. Comercio electrónico global y colaboración. Sistemas de información organizaciones y estrategia. Aspectos éticos y sociales en los sistemas de información. Infraestructura de TI y tecnologías emergentes. Fundamentos de inteligencia de negocios: bases de datos y administración de la información. Telecomunicaciones Internet y tecnología inalámbrica. Seguridad en los sistemas de información. Obtención de la excelencia operacional e intimidad con el cliente: aplicaciones empresariales. Comercio electrónico: mercados digitales productos digitales. Administración del conocimiento. Mejora en la toma de decisiones. Creación de sistemas de información. Administración de proyectos.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_sistemas_de_informacion_gerencial.png",
@@ -338,7 +315,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 77 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo",
       "Content": "Parte 1. Estudiantes Aprendizaje, enseñanza y psicología educativa. Desarrollo cognoscitivo y lenguaje.\nDesarrollo personal, social y moral. Diferencias entre los aprendices y necesidades de aprendizaje. Cultura y diversidad. Parte 2. Aprendizaje y motivación \nPerspectivas conductistas del aprendizaje. \nPerspectivas cognoscitivas del aprendizaje.\n Procesos cognoscitivos complejos.\n Ciencias del aprendizaje y constructivismo. \nPerspectivas cognoscitivas sociales del aprendizaje y la motivación. Motivación para el aprendizaje y la enseñanza. Parte 3. Enseñanza y evaluación Creación de ambientes de aprendizaje. \nEnseñanza para cada estudiante. \nEvaluación en el aula, asignación de calificaciones y pruebas.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_psicologia_educativa.png",
@@ -353,7 +329,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 122 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Ejercicios y lecturas interctivas",
       "Content": "La ciencia de la psicología.\n Las bases biológicas de la conducta. \nSensación y percepción. \nEstados de conciencia. \nAprendizaje. Memoria. \nCognición y capacidades mentales. \nMotivación y emoción. \nDesarrollo del ciclo vital. \nPersonalidad. \nEstrés y psicología de la salud. \nTrastornos psicológicos. \nTerapias. \nPsicología social. \nComponentes especiales.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_psicologia.png",
@@ -368,7 +343,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 65 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Ejercicios y lecturas interctivas",
       "Content": "Fundamentos para el aprovechamiento docente de las tecnologías de la información y la comunicación: un modelo. \nCaracterísticas de los ambientes y herramientas digitales: revisión y tipología.\n La comunicación y la interactividad como base para el diseño de actividades de enseñanza y aprendizaje. Modalidades interactivas y actividades mediadas por herramientas tecnológicas. \nUn modelo de diseño instruccional con apoyo de tecnologías: revisión y propuesta. \nAplicación de cuatro familias de estrategias de enseñanza y aprendizaje con tecnologías. \nUna mirada al estudiante: habilidades y estrategias para la autonomía en entornos de aprendizaje mediados por tecnologías. \nConclusiones y panorama del uso de tecnologías para la enseñanza y el aprendizaje.",
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_estrategias_docentes.png",
@@ -383,7 +357,6 @@
       "Introduction": "¿Qué es? \nEs una poderosa herramienta educativa en línea que integra las herramientas de un Learning Management System (LMS) que provee de recursos didácticos digitales al profesor y al estudiante para optimizar el desarrollo del proceso enseñanza-aprendizaje. \nSe han desarrollado con base en los contenidos más vendidos en el ámbito universitario, bajo el diseño de secuencias didácticas orientadas a reforzar el aprendizaje de la materia por parte del estudiante. \nPresenta 72 actividades de desarrollo para el estudiante, entre las que se encuentran: \n • Desarrollo de documentos \n • Videos \n • Autoevaluaciones y cuestionarios \n • Glosario interactivo \n • Ejercicios y lecturas interctivas",
       "Content": "El aprendizaje: base fundamental del enfoque por competencias. El aprendizaje como construcción social. Las competencias. El aprendizaje basado en competencias. La planeación para el aprendizaje en el ABC. \nLos medios o recursos a utilizar: la presencia de las TIC. Las TIC y las actividades de aprendizaje. La evaluación para el desempeño. Las rúbricas: método alternativo de evaluación basado en competencias. El portafolio digital: método alternativo en la evaluación por competencias. Aprendizaje situado: una perspectiva integradora apoyada en las TIC. Aulas para el aprendizaje en el siglo XXI. Los nativos digitales y la inteligencia mediada por dispositivos múltiples. A modo de cierre.",
       "Format": "Formas de entrega \n • Kit 1: Tarjeta con clave de acceso a eText y curso. \n • Kit 2: Libro, Tarjeta con clave de acceso a eText y curso.",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "my_lab_espanol_aprendizaje_competencias_y_tic.png",
@@ -398,7 +371,6 @@
       "Introduction": "¿Qué es? \nEs un sistema de ejercicios en línea en inglés que ofrece soluciones de aprendizaje en el área de física para que los estudiantes refuercen su comprensión conceptual y practiquen con la resolución de problemas teóricos y de aplicación. Incluye ejercicios, pruebas, soluciones guiadas, contenido multimedia y tutoriales online. También incluye el eText completo en español.",
       "Content": "Volumen 1 \nMecánica Unidades, cantidades físicas y vectores. \nMovimiento rectilíneo. Movimiento en dos o en tres dimensiones. \nLeyes del movimiento de Newton. \nAplicación de las Leyes de Newton. \nTrabajo y energía cinética. Energía potencial y conservación de la energía. Momento lineal, impulso y colisiones. \nRotación de cuerpos rígidos. Dinámica del movimiento de rotación. \nEquilibrio y elasticidad. Mecánica de fluidos. Gravitación. Movimiento periódico. Onda/Acústica Ondas mecánicas. Sonido y oído. Termodinámica Temperatura y calor. Propiedades térmicas de la materia. \nPrimera ley de la termodinámica. \nSegunda ley de la termodinámica. \nApéndices. \nVolumen 2 \nElectromagnetismo Carga eléctrica y campo eléctrico. Ley de Gauss. Potencial eléctrico. Capacitancia y dieléctricos. Corriente, resistencia y fuerza electromotriz. \nCircuitos de corriente directa. Campo magnético y fuerzas magnéticas. \nFuentes de campo magnético. Inducción electromagnética. Inductancia. Corriente alterna. Ondas electromagnéticas. Óptica. Naturaleza y propagación de la luz. Óptica geométrica. Interferencia. Difracción. Física moderna Relatividad. Fotones: ondas de luz que se comportan como partículas. Partículas que se comportan como ondas. \nMecánica cuántica. Estructura atómica. Moléculas y materia condensada. Física nuclear. Física de partículas y cosmología. \nApéndices.",
       "Format": "Formas de entrega \nKit 1: Libro, tarjeta con clave de acceso a eText y curso",
-      "Pages": "FALSE",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
       "ImageSource": "mastering_fisica_universitaria.png",
@@ -408,9 +380,8 @@
       "Id": "28",
       "Title": "Electrónica de potencia \nModelado y control de convertidores cd-cd",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Capítulo 1. Fundamentos para el modelado y control de convertidores cd-cd. Capítulo 2. Modelado de convertidores cd-cd sin aislamiento. \nCapítulo 3. Linealización de los modelos de convertidores sin aislamiento y sus modelos en estado estable. Capítulo 4. Control de los convertidores cd-cd sin aislamiento. \nCapítulo 5. Modelado de convertidores cd-cd con aislamiento por transformador. Capítulo 6. Control de convertidores cd-cd con aislamiento por transformador.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "160 págs.",
@@ -421,9 +392,8 @@
       "Id": "29",
       "Title": "Pueblos Mágicos \nNarrativas varias",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Introducción. Capítulo 1. Los portales de Álamos. Una representación del imaginario de aldea. Capítulo 2. Narrando los lugares del pueblo mágico de Cosalá. Capítulo 3. La complejidad de la trama: identidad, territorio, narrativa y pueblos mágicos Cuetzalan del Progreso, Puebla. \nCapítulo 4. Identidad y sentido de lugar en el pueblo mágico de El Fuerte, Sinaloa. Capítulo 5. San Sebastián del Oeste, pueblo, turismo y magia en la Sierra Occidental de Jalisco. Capítulo 6. Escribir, conversar y mirar a Taxco. Capítulo 7. Narrativas de Tepoztlán, Morelos. \nCapítulo 8. Xico: paisaje cultural e imaginarios. Narrativa para un tiempo presente.\nConclusiones generales. La narrativa de la puesta en valor de los lugares.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "208 págs.",
@@ -435,9 +405,8 @@
       "Id": "30",
       "Title": "Percepciones y actitudes hacia los transgénicos en México",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Prólogo. Capítulo 1. Estado del arte sobre los productos transgénicos. Capítulo 2. Metodología. Capítulo 3. Análisis cuantitativo a nivel nacional. Capítulo 4. Análisis cualitativo a nivel nacional. Capítulo 5. Conclusiones generales del estudio.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "224 págs.",
@@ -449,9 +418,8 @@
       "Id": "31",
       "Title": "Análisis sistémico de la micro y pequeña empresa en México",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Capítulo 1. Marco teórico. Capítulo 2. Método. Capítulo 3. Análisis sistémico de las Mype en la República mexicana. Capítulo 4. Análisis sistémico de las Mype de Aguascalientes, Aguascalientes. Capítulo 5. Análisis sistémico de las Mype en Calvillo, Aguascalientes y en Jalpa, Zacatecas. Capítulo 6. Análisis sistémico de las Mype en El Llano y en San José de Gracia, Aguascalientes. Capítulo 7. Análisis sistémico de las Mype en Jesús María, Aguascalientes. Capítulo 8. Análisis sistémico de las Mype en los municipios del norte de Aguascalientes: Rincón de Romos, Pabellón de Arteaga, Tepezalá, Cosío y Asientos. Capítulo 9. Análisis sistémico de las Mype en San Francisco de los Romo, Aguascalientes. \nCapítulo 10. Análisis sistémico de las Mype en Tijuana, Baja California. Capítulo 11. Análisis sistémico de las Mype en La Paz, Baja California Sur. Capítulo 12. Análisis sistémico de las Mype en Ocosingo, Chiapas. Capítulo 13. Análisis sistémico de las Mype en Chihuahua, Chihuahua. Capítulo 14. Análisis sistémico de las Mype en Ciudad Juárez, Chihuahua. Capítulo 15. Análisis sistémico de las Mype en Manzanillo, Colima. Capítulo 16. Análisis sistémico de las Mype en Chimalhuacán, Estado de México. Capítulo 17. Análisis sistémico de las Mype en Lerma, Estado de México. \nCapítulo 18. Análisis sistémico de las Mype en Los Reyes, Estado de México.\nCapítulo 19. Análisis sistémico de las Mype en Nezahualcóyotl, Estado de México.\nCapítulo 20. Análisis sistémico de las Mype en Tecámac Estado de México.\nCapítulo 21. Análisis sistémico de las Mype en Acámbaro, Guanajuato. Capítulo 22. Análisis sistémico de las Mype en Dolores Hidalgo, Cuna de la Independencia Nacional, Guanajuato \nCapítulo 23. Análisis sistémico de las Mype en Guanajuato, Guanajuato. \nCapítulo 24. Análisis sistémico de las Mype en León, Guanajuato. \nCapítulo 25. Análisis sistémico de las Mype en Salamanca, Guanajuato.\n Capítulo 26. Análisis sistémico de las Mype en Valle de Santiago, Guanajuato.\n Capítulo 27. Análisis sistémico de las Mype en Chilapa de Álvarez, Guerrero.\n Capítulo 28. Análisis sistémico de las Mype en Petatlán, Guerrero. \nCapítulo 29. Análisis sistémico de las Mype en Zihuatanejo de Azueta, Guerrero.\nCapítulo 30. Análisis sistémico de las Mype en Actopan, Hidalgo. Capítulo 31. Análisis sistémico de las Mype en Atitalaquia y en Tlaxcoapan, Hidalgo.\n Capítulo 32. Análisis sistémico de las Mype en Huejutla de Reyes, Hidalgo. Capítulo 33. Análisis sistémico de las Mype en Ixmiquilpan, Hidalgo. Capítulo 34. Análisis sistémico de las Mype en Tepeji del Río de Ocampo, Hidalgo. \nCapítulo 35. Análisis sistémico de las Mype en Tula de Allende, Hidalgo. Capítulo 36. Análisis sistémico de las Mype en Guadalajara, Jalisco. Capítulo 37. Análisis sistémico de las Mype en Cuernavaca y en Emiliano Zapata, Morelos. Capítulo 38. Análisis sistémico de las Mype en San Blas, Nayarit. Capítulo 39. Análisis sistémico de las Mype en Santiago Ixcuintla, Nayarit. Capítulo 40. Análisis sistémico de las Mype en Tepic y en Xalisco, Nayarit. Capítulo 41. Análisis sistémico de las Mype en Oaxaca de Juárez, Zimatlán de Álvarez y San Pablo Huixtepec, Oaxaca. Capítulo 42. Análisis sistémico de las Mype en Huejotzingo, Puebla. Capítulo 43. Análisis sistémico de las Mype en Puebla, Puebla. Capítulo 44. Análisis sistémico de las Mype en San Andrés y San Pedro Cholula, Puebla\nCapítulo 45. Análisis sistémico de las Mype en Tecamachalco, Puebla. Capítulo 46. Análisis sistémico de las Mype en Tehuacán, Puebla. Capítulo 47. Análisis sistémico de las Mipyme en Jalpan de Serra, Querétaro. Capítulo 48. Análisis sistémico de las Mype en Querétaro y El Marqués, Querétaro. Capítulo 49. Análisis sistémico de las Mype en San Juan del Río, Querétaro.\nCapítulo 50. Análisis sistémico de las Mype en Tequisquiapan y en Ezequiel Montes, Querétaro. Capítulo 51. Análisis sistémico de las Mype en Benito Juárez, Quintana Roo Capítulo 52. Análisis sistémico de las Mype en Solidaridad, Quintana Roo. Capítulo 53. Análisis sistémico de las Mype en Cajeme, Sonora. Capítulo 54. Análisis sistémico de las Mype en Hermosillo, Sonora. Capítulo 55. Análisis sistémico de las Mype en Nuevo Laredo, Tamaulipas. Capítulo 56. Análisis sistémico de las Mype en Tlaxcala, Tlaxcala. Capítulo 57. Análisis sistémico de las Mype en Córdoba, Fortín y Yanga, Veracruz. Capítulo 58. Análisis sistémico de las Mype en Maxcanú, Halachó y Kopomá, Yucatán.\nCapítulo 59. Análisis sistémico de las Mype en Kanasín, Yucatán. Capítulo 60. Análisis sistémico de las Mype en Tekax de Álvaro Obregón, Yucatán. Capítulo 61. Análisis sistémico de las Mype en Fresnillo, Zacatecas. Capítulo 62. Análisis sistémico de las Mype en Guadalupe, Zacatecas. Capítulo 63. Análisis sistémico de las Mype en Zacatecas, Zacatecas.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "824 págs.",
@@ -463,9 +431,8 @@
       "Id": "32",
       "Title": "Adaptabilidad psicológica en madres e hijos con experiencias de violencia intrafamiliar",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Prólogo. Parte I. Adaptabilidad psicológica en hijos con experiencia de violencia intrafamiliar.\nCapítulo 1. Repercusiones de la violencia intrafamiliar en el desarrollo infantil. Capítulo 2. Apoyos sociales como protectores del riesgo de violencia intrafamiliar. Capítulo 3. Adaptabilidad y violencia intrafamiliar. Capítulo 4. Metodología. Parte II. Adaptabilidad psicológica en madres con experiencia de violencia de pareja. \nCapítulo 5. La violencia de pareja como factor de riesgo para el bienestar psicológico de las madres. Anexos.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "120 págs.",
@@ -477,9 +444,8 @@
       "Id": "33",
       "Title": "Histories of English as a Foreign Language Teacher Development in Mexican Public Universities",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Chapter 1. The Professional Development for Foreign Language Teachers in Baja California. Chapter 2. An Account of the Teaching Professionalizations Process at Facultad de Lenguas Tuxtla, Universidad Autónoma de Chiapas. \nChapter 3. The Constant Evolution of Teacher Development in a Public University in Central Mexico. Chapter 4. Professionalization of English Language Teaching and Learning in the Benemérita Universidad Autónoma de Puebla: Using Different Evaluations Lens. Chapter 5. Teacher Development in Mexican Public Universities: The University of Sonora.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "112 págs.",
@@ -490,9 +456,8 @@
       "Id": "34",
       "Title": "La perspectiva de género en la literatura. Ensayos de narrativa mexicana contemporánea",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Capítulo I. Ensayo autobiográfico sobre la homofobia. Capítulo II. La narración de Laura como acto creativo en “Sombra entre sombras” de Inés Arredondo. \nCapítulo III. Oralidad y representación de la justicia en “Mi prima Paloma”, de Víctor Hugo Rascón Banda. Capítulo IV. La voz narrativa y el deseo homoerótico en La venganza de los pájaros, de Guillermo Arreola. Capítulo V. El narrador autobiográfico y la representación de las mujeres en Contrabando, de Víctor Hugo Rascón Banda Capítulo VI. Masculinidades escindidas en la frontera: Tiburón y Yulay en Al otro lado de Heriberto Yépez. Capítulo VII. Leonardo y la búsqueda de la memoria en Fierros bajo el agua, de Guillermo Arreola. Capítulo VIII. Hacia una interpretación de la literatura en el siglo XXI. Bibliografía.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "104 págs.",
@@ -503,9 +468,8 @@
       "Id": "35",
       "Title": "Jóvenes y medios digitales móviles en México Un estudio de variables asociadas en perspectiva interdisciplinar",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Capítulo I. Presentación del estudio 2015. \nCapítulo II. Marco contextual referencial. \nCapítulo III. Perspectiva de estudio. Capítulo IV. Marco teórico referencial. \nCapítulo V. Diseño metodológico del estudio. \nCapítulo VI. Resultados del análisis cuantitativo. Estudio 2015. \nCapítulo VII. Conclusiones. Anexos. Bibliografía.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "208 págs.",
@@ -516,9 +480,8 @@
       "Id": "36",
       "Title": "Legislación, justicia y humanismo",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Introducción. Primera sección. Formación jurídica \nCapítulo 1. La construcción del derecho en el aula. Capítulo 2. Calidad y nuevos retos para la formación del jurista. Capítulo 3. Dificultades funcionales del silogismo jurídico básico. Capítulo 4. La fragmentación como estrategia para evitar la complejidad sintáctica y la oscuridad de estilo. Segunda sección. Derecho penal, medios alternos y seguridad pública. Capítulo 5. Tratamiento efectivo de delincuentes juveniles: el programa de pensamiento prosocial. Capítulo 6. La teoría general de la tensión y su relación con la comisión de cyberbullying en adolescentes mexicanos. Capítulo 7. La disuasión y sus efectos en la conducta del menor infractor. Capítulo 8. Implicaciones transversales del principio de dignidad humana en el sistema penal acusatorio. Capítulo 9. Justicia restaurativa: un modelo de intervención en México. Capítulo 10. Percepción social de la justicia restaurativa en México. Capítulo 11. Propensión al riesgo y violencia en el barrio: sus efectos en la conducta antisocial en menores.\nCapítulo 12. El interés superior del menor: un estudio comparativo. Tercera sección. Derecho civil, familiar y amparo. \nCapítulo 13. La filiación biológica. Un acercamiento desde las interpretaciones. Capítulo 14. El uso de la regla de preferencia maternal por tribunales como factor de ponderación en la determinación de guarda y custodia en México y países de la región norteamericana. \nCapítulo 15. Causales de improcedencia en el juicio de amparo. Una limitación al acceso a la impartición de justicia. Cuarta sección. Políticas públicas y equidad de género. \nCapítulo 16. Derecho humano al agua en México: implicaciones en la política pública y sus instituciones. Capítulo 17. Políticas de equidad de género en México en los tiempos de la igualdad.\n Capítulo 18. Violencia hacia la mujer en pareja: ¿problema para Sonora. \nEpílogo. \nBibliografía.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "272 págs.",
@@ -530,7 +493,7 @@
       "Id": "37",
       "Title": "El estrés y su impacto en la productividad: estudio en los directivos de las micro y pequeñas empresas en México",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
       "Introduction": "El libro que se presenta contiene en principio el sustento teórico para luego abordar las mype de manera particular; las separa de la empresa mediana y provee un modelo de análisis desde la perspectiva sistémica. La investigación evalúa el factor estrés y cómo éste influye en la productividad de dichas empresas desde un enfoque administrativo, además ofrece un análisis del contexto nacional de estas empresas. De igual manera, se detalla el método para recolectar los 26 533 cuestionarios que se aplicaron para hacer el análisis, incluyendo el proceso de validación y las características generales de la muestra considerada. Reconocemos el esfuerzo de quienes conforman Relayn, una gran comunidad científica, cuyos miembros están comprometidos con la transformación del entorno a través del quehacer universitario",
       "Content": "—",
@@ -543,9 +506,8 @@
       "Id": "38",
       "Title": "Aprendizaje del Software Solidworks",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Capítulo 1 Introducción al diseño asistido por computadora Capítulo 2 Ambiente de diseño Capítulo 3 Configuración básica de pieza \nCapítulo 4 Croquis de entidad \nCapítulo 5 Operaciones en sólidos \nCapítulo 6 Ensambles Capítulo 7 Prácticas de piezas \nCapítulo 8 Prácticas de ensambles",
       "Format": "Formato 17 × 24 cm",
       "Pages": "132 págs.",
@@ -556,9 +518,8 @@
       "Id": "39",
       "Title": "Normatividad Bancaria 2016",
       "CategoryName": "Custom",
-      "SubcategoryName": "Custom",
+      "SubcategoryName": "Novedades Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Semblanzas. Prólogo. Introducción. Parte 1. El rumbo de los sistemas Financiero y Bancario. \nIntroducción. Capítulo 1. Crisis bancarias. Capítulo 2. Regulación. Capítulo 3. De Basilea III a la Unión Bancaria Europea. Capítulo 4. Administración de riesgos. \nCapítulo 5. Interacción entre riesgo soberano y crisis financiera. Parte 2. Reforma Financiera. Capítulo 6. Avances de la Reforma. Capítulo 7. Contexto y alcances. Capítulo 8. Tecnología. Capítulo 9. Cobertura: bancarización e inclusión. Parte 3. Normatividad. \nCapítulo 10. Lo que se hizo en 2014\nCapítulo 11. Principales disposiciones regulatoria emitidas en 2015\nCapítulo 12. Acciones de regulación: impactos.\nCapítulo 13. Acciones de supervisión\nApéndice A. \nApéndice B. \nEpílogo.\nAcciones de supervisión. \nReferencias bibliográficas. \nReferencias electrónicas",
       "Format": "Formato 18.5 × 24 cm",
       "Pages": "168 págs.",
@@ -587,7 +548,6 @@
       "SubcategoryName": "Custom",
       "Edition": "1a. edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Parte I. El Sistema Financiero Mexicano El Sistema Financiero Mexicano. Breve análisis económico del Sistema Bancario Mexicano. \nParte II. Aspectos relevantes de la Normatividad Bancaria en 2013 Regulación emitida para el Sistema Bancario Mexicano en 2013. \nRegulación en materia de Servicios de Inversión. Regulación en materia de Calificación de Cartera Crediticia Comercial. \nRegulación en materia de Cuotas al Instituto para la Protección al Ahorro Bancario. Parte III. La Reforma Financiera Aspectos relevantes de la Reforma Financiera. \nFortalecimiento de la condusef. Banca de Desarrollo. Otorgamiento y ejecución de garantías. Cursos mercantiles. \nSociedades Financieras de Objeto Múltiple. Liquidaciones bancarias. Sanciones e inversión extranjera. Agrupaciones financieras. \nRegulación financiera internacional.",
       "Format": "Formato 18.5 × 24 cm",
       "Pages": "408 págs.",
@@ -629,7 +589,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Consideraciones metodológicas y conceptuales relacionadas con la investigación sobre la enseñanza del inglés en las primarias públicas de México.\nDescripción de los programas para la enseñanza del inglés de las primarias públicas mexicanas. \nPolíticas lingüísticas y la enseñanza del inglés en la escuela primaria.\nLa propuesta curricular del Programa Nacional de Inglés en Educación Básica.\nLas condiciones laborales y la satisfacción laboral de los profesores de inglés.\nFormación y capacitación de los profesores de inglés. \nCreencias de los profesores de inglés de primaria.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "264 págs.",
@@ -643,7 +602,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "La psicología de la adaptación: una alternativa a la psicología positiva. La teoría de los sistemas del desarrollo: implicaciones para el estudio de la adaptación psicológica. Adaptación psicológica: propuesta teórica y metodológica. La psicología de la resiliencia: la adaptabilidad de lo psicológico. Conclusiones y consideraciones finales",
       "Format": "Formato 17 × 24 cm",
       "Pages": "104 págs.",
@@ -657,7 +615,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Preálgebra. Álgebra. Productos notables y factorización. \nEcuaciones. La línea recta.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "136 págs.",
@@ -671,7 +628,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Una visión sustentable de los ambientes positivos. Enfoques teóricos en positividad ambiental.\nFuentes negativas y gradientes de positividad ambiental. \nGenética y ambientes positivos. \nPositividad en los ambientes naturales y construidos. Familias positivas. Escuelas positivas. Escenarios laborales positivos. \nAmbientes institucionales positivos. \nInstituciones jurídicas positivas. \nAmbientes trascendentales positivos. \nDimensiones y atributos de la positividad ambiental.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "360 págs.",
@@ -685,7 +641,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Educación, Psicología y Psicología Educativa. \nDiagnóstico de la problemática a abordar. \nObjetivos de aprendizaje. Tipos de conocimiento. \nEstrategias instruccionales. \nEstrategias de evaluación.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "104 págs.",
@@ -699,7 +654,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Salud Pública y Desarrollo Humano Sustentable. Antropología, saberes tradicionales y biodiversidad en la sustentabilidad. Ingeniería Química, un manejo sustentable de las sustancias químicas. \nEducación Ambiental: eje estratégico para el desarrollo sustentable. Ingeniería Civil: construcción sustentable de la vivienda económica. \nEconomía, cambio climático y desastres naturales. Salud Ocupacional: hacia una Producción Sustentable. \nSustentabilidad económica de la porcicultura. Derecho Ambiental: evaluación de programas voluntarios de prevención. Automatización mediante sistemas inteligentes, una alternativa para garantizar el desarrollo sustentable.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "184 págs.",
@@ -712,7 +666,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Alternativas de sustentabilidad para la pesca artesanal en Sonora. La gestión de los materiales y residuos. \nPeligros en las instituciones de Educación Superior. \nSalud ocupacional en servicios de fumigaciones domésticas a través de un programa de producción más limpia. \nIniciativas de prevención de la contaminación en imprentas de Sonora. \nMinería y sustentabilidad: Una alternativa para recuperar el paisaje. \nLos talleres de carrocería y pintura y su transición hacia la sustentabilidad. Sustentabilidad en el cuidado y belleza de uñas.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "216 págs.",
@@ -726,7 +679,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Antecedentes y orígenes de la clasificación arancelaria. Ley de los Impuestos Generales de Importación y de Exportación y sus componentes. \nClasificación arancelaria y su aplicación.\nImplicaciones de una exacta e inexacta clasificación arancelaria. Índice de secciones y capítulos de la TIGIE. \nAduanas autorizadas para tramitar el despacho aduanero de determinadas mercancías. \nEjemplo de formato para solicitar consulta aduanera o junta técnica consultiva. Ejemplo de una resolución de junta técnica consultiva por parte de la autoridad aduanera. \nResoluciones de mercancía derivadas de juntas técnicas consultivas.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "112 págs.",
@@ -753,7 +705,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Influencia de la cultura organizacional en la toma de decisiones de una pyme: caso “Uniendo Recuerdos”. Estudio de la cultura organizacional en las mipymes familiares del Valle del Mezquital. \nLa pyme familiar: propuesta de estudio multivariable. \nImpacto de las microempresas familiares en la distribución del gasto de la familia. Factores administrativos que impulsan el desarrollo de la pequeña empresa. \nModelo de arquitectura de procesos para orientar el análisis y diseño de soluciones tecnológicas a pequeñas empresas del sector servicios. \nCapacidades de los recursos humanos y calidad del servicio en las empresas de autoservicio en Acapulco y Chilpancingo, estado de Guerrero. \nDisrupción del mercado e identidad profesional: hacia una gestión innovadora en una mipyme familiar, comercializadora de boletos en Ciudad Juárez.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "192 págs.",
@@ -767,7 +718,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Liderazgo pedagógico y evaluación de la calidad: apreciaciones desde los estudiantes de Ciencias Sociales de la Universidad de Sonora, México. Diversidad e inclusión educativa en Sonora, México. Tero en construcción. Principios educativos: una referencia para la educación en el siglo XXI. El liderazgo pedagógico del director y su influencia en los procesos de gestión para la mejora de la escuela primaria. Calidad educativa en los departamentos del Área de la Salud de una universidad pública. \nTratamiento educativo y práctica docente. \nDesafío para la calidad de la educación en atención a la diversidad. El bienestar emocional en la mejora de los procesos educativos. Innovación de los procesos docentes: la complementariedad entre el estudio de caso y el desarrollo profesional por competencias. \nEducación para las paces en perspectiva de socialización y subjetividad política con niños, niñas y Modelo estructural sobre educación artística, andamiaje y autonomía aplicada a maestros. Portabilidad, ubicuidad y competencias con dispositivos digitales móviles en el espacio europeo de educación superior.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "304 págs.",
@@ -780,7 +730,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Sistema de unidades y propiedades de la materia. Potencia fluida en la industria. Principios básicos de mecánica de fluidos. \nComponentes de los sistemas hidráulicos. Bombas. \nMotores hidráulicos. Válvulas oleohidráulicas. \nCircuitos hidráulicos. Neumática. \nDiseño de circuitos neumáticos.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "308 págs.",
@@ -794,7 +743,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Conjuntos y sistema de números reales. \nExponentes. Radicales. Expresiones algebraicas. \nProductos notables. Factorización. Fracciones simples y complejas.\n Ecuaciones. Desigualdades y valor absoluto. Sistemas de ecuaciones lineales y no lineales. Funciones gráficas. Funciones lineales y ecuación de la recta. \nFracciones simples que se utilizan en los límites. Evaluación de casos especiales en expresiones algebraicas. El álgebra y su conexión con el cálculo.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "248 págs.",
@@ -808,7 +756,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Los aportes teóricos de la educación para el desarrollo sustentable y su vinculación con la perspectiva de género. Presencia de la mujer en las Ciencias de la Tierra. El discurso implícito de la exclusión en la educación superior: caso Universidad de Sonora. Educación y construcción de géneros en el Porfiriato y la Revolución en Sonora. El papel de la mujer en la terciarización de la economía sonorense en el contexto del TLCAN. Jornaleras agrícolas del poblado Miguel Alemán y el control social masculino. Mortalidad masculina y género. Un acercamiento a la región de la costa de Hermosillo, Sonora. Centros de desarrollo infantil y participación social, una relación difícil. El caso de la Ley 5 de junio. Homicidio, violencia criminal y violencia feminicida en México: elementos para el diálogo.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "176 págs.",
@@ -868,7 +815,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "192 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3039-1.png"
+      "ImageSource": "978-607-32-3039-1.png",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/actores-y-recursos-educativos-veronica-1ed-libro"
     },
     {
       "Id": "62",
@@ -876,12 +824,12 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Definiciones básicas y clasificación de procesos de formado. Tribología del formado de metales. \nFormabilidad. \nForja. Laminación de productos planos.\nTrefilado. Extrusión.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "344 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2991-3.png"
+      "ImageSource": "978-607-32-2991-3.png",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/formado-de-metales-lucio-1ed-libro"
     },
     {
       "Id": "63",
@@ -889,12 +837,12 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Una historia breve del cálculo. Los números reales. Variables y funciones. Fundamentos del cálculo. Medida de la razón de cambio: la derivada. \nTeorema del valor medio y sus aplicaciones.\nLa función exponencial y sus aplicaciones.\nLa integral indefinida. \nLa integral definida. Aplicaciones de la integral definida. \nEcuaciones diferenciales elementales y aplicaciones. Series.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "344 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2989-0.png"
+      "ImageSource": "978-607-32-2989-0.png",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-de-calculo-flores-espinoza-1ed-book"
     },
     {
       "Id": "64",
@@ -902,7 +850,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Prefacio. Primera parte: crisis y transición de fase en el capitalismo. Crisis capitalista y política económica. \nCrisis fiscal del estado capitalista. Ciclos y crisis en el capitalismo. Crítica del capitalismo: el aporte de Marx. \nCiclos económicos de corto y largo plazos en el capitalismo. Segunda parte: crisis del socialismo y transición al capitalismo. Crisis del socialismo: el aporte de Kornai. \nTransición del socialismo al capitalismo. \nTercera parte: transiciones y prospectivas. \nTransición al capitalismo en China. \nTransición de fase en el capitalismo avanzado. Índice de cuadros y gráficas.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "192 págs.",
@@ -915,12 +862,12 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "La transición actual en Europa. Crisis e interrogantes sobre el proceso de integración. Prospectivas de China después de la gran recesión de 2009. \nLa fase actual del sistema capitalista. Efecto de la crisis europea sobre el Mercado Común del Sur y Este de África 1995-2011. \nUnasur, ALBA-TCP y Centroamérica, ¿ejes de la integración regional o liderazgos individuales en América Latina? La nueva agenda de la integración económica: IIRSA y la cohesión regional en Sudamérica. Financiamiento de infraestructura para la integración fronteriza en la región de la cuenca del Río de la Plata. Los instrumentos de una integración monetaria de baja intensidad. La experiencia de México. Empleo en México. \nUn análisis por entidad federativa a partir de la dinámica de crecimiento de la actividad económica y de la apertura comercial. Apertura comercial, crecimiento económico y mercado de trabajo en México y la frontera norte. \nLa región transfronteriza Mex/eua: algunas formas de integración. Migración, ciudadanía y familias transnacionales. Una reflexión desde los mercados laborales en crisis. \nLa industria maquiladora sonorense y la balanza comercial. ¿Entrada de divisas o ilusión contable? Integración del subsector porcícola de Sonora al mercado asiático: un análisis desde la perspectiva del sistema sectorial de innovación.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "328 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2553-3.png"
+      "ImageSource": "978-607-32-2553-3.png",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/procesos-integracion-economica-bocanegra-1ed-libro"
     },
     {
       "Id": "66",
@@ -928,12 +875,12 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "El dinámico ambiente del marketing. \nEl segmento gay. Pink marketing en México.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "112 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2477-2.png"
+      "ImageSource": "978-607-32-2477-2.png",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/pink-marketing-en-mexico-tirado-1ed-libro"
     },
     {
       "Id": "67",
@@ -941,7 +888,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Álgebra de vectores. Curvas en R2 y ecuaciones paramétricas. Funciones vectoriales de una variable real. Funciones de varias variables independientes. Integración múltiple.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "364 págs.",
@@ -954,7 +900,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Introducción “Un hombre debe ser serio”: masculinidad, sexualidad y reproducción en adultos mayores. “Hay que saber de todo”: masculinidad, sexualidad y reproducción en adultos. La masculinidad como performance y objeto de reflexión: la generación de hombres jóvenes. Conclusiones. Cambios y permanencias. \nBibliografía.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "328 págs.",
@@ -967,7 +912,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Hacia la determinación de un modelo e índice de competitividad empresarial para las pequeñas y medianas empresas de manufactura del estado de Sonora.\nSatisfacción laboral y desempeño en una institución pública mexicana. \nEvaluación global de las características de competitividad y de liderazgo de la industria automotriz en México.\nConceptos, dimensiones de ética, teoría y modelos que influyen en la competitividad organizacional. \nInfluencia de la gestión del conocimiento en la competitividad en las pequeñas y medianas empresas.\nLiderazgo y ventajas competitivas en la industria molinera de Hermosillo.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "200 págs.",
@@ -980,12 +924,12 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Introducción. Análisis de la colaboración científica y su relación con los programas de estímulos. Trabajo colaborativo e interdisciplinar en los cuerpos académicos: una historia entre la urgencia y la paciencia. Causales caracterológicas y organizacionales limitativas del trabajo colaborativo. Su acotamiento para impulsar la productividad de la investigación.\n La experiencia de investigación sobre empresas y organizaciones en el departamento de Ciencias Sociales y Políticas de la Universidad Iberoamericana.\nExperiencias en el desarrollo —informal— de redes del conocimiento interdisciplinario en los temas de planeación estratégica con enfoque integral y la evaluación de los procesos hospitalarios. \nAgenda de investigación para el estudio de las organizaciones: un acercamiento multidisciplinario. La dinámica en los grupos de trabajo del sector académico en las instituciones deeducación superior (IES). Cuerpo académico Polos de Desarrollo: una experiencia dentro del aprendizaje colaborativo y el análisis organizacional. \nExperiencias y retos del conocimiento compartido: el caso del seminario “Gestión y cultura escolar” de la Unidad UPN 098. La colaboración en investigación y difusión. \nPercepciones alrededor de la investigación de los profesores de un área de investigación en formación en la Universidad Autónoma Metropolitana, unidad Azcapotzalco. Alcances y desafíos de la construcción de un proyecto y grupo de investigación interdisciplinarios para el estudio organizacional de las bibliotecas. El aprendizaje colaborativo y colectivo desde la perspectiva actor-agente en dos colectividades de conocimiento en ciencia y tecnología.",
       "Format": "Formato 17 × 23 cm",
       "Pages": "248 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2016-3.png"
+      "ImageSource": "978-607-32-2016-3.png",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/aprendizaje-colaborativo-analisis-organizacional-caldera-1ed-libro"
     },
     {
       "Id": "71",
@@ -993,7 +937,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Parte 1. Desarrollo regional \nParte 2. Innovación tecnológica \nParte 3. Organizaciones",
       "Format": "Formato 17 × 24 cm",
       "Pages": "248 págs.",
@@ -1006,7 +949,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "Sección I. Fundamentos de la investigación \nLa investigación científica. Tipos de investigación. Sección II. Metodología de la investigación\nCómo llegar al principio. \nEstableciendo guías para investigar. En dónde obtener información. Cómo obtener la información.\nAcercándonos a la realidad. Sección III. Presentación del informe de investigación \nEstructura del informe de investigación.\nLa forma esencial. Ejercicios. Bibliografía.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "220 págs.",
@@ -1019,7 +961,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Parte 1. El panorama por estados. Parte 2. Perspectivas y miradas cruzadas. \nParte 3. El panorama nacional. 1. Aguascalientes; 2. Baja California; 3. Colima; 4. Durango; 5. Guanajuato; 6. Guerrero; 7. Hidalgo; 8. Oaxaca; 9. Puebla; 10. Quintana Roo; 11. Sonora; 12. Tamaulipas; 13. Veracruz; 14. Zacatecas; 15. Zona metropolitana de la Ciudad de México; 16. Contextualización de las investigaciones y acciones: en pro de una perspectiva sociodidáctica; 17. La investigación dentro de la formación de los profesores de francés en México: balance provisional y perspectivas; 18. Investigación sobre la enseñanza y el aprendizaje de la lectura y escritura en lenguas extranjeras en México durante el periodo 2000-2011; 19. Panorama general de la situación nacional; 20. Evaluación, estado actual y perspectivas del campo de las investigaciones sobre la enseñanza y el aprendizaje de las lenguas extranjeras en México.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "144 págs.",
@@ -1032,7 +973,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Autoconocimiento para el aprendizaje. \nComprensión lectora y producción textual. \nEstrategias de aprendizaje para la construcción de textos y el desarrollo del pensamiento crítico. \nAplicación de estrategias cognitivas y metacognitivas en la producción de ensayos. Autoevaluación. Consideraciones generales.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "170 págs.",
@@ -1045,7 +985,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Presentación. Vectores. Cinemática en una dimensión. \nLeyes del Movimiento. \nSistema de partículas.\nAnexos. Bibliografía.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "200 págs.",
@@ -1058,7 +997,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Introducción. Alfabetos, cadenas y lenguajes. \nAutómatas finitos deterministas. Autómatas no-deterministas. \nLenguajes regulares. Autómatas a pila. Gramáticas libres de contexto.\n Lenguajes libres de contexto. \nIntroducción a la computabilidad.\n Lista de símbolos.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "144 págs.",
@@ -1071,7 +1009,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Introducción. Un paseo por la teoría de los ciclos económicos a partir de la perspectiva de la teoría económica. Hechos estilizados para el estudio de los ciclos económicos de México. Metodologías y criterios para estudiar los ciclos económicos. Hallazgos empíricos de los ciclos económicos en las entidades federativas de la frontera norte de México. Modelos VAR para la determinación de comovimientos de la dinámica del empleo nacional y regional. Conclusiones. Bibliografía.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "84 págs.",
@@ -1084,7 +1021,6 @@
       "CategoryName": "Custom",
       "SubcategoryName": "Custom",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "El enfoque clásico en el análisis de los ciclos económicos nacionales y estatales. Expansiones y recesiones en la economía nacional. \nCiclos clásicos estatales. Ciclos clásicos en la manufactura estatal: asimetrías y sincronización. Conclusiones.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "128 págs.",
@@ -1095,21 +1031,21 @@
       "Id": "100",
       "Title": "Comportamiento organizacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "17ª edición",
       "Year": "2017",
-      "Introduction": "0",
       "Content": "¿Qué es el comportamiento organizacional?\nLa diversidad en las organizaciones\nLas actitudes y la satisfacción en el trabajo\nLas emociones y los estados de ánimo\nLa personalidad y los valores\nLa percepción y la toma de decisiones individual\nConceptos de motivación\nMotivación: de los conceptos a las aplicaciones\nFundamentos del comportamiento de los grupos\nLos equipos de trabajo\nComunicación\nLiderazgo\nPoder y política\nConflicto y negociación\nFundamentos de la estructura organizacional\nCultura organizacional\nPolíticas y prácticas de recursos humanos\nCambio organizacional y manejo del estrés\nPresentaciones PowerPoint por\ncapítulo (español)\nManual de recursos para el profesor\n(inglés)\nBanco de exámenes (inglés)\nBanco computarizado de exámenes\nTestGen (inglés)\nObra de referencia en el tema. Contenido y estructura de\nvanguardia, que responde a la realidad actual. Su estructura permite\ncomprender y relacionar los conceptos con el comportamiento en las\norganizaciones. Material atractivo y vanguardista.",
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "744 págs",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3985-1.jpg"
+      "ImageSource": "978-607-32-3985-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comportamiento-organizacional-17ed-book"
     },
     {
       "Id": "101",
       "Title": "Fundamentos de Administraciòn",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "10a edición",
       "Year": "2017",
       "Introduction": "Esta nueva edición de Fundamentos de administración proporciona una base sólida para comprender los temas centrales de la administración: maneja los conceptos esenciales y ofrece un enfoque práctico con información actual.\nEl texto expone los conceptos esenciales del estudio de la administración e incorpora el aprendizaje a través del manejo de competencias y acciones. Con un enfoque práctico, busca que el estudiante piense como gerente para que desarrolle las habilidades que todo administrador debe tener en la actualidad.",
@@ -1123,7 +1059,7 @@
       "Id": "102",
       "Title": "Comportamiento del consumidor ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "11ª edición",
       "Year": "2017",
       "Introduction": "Comportamiento del consumidor es una obra clave en el tema que permite al lector ver más allá del acto de comprar-tener diversos productos. Muestra de manera sencilla y clara cómo el tener (o no tener) las cosas puede llegar a afectar nuestra vida, influyendo significativamente en lo que somos y sentimos sobre nosotros mismos, así como sobre los demás.\nEn esta nueva edición se ha realizado una revisión y actualización exhaustiva para incluir las tendencias y cambios más actuales en el tema.",
@@ -1131,13 +1067,14 @@
       "Format": "Formato 21.5 × 27.5",
       "Pages": "624 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-4021-5.jpg"
+      "ImageSource": "978-607-32-4021-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comportamiento-del-consumidor-11ed-book"
     },
     {
       "Id": "103",
       "Title": "Conceptos de administración estratégica ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "15ª edición",
       "Year": "2017",
       "Introduction": "En el entorno económico actual, alcanzar y mantener una ventaja competitiva es más difícil que nunca, y el margen de error en la formulación e implementación de un plan estratégico de negocios es cada vez menor. Conceptos de administración estratégica capta la complejidad del entorno de los negocios y presenta las técnicas y los conceptos más eficaces y modernos sobre el tema. \nCon esta nueva edición, la obra se mantiene como un referente en el tema a nivel internacional, al proporcionar a estudiantes y profesionales de la administración los conceptos y las habilidades necesarias para llevar a la práctica de manera eficiente un plan estratégico.",
@@ -1145,13 +1082,14 @@
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "432 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-4019-2.jpg"
+      "ImageSource": "978-607-32-4019-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/conceptos-de-administracion-estrategica-16ed-book"
     },
     {
       "Id": "104",
       "Title": "Análisis de estados financieros ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "1ª edición",
       "Year": "2017",
       "Introduction": "Análisis de estados financieros es un libro que desarrolla temas y herramientas clave que conforman parte de la cultura financiera básica que todo universitario o profesional de la materia debe dominar para desenvolverse con éxito. La obra apoya la toma de decisiones tan necesaria en el mundo de los negocios, así como el conocimiento del funcionamiento de las empresas, sea desde el punto de vista del inversionista, del otorgante de crédito o del investigador de la materia.\nDe igual manera, ofrece pautas para usar de manera gerencial la información financiera, motivando al estudiante a realizar sus propios análisis, lo que le ayudará a comprender a los analistas expertos.\nPor sus características didácticas, facilita la labor académica del profesor de la materia, así como el aprendizaje por parte del alumno. Su estructura contempla la presentación general de los estados financieros principales, la explicación de su análisis y sus herramientas, abordando cada una de las áreas de análisis a través de razones. Aunado a lo anterior se describen las razones especiales y tendencias, para terminar con la metodología del análisis técnico.",
@@ -1159,13 +1097,14 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "152 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-4017-8.jpg"
+      "ImageSource": "978-607-32-4017-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-de-estados-financieros-1ed-book"
     },
     {
       "Id": "105",
       "Title": "Emprendimiento Conceptos y plan de negocios",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "2ª edición",
       "Year": "2017",
       "Introduction": "Emprendimiento. Conceptos y plan de negocios es un libro dirigido principalmente al emprendedor que cursa estudios superiores y se proyecta desempeñando su labor profesional en una empresa de creación propia. También está escrito pensando en quienes requieren integrar un equipo de trabajo independiente, quienes tienen la certeza de que pueden innovar un proceso, presentar una solución nueva a la comunidad o piensan emanciparse de una organización en la cual ya hayan desarrollado todo su potencial.",
@@ -1173,13 +1112,14 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "400 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-4018-5.jpg"
+      "ImageSource": "978-607-32-4018-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/emprendimiento-conceptos-y-plan-de-negocios-2ed-book"
     },
     {
       "Id": "106",
       "Title": "Responsabilidad, ética y sustentabilidad empresarial",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "2ª edición",
       "Year": "2017",
       "Introduction": "Para lograr el objetivo de poner en claro los conceptos en materia de RSE y de presentar los diferentes esfuerzos realizados para responder a los desafíos económicos, sociales y ambientales que supone gestionar empresas en el contexto latinoamericano, el libro se ha estructurado en dos grandes partes: la primera se centra en la clarificación teórica y presentación de la RSE; la segunda está formada por un conjunto de casos prácticos para inducir el análisis y la reflexión.",
@@ -1191,7 +1131,7 @@
       "Id": "107",
       "Title": "Administración de recursos humanos Enfoque latinoamericano",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "6ª edición",
       "Year": "2017",
       "Introduction": "Esta nueva edición ofrece, tanto a los estudiantes de cursos de administración de recursos humanos como a los gerentes en activo, una introducción práctica e integral a los conceptos y las técnicas de la administración de personal, con un enfoque en la forma de utilizar esas técnicas para mejorar el desempeño, la productividad y la rentabilidad de cualquier empresa.\nEn este libro, que es una adaptación para la región latinoamericana, encontrará comparativos de las leyes y códigos de trabajo que existen en los países de la región; comprobará que las costumbres y formas de entender el trabajo son muy similares.",
@@ -1199,13 +1139,14 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "620 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-4101-4.jpg"
+      "ImageSource": "978-607-32-4101-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-de-recursos-humanos-enfoque-latinoamericano-6ed-book"
     },
     {
       "Id": "108",
       "Title": "Marketing ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "16ª edición",
       "Year": "2017",
       "Introduction": "Esta edición se enfoca a que los estudiantes entiendan cómo los vendedores, marcas y clientes se acoplan entre sí en las estrategias de marketing. Aborda temas como el marketing digital, incluyendo el uso de la tecnología para dispositivos móviles y social media, y herramientas de investigación y algunas otras estrategias como B2B, y el marketing móvil.",
@@ -1213,24 +1154,26 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "736 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3860-1.jpg"
+      "ImageSource": "978-607-32-3860-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/marketing-kotler-14ed-libro"
     },
     {
       "Id": "109",
       "Title": "Fundamentos de marketing ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "13ª edición",
       "Introduction": "Con un enfoque dinámico y actual, este libro logra un equilibrio idóneo entre la profundidad en el tratamiento de los temas y la facilidad para comprenderlos. Con un estilo de escritura claro y un texto lleno de ejemplos e ilustraciones de la vida real, incluso los temas más avanzados y difíciles son accesibles.\nEsta nueva edición se ocupa de las nuevas tendencias de marketing y tecnología. Aborda los temas y ejemplos de nuevas e interesantes tecnologías de marketing digital en línea, las tecnologías móviles y las redes sociales y herramientas de investigación en tiempo real, entre otros temas.\nEsta decimotercera edición de Fundamentos de marketing ofrece las mejores técnicas y herramientas para impulsar una estrategia de marketing que genere valor para el cliente y al mismo tiempo supere las metas de las empresas.",
       "Content": "Marketing: Generación y captación del valor del cliente \nLa empresa y la estrategia de marketing: Alianzas para construir relaciones, valor y compromiso con los clientes \nAnálisis del entorno de marketing \nGestión de la información de marketing para conocer los puntos de vista de los clientes \nComprensión del comportamiento de compra del consumidor y de las empresas \nEstrategias de marketing impulsadas por el cliente: Creación de valor para los clientes meta \nProductos, servicios y marcas: Generar valor para el cliente \nDesarrollo de nuevos productos y gestión del ciclo de vida del producto \nFijación de precios: Comprensión y captura del valor del cliente \nCanales de marketing: Brindar valor al cliente \nVenta al menudeo y al mayoreo \nComunicación de valor para el cliente: Publicidad y relaciones públicas \nVenta personal y promoción de ventas \nMarketing directo, online, social media y móvil \nEl mercado global \nMarketing sustentable: Ética y responsabilidad social\nA diferencia de los textos abreviados, proporciona cobertura completa\ny oportuna del más reciente pensamiento y práctica de marketing;\na diferencia de los más largos y más complejos, permite su mejor\nasimilación en un solo curso.\nNumerosos casos que acercan al estudiante a la práctica de los temas\ntratados en el libro: Netflix, Google, Amazon, Nike, Harley-Davidson,\nentre otros.\nEjemplos que ilustran cómo las empresas utilizan la tecnología digital\npara ganar ventaja competitiva, desde empresas exitosas como Nike,\nP&G, Southwest y McDonald’s hasta la nueva era de competidores\ndigitales como Google, Amazon, Apple, Netflix, Pinterest y Facebook.\nEsta nueva edición trae el marketing a la vida con ejemplos e\nilustraciones profundos y relevantes en cada parte del libro.\nPresentación PowerPoint (español)",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3845-8.jpg"
+      "ImageSource": "978-607-32-3845-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-de-marketing-13ed-book"
     },
     {
       "Id": "110",
       "Title": "Administración de servicios Estrategias para la creación de valor en el nuevo paradigma de los negocios ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "3ª edición",
       "Year": "2017",
       "Introduction": "Es un libro de texto versátil y flexible que puede ser utilizado en diferentes ambientes, incluso puede complementar los materiales que se pueden encontrar en libros de texto tradicionales de marketing, operaciones y recursos humanos.\nEs una obra con un enfoque latinoamericano ya que los adaptadores son investigadores consultores y docentes radicados en México, Argentina y España. Está estructurado en cinco partes que abarcan por completo los procesos para administrar una empresa de servicios y ofrece herramientas que permiten a los estudiantes aprender cómo los conceptos pueden ser usados para aplicarlos en situaciones similares, además incorpora interesantes ejemplos de Latinoamérica y contiene lecturas seleccionadas y casos que han sido probados en el salón de clases.",
@@ -1242,27 +1185,28 @@
       "Id": "111",
       "Title": "Desarrollo organizacional ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "2ª edición",
       "Year": "2017",
       "Introduction": "Este libro, con un enfoque basado en competencias, explica la forma en que el desarrollo organizacional apoya estos procesos de cambio, y favorece la competitividad y permanencia de las organizaciones.\nDesarrollo organizacional está diseñado para que, tanto el estudiante como el profesor, logren un excelente resultado en el proceso enseñanza-aprendizaje; cada capítulo fue preparado con el fin de que el lector encuentre en el texto material que le ayude a desarrollar sus competencias, mediante múltiples casos teórico-prácticos, así como en los ejercicios que se presentan.",
       "Content": "Introducción al desarrollo organizacional \nAdministración del proceso de desarrollo organizacional \nProceso de diagnóstico en el desarrollo organizacional \nIntervención en la cultura organizacional \nCambio organizacional \nÉtica organizacional \nComunicación organizacional y resolución de conflictos \nLiderazgo \nCoaching \nEquipos y grupos de trabajo \nEl proceso de consultoría en el desarrollo organizacional \nEl consultor, agente de cambio organizacional y tendencias\nActualización del contenido\nCapítulo nuevo sobre Coaching\nActividades nuevas",
       "Format": "Formato 21 × 27 cm",
-      "Request": "TRUE"
+      "Request": "TRUE",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-organizacional-hernandez-1ed-libro"
     },
     {
       "Id": "112",
       "Title": "Fundamentos de administración",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Novedades Administración General",
       "Edition": "10ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Gerentes y administración.\nEl entorno administrativo.\nTemas integrados a la administración.\nFundamentos de la toma de decisiones.\nFundamentos de la planeación.\nEstructura y diseño organizacionales.\nAdministración de recursos humanos.\nAdministración del cambio y la innovación.\nFundamentos del comportamiento individual.\nComprensión de los grupos y administración \nde equipos de trabajo.\nMotivar y recompensar a los empleados.\nLiderazgo y confianza.\nAdministrar la comunicación y la información.\nFundamentos del control.\nAdministración de operaciones.\nManual de recursos para el profesor\n(inglés)\nBanco de exámenes (inglés)\nBanco computarizado de exámenes\nTestGen (inglés)",
       "Format": "Formato 21 × 27.5 cm",
       "Pages": "528 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3962-2.jpg"
+      "ImageSource": "978-607-32-3962-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-de-administracion-10ed-book"
     },
     {
       "Id": "113",
@@ -1270,12 +1214,12 @@
       "CategoryName": "Administración General",
       "SubcategoryName": "Administración General",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Fundamentos de administración.\nDe la revolución urbana a la revolución\nindustrial.\nEscuela clásica Taylor y Ford.\nFayol y la escuela de proceso de\nadministración.\nMax Weber y la teoría de las organizaciones.\nDe la escuela clásica al modelo japonés.\nOrganizaciones en el tercer milenio.\nEmpresa y áreas funcionales.\nÉtica y responsabilidad social.\nEvolución del proceso administrativo.\nPlaneación. Organización.\nDirección.\nControl.\nDesarrollo emprendedor.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "488 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1511-8.jpg"
+      "ImageSource": "978-970-26-1511-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-adminsitracion-amaru-1ed-libro"
     },
     {
       "Id": "114",
@@ -1284,12 +1228,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "12ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "La administración y las organizaciones.\nEl contexto de la administración: limitaciones y desafíos.\nLa administración en un entorno global.\nAdministración de la diversidad.\nResponsabilidad social y ética.\nLos gerentes como tomadores de\ndecisiones.\nAdministración del cambio y la innovación.\nFundamentos de la planeación.\nAdministración estratégica.\nControl administrativo.\nDiseño organizacional básico.\nDiseño organizacional adaptativo.\nAdministración de recursos humanos.\nManejo de equipos.\nCómo entender el comportamiento\nindividual.\nLos gerentes y la comunicación.\nCómo motivar a los empleados.\nLos gerentes como líderes.\nPresentación PowerPoint de cada\ncapítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "722 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2767-4.jpg"
+      "ImageSource": "978-607-32-2767-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-robbins-12ed-libro"
     },
     {
       "Id": "115",
@@ -1298,7 +1242,6 @@
       "SubcategoryName": "Administración General",
       "Edition": "6ª edición",
       "Year": "1996",
-      "Introduction": "—",
       "Content": "La administración y los gerentes.\r\nEvolución de la teoría de la administración.\r\nEl entorno organizacional y natural.\r\nLa responsabilidad social y la ética.\r\nLa globalización y la administración.\r\nCómo inventar y reinventar organizaciones.\r\nLa cultura y el pluriculturalismo.\r\nLa calidad.\r\nLa toma de decisiones.\r\nLa planificación y la administración\r\nestratégicas.\r\nLa implantación de estrategias.\r\nEl diseño de la organización y la estructura\r\nde la organización.\r\nEl poder y la distribución de la autoridad.\r\nLa administración de recursos humanos.\r\nLa administración del cambio y la innovación\r\norganizacional.\r\nLa motivación.\r\nEl liderazgo.\r\nLos equipos y el trabajo en equipo.\r\nLa comunicación y la negociación.\r\nEl control efectivo.\r\nLa administración de operaciones.\r\nLos sistemas de información.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "872 págs.",
@@ -1312,12 +1255,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "2ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Administración y gestión, un solo concepto.\r\nProceso administrativo.\r\nPlaneación.\r\nOrganización.\r\nIntegración.\r\nDirección y liderazgo.\r\nEvaluación y control.\r\nLa administración y sus escuelas.\r\nAdministración estratégica actual,\r\ntendencias actuales de gestión.\r\nLa empresa.\r\nÁreas funcionales de la empresa.\r\nEl espíritu empresarial y emprendedor.\r\nLa administración y la empresa en el\r\nentorno global.\r\nÉtica y responsabilidad social de las\r\nempresas y de la administración.\r\nCasos.\nSitio Web con actividades y material\r\n\r\nadicional al libro (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "352 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2700-1.jpg"
+      "ImageSource": "978-607-32-2700-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-lourdes-munch-2ed-libro"
     },
     {
       "Id": "117",
@@ -1325,12 +1268,12 @@
       "CategoryName": "Administración General",
       "SubcategoryName": "Administración General",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "El espíritu emprendedor.\r\nLa escuela de negocios.\r\nLo que es preciso saber sobre economía.\r\nPlaneación estratégica.\r\nOrganización de las empresas.\r\nMarketing.\r\nOperaciones.\r\nRecursos humanos.\r\nMotivación y liderazgo.\r\nContabilidad y finanzas.\r\nAdministración de proyectos.\r\nConstitución del negocio.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "216 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1130-1.jpg"
+      "ImageSource": "978-970-26-1130-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-emprendedores-amaru-1ed-libro"
     },
     {
       "Id": "118",
@@ -1339,10 +1282,10 @@
       "SubcategoryName": "Administración General",
       "Edition": "3ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Vivimos en una economía y sociedad de\r\nservicios.\r\nVisión estratégica y liderazgo del negocio\r\nde servicio.\r\nParticipación del cliente en los procesosde\r\nservicio.\r\nEl cliente en la experiencia de servicio.\r\nCómo elegir los clientes, administrar las\r\nrelaciones y generar lealtad.\r\nCreación e innovación de servicios.\r\nPosicionamiento de un servicio en el\r\nmercado.\r\nEstrategias de precios para servicios.\r\nComunicación y promoción de servicios.\r\nDieño de sistemas de entrega delservicio.\r\nAdministración de la demanda y la\r\ncapacidad en empresas de servicio.\r\nLa dirección del talento humano en\r\nempresas de servicio.\r\nIncremento del valor de los servicios\r\nmejorando su calidad y productividad.\r\nAdministración de quejas y recuperación\r\ndel servicio.",
       "Format": "Formato 20 × 25.5 cm",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-servicios-lovelock-2ed-libro"
     },
     {
       "Id": "119",
@@ -1351,7 +1294,6 @@
       "SubcategoryName": "Administración General",
       "Edition": "1ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "El contexto de la innovación.\r\nCreatividad e innovación.\r\nEstrategia e innovación.\r\nEstrategia tecnológica.\r\nCultura organizacional innovadora.\r\nFactores clave de la cultura de la\r\norganización innovadora.\r\nMedición de la innovación.\r\nCulturas organizacionales en transición\r\nhacia la innovación.\r\nCreación y sostenimiento de culturas\r\norganizacionales innovadoras.\r\nCulturas organizacionales de innovación\r\nbasadas en tecnología.\r\nConocimiento del mercado.\r\nDiseño para la innovación.\r\nAdministración de la cadena de distribución e innovación.\r\nAdministración del conocimiento y\r\naprendizaje de la innovación.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "368 págs.",
@@ -1365,12 +1307,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "2ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Introducción a la administración y la\ngerencia.\nGeneralidades sobre la planeación.\nPlaneación estratégica.\nEstructura y diseño organizacional.\nLa función de dirección.\nMotivación en las organizaciones.\nLiderazgo en las organizaciones.\nLa comunicación y el trabajo en equipo.\nControl administrativo e indicadores de\ngestión.\nCd-Rom que incluye: una presentación\r\nde PowerPoint con la documentación\r\ngráfica de cada capítulo, así como\r\narchivos PDF con los formatos para\r\nrecolectar información empresarial",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "384 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-958-69-9228-2.jpg"
+      "ImageSource": "978-958-69-9228-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/proceso-administrativo-bernal-1ed-ebook1"
     },
     {
       "Id": "121",
@@ -1379,12 +1321,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "1ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Unidad I Fase mecánica o estructural del\nproceso administrativo.\nPlaneación de acuerdo a las necesidades\nespecíficas de las organizaciones y los\nelementos establecidos aplicando sus etapas.\nOrganización de acuerdo con los diferentes\ntipos de estructura y principios aplicables.\nUnidad II Fase dinámica u operativa del\nproceso administrativo.\nAlternativas de solución mediante análisis\nde situaciones de acuerdo con el proceso y la aplicación de los elementos de dirección.\nMedidas preventivas y correctivas a través del control.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "112 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3216-6.jpg"
+      "ImageSource": "978-607-32-3216-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/manejo-proceso-administrativo-munch-1ed-libro"
     },
     {
       "Id": "122",
@@ -1393,12 +1335,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "4ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Parte I Investigación científica en la actual sociedad del conocimiento.\nCapítulo 1\nCiencia, tecnología y desarrollo.\nParte II Fundamentos epistemológicos de la investigación científica.\nCapítulo 2\nFundamentos de epistemología y concepto de ciencia social.\nCapítulo 3\nTendencia a la integración del conocimiento en las ciencias sociales.\nParte III Métodos para el proceso\nmetodológico de investigación científica.\nCapítulo 4\nMétodos cualitativos y cuantitativos en\ninvestigación científica.\nCapítulo 5\nCómo elaborar un anteproyecto de\ninvestigación científica.\nCapítulo 6\nCómo realizar el trabajo de campo y redactar el informe final de una investigación\ncientífica.\nParte IV Redacción para la publicación de\nresultados de investigación.\nCapítulo 7\nCómo redactar artículos y ensayos de\nresultados de investigación.\nAplicativo de Excel para el procesamiento\r\nestadístico de datos (muestreo, prueba\r\nde hipótesis, etc.)\r\nPresentación PowerPoint\r\nGuías para el diseño y desarrollo de\r\nproyectos de investigación\r\nEjemplos sobre redacción",
       "Format": "Formato 21 × 27 cm",
       "Pages": "400 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-958-69-9390-8.jpg"
+      "ImageSource": "978-958-69-9390-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/metodologia-de-la-investigacion-4ed-book"
     },
     {
       "Id": "123",
@@ -1406,12 +1348,12 @@
       "CategoryName": "Administración General",
       "SubcategoryName": "Administración General",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Estudio del desarrollo de la profesión\r\ny su estado actual.\r\nLa investigación como un proceso de\r\nconstrucción social.\r\nHerramientas de comunicación oral\r\ny escrita en la investigación.\r\nGestión de la información para la\r\ninvestigación documental.\nPresentación PowerPoint de cada\r\ncapítulo",
       "Format": "Formato 21 × 27 cm",
       "Pages": "240 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2245-7.jpg"
+      "ImageSource": "978-607-32-2245-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-investigacion-bernal-1ed-libro"
     },
     {
       "Id": "124",
@@ -1420,12 +1362,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "1ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "¿Qué es la empresa familiar?\nDiferentes perspectivas de la empresa\nfamiliar.\nDinámicas familiares.\nMiembros de la siguiente generación.\nCultura, valores y tradiciones en\nLatinoamérica.\nEmociones y transmisión de conocimiento\nintergeneracional.\nEl relevo (cambio) generacional.\nOrganización y crecimiento familiar-\nempresarial.\nEl patrimonio familiar.\nFilantropía familiar y emprendedores\nsociales.\nLo mejor del management familiar.\nWebsite (español)\r\nPresentación PowerPoint (español)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "423 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2961-9.jpg"
+      "ImageSource": "978-607-44-2961-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/empresas-familiares-trevinyo-1ed-libro"
     },
     {
       "Id": "125",
@@ -1434,12 +1376,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "1ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "Emprendimiento y creación.\r\nEmprendedores y su equipo directivo.\r\nDirección de PyMEs.\r\nFunciones de la PyME.\r\nDesarrollo: innovación, cambio y crecimiento.\r\nLas PyMEs internacionalizadas\r\ny particularidades del contexto\r\niberoamericano.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "536 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0678-5.jpg"
+      "ImageSource": "978-607-32-0678-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-pymes-filion-2ed-libro"
     },
     {
       "Id": "126",
@@ -1448,12 +1390,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "2ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "La empresa.\r\nCiclo de vida de las empresas.\r\nOrganización empresarial.\r\nÉtica empresarial.\r\nResponsabilidad social empresarial.\r\nLas áreas funcionales de la empresa.\r\nMercadotecnia y ventas.\r\nOperaciones y cadena de suministro.\r\nRecursos humanos.\r\nFinanzas.\r\nTecnología y sistemas.\r\nLa empresa y su entorno.\r\nInnovación y emprendimiento.\r\nPerfil del empresario, el emprendedor y el\r\ninnovador.\r\nPensamiento crítico: herramientas del\r\ninnovador.\r\n¿Qué es un plan de negocios?\r\nEstructura del plan de negocios.\r\nComunicación estratégica.\r\nAnexo Estructuración del plan de negocios.\nEstructuración del plan de negocios con\r\ncampos sensibles",
       "Format": "Formato 21 × 27 cm",
       "Pages": "400 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-4018-5.jpg"
+      "ImageSource": "978-607-32-4018-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/emprendimiento-conceptos-y-plan-de-negocios-2ed-book"
     },
     {
       "Id": "127",
@@ -1462,12 +1404,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "4ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Presentación de la hospitalidad.\r\nEl negocio hotelero.\r\nOperaciones de la división de habitaciones.\r\nOperaciones de alimentos y bebidas.\r\nBebidas.\r\nEl negocio restaurantero.\r\nOperaciones restauranteras.\r\nServicios administrados.\r\nTurismo.\r\nRecreación, atracciones y clubes.\r\nJuegos de entretenimiento.\r\nReuniones, convenciones y exposiciones.\r\nEventos especiales.\r\nLiderazgo y administración.\r\nPlaneación.\r\nOrganización.\r\nComunicación y toma de decisiones.\r\nControl.\nPresentación PowerPoint de cada\r\ncapítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "720 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3348-4.jpg"
+      "ImageSource": "978-607-32-3348-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-de-la-hospitalidad-walker-4ed-libro"
     },
     {
       "Id": "128",
@@ -1476,12 +1418,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "4ª edición",
       "Year": "2006",
-      "Introduction": "—",
       "Content": "Eficacia organizacional.\r\nFilosofía organizacional.\r\nSistemas de calidad.\r\nCreando un enfoque de cliente.\r\nLiderazgo organizacional.\r\nPlaneación estratégica.\r\nAdministración y desarrollo de los recursos humanos.\r\nMedidas de éxito organizacional.\r\nAdministración de procesos.\r\nResolución de problemas, herramientas y\r\ntécnicas.\r\nAdministración de proyectos.\r\nResultados de negocios.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "425 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0813-4.jpg"
+      "ImageSource": "978-970-26-0813-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-calidad-summers-4ed-libro"
     },
     {
       "Id": "129",
@@ -1490,12 +1432,12 @@
       "SubcategoryName": "Administración General",
       "Edition": "1ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "Definición de negociación y sus\r\ncomponentes.\r\nPersonalidad.\r\nConflicto.\r\nEstilo de negociación.\r\nTemperamentos negociadores clave.\r\nComunicación en la negociación.\r\nNota acerca de las diferencias culturales y\r\nde género.\r\nIntereses y objetivos en la negociación.\r\nImportancia de la percepción en la\r\nnegociación.\r\nEfectos del poder en la negociación.\r\nHacerse valer.\r\nPrincipios de persuasión.\r\nReglas de negociación y errores comunes.\r\nProceso y preparación de la negociación.\r\nEstilos, estrategias y técnicas alternativasde negociación.\r\nEquipo de negociación.\r\nLa negociación en el liderazgo y las\r\nrelaciones públicas.\r\nIntervención de terceros en la negociación.\r\nUso del poder personal de negociación.\r\nEvaluación posterior a la negociación.\nPresentación PowerPoint (español)\r\nCompanion Website (inglés)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "336 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0593-1.jpg"
+      "ImageSource": "978-607-32-0593-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/tecnicas-de-negociacion-y-resolucion-de-conflictos-ebook"
     },
     {
       "Id": "130",
@@ -1504,187 +1446,186 @@
       "SubcategoryName": "Administración General",
       "Edition": "3ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Marco conceptual y enfoque estratégico.\r\nEl auditor.\r\nMetodología de la auditoría administrativa.\r\nIndicadores.\r\nHerramientas para la captación de\r\ninformación y presentación de resultados:\r\ncuestionarios, cédulas y gráficos, y escalas\r\nde medición.\r\nNormas de calidad.\r\nLa auditoría en el sector privado.\r\nLa auditoría en el sector público.\r\nAuditoría inteligente.\r\nApéndice A. Métodos de valuación de\r\nempresas.\r\nApéndice B. Metodología para la evaluación.\r\nApéndice C. Guía general de auditoría\r\npública (en el sitio Web del libro).\r\nApéndice D. Guía general para revisiones de\r\ncontrol (en el sitio Web del libro).\r\nBibliografía.\r\nÍndice analítico.\nPresentación PowerPoint (español)\r\nMaterial adicional en página Web\r\nEjemplos de auditorías\r\nCuestionarios",
       "Format": "Formato 21 × 25.5 cm",
       "Pages": "464 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1833-7.jpg"
+      "ImageSource": "978-607-32-1833-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/auditoria-administrativa-franklin-3ed-libro"
     },
     {
       "Id": "131",
       "Title": "Teoría organizacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Organización",
       "Edition": "7ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Eficacia organizacional.\nÉtica.\nAdministración en un entorno global en\nconstante cambio.\nRetos básicos del diseño organizacional.\nDiseño de la estructura de organización:\nautoridad y control.\nDiseño de la estructura organizacional:\nespecialización y coordinación.\nCreación y gestión de la cultura\norganizacional.\nDiseño organizacional y estrategia en un\nentorno global.\nDiseño organizacional, competencias y\ntecnología.\nTipos y formas de cambio organizacional.\nCambios organizacionales: nacimiento,\ncrecimiento, declinación y muerte.\nGestión del conocimiento y la tecnología de\nla información.\nInnovación, emprendimiento y creatividad.\nManejo de conflictos, poder y políticas.\nPresentación PowerPoint en cada\ncapítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "512 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2117-7.jpg"
+      "ImageSource": "978-607-32-2117-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/teoria-organiziacional-jones-7ed-libro"
     },
     {
       "Id": "132",
       "Title": "Innovación empresarial",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Organización",
       "Edition": "3ª edición",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Espíritu Empresarial.\r\nEl Espíritu Empresarial y el Desarrollo\r\nSocioeconómico.\r\nEl Empresario.\r\nEl Proceso Empresarial.\r\nEtapas y componentes en el establecimiento de una empresa.\r\nDe cero a la oportunidad de empresa.\r\nPlan de empresa.\r\nLa financiación de nuevas empresas.\r\nAdministración de la nueva empresa.\r\nLa empresa familiar.\r\nEmpresas.\r\nEducación Empresarial.\r\nPolíticas de Desarrollo Empresarial.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "664 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-958-69-9101-8.jpg"
+      "ImageSource": "978-958-69-9101-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/innovacion-empresarial-varela-3ed-libro"
     },
     {
       "Id": "133",
       "Title": "Publicidad, promoción y\r\ncomunicación integral\r\nen marketing",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "4ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Fundamentos de la Comunicación Integral\nde Marketing (CIM).\nComunicación integral de marketing.\nImagen corporativa y administración de\nmarca.\nComportamiento de los compradores.\nAnálisis de oportunidades de promoción.\nHerramientas publicitarias de la CIM.\nAdministración de la publicidad.\nDiseño publicitario: Marcos teóricos y tipo de recursos publicitarios.\nDiseño publicitario: Estrategias de mensaje y marco de ejecución.\nHerramientas de medios de la CIM.\nCanales de medios tradicionales.\nMarketing interactivo.\nMarketing alternativo.\nHerramientas promocionales de la CIM.\nMarketing de base de datos y\nmercadotecnia directa.\nPromoción de ventas.\nRelaciones públicas y programas de\npatrocinio. Ética, regulación y evaluación\nde la CIM. Normatividad y asuntos éticos.\nEvaluación del programa integral de marketing.\nManual del instructor (inglés)\r\nPresentación PowerPoint (inglés)\r\nCompanion Website (inglés)\r\nBanco de exámenes (inglés)\r\nDVD con video (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "472 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2630-4.jpg"
+      "ImageSource": "978-607-44-2630-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/publicidad-promocion-comunicacion-clow-4ed-libro"
     },
     {
       "Id": "134",
       "Title": "Fundamentos de marketing",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "13ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Marketing: Generación y captación del valor\r\ndel cliente.\r\nLa empresa y la estrategia de marketing:\r\nAlianzas para construir relaciones, valor y\r\ncompromiso con los clientes.\r\nAnálisis del entorno de marketing.\r\nGestión de la información de marketing para\r\nconocer los puntos de vista de los clientes.\r\nComprensión del comportamiento de\r\ncompra del consumidor y de las empresas.\r\nEstrategias de marketing impulsadas por el\r\ncliente: Creación de valor para los clientes\r\nmeta.\r\nProductos, servicios y marcas: Generar valor\r\npara el cliente.\r\nDesarrollo de nuevos productos y gestión del\r\nciclo de vida del producto.\r\nFijación de precios: Comprensión y captura\r\ndel valor del cliente.\r\nCanales de marketing: Brindar valor al\r\ncliente.\r\nVenta al menudeo y al mayoreo.\r\nComunicación de valor para el cliente:\r\nPublicidad y relaciones públicas.\r\nVenta personal y promoción de ventas.\r\nMarketing directo, online, social media y móvil.\r\nEl mercado global.\r\nMarketing sustentable: Ética y\r\nresponsabilidad social.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "672 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3845-8.jpg"
+      "ImageSource": "978-607-32-3845-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-de-marketing-13ed-book"
     },
     {
       "Id": "135",
       "Title": "Marketing",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "16ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Creación y captación de valor del cliente.\nEmpresa y estrategia de marketing.\nAsociaciones para establecer relaciones con el cliente.\nAnálisis del entorno de marketing.\nAdministración de la información de\nmarketing para conocer a los clientes.\nMercados de consumo y comportamiento de\ncompra de los consumidores.\nMercados de negocios y comportamiento de\ncompra de negocios.\nEstrategia de marketing impulsada por el\ncliente: creación de valor para los clientes meta.\nProductos, servicios y marcas. Creación de\nvalor para el cliente.\nDesarrollo de nuevos productos y estrategias\ndel ciclo de vida de los productos.\nComprensión de la fijación de precios y\nobtención del valor del cliente.\nEstrategias de fijación de precios.\nCanales de marketing: transferencia de valor\npara el cliente.\nVenta al menudeo y al mayoreo.\nComunicación de valor para el cliente:\nestrategia de comunicación de marketing integrada.\nPublicidad y relaciones públicas.\nVentas personales y promoción de ventas.\nMarketing directo y marketing en línea:\nestablecimiento de relaciones directas con los clientes.\nCreación de una ventaja competitiva.\nEl mercado global.\nMarketing sustentable: ética y responsabilidad social.\nApéndice 1 Plan de marketing.\nApéndice 2 Aritmética de marketing.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "736 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3860-1.jpg"
+      "ImageSource": "978-607-32-3860-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/marketing-kotler-14ed-libro"
     },
     {
       "Id": "136",
       "Title": "Introducción a la\r\ninvestigación de mercados",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "3ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Investigación de mercados.\r\nFormulación del problema.\r\nEl diseño de la investigación: investigación\r\nexploratoria.\r\nInvestigación cualitativa.\r\nInvestigación concluyente.\r\nCómo diseñar un cuestionario.\r\nInvestigación de motivaciones.\r\nMuestreo.\r\nEl trabajo de campo, la revisión, verificación\r\ny captura de los datos.\r\nDistribución de frecuencias, tabulación\r\ncruzada y prueba de hipótesis.\r\nLa elaboración del reporte.\nPresentación PowerPoint de cada\r\ncapítulo (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2802-2.jpg"
+      "ImageSource": "978-607-32-2802-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/introduccion-a-la-investigacion-de-mercados-benassini-3ed-libro"
     },
     {
       "Id": "137",
       "Title": "Investigación de mercados",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "5ª edición",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Introducción a la investigación de mercados.\r\nDefinición de la investigación y desarrollo\r\ndel problema.\r\nDiseño de investigación.\r\nDiseño de investigación exploratoria, datos secundarios.\r\nDiseño de investigación exploratoria, investigación cualitativa.\r\nDiseño de investigación descriptiva, observación.\r\nDiseño de investigación causal.\r\nMedición.\r\nTabulación.\r\nComparativa escalar.\r\nTécnicas no comparativas escalares.\r\nCuestionarios y diseño de formularios.\r\nDiseño y procedimientos para la obtención de la muestra.\r\nDeterminación del tamaño de la muestra final e inicial.\r\nCampo de trabajo.\r\nPreparación de datos.\r\nFrecuencia de distribución, tabulación cruzada y prueba de la hipótesis.\nAnálisis de la varianza y la covarianza.\r\nCorrelación y regresión.\r\nAnálisis discriminatorio.\r\nAnálisis factorial.\r\nEscalas multidimensionales.\r\nPreparación para elaborar los reportes y\r\npresentaciones. Investigación de mercados internacionales. Apéndices, casos en video.\nManual del instructor (inglés)\r\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "864 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978- 970-26-1185-1.jpg"
+      "ImageSource": "978- 970-26-1185-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/searchresults?indexCatalogue=pearson-mexico-products&searchQuery=Investigaci%C3%B3n+de+mercados&wordsMode=0"
     },
     {
       "Id": "138",
       "Title": "Investigación de mercados",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "1ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Introducción a la investigación de mercados.\r\nDefinición del problema de investigación de\r\nmercados y desarrollo del enfoque.\r\nDiseño de la investigación, datos\r\nsecundarios y sindicados.\r\nInvestigación cualitativa.\r\nEncuestas y observación.\r\nExperimentación e investigación causal.\r\nMedición y escalamiento.\r\nDiseño de cuestionarios y formatos.\r\nMuestreo: Diseño y procedimientos.\r\nRecopilación y preparación de los datos.\r\nAnálisis de datos: Distribución de\r\nfrecuencias, prueba de hipótesis y\r\ntabulación cruzada.\r\nAnálisis de datos: Prueba de hipótesis\r\nrelacionada con diferencias, correlación\r\ny regresión.\r\nPreparación y presentación del informe.\r\nCasos con datos reales y cuestionario:\r\nDell.\r\nAmerican Idol: ¿Un gran éxito para la\r\ninvestigación de mercados?\r\nBúsqueda de crecimiento a través de\r\nfusiones y adquisiciones.\r\nWendy’s.\nPresentación PowerPoint (español)\n(independientes a la edición en español)\r\nInstrucciones paso a paso para SPSS y\r\nExcel\r\nVideos de demostración por\r\ncomputadora que dan instrucciones\r\npaso a paso para cada procedimiento de\r\nanálisis de datos con SPSS y Excel\r\nArchivos de SPSS y Excel para los\r\nconjuntos de datos de todos los capítulos",
       "Format": "Formato 21 × 27 cm",
       "Pages": "432 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3560-0.jpg"
+      "ImageSource": "978-607-32-3560-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/investigacion-de-mercados-malhotra-1ed-libro"
     },
     {
       "Id": "139",
       "Title": "Comportamiento del consumidor",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "11ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Comportamiento del consumidor\ndeterminado por la tecnología.\nSegmentación, delimitación de mercados\nmeta y posicionamiento.\nMotivación y personalidad del consumidor.\nPercepción del consumidor.\nAprendizaje del consumidor.\nFormación y cambio de actitudes en el consumidor.\nPersuasión de los consumidores.\nDe la publicidad impresa y electrónica\na las redes sociales y los medios móviles.\nGrupos de referencia y recomendaciones\npersonales.\nLa familia y su posición social.\nInfluencia de la cultura en el\ncomportamiento del consumidor.\nSubculturas y comportamiento del consumidor.\nComportamiento transcultural del consumidor.\nToma de decisiones del consumidor\ny difusión de innovaciones.\nMarketing ético y responsabilidad social.\nInvestigación del consumidor.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "480 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3308-8.jpg"
+      "ImageSource": "978-607-32-3308-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comportamiento-consumidor-schiffman-11ed-libro"
     },
     {
       "Id": "140",
       "Title": "Comportamiento del\r\nconsumidor",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "15ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Comprar, tener y ter: Una introducción al\ncomportamiento del consumidor.\nBienestar social y del consumidor.\nPercepción.\nAprendizaje y memoria.\nMotivación y afecto.\nEl ser: mente, género y cuerpo.\nPersonalidad, estilos de vida y valores.\nActitudes y comunicaciones persuasivas.\nToma de decisiones.\nCompra, uso y eliminación.\nGrupos y medios sociales.\nIngresos y clase social.\nSubculturas.\nCultura.\nPresentaciones PowerPoint por capítulo\r\n(español)\r\nManual de recursos para el profesor\r\n(inglés)\r\nBanco de exámenes (inglés)\r\nBanco computarizado de exámenes\r\nTestGen (inglés)",
       "Format": "Formato 21.5 × 27.5",
       "Pages": "624 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-4021-5.jpg"
+      "ImageSource": "978-607-32-4021-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comportamiento-del-consumidor-11ed-book"
     },
     {
       "Id": "141",
       "Title": "Dirección de marketing",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "11ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Definición de marketing de las nuevas\nrealidades.\nDesarrollo de estrategias y planes de\nmarketing.\nRecopilación de información y pronóstico de\nla demanda.\nInvestigación de mercados.\nCreación de relaciones de lealtad de largo plazo.\nAnálisis de los mercados de consumo.\nAnálisis de mercados de negocios.\nAcceso a los mercados globales.\nIdentificación de segmentos de mercado y\nmercados meta.\nEstrategias de posicionamiento de marcas.\nCreación de brand equity.\nRelaciones con la competencia.\nEstablecimiento de la estrategia de productos.\nDiseño y gestión de servicios.\nLanzamiento de nuevas ofertas de mercado.\nDesarrollo de estrategias y programas para fijación de precios.\nDiseño y gestión de los canales integrados de marketing.\nGestión de la distribución minorista, de\nla venta mayorista y de la logística de mercado.\nDiseño y gestión de comunicaciones\nintegradas de marketing.\nGestión de comunicaciones digitales: Online,\nSocial Media y Marketing para dispositivos móviles.\nGestión de las comunicaciones masivas:\r\npublicidad, promociones de ventas, eventos,\r\nexperiencias y relaciones públicas.\r\nGestión de las comunicaciones\r\npersonales: marketing directo e interactivo,\r\nrecomendación de boca en boca y ventas personales.\r\nGestión de una organización de marketing\r\nholístico a largo plazo.\r\nApéndice Plan de marketing.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3700-0.jpg"
+      "ImageSource": "978-607-32-3700-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/direccion-de-marketing-kotler-15ed-libro"
     },
     {
       "Id": "142",
       "Title": "Administración de ventas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "8ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "Desarrollo y papel de las ventas en\r\nmarketing.\r\nEstrategias de ventas.\r\nComportamiento del consumidor y el\r\ncomprador organizacional.\r\nEsquema de ventas.\r\nVentas internacionales. Aspectos legales\r\ny éticos.\r\nResponsabilidades y preparación para las\r\nventas.\r\nHabilidades personales de ventas.\r\nAdministración de cuentas clave.\r\nVenta por relaciones.\r\nMarketing directo.\r\nInternet y aplicaciones de IT en ventas y\r\nadministración de ventas.\r\nReclutamiento y selección.\r\nMotivación y capacitación.\r\nOrganización y control.\r\nPronóstico y presupuesto de ventas.\r\nEvaluación de la fuerza de ventas.\nPresentación PowerPoint (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "560 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0852-9.jpg"
+      "ImageSource": "978-607-32-0852-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-ventas-jobber-8ed-libro"
     },
     {
       "Id": "143",
       "Title": "Las ventas en el mundo actual",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "6ª edición",
       "Year": "1997",
-      "Introduction": "—",
       "Content": "Las ventas personales y el concepto de mercadotecnia.\r\nOportunidades de carrera en ventas hoy.\r\nFactores que influyen en el proceso de\r\nconstrucción de relaciones.\r\nEstilos de comunicación.\r\nEl desarrollo de estrategias de venta de producto.\r\nEl conocimiento del comportamiento del comprador.\r\nDesarrollo de una base de clientes reales y potenciales.\r\nCómo acercarse al cliente.\r\nLa creación de la presentación de ventas estilo consultor.\r\nLa demostración de ventas a la medida.\r\nLa negociación de la resistencia del comprador.\r\nEl cierre y confirmación de la venta.\r\nEl servicio a la venta.\r\nAdministración de la fuerza de ventas.\r\nAutoadministración.\r\nConsideraciones éticas en las ventas personales.\nTelemarketing.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "583 págs.",
@@ -1695,80 +1636,79 @@
       "Id": "144",
       "Title": "Administración estratégica de marca",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "3ª edición",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Marcas y administración de marcas.\r\nRentabilidad de la marca y satisfacción al cliente.\r\nPosicionamiento de marca.\r\nElección de elementos para crear una marca.\nDiseño de programas de marketing para crear una marca.\r\nCanales de comunicación para crear una marca.\r\nAsociación de marca para desarrollar una marca rentable.\r\nDesarrollo y medición de la marca.\r\nMedición de la marca: capturando la mente del cliente.\r\nMedición externa: capturando el mercado.\r\nDiseño e implementación de estrategias de marca.\r\nIntroducción y nombramiento de nuevos\r\nproductos y extensiones de la marca.\r\nAdministración de marcas en un determinado plazo.\r\nAdministración de marcas por límites\r\ngeográficos y por segmentos de mercado.\r\n¿Qué hace fuerte a una marca?",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "700 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1284-1.jpg"
+      "ImageSource": "978-970-26-1284-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-estrategica-marcas-keller-3ed-libro"
     },
     {
       "Id": "145",
       "Title": "Publicidad",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "7ª edición",
       "Year": "2007",
-      "Introduction": "—",
       "Content": "Fundamentos de publicidad.\r\nPlaneación y estrategia.\r\nPublicidad multimedia efectiva.\r\nPublicidad efectiva a través de mensajes.\nIntegración y evaluación de la publicidad.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "624 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1087-8.jpg"
+      "ImageSource": "978-970-26-1087-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/publicidad-wells-7ed-libro"
     },
     {
       "Id": "146",
       "Title": "Marketing de servicios",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "7ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Nuevos enfoques de marketing en la\neconomía de servicios.\nComportamiento del cliente en el encuentro de servicios.\nPosicionamiento de servicios en mercados competitivos.\nDesarrollo de productos de servicio:\nelementos básicos y complementarios.\nDistribución de los servicios a través de\ncanales físicos y electrónicos.\nFijación de precios y administración de\ningresos.\nPromoción de servicios y educación de los clientes.\nDiseño y administración de los procesos de servicio.\nEquilibrio entre la demanda y la capacidad\nproductiva.\nDiseño del ambiente de servicio.\nAdministración del personal para lograr una ventaja competitiva.\nAdministración de las relaciones y creación de lealtad.\nAdministración de las quejas y recuperación del servicio.\nIncremento de la calidad y productividad\ndel servicio.\nBúsqueda del liderazgo de servicios.\nPresentación PowerPoint de cada\r\ncapítulo (español)\r\nCasos disponibles en formato PDF en\r\nespañol en la página Web del libro",
       "Format": "Formato 21 × 27 cm",
       "Pages": "648 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2432-6.jpg"
+      "ImageSource": "978-607-32-2432-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/marketing-servicios-lovelock-7ed-libro"
     },
     {
       "Id": "147",
       "Title": "Marketing digital",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "5ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Parte I. La decisión de internacionalizarse.\nIntroducción al marketing digital.\nAnálisis de mercado online: micro-ambiente.\nEl Internet macroentorno.\nEstrategia de marketing digital.\nEl Internet y el marketing mix.\nEl marketing de relaciones a través de\nplataformas digitales.\nLa entrega de la experiencia del cliente en\nlínea.\nPlanificación de campañas para los medios digitales.\nLas comunicaciones de marketing que\nutilizan canales de medios digitales.\nEvaluación y mejora del rendimiento del\ncanal digital.\nPráctica de marketing digital de B2C\n(disponible en sitio web).\nPráctica de marketing digital B2B (disponible en sitio web).\nPresentación PowerPoint de cada\r\ncapítulo (español)\r\nCapítulos adicionales no incluidos en el\r\nlibro impreso (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "632 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2747-6.jpg"
+      "ImageSource": "978-607-32-2747-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/marketing-digital-chaffey-5ed-libro"
     },
     {
       "Id": "148",
       "Title": "Marketing internacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "5ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "Desarrollo económico global.\r\nEl entorno social y cultural.\r\nEl entorno legal y político.\r\nSistemas de información.\r\nInvestigación de mercados.\r\nSegmentación y posicionamiento.\r\nImportación y exportación.\r\nLicencias, inversiones y alianzas.\r\nProducto y decisiones de marca.\r\nPrecio, canales de distribución.\r\nPublicidad y relaciones públicas.\r\nLiderazgo, organización y control.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "672 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2339-6.jpg"
+      "ImageSource": "978-607-44-2339-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/marketing-internacional-keegan-5ed-libro"
     },
     {
       "Id": "149",
       "Title": "Marketing de fidelización",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Marketing",
       "Edition": "1ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "Introducción al marketing de fidelización.\r\nEl modelo de la fidelización.\r\nEstrategias en el management de las quejas\r\ny reclamos.\r\nLa administración del cliente como un\r\nactivo.\r\nLas experiencias como piedra angular\r\nde la lealtad.\r\nLos procesos como bases de las\r\nexperiencias.\r\nEl management de personal y su impacto\r\nen la fidelización.\r\nLa modelización en la fidelización.\r\nProgramas de fidelización.\r\nLa personalización digital en la fidelidad.\r\nLa organización y el cambio que lidera la\r\ncultura de la fidelización.",
       "Format": "Formato 17 × 23 cm",
       "Pages": "520 págs.",
@@ -1778,24 +1718,23 @@
       "Id": "150",
       "Title": "Administración estratégica\r\ny política de negocios",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Estrategia",
       "Edition": "13ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Introducción a la administración estratégica y política de negocios.\nGobierno corporativo.\nÉtica y responsabilidad social en la\nadministración estratégica.\nAnálisis ambiental.\nAnálisis interno: Análisis organizacional.\nFormulación de la estrategia: Análisis de\nsituaciones y estrategia de negocios.\nFormulación de la estrategia: Estrategia\ncorporativa.\nFormulación de la estrategia: Estrategia\nfuncional y opción estratégica.\nEstrategia de implementación y control.\nImplementación de la estrategia: Dotación\nde personal y dirección.\nEvaluación y control.\nIntroducción al análisis de casos.\nCd-Rom que incluye un aplicativo de las\ntablas EFAS, IFAS y la matriz SFAS\nCasos actualizados y nuevos casos de\ncompañías multinacionales y empresas\nlatinoamericanas (español)\n17 minicasos en la Web (inglés)\r\nCapítulos en la Web sobre tecnología,\r\nemprendimiento y organizaciones sin\r\nfines de lucro (inglés)\r\nManual del instructor: conceptos y casos\r\n(inglés)\r\nPresentación PowerPoint (inglés)\r\nTestGen (inglés)\r\nBanco de preguntas (inglés)\r\nVideos en DVD (inglés)",
       "Format": "Formato 20.3 × 25.2 cm",
       "Pages": "608 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-958-69-9255-8.jpg"
+      "ImageSource": "978-958-69-9255-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-estrategica-politica-negocios-wheelen-13ed-libro"
     },
     {
       "Id": "151",
       "Title": "Responsabilidad, ética y\r\nsustentabilidad empresarial",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Estrategia",
       "Edition": "2ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Evolución de la RSE: nacimiento, definición y proliferación.\r\nÉtica y filosofía de la RSE.\r\nHerramientas de gestión de la RSE.\r\nRSE y desarrollo sostenible.\r\nEmpresas y desarrollo humano: la\r\ncontribución de las compañías\r\ntransnacionales al desarrollo humano.\r\nLa perspectiva de los grupos de interés en\r\nla RSE.\r\nRSE estratégica.\r\nLa lógica de la responsabilidad corporativa\r\nen el buen gobierno.\r\nCondiciones laborales en América Latina y\r\nresponsabilidad social.\r\nEl mercadeo y la RSE.\r\nLogística con responsabilidad social\r\nFinanzas y RSE.\r\nRelaciones y alianzas entre empresas ONG, impacto en el desarrollo social.\r\nLa lógica de creación de valor mezclado en la PYME latinoamericana.\r\nCasos de estudio.\nPresentaciones PowerPoint (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Request": "VERDADERO"
@@ -1804,146 +1743,145 @@
       "Id": "152",
       "Title": "Conceptos de\r\nadministración estratégica",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Estrategia",
       "Edition": "16ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Naturaleza de la administración estratégica.\r\nLa visión y la misión de la empresa.\r\nEvaluación externa.\r\nEvaluación interna.\r\nEstrategias en acción.\r\nAnálisis y elección de la estrategia.\r\nImplementación de estrategias: temas de\r\nadministración, operaciones y recursos\r\nhumanos.\r\nImplementación de estrategias: Temas\r\nde marketing, finanzas/ contabilidad,\r\ninvestigación y desarrollo y aspectos de MIS.\r\nRevisión, evaluación y control de estrategias.\r\nÉtica de negocios, responsabilidad social y sostenibilidad ambiental.\r\nTemas globales e internacionales.\r\nCuestiones mundiales e internacionales.\r\nAnálisis de casos de gestión estratégica.\r\nCómo preparar y presentar un análisis de caso.\nPresentaciones PowerPoint por capítulo\r\n(español)\r\nManual de recursos para el profesor\r\n(inglés)\r\nBanco de exámenes (inglés)\r\nBanco computarizado de exámenes\r\nTestGen (inglés)",
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "432 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-4019-2.jpg"
+      "ImageSource": "978-607-32-4019-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/conceptos-de-administracion-estrategica-16ed-book"
     },
     {
       "Id": "153",
       "Title": "Ética en los negocios",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Estrategia",
       "Edition": "7ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Ética y negocios.\r\nPrincipios de ética en los negocios.\r\nEl sistema de negocios.\r\nLa ética en el mercado.\r\nÉtica y medio ambiente.\r\nLa ética de la producción para el\r\nconsumidor y el marketing.\r\nLa ética de la discriminación en el trabajo.\r\nEl individuo en la organización.\nManual del instructor (inglés)\r\nPresentación PowerPoint (español)\r\nBanco de exámenes (inglés)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "504 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1312-7.jpg"
+      "ImageSource": "978-607-32-1312-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/etica-negocios-velasquez-7ed-libro"
     },
     {
       "Id": "154",
       "Title": "Estrategias de\r\nenseñanza-aprendizaje",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Estrategia",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Introducción.\nEstrategias para indagar sobre los conocimientos previos.\nPreguntas.\nEstrategias que promueven la comprensión\nmediante la organización de la información.\nDiagramas.\nMapas cognitivos.\nOtras estrategias que promueven la comprensión.\nEstrategias grupales.\nMetodologías activas para contribuir al desarrollo de competencias.\nFuentes bibliográficas.\nFuentes electrónicas.\nPresentación PowerPoint (español)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "192 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0752-2.jpg"
+      "ImageSource": "978-607-32-0752-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estrategias-ense%C3%B1anza-aprendizaje-pimienta-1ed-libro"
     },
     {
       "Id": "155",
       "Title": "Aprendizaje, competencias\r\ny TIC",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Estrategia",
       "Edition": "2ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "El aprendizaje: base fundamental del\nenfoque por competencias.\nEl aprendizaje como construcción social.\nLas competencias.\nEl aprendizaje basado en competencias.\nLa planeación para el aprendizaje en el ABC.\nLos medios o recursos a utilizar: la presencia\nde las TIC.\nLas TIC y las actividades de aprendizaje.\nLa evaluación para el desempeño.\nLas rúbricas: método alternativo de\nevaluación basado en competencias.\nEl portafolio digital: método alternativo en la\nevaluación por competencias.\nAprendizaje situado: una perspectiva\nintegradora apoyada en las TIC.\nAulas para el aprendizaje en el siglo xxi.\nLos nativos digitales y la inteligencia medida\npor dispositivos múltiples.\nPresentación PowerPoint (español)",
       "Format": "Formato 20 × 25.5",
       "Pages": "360 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3813-7.jpg"
+      "ImageSource": "978-607-32-3813-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/aprendizaje-competencias-y-tic-2ed-book"
     },
     {
       "Id": "156",
       "Title": "Estrategias docentes\r\ncon tecnologías:",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Educación",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Fundamentos para el aprovechamiento de las tecnologías de la información y\r\nla comunicación en el nivel superior: un modelo.\r\nCaracterísticas de los ambientes y herramientas digitales: revisión y tipología.\r\nLa comunicación y la interactividad como base para el diseño de actividades de enseñanza y aprendizaje.\r\nEl diseño de las interacciones en las\r\nactividades mediadas por herramientas tecnológicas digitales. \n¿Cómo construir un diseño instruccional y de la evaluación del aprendizaje con tecnologías?\r\nAplicación de cinco familias de estrategias de enseñanza y aprendizaje con tecnologías.\r\nUna mirada al estudiante: cómo fomentar las competencias para la autonomía en entornos de aprendizaje mediados por tecnologías.\r\nConclusiones y panorama del uso de tecnologías por parte de los docentes.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "264 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1491-9.jpg"
+      "ImageSource": "978-607-32-1491-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estrategias-docentes-teconologias-pe%C3%B1alosa-1ed-mylab"
     },
     {
       "Id": "157",
       "Title": "Administración de\r\nrecursos humanos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "14ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Introducción a la administración de recursos humanos.\r\nLa estrategia y el análisis de la administración de recursos humanos.\r\nAnálisis de puestos y proceso de la administración del talento.\r\nPlaneación y reclutamiento de personal.\r\nLas pruebas y la selección de empleados.\r\nEntrevistas a candidatos.\r\nCapacitación y desarrollo de empleados.\r\nAdministración y evaluación del desempeño.\r\nAdministración de la retención, participación y carrera de los empleados.\r\nEstablecimiento de planes salariales estratégicos.\r\nRemuneración por desempeño e incentivos económicos.\r\nPrestaciones y servicios.\r\nÉtica, relaciones de los empleados y trato justo en el trabajo.\r\nSeguridad y salud de los empleados.\r\nAdministración global de recursos humanos.\nPresentación PowerPoint de cada capítulo (español)\r\nCapítulos adicionales al libro impreso descargables del sitio Web",
       "Format": "Formato 21 × 27 cm",
       "Pages": "512 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3311-8.jpg"
+      "ImageSource": "978-607-32-3311-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-recursos-humanos-dessler-14ed-libro"
     },
     {
       "Id": "158",
       "Title": "Administración de recursos\r\nhumanos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "6ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Administración de recursos humanos\r\nPlaneación de necesidades de personal.\r\nLas pruebas y la selección de personal.\r\nCapacitación y desarrollo de personal.\r\nAdministración de la retención, participación y carrera de los empleados.\r\nEstablecimiento de planes salariales estratégicos.\r\nRemuneración por desempeño e incentivos económicos.\r\nPrestaciones y servicios.\r\nÉtica, relaciones laborales y trato justo en el trabajo.\r\nSeguridad y salud de los trabajadores.\r\nAdministración de recursos humanos a escala global y en empresas pequeñas.\r\nApéndice. Portales web para reclutamiento global y en países latinoamericanos.\nPresentaciones PowerPoint por capítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "620 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-4101-4.jpg"
+      "ImageSource": "978-607-32-4101-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-de-recursos-humanos-enfoque-latinoamericano-6ed-book"
     },
     {
       "Id": "159",
       "Title": "Administración de\r\nrecursos humanos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "11ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Administración estratégica de recursos\r\nhumanos: una perspectiva general.\r\nResponsabilidad social y ética empresarial.\r\nDiversidad de la fuerza laboral, oportunidad equitativa de empleo y acción afirmativa.\r\nAnálisis de puesto y planeación de recursos humanos.\r\nReclutamiento.\r\nSelección.\r\nCapacitación y desarrollo.\r\nEvaluación del desempeño.\r\nCompensación.\r\nPrestaciones, compensación psicológica y otros aspectos de la compensación.\r\nUn ambiente laboral seguro y saludable.\r\nSindicatos y negociación colectiva.\r\nRelaciones internas con los empleados.\r\nAdministración global de recursos humanos.\nManual del instructor (inglés)\r\nPresentación PowerPoint (español)\r\nCompanion Website (inglés)\r\nBanco de exámenes (inglés)\r\nDVD con video (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "512 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0203-9.jpg"
+      "ImageSource": "978-607-32-0203-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-recursos-humanos-mondy-11ed-libro"
     },
     {
       "Id": "160",
       "Title": "Administración de la\r\ncompensación",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "3ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Introducción al desarrollo organizacional.\nAdministración del proceso de desarrollo\norganizacional.\nProceso de diagnóstico en el desarrollo\norganizacional.\nIntervención en la cultura organizacional\nCambio organizacional.\nÉtica organizacional.\nComunicación organizacional y resolución\nde conflictos.\nLiderazgo.\nCoaching.\nEquipos y grupos de trabajo.\nEl proceso de consultoría en el desarrollo\norganizacional.\nEl consultor, agente de cambio organizacional y tendencias.",
       "Format": "Formato 21 × 27 cm",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-compensacion-varela-2ed-libro"
     },
     {
       "Id": "161",
       "Title": "Relaciones humanas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "9ª edición",
       "Year": "2007",
-      "Introduction": "—",
       "Content": "Un marco para el desarrollo interpersonal.\r\nComunicaciones interpersonales.\r\nHabilidades del trabajo en equipo.\r\nDesarrollo de habilidades de trabajo en\r\nequipo.\r\nEl solucionar problemas de grupos y toma\r\nde decisión.\r\nDiversidad cultural.\r\nResolución de conflictos con otros.\r\nEl convertirse en líder eficaz.\r\nMotivación.\r\nAyuda a otros para crecimiento y desarrollo.\r\nHabilidades políticas positivas.\r\nHabilidades para la satisfacción del cliente.\r\nÉtica y valores.\r\nAdministración del estrés y productividad\r\npersonal.\r\nBúsqueda de trabajo y habilidades para la\r\ncarrera de vida.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "384 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1080-9.jpg"
+      "ImageSource": "978-970-26-1080-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/relaciones-humanas-dubrin-9ed-libro"
     },
     {
       "Id": "162",
       "Title": "Comportamiento\r\norganizacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "1ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Marco del comportamiento organizacional.\nComportamiento humano en el campo\nlaboral.\nLas organizaciones en su relación social.\nGestión de personal.\nMotivación de las personas en las\norganizaciones.\nTeorías de la personalidad.\nSalud mental en las organizaciones.\nÉtica y responsabilidad social.\nGrupos y equipos en las organizaciones.\nComunicación y organización.\nPoder e influencia en la organización.\nLiderazgo en las orgacizaciones.\nDiseño organizacional.\nCultura organizacional y contexto cultural.\nLa gestión del conocimiento, el aprendizaje\ny la gestión de las competencias\nlaborales.\nToma de decisiones.\nConflicto, crisis y estrés.\nGestión del cambio.\nEstrategia organizacional.\nWebsite (español)\r\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "568 págs.",
@@ -1954,78 +1892,77 @@
       "Id": "163",
       "Title": "Desarrollo organizacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "2ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Introducción al desarrollo organizacional.\r\nAdministración del proceso de desarrollo organizacional.\r\nProceso de diagnóstico en el desarrollo organizacional.\r\nIntervención en la cultura organizacional.\r\nCambio organizacional.\r\nÉtica organizacional.\r\nComunicación organizacional y resolución de conflictos.\r\nLiderazgo.\r\nCoaching.\r\nEquipos y grupos de trabajo.\r\nEl proceso de consultoría en el desarrollo organizacional.\r\nEl consultor, agente de cambio organizacional y tendencias.",
       "Format": "Formato 21 × 27 cm",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-organizacional-hernandez-1ed-libro"
     },
     {
       "Id": "164",
       "Title": "Comportamiento organizacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "17ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "¿Qué es el comportamiento organizacional?\nLa diversidad en las organizaciones.\nLas actitudes y la satisfacción en el trabajo.\nLas emociones y los estados de ánimo.\nLa personalidad y los valores.\nLa percepción y la toma de decisiones individual.\nConceptos de motivación.\nMotivación: de los conceptos a las aplicaciones.\nFundamentos del comportamiento de los grupos.\nLos equipos de trabajo.\nComunicación.\nLiderazgo.\nPoder y política.\nConflicto y negociación.\nFundamentos de la estructura organizacional.\nCultura organizacional.\nPolíticas y prácticas de recursos humanos.\nCambio organizacional y manejo del estrés.\nPresentaciones PowerPoint por capítulo (español)\r\nManual de recursos para el profesor (inglés)\r\nBanco de exámenes (inglés)\r\nBanco computarizado de exámenes\r\nTestGen (inglés)",
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "744 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3985-1.jpg"
+      "ImageSource": "978-607-32-3985-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comportamiento-organizacional-17ed-book"
     },
     {
       "Id": "165",
       "Title": "Psicología del trabajo",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "5ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Psicología del trabajo: una orientación inicial.\nLas diferencias individuales.\nLas bases de selección de personal: el\nanálisis de puestos de trabajo, competencias y eficacia de la selección.\nProcesos de selección de personal y métodos de evaluación: ¿qué funciona?\nLa evaluación de las personas en el trabajo.\nLas actitudes en el trabajo y las relaciones en el empleo.\nEnfoques para la motivación laboral y diseño de puestos de trabajo.\nDiseño en el trabajo.\nLas tecnologías de comunicación.\nCapacitación y desarrollo.\nEstrés y bienestar en el trabajo.\nGrupos, equipos y trabajo en equipo.\nLiderazgo.\nComprensión del cambio y la cultura organizacionales.\nGlosario.\nÍndice analítico.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "680 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1478-0.jpg"
+      "ImageSource": "978-607-32-1478-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-del-trabajo-arnold-5ed-ebook"
     },
     {
       "Id": "166",
       "Title": "Psicología organizacional",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "2ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "El campo de la psicología organizacional.\r\nLa psicología organizacional en México y\r\nAmérica Latina.\r\nEl cambio organizacional.\r\nVisión, misión y filosofía organizacionales.\r\nFormación de equipos de trabajo.\r\nLiderazgo y relaciones jefe-colaborador.\r\nSolución de problemas.\r\nCreatividad e innovación.\r\nLa toma de decisiones.\r\nMotivación.\r\nSolución de conflictos.\r\nParticipación y reconocimiento.\r\nAtracción del personal hacia la empresa.\r\nRetención del personal hacia la empresa.\r\nDesarrollo estructural de la organización.\r\nDesarrollo funcional de la organización.\r\nConocimiento del consumidor.\r\nUna discusión como corolario.\nPresentación PowerPoint (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "536 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3841-0.jpg"
+      "ImageSource": "978-607-32-3841-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicolog%C3%ADa-organizacional"
     },
     {
       "Id": "167",
       "Title": "Desarrollo de habilidades directivas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "9ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Desarrollo del autoconocimiento.\r\nManejo del estrés personal.\r\nSolución analítica y creativa de problemas.\r\nEstablecimiento de relaciones mediante una comunicación de apoyo.\r\nGanar poder e influencia.\r\nMotivación de los demás.\r\nManejo de conflictos.\r\nFacultamiento y delegación.\r\nFormación de equipos eficaces y trabajo en equipo.\r\nLiderear el cambio positivo.\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "648 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3675-1.jpg"
+      "ImageSource": "978-607-32-3675-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-de-habilidades-directivas-Whetten-9ed-libro"
     },
     {
       "Id": "168",
       "Title": "Management",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "1ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "Introducción a la problemática del management.\r\nArquitectura y sintonía del marco sistémico.\r\nEl perfil de negocios.\r\nEl perfil de gestión.\nEl enfoque descriptivo de los procesos de cambio: lógica, paradigmas y abordajes.\nEl enfoque descriptivo de los procesos de cambio: del cambio inercial al deliberado.\r\nEl enfoque normativo de los procesos de\r\ncambio: abordajes para el cambio deliberado o “intervenciones”.\r\nLos abordajes normativos del management y el lineamiento general recomendado.\r\nNuevos enfoques del management.\r\nNuevos instrumentos del management.\r\nPlanteos sobre el éxito empresarial sustentable.\r\nConsideraciones sobre el aprendizaje del management.\r\nLa perspectiva individual.\r\nLas perspectivas colectivas.\r\nHacia una estrategia de perspectiva múltiple para mejorar el management de una institución.\r\nConclusiones y reflexiones.",
       "Format": "Formato 17 × 23 cm",
       "Pages": "432 págs.",
@@ -2036,601 +1973,602 @@
       "Id": "169",
       "Title": "Desarrollo de habilidades\r\ndirectivas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Recursos humanos",
       "Edition": "2ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Planeación.\nOrganización.\nDirección.\nControl.\nComunicación.\nCreatividad.\nTrabajo en equipo y manejo de conflictos.\nTiempo.\nEvaluación de equipos de trabajo.\nDirección y liderazgo.\nDesarrollo de las organizaciones y del directivo.\nPresentación PowerPoint de cada capítulo (español)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "440 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2758-2.jpg"
+      "ImageSource": "978-607-32-2758-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-de-habilidades-directivas-juan-2ed-libro"
     },
     {
       "Id": "170",
       "Title": "Contabilidad",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "8ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "La contabilidad y el ambiente de la empresa.\nRegistro de las transacciones de negocios.\nEl proceso de ajuste.\nTerminación del ciclo contable.\nOperaciones comerciales.\nInventario de mercancías.\nControl interno y efectivo.\nCuentas por cobrar.\nActivos de planta y activos intangibles.\nPasivos circulantes, nómina y pasivos a largo plazo.\nCorporaciones: El capital pagado y el balance general.\nCorporaciones: Efectos sobre las utilidades retenidas y sobre el estado de resultados.\nEl estado del flujo de efectivo.\nAnálisis de estados financieros.\nÍndice analítico.\nManual del instructor (inglés)\r\nCompanion Website (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "896 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2696-0.jpg"
+      "ImageSource": "978-607-44-2696-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/contabilidad-horngren-8ed-libro"
     },
     {
       "Id": "171",
       "Title": "Manejo del proceso contable",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "1ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Unidad I Soporte y codificación contable de las operaciones financieras.\r\nManejo de cuentas contables con base en normas de información financiera. Pólizas de ingresos, egresos y diario.\r\nUnidad II Formulación de estados de situación financiera.\r\nRegistro contable de mercancías y/o productos.\r\nElaboración de la balanza de comprobación, balance general y estado de resultados.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "176 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3211-1.jpg"
+      "ImageSource": "978-607-32-3211-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/manejo-proceso-contable-callejas-1ed-libro"
     },
     {
       "Id": "172",
       "Title": "Operación contable en los\r\nprocesos de negocio",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "La contabilidad como generadora de información para la toma de decisiones.\r\nLa estructura económico-financiera del negocio: el balance general.\r\nLa eficiencia operativa de la empresa: el estado de resultados.\r\nOperaciones más comunes efectuadas por la empresa: la partida doble.\r\nRegistro de operaciones en mayor: las reglas del cargo y del abono.\r\nPrincipales cuentas en empresas comerciales: el catálogo de cuentas y la guía contabilizadora.\r\nComprobación de la partida doble: la balanza.\r\nRegistro cronológico de operaciones: las pólizas.\r\nRegistros de fin de ejercicio: el cierre contable.\r\nOperaciones de compra-venta: el impuesto al consumo.\r\nDecisiones de los accionistas: el estado de cambios en el capital contable.\r\nEntradas y salidas de recursos monetarios:\r\nel estado de flujos de efectivo.\r\nCuadernos de trabajo de cada capítulo. (descargables del sitio Web).",
       "Format": "Formato 21 × 27 cm",
       "Pages": "272 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2274-7.jpg"
+      "ImageSource": "978-607-32-2274-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/operacion-contable-prieto-1ed-libro"
     },
     {
       "Id": "173",
       "Title": "Contabilidad administrativa",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "13ª edición",
       "Year": "2006",
-      "Introduction": "—",
       "Content": "La contabilidad administrativa y la organización de la empresa.\r\nIntroducción al comportamiento del costo y a las relaciones costo/volumen.\nMedición del comportamiento del costo.\r\nSistemas de administración de costos y costeo basado en la actividad.\r\nInformación relevante y la toma de decisiones: decisiones de marketing.\r\nInformación relevante y la toma de decisiones: decisiones de producto.\r\nEl presupuesto maestro.\r\nPresupuestos flexibles y análisis de diferencia.\r\nSistemas de control de la administración y contabilidad de la responsabilidad.\nControl de la administración en organizaciones descentralizadas.\r\nPresupuesto de capital.\r\nAsignación del costo.\r\nCostos de puestos de trabajo.\r\nSistemas de costos por proceso.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "720 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0640-6.jpg"
+      "ImageSource": "978-970-26-0640-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/contabilidad-administrativa-horngren-13ed-libro"
     },
     {
       "Id": "174",
       "Title": "Contabilidad administrativa",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "2ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "El papel de la información financiera en la toma de decisiones.\r\nCostos estándar.\r\nCosteo variable o directo.\r\nEl modelo costo-volumen-utilidad.\r\nEl uso de los costos relevantes en la toma de decisiones a corto plazo.\r\nFijación de precios.\r\nPresupuestos.\r\nFlujo de efectivo.\r\nEvaluación del desempeño.\r\nIntroducción a la evaluación de proyectos de inversión.\r\nApéndice A. Ejercicios de repaso de contabilidad de costos.\r\nApéndice B. Ejercicios de repaso de contabilidad de costos.\r\nApéndice C. Ejercicios de repaso de contabilidad de costos.\r\nApéndice D. Prácticas finales del primer semestre.\r\nEvaluaciones del repaso.\r\nEscenarios.\nPresentación PowerPoint de cada capítulo (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "344 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2753-7.jpg"
+      "ImageSource": "978-607-32-2753-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/contabilidad-administrativa-francisco-2ed-libro"
     },
     {
       "Id": "175",
       "Title": "Contabilidad 1",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "2ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Conceptos básicos de contabilidad.\r\nNormas de Información Financiera.\r\nEl balance.\r\nRegistro de operaciones.\r\nCuentas de resultados, deudoras y acreedoras.\r\nInventarios perpetuos.\r\nEl inventario periódico, analítico o pormenorizado.\r\nEl estado de resultados.\r\nRegistro de operaciones en diario y en paquetes de cómputo.\r\nAjustes y la nueva elaboración de estados financieros.\r\nEstado de cambios en la situación financiera o estado de flujo de efectivo.\nPresentación PowerPoint de cada capítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3477-1.jpg"
+      "ImageSource": "978-607-32-3477-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/contabilidad-calleja-ed-libro"
     },
     {
       "Id": "176",
       "Title": "Costos para la toma de decisiones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "1ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Diferencias entre la Contabilidad Financiera,\r\nAdministrativa y Fiscal.\r\n¿Qué es un costo?\r\nValuación de los inventarios para la preparación de los Estados Financieros.\r\nPlaneación estratégica.\r\nPresupuesto maestro.\r\nEl modelo Costo-Volumen-Utilidad.\r\nToma de decisiones en el corto plazo.\nPresentación PowerPoint (español)\r\nManual de soluciones (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3477-1.jpg"
+      "ImageSource": "978-607-32-3477-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/costos-para-la-toma-de-decisiones-lambreton-1ed-ebook"
     },
     {
       "Id": "177",
       "Title": "Contabilidad de costos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "14ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "El gerente y la contabilidad administrativa.\r\nIntroducción a los términos y propósitos de los costos.\r\nAnálisis costo-volumen-utilidad.\r\nCosteo por órdenes de trabajo.\r\nCosteo basado en actividades y administración basada en actividades.\r\nPresupuesto maestro y contabilidad por áreas de responsabilidad.\r\nPresupuestos flexibles, variaciones en costos directos y control administrativo.\r\nPresupuestos flexibles, variaciones en costos indirectos y control administrativo.\r\nCosteo del inventario y análisis de la capacidad.\r\nDeterminación de la manera en que comportan los costos.\r\nToma de decisiones e información relevante.\r\nDecisiones de fijación de precios y administración de costos.\r\nEstrategia, tablero de control balanceado\r\n(balanced scorecard) y análisis de rentabilidad estratégica.\r\nAplicación de costos, análisis de rentabilidad del cliente y análisis de las variaciones en las ventas.\r\nAplicación de los costos del departamento de apoyo, costos comunes e ingresos.\r\nAplicaciones de los costos: Productos conjuntos y subproductos.\r\nCosteo por procesos.\r\nUnidades defectuosas, reprocesamiento y material de desecho.\nManual del instructor (inglés)\r\nPresentación PowerPoint (español)\r\nGuía de estudio para el estudiante(inglés)\r\nManual de soluciones (inglés)\r\nManual de Excel para las tareas (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "728 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1024-9.jpg"
+      "ImageSource": "978-607-32-1024-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/contabilidad-costos-horngren-14ed-libro"
     },
     {
       "Id": "178",
       "Title": "Costos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "2ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Conceptos básicos y el estado de costo de producción.\r\nRegistro de operaciones de una empresa manufacturera.\r\nCostos reales o históricos.\r\nCostos por órdenes de producción u órdenes de trabajo.\r\nCostos por procesos o actividades.\r\nCosteo basado en actividades.\r\nLa estimación de un elemento del costo:\r\nGastos indirectos.\r\nCostos estimados.\r\nCostos estándar.\r\nCosteo variable o directo.\r\nFijación de precios.\r\nDeterminación de márgenes de utilidad.\r\nApéndice A. Repaso de información financiera.\r\nApéndice B. Repaso de información financiera.\r\nApéndice C. Repaso de información financiera.\r\nApéndice D. Repaso de información financiera.\r\nApéndice E. Evaluaciones.\r\nApéndice F. Escenarios.\r\nApéndice G. Práctica o proyecto final de costos.\nPresentación PowerPoint en cada\r\ncapítulo (español)\r\nAdicional al texto del libro, en el sitio Web\r\nse han colocado para descargar hojas de\r\ncálculo con ejercicios resueltos",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "376 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1812-2.jpg"
+      "ImageSource": "978-607-32-1812-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/costos-calleja-2ed-libro"
     },
     {
       "Id": "179",
       "Title": "Análisis de estados financieros",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "1ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Los estados financieros básicos\r\nEl análisis financiero\r\nEstados comparativos y conversión a porcentajes de los estados financieros\r\nRazones financieras simples: solvencia y liquidez\r\nRazones financieras simples: actividad\r\nRazones financieras simples: rentabilidad\r\nRazones financieras simples: apalancamiento\r\nRazones financieras simples: cobertura\r\nRazones financieras simples: mercado\r\nRazones financieras estándar, tendencias y razones financieras combinadas\r\nAnálisis técnico.\nPresentaciones PowerPoint por capítulo (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "152 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-4017-8.jpg"
+      "ImageSource": "978-607-32-4017-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-de-estados-financieros-1ed-book"
     },
     {
       "Id": "180",
       "Title": "Presupuestos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "6ª edición",
       "Year": "2004",
-      "Introduction": "—",
       "Content": "El proceso administrativo.\nLos fundamentos de la planificación y control de utilidades.\nEl proceso de planificación y control de utilidades.\nAplicación de la planificación y control integral de utilidades.\nPlanificación y control de entradas: ventas y servicios.\nPlanificación y control de la producción:\ninventarios de producción en proceso y de artículos terminados.\nPlanificación y control de las compras y de la utilización de materiales: empresas fabricantes y no fabricantes.\nPlanificación y control de los costos de la mano de obra directa.\nPlanificación y control de gastos: gastos indirectos de fabricación, costos de calidad del producto y gastos de distribución y de administración.\nPresupuestos flexibles de gastos: conceptos, desarrollo y aplicación.\nPlanificación y control de desembolsos de capital.\nPlanificación y control de los flujos de efectivo.\nTerminación y aplicación del plan de utilidades.\r\nAnálisis de costo-volumen-utilidad y de contribución.\r\nEvaluación del desempeño y el control administrativo.\r\nAnálisis de las variaciones con el presupuesto.\r\nCoordinación de los sistemas de contabilidad con la planificación y control de utilidades.\r\nPerspectivas y panorama general.",
       "Format": "Formato 18.5 × 25.5 cm",
       "Pages": "496 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0551-5.jpg"
+      "ImageSource": "978-970-26-0551-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/presupuestos-welsch-6ed-libro"
     },
     {
       "Id": "181",
       "Title": "Contabilidad de costos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "3ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Naturaleza y objetivos de la contabilidad de costos.\r\nFundamentos y conceptos básicos de la contabilidad de costos.\r\nComportamiento del costo-Modelos.\r\nCosteo por procesos. Conceptos básicos.\r\nCosteo por procesos: procedimientos adicionales.\r\nProblemas especiales de asignación de costos.\r\nCosteo por órdenes de trabajo.\r\nCosteo estándar, materiales directos y mano de obra directa.\r\nCosteo estándar. Análisis de la carga fabril.\r\nAnálisis de la relación costo-volumen- utilidad.\r\nPresupuestos operativos.\r\nCosteo ABC-Gestión ABM.\nCd-Rom que incluye talleres de costos para la toma de decisiones (español)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "408 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-958-69-9127-8.jpg"
+      "ImageSource": "978-958-69-9127-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/contabilidad-costos-cuevas-2ed-libro"
     },
     {
       "Id": "182",
       "Title": "Auditoría",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "11ª edición",
       "Year": "2006",
-      "Introduction": "—",
       "Content": "La demanda de los servicios de auditoría.\r\nLa actividad del contador público certificado.\r\nReportes de auditoría.\r\nÉtica profesional.\r\nResponsabilidad legal.\r\nResponsabilidades y objetivos en la auditoría.\r\nMuestreo en auditoría.\r\nPlaneación de la auditoría y procedimientos analíticos.\r\nMaterialidad y riesgo.\r\nSección 404.\r\nAuditoría interna y control del riesgo.\r\nAuditoría de fraudes.\r\nEl impacto de la tecnología de la información y el proceso de auditoría.\r\nPlan global y programa de auditoría.\r\nAuditoría del ciclo de ventas.\r\nAuditoría para pruebas y controles sustantivos de las transacciones.\r\nComplemento de las pruebas en el ciclo de ventas.\r\nMuestreo en auditoría para pruebas detalladas en los balances.\r\nAuditoría del ciclo de nóminas y personal.\r\nAuditoría del ciclo de adquisiciones y pagos.\r\nComplemento de las pruebas en el ciclo de adquisiciones y pagos.\r\nAuditoría del ciclo de inventarios y almacenaje.\nAuditoría del ciclo de adquisición de capital y reembolso.\r\nAuditoría de saldos en caja.\r\nTerminación de la auditoría.\r\nOtros servicios de auditoría.\r\nAuditoría interna, gubernamental y operacional.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "799 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0739-7.jpg"
+      "ImageSource": "978-970-26-0739-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/auditoria-alvin-11ed-libro"
     },
     {
       "Id": "183",
       "Title": "Auditoría de estados financieros",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "3ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "La auditoría y su entorno.\r\nEl escenario actual de la auditoría.\r\nLa auditoría de estados financieros.\r\nPráctica moderna integral.\r\nNormas de trabajo del contador público independiente.\r\nInformación por secciones para el desarrollo de la práctica.\r\nLas cédulas de auditoría.\r\nConfirmaciones, declaraciones y certificaciones.\nPresentación PowerPoint de cada capítulo (español)\r\nAnexo de cédulas en formato PDF disponibles en sitio Web",
       "Format": "Formato 18.5 × 20.5 cm",
       "Pages": "224 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3120-6.jpg"
+      "ImageSource": "978-607-32-3120-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/auditoria-estados-financieros-sanchez-3ed-libro"
     },
     {
       "Id": "184",
       "Title": "Sistemas de control interno",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "3ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Teoría del riesgo.\nMarco integral de la administración de riesgos empresariales (Miare).\nTeoría del control.\nModelos de control interno.\nTécnicas y herramientas para una efectiva implementación de la administración de riesgos empresariales.\nSistema de control interno en base al proceso caja y bancos.\nSistema de control interno en base al sistema contable.\nSistema de control interno en base a la segregación de funciones incompatibles.\nSistema de control interno en base a transacciones del ciclo de ingresos.\nSistema de control interno en base a transacciones del ciclo de compras.\nSistema de control interno en base a transacciones del ciclo de producción e inventarios.\nSistema de control interno en base a transacciones del ciclo de tesorería.\nSistema de control interno en base a transacciones del ciclo de nóminas.\nParticipación de la función de contraloría en el establecimiento y vigilancia del sistema de control interno.\nNormatividad relacionada con el examen y evaluación del control interno.\nMétodos para examinar y evaluar el control interno.\nTendencias del control interno.\nPresentación PowerPoint de cada capítulo (español)\r\nAnexo con la resolución de estudios de caso contemplados en los capítulos 6 al 13",
       "Format": "Formato 21 × 27 cm",
       "Pages": "448 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3119-0.jpg"
+      "ImageSource": "978-607-32-3119-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-de-control-interno-3ed-libro"
     },
     {
       "Id": "185",
       "Title": "Auditoría interna",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "3ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "La función de auditoría interna.\r\nNormatividad de la auditoría interna.\r\nEstructura y administración de la función de auditoría interna.\r\nComité de auditoría.\r\nMetodología de la auditoría interna.\r\nEl informe de auditoría interna.\r\nServicios de aseguramiento de la confiabilidad e integridad de la información financiera y operacional.\r\nTendencias de la auditoría interna.\nPresentación PowerPoint en cada capítulo (español)\r\nMaterial adicional en página Web",
       "Format": "Formato 21 × 27 cm",
       "Pages": "432 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2046-0.jpg"
+      "ImageSource": "978-607-32-2046-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/auditoria-interna-santillana-3ed-libro"
     },
     {
       "Id": "186",
       "Title": "Presupuestos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Contabilidad",
       "Edition": "1ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Aspectos generales del presupuesto.\r\nPresupuesto de ventas.\r\nPresupuesto de producción.\r\nPresupuesto de gastos operacionales y no operacionales e ingresos no operacionales.\r\nPresupuesto de tesorería.\nCd-Rom que incluye un aplicativo para elaborar el presupuesto maestro y las cédulas presupuestales (español)",
       "Format": "Formato 21 × 27.5 cm",
       "Pages": "416 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-958-69-9220-6.jpg"
+      "ImageSource": "978-958-69-9220-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/presupuestos-diaz-1ed-libro"
     },
     {
       "Id": "187",
       "Title": "Principios de administración financiera",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "14ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "El papel de la administración financiera.\nEl entorno de los mercados financieros.\nEstados financieros y análisis de razones.\nFlujo de efectivo y planeación financiera.\nValor temporal del dinero.\nTasas de interés y valuación de bonos.\nValuación de acciones arte.\nRiesgo y rendimiento.\nEl costo del capital.\nTécnicas de elaboración del presupuesto de capital.\nFlujos de efectivo del presupuesto de capital.\nRiesgo y depuración del presupuesto de capital.\nApalancamiento y estructura de capital.\nPolítica de pagos.\nAdministración del capital de trabajo y de los activos corrientes.\nAdministración de los pasivos corrientes.\nValores híbridos y derivados.\nFusiones, LBO, desinversiones y quiebra empresarial.\nFianzas administrativas internacionales.",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3721-5.jpg"
+      "ImageSource": "978-607-32-3721-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/principios-de-administracion-financiera-gitman-14ed-libro"
     },
     {
       "Id": "188",
       "Title": "Información financiera en los negocios",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "1ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Información Financiera en los negocios.\r\nEstructura de la información financiera.\r\nDecisiones en los negocios y su ciclo de operación.\r\nLa ecuación contable básica.\r\nEstado de resultados.\r\nEstado de situación financiera.\r\nEstado de flujos de efectivo.\r\nEvaluación del desempeño.\nSolucionario\r\nPresentación PowerPoint (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "336 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3686-7.jpg"
+      "ImageSource": "978-607-32-3686-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/informaci%C3%B3n-financiera-en-los-negocios-1ed-libro"
     },
     {
       "Id": "189",
       "Title": "Moneda, banca y mercados financieros",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "10ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "¿Por qué del estudio de moneda, banca y mercados financieros?\r\nIntroducción al sistema financiero.\r\nEl dinero.\r\nTasas de interés.\r\nComportamiento de las tasas de interés.\r\nRiesgo y estructura de las tasas de interés.\r\nMercado de valores, la teoría de las expectativas racionales, y la hipótesis del mercado eficiente.\r\nAnálisis económico de la estructura financiera.\r\nCrisis financieras.\r\nBanca y gestión de instituciones financieras.\r\nAnálisis económico.\r\nSector bancario: estructura y competencia.\r\nBancos centrales.\r\nHerramientas de la política monetaria.\r\nEstrategia de la política monetaria.\r\nEl mercado de divisas.\r\nSistema financiero internacional.\r\nTeoría cuantitativa, la inflación y la demanda de dinero.\r\nLa curva IS.\r\nPolítica monetaria y la curva de demanda agregada.\r\nAnálisis de la oferta y demanda agregadas.\r\nTeoría de la política monetaria.\r\nEl rol las expectativas de la política monetaria.\r\nMecanismos de transmisión de la política monetaria.\nPresentación PowerPoint de cada capítulo (español)\r\nEstá disponible en la página Web del libro un capítulo extra sobre el modelo\r\nISLM y apéndices del libro (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "720 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2204-4.jpg"
+      "ImageSource": "978-607-32-2204-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/moneda-banca-mercados-financieros-mishkin-10ed-ebook1"
     },
     {
       "Id": "190",
       "Title": "Fundamentos de administración financiera",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "13ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Introducción a la administración financiera.\nValuación.\nHerramientas para el análisis y planeación financieras.\nAdministración del capital de trabajo.\nInversión en activos fijos.\nEl costo del capital, estructura de capital y la política de dividendos.\nFinanciamiento a intermedio y largo plazo.\nÁreas especiales de la administración financiera.\nManual del instructor (inglés)\nPresentación PowerPoint (inglés)\nCompanion Website (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "744 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2948-0.jpg"
+      "ImageSource": "978-607-44-2948-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-de-administracion-financiera-horne-13ed-ebook"
     },
     {
       "Id": "191",
       "Title": "Fundamentos de inversiones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "10ª edición",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "El entorno en las inversiones.\r\nMercados y transacciones.\nInformación de inversiones y seguridad en las transacciones.\r\nRetorno y riesgo.\r\nEl tiempo del valor del dinero.\r\nConceptos modernos de portafolios.\r\nInventarios comunes.\r\nAnálisis.\r\nEvaluación.\r\nAnálisis técnico, eficiencia en el mercado y desarrollo financiero.\r\nEvaluación de capital.\r\nAdministración profesional de portafolios.\r\nAdministrando nuestro propio portafolio.\r\nOpciones.\r\nFuturos financieros.\r\nTablas financieras.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "700 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1514-9.jpg"
+      "ImageSource": "978-970-26-1514-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-inversiones-gitman-10ed-libro"
     },
     {
       "Id": "192",
       "Title": "Proyectos de inversión",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "12ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "Conceptos introductorios.\r\nEstudio del mercado.\r\nTécnicas de predicción.\r\nEstudio técnico del proyecto.\r\nAspectos tributarios y administrativos.\r\nCostos e inversiones.\r\nCálculo de beneficios del proyecto.\r\nCómo construir los flujos de caja.\r\nCálculo y análisis de la rentabilidad.\r\nRiesgo e incertidumbre.\r\nCómo calcular el costo del capital.\r\nAnálisis para la optimización.\r\nProyectos en empresas en marcha.\r\nEstudio de casos: proyectos de nuevos negocios y en empresas en funcionamiento.\r\nOptimizador EasyPlanEx.",
       "Format": "Formato 17 × 21 cm",
       "Pages": "544 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-956-34-3106-3.jpg"
+      "ImageSource": "978-956-34-3106-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/proyectos-inversion-sapag-2ed-libro"
     },
     {
       "Id": "193",
       "Title": "Administración de proyectos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "2ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Primera parte. Conceptos y métodos\r\naplicables.\r\nConceptos de proyectos y otros términos\r\nútiles.\r\nMétodos de trabajo.\r\nSegunda parte. Administración del proyecto.\r\nIniciación del proyecto.\r\nPlanificación del proyecto.\r\nEjecución y control del proyecto.\r\nCierre del proyecto.\r\nAnexo A. Procedimiento de iniciación del\r\nproyecto.\r\nAnexo B. Procedimientos de planificación\r\ndel proyecto.\r\nAnexo C. Procedimiento de ejecución y control del proyecto.\r\nAnexo D. Procedimiento de cierre del proyecto.",
       "Format": "Formato 17 × 24 cm",
       "Pages": "412 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2791-9.jpg"
+      "ImageSource": "978-607-32-2791-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-proyectos-rivera-2ed-libro"
     },
     {
       "Id": "194",
       "Title": "Finanzas corporativas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Introducción.\r\nHerramientas.\r\nValoración básica.\r\nRiesgo y retorno.\r\nEstructura del capital.\r\nValuación.\r\nOpciones financieras.\r\nFinanciamiento a corto plazo.\r\nTópicos especiales.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "908 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1084-7.jpg"
+      "ImageSource": "978-970-26-1084-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/finanzas-corporativas-berk-1ed-libro"
     },
     {
       "Id": "195",
       "Title": "Las finanzas en las empresas\r\nmultinacionales",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "12ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "La globalización y la empresa multinacional.\r\nObjetivos financieros y gobierno corporativo.\r\nEl sistema monetario internacional.\r\nLa balanza de pagos.\r\nRetos financieros actuales: la crisis crediticia de 2007-2009.\r\nEl mercado de divisas.\r\nCondiciones de paridad internacional.\r\nDerivados.\r\nTasa de interés y swaps.\r\nExposición por transacción.\r\nExposición operativa.\r\nExposición por traslación.\r\nEl costo global y la disponibilidad de capital.\r\nDecisiones de inversión extranjera.\r\nAdministración de operaciones\r\nmultinacionales.\nManual del instructor (inglés)\r\nPresentación PowerPoint (inglés)\r\nCompanion Website (inglés)\r\nBanco de exámenes (inglés)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "656 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0252-7.jpg"
+      "ImageSource": "978-607-32-0252-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/finanzas-empresas-eiteman-12ed-libro"
     },
     {
       "Id": "196",
       "Title": "Ingeniería económica",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "12ª edición",
       "Year": "2004",
-      "Introduction": "—",
       "Content": "Fundamentos de ingeniería económica.\r\nIntroducción a la ingeniería económica.\r\nConceptos de costo y diseño de modelos\r\neconómicos.\r\nRelaciones dinero-tiempo y sus equivalencias.\r\nTemas fundamentales de la ingeniería\r\neconómica.\r\nAplicación de las relaciones tiempo dinero.\r\nComparación de alternativas.\r\nDepreciación e impuestos al ingreso.\r\nTécnicas de estimación de costos.\r\nCambios de precio y tasas de cambio.\r\nAnálisis del reemplazo.\r\nManejo de la incertidumbre.\r\nTemas adicionales de ingeniería económica.\r\nEvaluación de proyectos con el método de la razón beneficio/costo.\r\nEstudios de ingeniería económica en las utilidades propiedad del inversionista.\r\nAnálisis probabilístico del riesgo.\r\nFinanciamiento y asignación del capital.\r\nManejo de las decisiones con atributos\r\nmúltiples.\n",
       "Format": "Formato 19 × 23.5 cm",
       "Pages": "740 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0529-4.jpg"
+      "ImageSource": "978-970-26-0529-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-economica-sullivan-12ed-libro"
     },
     {
       "Id": "197",
       "Title": "Fundamentos de ingeniería económica",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Finanzas",
       "Edition": "2ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "Parte 1. Estudio del dinero y su administración.\r\nDecisiones de ingeniería económica.\r\nEl valor del dinero en el tiempo.\r\nEstudio de la administración del dinero.\r\nCálculos de equivalencia en situaciones de inflación.\r\nParte 2. Evaluación del negocio y de los\r\nactivos de ingeniería.\r\nAnálisis del valor presente.\r\nAnálisis del valor anual equivalente.\r\nAnálisis de la tasa de retorno.\r\nResolución de múltiples tasas de retorno.\r\nParte 3. Desarrollo de flujos de efectivo de\r\nproyectos.\r\nContabilidad de la depreciación y los\r\nimpuestos sobre la renta.\r\nAnálisis del flujo de efectivo del proyecto.\r\nCómo manejar la incertidumbre de los\r\nproyectos.\r\nParte 4. Temas especiales de ingeniería\r\neconómica.\r\nDecisiones de situación.\r\nAnálisis del costo-beneficio.\r\nCómo entender los estados financieros.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "656 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2220-7.jpg"
+      "ImageSource": "978-607-44-2220-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-ingenieria-economica-park-2ed-libro"
     },
     {
       "Id": "198",
       "Title": "Introducción a los mercados \nde futuros y opciones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Negocios",
       "Edition": "8ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Mecánica de los mercados de futuros.\r\nEstrategias de cobertura con contratos de\r\nfuturos.\r\nTasas de interés.\r\nDeterminación de precios a plazos y de\r\nfuturos.\r\nFuturos sobre tasas de interés.\r\nSwaps.\r\nMecánica de los mercados de opciones.\r\nPropiedades de las opciones sobreacciones.\r\nEstrategias de negociación que incluyen\r\nopciones.\r\nIntroducción a los árboles binomiales.\r\nValuación de opciones sobre acciones:\r\nModelo Black-Scholes-Merton.\r\nOpciones sobre índices bursátiles y divisas.\r\nOpciones sobre futuros.\r\nLas letras griegas.\r\nÁrboles binomiales en la práctica.\r\nSonrisas de volativilidad.\r\nValor en riesgo.\nPresentación PowerPoint de cada\r\ncapítulo (español)\r\nIncluye Cd con software DerivaGem\r\nversión 2.01 (inglés)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "624 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2269-3.jpg"
+      "ImageSource": "978-607-32-2269-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/introduccion-a-los-mercados-de-futuros-y-opciones-hull-8ed-libro"
     },
     {
       "Id": "199",
       "Title": "Negocios internacionales",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Negocios",
       "Edition": "14ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Globalización y negocios internacionales.\nEntornos culturales que enfrentan las\r\nempresas.\r\nEntornos políticos y jurídicos que enfrentan\r\nlas empresas.\r\nEntornos económicos que enfrentan las\r\nempresas.\r\nGlobalización y sociedad.\r\nComercio internacional.\r\nInfluencia gubernamental.\r\nCooperación económica.\r\nEntorno financiero internacional.\r\nMercados globales de divisas.\r\nTipo de cambio.\r\nEstrategia de negocios internacionales.\r\nEvaluación y selección de países.\r\nEstrategias de importación y exportación.\r\nInversión directa y estrategias de\r\ncolaboración.\r\nOrganización de comercio internacional.\r\nMarketing global.\r\nManufactura global y gestión de la cadena de suministro.\r\nContabilidad internacional.\r\nFunción financiera multinacional.\r\nGestión de recursos humanos.\nPresentación PowerPoint de cada\r\ncapítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "888 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2160-3.jpg"
+      "ImageSource": "978-607-32-2160-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/negocios-internacionales-daniels-14ed-libro"
     },
     {
       "Id": "200",
       "Title": "Principios de administración\r\nde operaciones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Producción",
       "Edition": "9ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Operaciones y productividad.\r\nEstrategia de operaciones en un entorno\r\nglobal.\r\nAdministración de proyectos.\r\nPronósticos.\r\nDiseño de bienes y servicios.\r\nAdministración de la calidad.\r\nControl estadístico del proceso.\r\nEstrategia de procesos.\r\nPlaneación de la capacidad.\r\nEstrategias de localización.\r\nEstrategias de distribución de planta.\r\nRecursos humanos, diseño del trabajo y\r\nmedición del trabajo.\r\nAdministración de la cadena de trabajo.\r\nAnálisis de la cadena de trabajo.\r\nAdministración de inventarios.\r\nPlaneación agregada.\r\nPlaneación de requerimientos de materiales\r\n(MEP) y recursos de la empresa (ERP).\r\nProgramación a corto plazo.\r\nSistemas justo a tiempo y producción\r\nesbelta.\r\nMantenimiento y confiabilidad.\nMaterial de apoyo para el profesor (inglés)\r\nManual de soluciones para el profesor (inglés)\r\nPresentaciones PowerPoint (inglés)\r\nBanco de exámenes (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "744 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2336-2.jpg"
+      "ImageSource": "978-607-32-2336-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/principios-administracion-operaciones-render-9ed-libro"
     },
     {
       "Id": "201",
       "Title": "Administración de operaciones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Producción",
       "Edition": "10ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Parte 1. Creación de valor mediante la\r\nadministración de operaciones.\r\nUtilización de las operaciones para competir.\r\nSuplemento A. Toma de decisiones.\r\nAdministración de proyectos.\r\nParte 2. Administración de procesos.\r\nEstrategia de procesos.\r\nAnálisis de procesos.\r\nCalidad y desempeño.\r\nPlaneación de la capacidad.\r\nSuplemento B. Líneas de espera.\r\nAdministración de restricciones.\r\nSistemas esbeltos.\r\nParte 3. Administración de cadenas de\r\nsuministros.\r\nAdministración de inventarios de la cadena de suministros.\r\nSuplemento C. Modelos de inventarios\r\nespeciales.\r\nDiseño de la cadena de suministros.\r\nDecisiones de localización de la cadena de suministros.\r\nIntegración de la cadena de suministros.\r\nSustentabilidad de la cadena de suministros y logística humanitaria.\nPronósticos.\r\nPlaneación y programación de operaciones.\r\nPlaneación de recursos.\r\nSuplemento D. Programación lineal.\r\nApéndice 1. Distribución normal.\r\nApéndice 2. Tabla de números aleatorios.\r\nGlosario.\r\nÍndice de nombres.\r\nÍndice temático.\nManual del profesor\r\nPresentaciones PowerPoint\r\nBanco de exámenes",
       "Format": "Formato 21 × 27 cm",
       "Pages": "670 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2122-1.jpg"
+      "ImageSource": "978-607-32-2122-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-de-operaciones-lee-10ed-libro"
     },
     {
       "Id": "202",
       "Title": "Logística",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Producción",
       "Edition": "5ª edición",
       "Year": "2004",
-      "Introduction": "—",
       "Content": "La logística del negocio y la cadena de\r\nsuministro.\r\nEstrategia, planeación y producto de la\r\nlogística y de la cadena de suministro.\r\nEl servicio al cliente en la logística y la\r\ncadena de suministro.\r\nProcesamiento de pedidos y sistemas de\r\ninformación.\r\nFundamentos y decisiones sobre la\r\ntransportación.\r\nPronóstico de los requerimientos de la\r\ncadena de suministro.\r\nDecisiones sobre políticas de inventario.\r\nDecisiones sobre la compra y la\r\nprogramación de suministros.\r\nEl sistema y las decisiones sobre almacenamiento y manejo.",
       "Format": "Formato 19 × 23.5 cm",
       "Pages": "816 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0540-9.jpg"
+      "ImageSource": "978-970-26-0540-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/logisitca-ballou-5ed-libro"
     },
     {
       "Id": "203",
       "Title": "Control de calidad",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Producción",
       "Edition": "8ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "Introducción a la calidad.\r\nAdministración de la calidad total.\r\nFundamentos de estadísticas.\r\nGráficas de control para variables.\r\nTécnicas adicionales de control estadístico\r\nde proceso para variable.\r\nFundamentos de probabilidad.\r\nGráficas de control por atributos.\r\nMuestreo de aceptación de lote por atributos.\r\nSistemas de muestreo de aceptación.\r\nConfiabilidad.\r\nMétodos administrativos y de planeación.\nManual del instructor (inglés)\r\nPresentación PowerPoint (inglés)\r\nBanco de exámenes (inglés)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "552 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2121-7.jpg"
+      "ImageSource": "978-607-44-2121-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/control-calidad-besterfield-8ed-libro"
     },
     {
       "Id": "204",
       "Title": "Microeconomía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "2ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Economía.\r\nGráficos en economía.\r\nDemanda y oferta.\r\nElasticidad.\r\nExcedentes y demanda-oferta de mercado.\r\nElecciones de consumo.\r\nProducción.\r\nCostos.\nEstructura de mercado: competencia perfecta.\r\nEstructura de mercado: monopolio.\r\nEstructura de mercado: competencia monopolística.\r\nEstructura de mercado: oligopolio.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "200 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1065-2.jpg"
+      "ImageSource": "978-607-32-1065-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/microeconomia-ejercicios-flores-2ed-libro"
     },
     {
       "Id": "205",
       "Title": "Microeconomía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "11ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Introducción.\r\nCómo funcionan los mercados.\r\nLas elecciones de los consumidores.\r\nEmpresas y mercados.\r\nGobierno y fallas de mercado.\r\nMercado de factores, inequidad e incertidumbre.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "544 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3332-3.jpg"
+      "ImageSource": "978-607-32-3332-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/microeconom%C3%ADa"
     },
     {
       "Id": "206",
       "Title": "Microeconomía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Year": "2006",
-      "Introduction": "—",
       "Content": "Introducción.\r\nEvolución del sistema económico.\r\nEscasez y elección.\r\nCompetencia del mercado.\r\nEl funcionamiento de los mercados a través de la oferta y la demanda.\r\nElasticidad.\r\nAplicaciones al modelo de oferta y demanda.\r\nMercado de factores productivos.\r\nComportamiento del consumidor.\r\nTeoría de la empresa.\r\nCostos.\r\nCompetencia perfecta.\r\nCompetencia monopolística.\r\nOligopolio.\r\nMonopolio.\r\nEstructura de mercado de acuerdo con el número de consumidores.\r\nFallas de mercado.\nPresentación PowerPoint (español)\r\nCompanion Website (español)\r\nActividades para alumnos (español)\r\nArtículos de actualidad (español)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "368 págs.",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/microeconomia-graue-1ed-libro"
     },
     {
       "Id": "207",
       "Title": "Principios de microeconomía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "10ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Introducción a la economía.\nPrincipios de microeconomía, consumidores y empresas.\nImperfecciones del mercado y la función del gobierno.\nLa economía mundial.\nManual del instructor (inglés)\r\nPresentación PowerPoint (español)\r\nGuía de estudio para el estudiante (inglés)\r\nManual de soluciones (inglés)\r\nBanco de exámenes",
       "Format": "Formato 21 × 27 cm",
       "Pages": "512 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1239-7.jpg"
+      "ImageSource": "978-607-32-1239-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/principios-microeconomia-case-10ed-libro"
     },
     {
       "Id": "208",
       "Title": "Principios de macroeconomía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "10ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Introducción a la economía.\r\nConceptos y problemas en macroeconomía.\r\nTeoría macroeconómica.\r\nTemas actuales de macroeconomía.\r\nLa economía mundial.\nManual del instructor (inglés)\r\nPresentación PowerPoint (español)\r\nGuía de estudio para el estudiante (inglés)\r\nManual de soluciones (inglés)\r\nBanco de exámenes (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "480 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1367-7.jpg"
+      "ImageSource": "978-607-32-1367-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/principios-macroeconomia-case-10ed-libro"
     },
     {
       "Id": "209",
       "Title": "Macroeconomía Versión para Latinoamérica",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "11ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Introducción. \nCómo funcionan los mercados. \nUna visión general de la macroeconomía. \nOferta agregada y crecimiento económico. \nDemanda agregada, dinero e inflación. \nFluctuaciones económicas y políticas de estabilización. \nLa economía global.\nPresentación PowerPoint de cada capítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "464 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-956-34-3340-8.jpg"
+      "ImageSource": "978-956-34-3340-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/macroeconom%C3%ADa"
     },
     {
       "Id": "210",
       "Title": "Macroeconomía, ejercicios prácticos ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "3ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Qué es la economía. \nElaboración y utilización de gráficas. \nEl problema económico. \nUn primer vistazo a la macroeconomía. \nMedición del Producto Interno Bruto PIB. \nCrecimiento económico e inflación. \nMedición del empleo y del desempleo. \nOferta agregada y demanda agregada. \nMultiplicadores del gasto, modelo Keynesiano. \nEl dinero. \nDemanda de dinero, tasa de interés e ingreso nacional. \nComercio internacional. \nFinanzas internacionales.",
       "Format": "Formato 20 × 25.5 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-956-34-3455-9.jpg"
+      "ImageSource": "978-956-34-3455-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/macroeconomia-ejercicios-practicos-ramos-3ed-libro"
     },
     {
       "Id": "211",
+      "Title": "Macroeconomía en la economía global",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
+      "Edition": "3a edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Introducción. \nLa medición de la actividad económica. \nProducción y empleo. \nCrecimiento de largo plazo. \nEl dinero en la economía. \nOferta agregada, demanda agregada, producto y desempleo. \nEl modelo IS-LM. \nDinero, tasa de interés y tipo de cambio. \nPolíticas macroeconómicas en una economía abierta. \nInflación y déficit fiscales. \nInflación, desempleo y estabilización. \nConsumo y ahorro. \nInversión. \nLa cuenta corriente y el endeudamiento externo. \nEl gobierno y el ahorro nacional. \nMercados laborales y desempleo. \nOferta y demanda de dinero. \nBienes transables y no transables. \nCrisis económicas. \nLa globalización.\nGuía de estudio con nuevos problemas\ny ejercicios y ejemplos adicionales\nManual del profesor, que ayuda al\ninstructor a organizar el curso y preparar\nsus clases",
       "Format": "Formato 19.5 × 25.5 cm",
       "Pages": "836 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-956-34-3507-8.jpg"
+      "ImageSource": "978-956-34-3507-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/macroecomia-larrain-3ed-libro"
     },
     {
       "Id": "212",
       "Title": "Introducción a la economía Para no economistas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Year": "2002",
-      "Introduction": "—",
       "Content": "Conceptos básicos. \nLa economía. \nEscasez y elección. \nMicroeconomía. \nEl mercado. \nElasticidades. \nConsumidores y demanda. \nEmpresas y oferta. \nCostos. \nCompetencia perfecta. \nCompetencia imperfecta: monopolio, oligopolio y la vida real. \nMacroeconomía. \nLa economía como un sistema. \nOferta y demanda agregadas. \nLa demanda agregada. \nGobierno y política fiscal. \nDinero y sistema financiero. \nBanco central y política monetaria. \nSector externo y tipo de cambio. \nLa economía completa. \nTemas especiales. \nEmpleo y precios. \nComercio internacional. \nDesarrollo económico. \nDistribución del ingreso y pobreza.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "328 págs. ",
@@ -2641,23 +2579,22 @@
       "Id": "213",
       "Title": "Introducción a la economía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Acercamiento a la economía.\nEvolución del sistema económico. \nDe la edad antigua a nuestros días. \nEscasez y elección. \nCompetencia del mercado. \nEl funcionamiento de los mercados a través de la oferta y la demanda. \nElasticidad. \nAplicaciones al modelo de oferta y demanda. \nMercado de factores productivos. \nComportamiento del consumidor. \nTeoría de la empresa. \nCostos. \nCompetencia perfecta. \nCompetencia monopolística. \nOligopolio. \nMonopolio. \nEstructura de mercado de acuerdo con el número de consumidores. \nFallas de mercado. \nPeriodos históricos de la Macroeconomía. \nFlujo circular del ingreso/gasto. \nMedición del PIB-Enfoque ingreso y enfoque gasto. \nProducto agregado e ingreso agregado (enfoque keynesiano). \nOferta y demanda agregada. \nSistema monetario.\nPresentación PowerPoint de cada capítulo (español)\nSitio Web con actividades e información complementaria para profesores y estudiantes (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "416 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2286-0.jpg"
+      "ImageSource": "978-607-32-2286-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/introduccion-economia-graue-1ed-ebook1"
     },
     {
       "Id": "214",
       "Title": "Economía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "11a edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "Qué es la Economía. \nEl problema económico. \nOferta y Demanda. \nElasticidad. \nEficiencia y eficacia. \nMercados internacionales en acción. \nUtilidad y demanda. \nPosibilidades, preferencias y elecciones. \nOrganización de la producción. \nProducción y costos. \nCompetencia perfecta. \nMonopolio. \nCompetencia monopolística. \nOligopolio. \nEconomía del medio ambiente. \nMercados y los factores de producción. \nLa desigualdad económica. \nIncertidumbre e información. \nMedición del PIB y el crecimiento económico. \nMonitoreo del empleo y el índice de precios. \nCrecimiento económico. \nFinanzas, ahorro e inversión. \nEl dinero, índice de precios e inflación. \nTipo de cambio y balanza de pagos. \nOferta y demanda agregadas. \nMultiplicadores del gasto: el modelo keynesiano. \nInflación de los EE.UU. desempleo y ciclo de negocios. \nPolítica fiscal.\nPolítica monetaria. \nEconomía en el mundo.\nPresentación PowerPoint de cada capítulo (español)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "840 págs.",
@@ -2668,10 +2605,9 @@
       "Id": "215",
       "Title": "Matemáticas aplicadas a la administración y a la economía ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "5ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "Repaso de álgebra. \nEcuaciones de una variable. \nDesigualdades. \nLíneas rectas. \nFunciones y gráficas. \nLogaritmos y exponenciales. \nProgresiones y matemáticas financieras. \nÁlgebra de matrices. \nInversas y determinantes. \nProgramación lineal. \nLa derivada. \nCálculo de derivadas. \nOptimización y bosquejo de curvas. \nMás sobre derivadas. \nIntegración. \nLa integral definida. \nFunciones de varias variables.\nManual de soluciones (español)",
       "Request": "VERDADERO",
       "ImageSource": "978-607-44-2956-5.jpg"
@@ -2680,24 +2616,23 @@
       "Id": "216",
       "Title": "Matemáticas para administración y economía ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Economía",
       "Edition": "13ª edición",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Repaso de álgebra. \nFunciones y gráficas. \nRectas, parábolas y sistemas de ecuaciones. \nFunciones exponenciales y logarítmicas. \nMatemáticas financieras. \nÁlgebra matricial. \nProgramación lineal. \nIntroducción a la probabilidad y la estadística. \nTemas adicionales en probabilidad. \nLímites y continuidad. \nDiferenciación. \nTemas adicionales en diferenciación. \nTrazado de curvas. \nIntegración. \nMétodos y aplicaciones de la integración. \nVariables aleatorias continuas. \nCálculo de varias variables.\nManual de soluciones para el profesor (inglés)\nTestGen\n con libro electrónico\nen español para cursos de matemáticas\nbasados en Matemáticas para\nadministración y economía, 13ª edición,\nde Ernest F. Haeussler, Jr.",
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "884 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2916-6.jpg"
+      "ImageSource": "978-607-32-2916-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/matematicas-para-administracion-y-economia-ernest-13ed-libro"
     },
     {
       "Id": "217",
       "Title": "Estadística para administración y economía",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Matemáticas para administración y economía",
       "Edition": "7ª edición revisada",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Introducción. \nAgrupación y presentación de datos para expresar significados: Tablas y gráficas. \nMedidas de tendencia central y dispersión en distribuciones de frecuencias. \nProbabilidad I: Ideas introductorias. \nDistribuciones de probabilidad. \nMuestreo y distribuciones de muestreo. \nEstimación. \nPrueba de hipótesis: Prueba de una sola muestra. \nPrueba de hipótesis: Pruebas de muestras. \nCalidad y control de calidad. \nJi-cuadrada y análisis de varianza. \nRegresión simple y correlación. \nRegresión múltiple y modelado. \nMétodos no paramétricos. \nSeries de tiempo y pronósticos. \nNúmeros índice. \nTeoría de decisiones.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "888 págs.",
@@ -2708,106 +2643,105 @@
       "Id": "218",
       "Title": "Estadística para administración ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Matemáticas para administración y economía",
       "Edition": "6ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Introducción. \nOrganización y visualización de datos. \nMedidas numéricas descriptivas. \nProbabilidad básica. \nDistribuciones de probabilidad discreta. \nLa distribución normal. \nMuestreo y distribuciones muestrales. \nEstimación de intervalos de confianza. \nFundamentos de la prueba de hipótesis: pruebas de una muestra. \nPruebas de dos muestras y ANOVA de una vía. \nPruebas de chi cuadrada. \nRegresión lineal simple. \nRegresión múltiple. \nAplicaciones estadísticas en administración de la calidad (disponible en la página Web en inglés). \nApéndices. \nSoluciones y respuestas a problemas nones seleccionados. \nÍndice.\nManual de soluciones para el profesor (español)\nPresentaciones PowerPoint (español)\nTest ítem file\nTestGen\nCapítulo “Aplicaciones estadísticas en administración de la calidad” en archivo pdf\nArchivos de datos para Excel y Minitab\nGuía de Excel con soluciones de tópicos estadísticos\nArchivos de casos",
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "624 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2257-0.jpg"
+      "ImageSource": "978-607-32-2257-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estadistica-para-administracion-6ed-ebook"
     },
     {
       "Id": "219",
       "Title": "Estadística ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Matemáticas para administración y economía",
       "Edition": "11ª edición",
       "Year": "2013",
-      "Introduction": "—",
-      "Content": "Prefacio. \nIntroducción a la estadística. \nResumen y gráficas de datos. \nEstadísticos para describir, explorar y comparar datos. \nProbabilidad. Distribuciones de probabilidad discreta. \nDistribuciones de probabilidad normal. \nEstimaciones y tamaño de la muestra. \nPrueba de hipótesis. \nInferencias a partir de dos muestras. \nCorrelación y regresión. \nBondad de ajuste y tablas de contingencia. \nAnálisis de varianza. \nEstadística no paramétrica. \nControl estadístico de procesos. \nProyectos, procedimientos y perspectivas. \nApéndices. \nÍndice.\nPrefacio.\nIntroducción a la estadística.\nResumen y gráficas de datos.\nEstadísticos para describir, explorar y\ncomparar datos.\nProbabilidad.\nDistribuciones de probabilidad discreta.\nDistribuciones de probabilidad normal.\nEstimaciones y tamaño de la muestra.\nPrueba de hipótesis.\nInferencias a partir de dos muestras.\nCorrelación y regresión.\nBondad de ajuste y tablas de contingencia.\nAnálisis de varianza.\nEstadística no paramétrica.\nControl estadístico de procesos.\nProyectos, procedimientos y perspectivas.\nApéndices.\nÍndice.\nSoftware STATDISK\nProgramas actualizados para la serie de calculadoras TI-83/84 Plus\nVideos sobre tecnología y desarrollo de\nlas soluciones de ejercicios de repaso\nActualizaciones para Minitab 16\nConjuntos de datos en diferentes formatos\n con libro electrónico en\nespañol, para cursos de estadística basados\nen Estadística de Mario F. Triola.",
+      "Content": "Prefacio. \nIntroducción a la estadística. \nResumen y gráficas de datos. \nEstadísticos para describir, explorar y comparar datos. \nProbabilidad. Distribuciones de probabilidad discreta. \nDistribuciones de probabilidad normal. \nEstimaciones y tamaño de la muestra. \nPrueba de hipótesis. \nInferencias a partir de dos muestras. \nCorrelación y regresión. \nBondad de ajuste y tablas de contingencia. \nAnálisis de varianza. \nEstadística no paramétrica. \nControl estadístico de procesos. \nProyectos, procedimientos y perspectivas. \nApéndices. \nÍndice.\nPrefacio.\nIntroducción a la estadística.\nResumen y gráficas de datos.\nEstadísticos para describir, explorar y\ncomparar datos.\nProbabilidad.\nDistribuciones de probabilidad discreta.\nDistribuciones de probabilidad normal.\nEstimaciones y tamaño de la muestra.\nPrueba de hipótesis.\nInferencias a partir de dos muestras.\nCorrelación y regresión.\nBondad de ajuste y tablas de contingencia.\nAnálisis de varianza.\nEstadística no paramétrica.\nControl estadístico de procesos.\nProyectos, procedimientos y perspectivas.\nApéndices.\nÍndice.\nSoftware STATDISK\nProgramas actualizados para la serie de calculadoras TI-83/84 Plus\nVideos sobre tecnología y desarrollo de las soluciones de ejercicios de repaso\nActualizaciones para Minitab 16\nConjuntos de datos en diferentes formatos con libro electrónico en español, para cursos de estadística basados en Estadística de Mario F. Triola.",
       "Format": "Formato 21.5 × 27.5 cm",
       "Pages": "888 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1768-2.jpg"
+      "ImageSource": "978-607-32-1768-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estadistica-triola-11ed-libro"
     },
     {
       "Id": "220",
       "Title": "Matemáticas financieras ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Matemáticas para administración y economía",
       "Edition": "13ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Fundamentos de matemáticas. \nSeries y sucesiones. \nInterés y descuento simple. \nInterés compuesto. \nAnualidades. \nAmortización de créditos. \nConstitución de fondos. \nDepreciación de activos. \nAcciones, bonos y obligaciones. \nAnualidades contingentes.\nCapítulos online adicionales al libro impreso (español)",
       "Format": "Formato 18 × 23.5 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3854-0.jpg"
+      "ImageSource": "978-607-32-3854-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/matematicas-financieras-5ed-book"
     },
     {
       "Id": "221",
       "Title": "Investigación de operaciones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Matemáticas para administración y economía",
       "Edition": "9ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "¿Qué es la Investigación de Operaciones? \nModelado con Programación lineal. \nMétodo Simplex y análisis de sensibilidad. \nDualidad y Análisis Post óptimo. \nModelo de transporte y sus variantes. \nModelos de redes. \nProgramación lineal avanzada. \nProgramación de metas. \nProgramación lineal entera. \nProgramación heurística. \nProblema del agente viajero (TSP). \nProgramación dinámica determinística. \nModelos de inventario determinísticos. \nRepaso de probabilidad básica. \nAnálisis de decisiones y juegos. \nModelos de inventarios probabilísticos. \nCadenas de Markov. \nSistemas de colas. \nModelado de simulación. \nTeoría clásica de Optimización. \nAlgoritmos de programación no lineal.\nPresentación PowerPoint (español)\nManual del instructor (inglés)\nApéndice AMPL en el sitio Web (inglés)\nSoftware TORA y POM-QM (inglés)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "832 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0796-6.jpg"
+      "ImageSource": "978-607-32-0796-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/investigacion-de-operaciones-taha-9ed-libro"
     },
     {
       "Id": "222",
       "Title": "Métodos cuantitativos para los negocios ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Matemáticas para administración y economía",
       "Edition": "12ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Introducción al análisis cuantitativo. \nConceptos y aplicaciones de probabilidad. \nAnálisis de decisiones. \nModelos de regresión. \nPronósticos. \nModelos de control de inventarios. \nModelos de programación lineal: métodos gráficos y en computadora. \nAplicaciones de programación lineal. \nModelos de transporte, asignación y redes. \nProgramación entera, programación por metas y programación no lineal. \nGestión de proyectos. \nModelos de líneas de espera y teoría de colas. \nModelado de simulaciones. \nAnálisis de Markov. \nControl estadístico de la calidad. \n\nMÓDULOS EN LÍNEA \nProceso analítico de jerarquización. \nProgramación dinámica. \nTeoría de decisiones y la distribución normal. \nTeoría de juegos. \nHerramientas matemáticas: determinantes y matrices. \nOptimización basada en el Cálculo. \nProgramación lineal: el método simplex. \nAlgoritmos de transporte, asignación y redes.\nMódulos adicionales online (español)\nExcelQM y POM (inglés)\nArchivos de datos para Excel y POM-QM (inglés)\nBanco de exámenes (inglés)\nTestGen (inglés)\nCasos de estudio (inglés)\nProblemas (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3761-1.jpg"
+      "ImageSource": "978-607-32-3761-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/m%C3%A9todos-cuantitativos-para-los-negocios-12ed-ebook"
     },
     {
       "Id": "223",
       "Title": "Sistemas de información gerencial ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "14ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "PARTE UNO Organizaciones, administración y la empresa en red. \nLos sistemas de información en los negocios globales contemporáneos. \nNegocio electrónico global y colaboración. \nSistemas de información, organizaciones y estrategia. \nAspectos éticos y sociales en los sistemas de información. \nPARTE DOS Infraestructura de la tecnología de la información. \nInfraestructura de TI y tecnologías emergentes. \nFundamentos de inteligencia de negocios: bases de datos y administración de la información. \nTelecomunicaciones, Internet y tecnología inalámbrica. \nSeguridad en los sistemas de información. \nPARTE TRES Aplicaciones clave de sistemas para la era digital. \nObtención de la excelencia operacional e intimidad con el cliente: aplicaciones empresariales. \nE-commerce: mercados digitales, productos digitales. \nAdministración del conocimiento. \nMejora de la toma de decisiones. \nPARTE CUATRO Creación y administración de sistemas. \nCreación de sistemas de información. \nAdministración de proyectos. \nAdministración de sistemas globales.\nManual de soluciones (Recursos para profesores en inglés)\nPresentaciones PPT (Recursos para profesores en inglés)\nVideo casos (Recursos para profesores en inglés)\nBanco de exámenes (Recursos para profesores en inglés",
       "Format": "Formato 21 × 27 cm",
       "Pages": "680 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3696-6.jpg"
+      "ImageSource": "978-607-32-3696-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-de-informacion-gerencial-laudon-14ed-libro"
     },
     {
       "Id": "224",
       "Title": "Pronósticos en los negocios ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "9ª edición",
       "Year": "2010",
-      "Introduction": "—",
       "Content": "Introducción a los pronósticos en los negocios. \nRepaso de conceptos estadísticos básicos. \nExploración de patrones de datos e introducción a las técnicas de pronósticos. \nMétodos de promedios móviles y de suavización. \nSeries de tiempo y sus componentes. \nRegresión lineal simple. \nAnálisis de regresión múltiple. \nRegresión con datos de series de tiempo. \nLa metodología Box-Jenkins (ARIMA). \nPronósticos de juicio y ajuste de pronósticos. \nAdministración del proceso de pronósticos\nManual del profesor (inglés)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "576 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2700-4.jpg"
+      "ImageSource": "978-607-44-2700-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/pronostico-negocios-hanke-9ed-libro"
     },
     {
       "Id": "225",
       "Title": "E-commerce 2013 Negocios, tecnología, sociedad ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "9ª edición",
       "Year": "2014",
-      "Introduction": "—",
       "Content": "Parte 1. Introducción a e-commerce. \nLa revolución está iniciando. \nModelos y conceptos de negocios del comercio electrónico. \nParte 2. Infraestructura tecnológica para el comercio electrónico. \nInternet y Word Wide Web: la infraestructura del comercio electrónico. \nCreación de un sitio Web de comercio electrónico. \nSeguridad en línea y sistemas de pago. \nParte 3. Conceptos de negocios y cuestiones sociales. \nConceptos de marketing del comercio electrónico. \nComunicaciones de marketing del comercio electrónico. \nCuestiones éticas, sociales y políticas del comercio electrónico. \nParte 4. El comercio electrónico en acción. \nVentas al detalle y servicios en línea. \nContenido y medios en línea. \nRedes sociales, subastas y portales. \nComercio electrónico B2B: administración de la cadena de suministro y comercio colaborativo.\nMaterial de apoyo para el profesor (inglés)\nManual de soluciones para el profesor (inglés)\nPresentaciones PowerPoint (inglés)\nBanco de exámenes (inglés)",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "912 págs.",
@@ -2818,49 +2752,48 @@
       "Id": "226",
       "Title": "Análisis y diseño de sistemas",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "8ª edición",
       "Year": "2011",
-      "Introduction": "—",
       "Content": "Sistemas, roles y metodologías de desarrollo. \nComprensión y modelado de los sistemas organizacionales. \nAdministración de proyectos. \nRecopilación de información: métodos interactivos. \nRecopilación de información: métodos discretos. \nModelado ágil y prototipos. \nUso de diagramas de flujo de datos. \nAnálisis de sistemas mediante el uso de diccionarios de datos. \nEspecificaciones de los procesos y decisiones estructuradas. \nAnálisis y diseño orientado a objetos mediante el uso de UML. \nDiseño de una salida efectiva. \nDiseño de una entrada efectiva. \nDiseño de bases de datos. \nInteracción humano-computadora. \nDiseño de procedimientos precisos de entrada de datos. \nAseguramiento e implementación de la calidad.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "600 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0577-1.jpg"
+      "ImageSource": "978-607-32-0577-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-dise%C3%B1o-sistemas-kendall-8ed-libro"
     },
     {
       "Id": "227",
       "Title": "Microsoft® Office Word 2013",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Creación de documentos con Microsoft Word 2013. \nUso de tablas y plantillas para crear currículos y cartas de presentación. \nCreación de artículos de investigación, boletines de noticias y etiquetas de correspondencia combinadas.\nCapítulos adicionales en español (Introducción a Office, proyectos adicionales)\nBanco de exámenes (Recursos para profesores en inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "216 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2910-4.jpg"
+      "ImageSource": "978-607-32-2910-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/go-word-2013-gaskin-1ed-libro"
     },
     {
       "Id": "228",
       "Title": "Microsoft® Office Excel 2013",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Creación de una hoja de cálculo e introducción de datos.\nUso de funciones, creación de tablas y administración de libros de trabajo grandes.\nAnálisis de datos con gráficos circulares, gráficos lineales y herramientas de análisis de hipótesis.\nCapítulos adicionales en español (Introducción a Office, proyectos adicionales)\nBanco de exámenes (Recursos para profesores en inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "216 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2906-7.jpg"
+      "ImageSource": "978-607-32-2906-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/go-excel-2013-gaskin-1ed-libro"
     },
     {
       "Id": "229",
       "Title": "Microsoft® Office PowerPoint 2013",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "Sistemas de información",
       "Year": "2015",
-      "Introduction": "—",
       "Content": "Los primeros pasos con Microsoft Office PowerPoint 2013. \nDar formato a las presentaciones de PowerPoint. \nMejorar una presentación con animación, video, tablas y gráficos.\nCapítulos adicionales en español (Introducción a Office, proyectos adicionales)\nBanco de exámenes (Recursos para profesores en inglés)",
       "Format": "Formato 21 × 27 cm",
       "Pages": "208 págs. ",
@@ -2871,10 +2804,9 @@
       "Id": "230",
       "Title": "Macroeconomía ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "7ª edición",
       "Year": "2017",
-      "Introduction": "—",
       "Content": "Introducción \nCapítulo 1. Una gira por el mundo. \nCapítulo 2. Una gira por el libro. \nEl corto plazo. \nCapítulo 3. El mercado de bienes. \nCapítulo 4. Los mercados financieros. \nCapítulo 5. Los mercados de bienes y financieros: el modelo IS-LM. \nCapítulo 6. Los mercados financieros II: el modelo IS-LM ampliado. \nEl medio plazo. \nCapítulo 7. El mercado de trabajo. \nCapítulo 8. La curva de Phillips, la tasa natural de desempleo y la inflación. \nCapítulo 9. Del corto al medio plazo: el modelo IS-LM-PC. \nEl largo plazo. \nCapítulo 10. Los hechos del crecimiento. \nCapítulo 11. El ahorro, la acumulación de capital y la producción. \nCapítulo 12. El proceso tecnológico y el crecimiento. \nCapítulo 13. El progreso tecnológico: el corto, el medio y el largo plazo. \nLas expectativas. \nCapítulo 14. Los mercados financieros y las expectativas. \nCapítulo 15. Las expectativas, el consumo y la inversión. \nCapítulo 16. Las expectativas, la producción y la política macroeconómica. \nLa economía abierta. \nCapítulo 17. La apertura de los mercados de bienes y financieros. \nCapítulo 18. El mercado de bienes en una economía abierta. \nCapítulo 19. La producción, el tipo de interés, el tipo de cambio. \nCapítulo 20. Los sistemas de tipo de cambio \nDe vuelta a la política macroeconómica. \nCapítulo 21. ¿Deben imponerse límites a las autoridades económicas? \nCapítulo 22. La política fiscal: recapitulación. \nCapítulo 23. La política monetaria: recapitulación. \nCapítulo 24. Epílogo: la historia de la macroeconomía.\nMyLab en español\nDisponible en inglés",
       "Format": "Formato 19.5 × 26.5 cm",
       "Pages": "768 págs. ",
@@ -2885,10 +2817,9 @@
       "Id": "231",
       "Title": "Manual práctico de marketing ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "1ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Introducción a la administración de recursos humanos. \nIntroducción al marketing. \nAnálisis competitivo y planificación estratégica. \nMercado y demanda. \nInvestigación de marketing. \nComportamiento del consumidor. \nSegmentación y posicionamiento. \nProducto. \nPrecio. \nDistribución y fuerza de ventas. \nComunicación.",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
@@ -2898,10 +2829,9 @@
       "Id": "232",
       "Title": "Relaciones públicas Estrategias y tácticas ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "10ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "¿Qué son las relaciones públicas? \nLa evolución de las relaciones públicas. \nÉtica y profesionalidad. \nDepartamentos y consultoras de relaciones públicas. \nInvestigación. \nPlanificación. \nComunicación. \nEvaluación. \nOpinión pública y persuasión. \nGestión de conflictos: tratar con temas potencialmente conflictivos, riesgos y crisis. \nLos públicos. \nRelaciones públicas y derecho. \nInternet y medios sociales. \nRelaciones con la prensa escrita. \nRelaciones con la prensa audiovisual. \nOrganización y gestión de eventos. \nRelaciones públicas corporativas. \nEspectáculos, deporte y turismo. \nPolítica y gobierno. \nRelaciones públicas internacionales. \nTercer sector, salud y educación.",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "664 págs. ",
@@ -2912,24 +2842,23 @@
       "Id": "233",
       "Title": "Marketing estratégico ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "4ª edición",
       "Year": "2007",
-      "Introduction": "—",
       "Content": "Prefacio. \nSobre el autor. \nReconocimientos. \nParte I. Orientación al mercado y a los resultados. \nEl enfoque en el cliente y la gestión de su lealtad. \nEl enfoque en el cliente y la rentabilidad. \nImpacto en beneficio de las mejoras en el nivel de recompra. \nLa lealtad del cliente y su gestión. \nEl desarrollo de una orientación marketing en las empresas. \nResultados de marketing y rentabilidad de las acciones de marketing. \nIndicadores de mercado versus indicadores financieros. \nIndicadores de los resultados de marketing. \nRentabilidad del marketing. \nEstrategias de marketing y crecimiento rentable. \nUnidades de medida de la rentabilidad de marketing. \nParte II. Análisis de mercado. \nMercado potencial, demanda de mercado y cuota de mercado. \nDefinición del concepto mercado. \nMercado potencial. \nCiclo de vida de un producto. \nCuota de mercado y potencial de cuota de participación. \nAnálisis del cliente y creación de valor. \nLa identificación de los beneficios de los clientes. \nCostes en el ciclo de uso de un producto y creación de valor para los clientes. \nLa relación rendimiento-precio del producto y la creación de valor para el cliente. \nBeneficios percibidos y creación de valor. \nBeneficios emocionales y creación de valor. \nCostes de transacción y creación de valor. \nLa identificación de los valores que mueven el comportamiento. \nHerramientas de análisis del cliente. \nSegmentación de mercados y marketing de relaciones con los clientes. \nNecesidad de los clientes. \nLa segmentación con base en las necesidades. \nEstrategias de segmentación. \nMarketing de relaciones con los clientes. \nAnálisis de la competencia y fuentes de ventaja competitiva.",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "544 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2342-0.jpg"
+      "ImageSource": "978-848-32-2342-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/marketing-estrategico-best-4ed-libro"
     },
     {
       "Id": "234",
       "Title": "Marketing turístico ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "6ª edición",
       "Year": "2016",
-      "Introduction": "—",
       "Content": "Introducción: marketing turístico. \nCaracterísticas de los servicios de marketing turístico. \nPapel del marketing en la planificación estratégica. \nEl entorno del marketing. \nSistemas de información de marketing e investigación de mercado. \nMercados de consumo y análisis del comportamiento del consumidor. \nMercados organizacionales y su comportamiento de compra. \nSegmentación de mercado, selección de mercados objetivo y posicionamiento. \nDiseño y gestión de productos para turismo. \nMarketing interno. \nFijación del precio de los productos: consideraciones, enfoques y estrategias sobre el precio. \nCanales de distribución. \nPromoción de los productos: políticas de promoción, comunicación y publicidad. \nPromoción de los productos: relaciones públicas y promoción de ventas. \nVentas profesionales. \nMarketing directo y online: relaciones con los clientes. \nMarketing de destinos turísticos. \nEl plan de marketing.",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
@@ -2939,40 +2868,39 @@
       "Id": "235",
       "Title": "Gestión de recursos humanos",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Prefacio. \nParte I. Introducción. \nCómo responder a los retos presentes y futuros de los RRHH. \nParte II. El contexto de la dirección y gestión de los RRHH. \nGestión de los flujos de trabajo y análisis del puesto de trabajo. \nIgualdad de oportunidades y entorno legal. \nGestión de la diversidad. \nParte III. Contratación. \nReclutamiento y selección de empleados. \nGestión del despido de trabajadores, reducción del tamaño empresarial y colocación externa. \nParte IV. Desarrollo de los empleados. \nEvaluación y gestión de desempeño. \nFormación de los trabajadores. \nDesarrollo de la carrera profesional. \nParte V. Retribuciones. \nGestión de la retribución. \nPremiar al desempeño. \nDiseño y administración de las prestaciones sociales. \nParte VI. Gobernanza. \nGestión de las relaciones internas. \nRespeto de los derechos de los empleados y gestión de la disciplina. \nGestión de las relaciones con los representantes de los trabajadores. \nGestión de la seguridad y la salud en el trabajo. \nLas exigencias de la gestión internacional de los RRHH. \nApéndice A. \nPlan de marketing. \nDiccionario de términos de RRHH. \nNotas.",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "816 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2402-1.jpg"
+      "ImageSource": "978-848-32-2402-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/gestion-recursos-humanos-gomez-1ed-ebook1"
     },
     {
       "Id": "236",
       "Title": "Dirección estratégica ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "7ª edición",
       "Year": "2006",
-      "Introduction": "—",
       "Content": "I. Introducción. \nIntroducción a la estrategia. \nII. La posición estratégica. \nEl entorno. \nCapacidad estratégica. \nExpectativas y propósitos. \nIII. La elección estratégica. \nEstrategia en el ámbito de la unidad de negocio. \nEstrategia a nivel corporativo y estrategia internacional. \nDirecciones y métodos de desarrollo. \nIV. Estrategia puesta en acción. \nOrganizarse para lograr el éxito. \nPotenciar el éxito. \nGestión del cambio estratégico. \nV. Cómo se desarrolla la estrategia. \nComprensión del desarrollo de la estrategia. \nCasos de estudio para la edición en español.",
       "Format": "Formato 20 × 25 cm",
-      "Pages": "712 págs. Formato 20 × 25 cm",
+      "Pages": "712 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-842-05-4618-6.jpg"
+      "ImageSource": "978-842-05-4618-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/direccion-estrategica-johnson-7ed-libro"
     },
     {
       "Id": "237",
       "Title": "Macroeconomía ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "5ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Una gira por el mundo. \nUna gira por el libro. \nEl núcleo. \nEl corto plazo. \nEl mercado de bienes. \nLos mercados financieros. \nLos mercados de bienes y financieros: el modelo IS-LM. \nEl modelo IS-LM en una economía abierta. \nEl medio plazo. \nEl mercado de trabajo. \nAnálisis conjunto de todos los mercados: el modelo OA-DA. \nLa tasa natural de desempleo y la curva de Phillips. \nLa inflación, la actividad económica y el crecimiento de la cantidad nominal de dinero. \nEl largo plazo. \nLos hechos del crecimiento. \nEl ahorro, la acumulación de capital y la producción. \nEl progreso tecnológico y el crecimiento. \nExtensiones. \nLas expectativas \nLas expectativas: los instrumentos básicos. \nLos mercados financieros y las expectativas. \nLas expectativas, el consumo y la inversión. \nLas expectativas, la producción y la política macroeconómica. \nLa economía abierta: tipos de cambio y decisiones de política. \nLa política económica en una economía abierta. \nLos sistemas de tipos de cambio. \nPatologías. \nLa crisis de 2007-2011. \nLa elevada deuda. \nLa inflación alta. \n¿Se debe imponer limitaciones a las autoridades económicas? \n0La política macroeconómica y sus responsables: ¿qué sabemos? \nReglas y restricciones de la política monetaria y de la política fiscal. \nEuropa en marcha. \nLa integración económica y monetaria europea. \nEl euro: los pormenores. \nApéndice 1: repaso de los conocimientos de matemáticas. \nApéndice 2: introducción a la econometría.\nPreguntas tipo test\nGráficos activos\nGlosario\neBook\nPresentación PowerPoint",
       "Format": "Formato 19 × 25 cm",
-      "Pages": "682 págs. Formato 19 × 25 cm",
+      "Pages": "682 págs.",
       "Request": "VERDADERO",
       "ImageSource": "978-849-03-5401-8.jpg"
     },
@@ -2980,37 +2908,36 @@
       "Id": "238",
       "Title": "Liderazgo en las organizaciones",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Year": "2008",
-      "Introduction": "—",
       "Content": "Índice. \nPrefacio. \nIntroducción: la naturaleza del liderazgo. \nLa naturaleza del trabajo de dirección. \nPerspectivas sobre la conducta de liderazgo eficaz. \nLiderazgo participativo, delegación de responsabilidades y delegación de poder. \nCreación de papeles didácticos, atribuciones y el papel de los seguidores. \nPoder e influencia. \nRasgos y habilidades directivas. \nLas primeras teorías contingentes sobre el liderazgo directivo. \nLiderazgo carismático y transformacional. \nLiderazgo del cambio en las organizaciones. \nLiderazgo en equipos y decisiones de grupo. \nLiderazgo estratégico de los ejecutivos. \nDesarrollo de las habilidades de liderazgo. \nLiderazgo ético y diversidad. \nRevisión e integración. \nReferencias. \nÍndice analítico",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "552 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2344-4.jpg"
+      "ImageSource": "978-848-32-2344-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/liderazgo-organizaciones-yukl-1ed-libro"
     },
     {
       "Id": "239",
       "Title": "Economía internacional ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "9ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Teoría del comercio internacional. \nComercio mundial: una visión general. \nProductividad del trabajo y ventaja comparativa: el modelo ricardiano. \nFactores específicos y distribución de la renta. \nRecursos y comercio: El modelo Heckscher-Ohlin. \nEl modelo estándar de comercio. \nEconomías de escala y localización internacional de la producción. \nLas empresas en la economía global: decisiones de exportación contratación externa y empresas multinacionales. \nPolítica comercial internacional. \nLos instrumentos de la política comercial. \nLa economía política de la política comercial. \nLa política comercial en los países en vías de desarrollo. \nControversias de la política comercial. \nTipos de cambio y macroeconomía de una economía abierta. \nLa contabilidad nacional y la balanza de pagos. \nLos tipos de cambio y el mercado de divisas: un enfoque de activos. \nEl dinero los tipos de interés y los tipos de cambio. \nEl nivel de precios y el tipo de cambio a largo plazo. \nLa producción nacional y el tipo de cambio a corto plazo. \nLos tipos de cambio fijos y la intervención en los mercados de divisas. \nLa política macroeconómica internacional. \nEl sistema monetario internacional: una visión histórica Áreas monetarias óptimas y la experiencia europea. \nGlobalización financiera: oportunidades y crisis. \nPaíses en desarrollo: crecimiento crisis y reforma.",
       "Format": "Formato 21.5 × 27 cm",
       "Pages": "752 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-849-03-5402-5.jpg"
+      "ImageSource": "978-849-03-5402-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/economia-internacional-krugman-9ed-libro"
     },
     {
       "Id": "240",
       "Title": "Introducción a la economía ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "2ª edición",
       "Year": "2009",
-      "Introduction": "—",
       "Content": "¿Qué es la economía y de qué se ocupa? \nLos agentes económicos. \nUna aproximación global al funcionamiento de la economía. \nLa oferta y la demanda: el funcionamiento del mercado. \nProducción y costes. \nLos mercados. \nLos mercados de factores productivos. \nEl sector público y los mercados. \nLas cuentas nacionales. \nEl dinero. \nLa política económica. \nCrecimiento y ciclos económicos. \nEl comercio internacional. \nEl sector exterior. \nTipos de cambio mercado de divisas. \nLa organización de la economía supranacional: la Unión Europea.",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "328 págs. ",
@@ -3021,10 +2948,9 @@
       "Id": "241",
       "Title": "Introducción a la econometría ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "3ª edición",
       "Year": "2012",
-      "Introduction": "—",
       "Content": "Introducción y repaso. \nCuestiones económicas y datos. \nRepaso de probabilidad. \nRepaso de estadística. \nLos fundamentos de análisis de regresión. \nRegresión lineal con regresor único. \nRegresión con regresor único: contrastes de hipótesis e intervalos de confianza. \nRegresión lineal con múltiples regresores. \nContrastes de hipótesis e intervalos de confianza en la regresión múltiple. \nFunciones de regresión no lineales. \nEvaluación de estudios basados en la regresión múltiple. \nOtros temas relacionados con el análisis de regresión. \nRegresión con datos de panel. \nRegresión con variable dependiente binaria. \nRegresión con variables instrumentales. \nExperimentos y cuasi-experimentos. \nAnálisis de regresión con datos de series temporales económicas. \nIntroducción a la regresión de series temporales y predicción. \nEstimación de efectos casuales dinámicos. \nOtros temas relacionados con la regresión de series temporales. \nTeoría econométrica del análisis de regresión. \nTeoría de regresión lineal con regresor único. \nTeoría de regresión múltiple.",
       "Format": "Formato 21.5 × 27 cm",
       "Pages": "600 págs. ",
@@ -3035,28 +2961,28 @@
       "Id": "242",
       "Title": "Estadística para administración y economía ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "8ª edición",
       "Year": "2013",
-      "Introduction": "—",
       "Content": "La utilización de gráficos para describir datos. \nLa utilización de medidas numéricas para describir datos. \nEl azar: métodos de probabilidad. \nDistribuciones de probabilidad discreta. \nDistribuciones de probabilidad continua. \nDistribuciones de estadísticos muestrales. \nEstimación de intervalos de confianza: una población. \nEstimación de intervalos de confianza: otros temas. \nContrastes de hipótesis de una población. \nContrastes de hipótesis de dos poblaciones. \nAnálisis de regresión con una variable. \nAnálisis de regresión con múltiples variables. \nOtros temas del análisis de regresión. \nIntroducción a la estadística no paramétrica. \nAnálisis de la varianza. \nPredicción con modelos de series temporales. \nMuestreo: estratificado, por conglomerados y otros métodos de muestreo.",
       "Pages": "888 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-841-55-5220-8.jpg"
+      "ImageSource": "978-841-55-5220-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estadistica-para-administracion-y-economia-paul-8ed-book"
     },
     {
       "Id": "243",
       "Title": "Análisis multivariante ",
       "CategoryName": "Administración General",
-      "SubcategoryName": "Administración General",
+      "SubcategoryName": "España Administración General",
       "Edition": "5ª edición",
       "Year": "1999",
-      "Introduction": "—",
       "Content": "Preparación de un análisis multivariante. \nAnálisis previo de los datos. \nAnálisis factorial. \nTécnicas de dependencia. \nRegresión múltiple. \nAnálisis discriminante y regresión logística. \nAnálisis multivariante de la varianza. \nAnálisis conjunto. \nAnálisis de correlación canónica. \nTécnicas de interdependencia. \nAnálisis cluster. \nAnálisis multidimensional. \nTécnicas avanzadas y emergentes. \nModelos de ecuaciones estructurales. \nTécnicas emergentes en el análisis multivariante. \nApéndice A: Aplicaciones del análisis de datos multivariante.",
       "Format": "Formato 19.5 × 26.5 cm",
       "Pages": "768 págs. ",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2035-1.jpg"
+      "ImageSource": "978-848-32-2035-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis.multivariante-hair-5ed-libro"
     },
     {
       "Id": "300",
@@ -3065,7 +2991,7 @@
       "SubcategoryName": "Ciencias Sociales",
       "Year": "2017",
       "Introduction": "Comportamiento criminal. Una perspectiva psicológica es una obra precisa, bien investigada, contemporánea e integral. Ofrece una mirada detallada a la delincuencia, lo que puede conducir a ella, y cómo la conducta delictiva se puede prevenir, todo desde una perspectiva psicológica. Con un enfoque en los crímenes graves, particularmente aquellos que involucran la violencia, este texto ofrece una visión integral de un campo muy complejo a través de material efectivo y atractivo por primera vez en español.",
-      "Content": "Introducción a la conducta criminal\nOrigen del comportamiento criminal: factores de riesgo de desarrollo Orígenes del comportamiento criminal: factores biológicos Orígenes del comportamiento criminal: Aprendizaje y factores situacionales Agresión humana y violencia Delincuencia juvenil Psicopatía Delincuencia y trastornos mentales Homicidio, asalto, pareja íntima y violencia familiar Muerte múltiple, escuela y violencia en el lugar de trabajo Psicología del terrorismo moderno Asalto sexual Abuso sexual de niños y jóvenes Robo, invasiones en el hogar, robos y ofensas Crimen económico violento, delito cibernético y crímenes de intimidación Abuso de sustancias y delincuencia \nActualizaciones cruciales relativas a las definiciones de crímenes y categorías DSM-5. Incluye estadísticas actuales.\nResponde a los modelos y teorías recientemente propuestas. Temas de interés con cobertura amplia, como violencia en la pareja, delincuencia sexual juvenil, reclutamiento de terroristas, abuso de ancianos, etcétera.\n",
+      "Content": "Introducción a la conducta criminal Origen del comportamiento criminal: factores de riesgo de desarrollo\nOrígenes del comportamiento criminal: factores biológicos\nOrígenes del comportamiento criminal: Aprendizaje y factores situacionales\nAgresión humana y violencia\nDelincuencia juvenil\nPsicopatía\nDelincuencia y trastornos mentales\nHomicidio, asalto, pareja íntima y violencia familiar\nMuerte múltiple, escuela y violencia en el lugar de trabajo\nPsicología del terrorismo moderno\nAsalto sexual\nAbuso sexual de niños y jóvenes\nRobo, invasiones en el hogar, robos y ofensas\nCrimen económico violento, delito cibernético y crímenes de intimidación\nAbuso de sustancias y delincuencia\nActualizaciones cruciales relativas a las definiciones de crímenes y categorías DSM-5.\nIncluye estadísticas actuales.\nResponde a los modelos y teorías recientemente propuestas.\nTemas de interés con cobertura amplia, como violencia en la pareja, delincuencia sexual juvenil, reclutamiento de terroristas, abuso de ancianos, etcétera.",
       "Format": "Formato 21 × 27",
       "Pages": "592 págs.",
       "Request": "VERDADERO",
@@ -3078,7 +3004,7 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Comunicación",
       "Year": "2013",
-      "Content": "Trayectoria historiográfica de los estudios de la comunicación. La escuela de Sociología de Chicago. Emergencia de la comunicación aplicada. Escuelas contemporáneas de la comunicación. \nHistorias de la comunicación en la región. ",
+      "Content": "Trayectoria historiográfica de los estudios de la comunicación. \nLa escuela de Sociología de Chicago. \nEmergencia de la comunicación aplicada. \nEscuelas contemporáneas de la comunicación.\nHistorias de la comunicación en la región. ",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "360 págs.",
       "Request": "VERDADERO",
@@ -3092,8 +3018,7 @@
       "SubcategoryName": "Comunicación",
       "Edition": "2a edición",
       "Year": "2007",
-      "Introduction": "FALSE",
-      "Content": "Primera parte. El estudio científico de la comunicación. La comunicación como campo y objeto de estudio. \nSurgimiento y desarrollo de las teorías de la comunicación de masas. Segunda parte. Proceso y condicionantes en la producción y distribución de mensajes.\n La sociología de la producción de mensajes. Economía política crítica. \nEl imperialismo cultural en la comunicación internacional. Tercera parte. El contenido de los mensajes. \nInfluencia de los condicionantes productivos en el contenido de los mensajes. \nLa reconsideración de los efectos de los medios. La polisemia de los mensajes. Cuarta parte. Los procesos de recepción y apropiación. \nLa audiencia activa. Los estudios culturales. \n",
+      "Content": "Primera parte. El estudio científico de la comunicación. \nLa comunicación como campo y objeto de estudio. \nSurgimiento y desarrollo de las teorías de la comunicación de masas.\nSegunda parte. Proceso y condicionante en la producción y distribución de mensajes.\nLa sociología de la producción de mensajes. \nEconomía política crítica.\nEl imperialismo cultural en la comunicación internacional.\nTercera parte. El contenido de los mensajes.\nInfluencia de los condicionantes productivos en el contenido de los mensajes. \nLa reconsideración de los efectos de los medios.\nLa polisemia de los mensajes. \nCuarta parte. Los procesos de recepción y apropiación. \nLa audiencia activa.\nLos estudios culturales.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "248 págs.",
       "Request": "VERDADERO",
@@ -3106,13 +3031,13 @@
       "SubcategoryName": "Comunicación",
       "Edition": "4a edición",
       "Year": "2010",
-      "Introduction": "FALSE",
-      "Content": "Fundamentos de la Comunicación Integral de Marketing (CIM). Comunicación integral de marketing. Imagen corporativa y administración de marca. \nComportamiento de los compradores. Análisis de oportunidades de promoción. Herramientas publicitarias de la CIM. Administración de la publicidad. \nDiseño publicitario: Marcos teóricos y tipo de recursos publicitarios. Diseño publicitario: Estrategias de mensaje y marco de ejecución. \nHerramientas de medios de la CIM. \nCanales de medios tradicionales. \nMarketing interactivo. Marketing alternativo. Herramientas promocionales de la CIM. \nMarketing de base de datos y mercadotecnia directa. \nPromoción de ventas. Relaciones públicas y programas de patrocinio. \nÉtica, regulación y evaluación de la CIM. Normatividad y asuntos éticos. \nEvaluación del programa integral de marketing. ",
+      "Content": "Fundamentos de la Comunicación Integral de Marketing (CIM).\nComunicación integral de marketing. \nImagen corporativa y administración de marca. \nComportamiento de los compradores. \nAnálisis de oportunidades de promoción. Herramientas publicitarias de la CIM. \nAdministración de la publicidad.\nDiseño publicitario: Marcos teóricos y tipo de recursos publicitarios.\nDiseño publicitario: Estrategias de mensaje y marco de ejecución.\nHerramientas de medios de la CIM. \nCanales de medios tradicionales. \nMarketing interactivo.\nMarketing alternativo.\nHerramientas promocionales de la CIM. \nMarketing de base de datos y mercadotecnia directa. \nPromoción de ventas.\nRelaciones públicas y programas de patrocinio. \nÉtica, regulación y evaluación de la CIM. \nNormatividad y asuntos éticos. \nEvaluación del programa integral de marketing. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "472 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/clow",
-      "ImageSource": "978-607-44-2630-4.jpg"
+      "ImageSource": "978-607-44-2630-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/publicidad-promocion-comunicacion-clow-4ed-libro"
     },
     {
       "Id": "304",
@@ -3121,13 +3046,13 @@
       "SubcategoryName": "Comunicación",
       "Edition": "2a edición",
       "Year": "2016",
-      "Introduction": "FALSE",
-      "Content": "La comunicación oral. Roles, lenguaje y contextos. Habilidades para la comunicación oral. \nLa comunicación interpersonal. La comunicación oral estratégica. \nOrganización y elaboración del mensaje. \nComunicación en público. La palabra. La oración. Adjetivos y pronombres. La puntuación y la escritura. \nHabilidades para construir oraciones. Las letras. La redacción. ",
+      "Content": "La comunicación oral.\nRoles, lenguaje y contextos.\nHabilidades para la comunicación oral.\nLa comunicación interpersonal.\nLa comunicación oral estratégica. \nOrganización y elaboración del mensaje.\nComunicación en público.\nLa palabra.\nLa oración.\nAdjetivos y pronombres.\nLa puntuación y la escritura.\nHabilidades para construir oraciones.\nLas letras.\nLa redacción. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "344 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/fonseca",
-      "ImageSource": "978-607-32-3689-8.jpg"
+      "ImageSource": "978-607-32-3689-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comunicacion-oral-y-escrita-fonseca-2ed-ebook"
     },
     {
       "Id": "305",
@@ -3136,13 +3061,13 @@
       "SubcategoryName": "Comunicación",
       "Edition": "5a edición",
       "Year": "2016",
-      "Introduction": "FALSE",
-      "Content": "Desarrollo de la observación. La observación. Oración simple y oración compuesta. \nUso de preposiciones. \nDescripción y modificación de una estructura lingüístico-discursiva. \nTipos de materiales de desarrollo. Uso de conjunciones y nexos. \nAdverbios. \nSinónimos. Antónimos. Palabras con doble grafía. El proceso de la comunicación. Estructura del Currículum vitae. Uso del gerundio. Voz activa y voz pasiva. Acercamiento a un proceso descriptivo. \nQueísmo. Dequeísmo. Formas negativas y positivas. Sustantivos ambiguos masculinos. \nSustantivos ambiguos femeninos. Falsas concordancias. Sustantivos ambiguos. Palabras biformes. Modelo del escarabajo: análisis y punto de vista en la selección de un tema. \nRecomendaciones para elegir un título. \nAlgunos vicios o –ismos del lenguaje. \nBarbarismo. Blablismo. Cosismo. Laísmo “La”, Leísmo “Le” y Loísmo “Lo”. \nMismismo. Selecismo. Telecismos. \nAnglicismos. Neologismos. Redacción de informes. Expositivo. Interpretativo. Demostrativo. Recomendaciones para el desarrollo del texto expositivo. \nEsquema de la argumentación. \nRecomendaciones para la redacción de textos argumentativos. Sustantivos y adjetivos numerales. \nDudas frecuentes. Formas especializadas de redacción. \nGéneros periodísticos. Parónimos. Algunas aclaraciones sobre el lenguaje escrito. El texto literario. Algunas estructuras narrativas. \n",
+      "Content": "Desarrollo de la observación.\nLa observación.\nOración simple y oración compuesta.\nUso de preposiciones.\nDescripción y modificación de una estructura lingüístico-discursiva.\nTipos de materiales de desarrollo. Uso de conjunciones y nexos.\nAdverbios.\nSinónimos.\nAntónimos.\nPalabras con doble grafía.\nEl proceso de la comunicación.\nEstructura del Currículum vitae.\nUso del gerundio.\nVoz activa y voz pasiva.\nAcercamiento a un proceso descriptivo.\nQueísmo.\nDequeísmo.\nFormas negativas y positivas.\nSustantivos ambiguos masculinos.\nSustantivos ambiguos femeninos.\nFalsas concordancias.\nSustantivos ambiguos.\nPalabras biformes.\nModelo del escarabajo: análisis y punto de vista en la selección de un tema.\nRecomendaciones para elegir un título.\nAlgunos vicios o –ismos del lenguaje.\nBarbarismo.\nBlablismo.\nCosismo.\nLaísmo “La”, Leísmo “Le” y Loísmo “Lo”.\nMismismo.\nSelecismo.\nTelecismos.\nAnglicismos.\nNeologismos.\nRedacción de informes.\nExpositivo.\nInterpretativo.\nDemostrativo.\nRecomendaciones para el desarrollo del texto expositivo.\nEsquema de la argumentación.\nRecomendaciones para la redacción de textos argumentativos.\nSustantivos y adjetivos numerales.\nDudas frecuentes.\nFormas especializadas de redacción.\nGéneros periodísticos.\nParónimos.\nAlgunas aclaraciones sobre el lenguaje escrito.\nEl texto literario.\nAlgunas estructuras narrativas.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "360 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/chavez",
-      "ImageSource": "978-607-32-3821-2.jpg"
+      "ImageSource": "978-607-32-3821-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/redaccion-avanzada-un-enfoque-linguistico-5ed-book"
     },
     {
       "Id": "306",
@@ -3151,8 +3076,7 @@
       "SubcategoryName": "Derecho",
       "Edition": "2a edición",
       "Year": "2017",
-      "Introduction": "FALSE",
-      "Content": "Evolución de la RSE: nacimiento, definición y proliferación Ética y filosofía de la RSE Herramientas de gestión de la RSE \nRSE y desarrollo sostenible Empresas y desarrollo humano: la contribución de las compañías transnacionales al desarrollo humano La perspectiva de los grupos de interés en la RSE. \nRSE estratégica La lógica de la responsabilidad corporativa en el buen gobierno \nCondiciones laborales en América Latina y responsabilidad social El mercadeo y la RSE Logística con responsabilidad social Finanzas y RSE \nRelaciones y alianzas entre empresas ONG, impacto en el desarrollo social La lógica de creación de valor mezclado en la PYME latinoamericana \nCasos de estudio \n",
+      "Content": "Evolución de la RSE: nacimiento, definición y proliferación.\nÉtica y filosofía de la RSE.\nHerramientas de gestión de la RSE.\nRSE y desarrollo sostenible.\nEmpresas y desarrollo humano: la contribución de las compañías transnacionales al desarrollo humano.\nLa perspectiva de los grupos de interés en la RSE.\nRSE estratégica.La lógica de la responsabilidad corporativa en el buen gobierno.\nCondiciones laborales en América Latina y responsabilidad social.\nEl mercadeo y la RSE.\nLogística con responsabilidad social Finanzas y RSE.\nRelaciones y alianzas entre empresas ONG, impacto en el desarrollo social.\nLa lógica de creación de valor mezclado en la PYME latinoamericana.\nCasos de estudio.",
       "Format": "Formato 20 × 25.5 cm",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/raufflet",
@@ -3165,12 +3089,12 @@
       "SubcategoryName": "Derecho",
       "Edition": "4a edición",
       "Year": "2016",
-      "Introduction": "FALSE",
-      "Content": "Generalidades. Generalidades del derecho mercantil.\nFuentes del derecho mercantil. Sujetos del derecho mercantil. Obligaciones profesionales del comerciante. \nAspectos considerados mercantiles por la doctrina. Auxiliares de los comerciantes. Sociedades mercantiles. El comerciante colectivo. Sociedad en nombre colectivo. Sociedad en comandita simple. Sociedad de responsabilidad limitada. \nSociedad anónima. Sociedad en comandita por acciones. \nSociedades cooperativas. Capital variable. \nFusión, escisión, disolución y liquidación de las sociedades mercantiles. \nTítulos y operaciones de crédito. Generalidades de los títulos de crédito. El endoso. El aval. El protesto. Cancelación de los títulos de crédito. Letra de cambio. Acciones cambiarias y extracambiarias. El pagaré. El cheque. Las obligaciones. Certificado de depósito y bono de prenda. \nLos contratos mercantiles. Los contratos mercantiles en general. \nApertura de crédito.\nEl depósito mercantil. Descuento. Carta de crédito. \nCréditos de destino, habilitación o avío y refaccionario. Contrato de préstamo mercantil (mutuo). \nLa compraventa mercantil.\nContrato de comisión mercantil.\nContrato de transporte mercantil.\nContrato de asociación en participación\nContrato de leasing (arrendamiento financiero)\nContrato de seguro\nContrato de garantía\nContrato de fianza.\nEl fideicomiso.\nContrato de cajas de seguridad.\nContrato de tiempo compartido\nContrato de suministro.\nContrato de agencia.\nContrato de cesión. Contrato de concesión. Contrato de transacción. Contrato de remolque. Contrato estimatorio o a consignación. \nDerecho concursal mercantil. \nDerecho concursal mercantil. \nDisposiciones generales. De los órganos del concurso mercantil. \nEtapa de quiebra. \n",
+      "Content": "Generalidades.\nGeneralidades del derecho mercantil.\nFuentes del derecho mercantil.\nSujetos del derecho mercantil.\nObligaciones profesionales del comerciante.\nAspectos considerados mercantiles por la doctrina.\nAuxiliares de los comerciantes.\nSociedades mercantiles.\nEl comerciante colectivo.\nSociedad en nombre colectivo.\nSociedad en comandita simple.\nSociedad de responsabilidad limitada.\nSociedad anónima.\nSociedad en comandita por acciones.\nSociedades cooperativas.\nCapital variable.\nFusión, escisión, disolución y liquidación de las sociedades mercantiles.\nTítulos y operaciones de crédito.\nGeneralidades de los títulos de crédito.\nEl endoso.\nEl aval.\nEl protesto.\nCancelación de los títulos de crédito.\nLetra de cambio.\nAcciones cambiarias y extracambiarias.\nEl pagaré.\nEl cheque.\nLas obligaciones.\nCertificado de depósito y bono de prenda.\nLos contratos mercantiles.\nLos contratos mercantiles en general.\nApertura de crédito.\nEl depósito mercantil.\nDescuento.\nCarta de crédito.\nCréditos de destino, habilitación o avío y refaccionario.\nContrato de préstamo mercantil (mutuo).\nLa compraventa mercantil.\nContrato de comisión mercantil.\nContrato de transporte mercantil.\nContrato de asociación en participación.\nContrato de leasing (arrendamiento financiero).\nContrato de seguro.\nContrato de garantía.Contrato de fianza.\nEl fideicomiso.\nContrato de cajas de seguridad.\nContrato de tiempo compartido.\nContrato de suministro.\nContrato de agencia.\nContrato de cesión.\nContrato de concesión.\nContrato de transacción.\nContrato de remolque.\nContrato estimatorio o a consignación.\nDerecho concursal mercantil.\nDerecho concursal mercantil.\nDisposiciones generales.\nDe los órganos del concurso mercantil.\nEtapa de quiebra.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "392 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3558-7.jpg"
+      "ImageSource": "978-607-32-3558-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/derecho-mercantil-quevedo-3ed-libro"
     },
     {
       "Id": "308",
@@ -3178,12 +3102,13 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Investigación",
       "Year": "2013",
-      "Content": "Estudio del desarrollo de la profesión y su estado actual. La investigación como un proceso de construcción social. \nHerramientas de comunicación oral y escrita en la investigación. \nGestión de la información para la investigación documental. \n",
+      "Content": "Estudio del desarrollo de la profesión y su estado actual.\nLa investigación como un proceso de construcción social. \nHerramientas de comunicación oral y escrita en la investigación. \nGestión de la información para la investigación documental. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "240 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/bernal",
-      "ImageSource": "978-607-32-2245-7.jpg"
+      "ImageSource": "978-607-32-2245-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-investigacion-bernal-1ed-libro"
     },
     {
       "Id": "309",
@@ -3192,13 +3117,13 @@
       "SubcategoryName": "Investigación",
       "Edition": "4a edición",
       "Year": "2016",
-      "Introduction": "FALSE",
-      "Content": "Parte I Investigación científica en la actual sociedad del conocimiento. Capítulo 1 Ciencia, tecnología y desarrollo \nParte II Fundamentos epistemológicos de la investigación científica Capítulo 2 Fundamentos de epistemología y concepto de ciencia social \nCapítulo 3 Tendencia a la integración del conocimiento en las ciencias sociales Parte III Métodos para el proceso metodológico de investigación científica \nCapítulo 4 Métodos cualitativos y cuantitativos en investigación científica Capítulo 5 Cómo elaborar un anteproyecto de investigación científica Capítulo 6 Cómo realizar el trabajo de campo y redactar el informe final de una investigación científica Parte IV Redacción para la publicación de resultados de investigación Capítulo 7 Cómo redactar artículos y ensayos de resultados de investigación \n",
+      "Content": "Parte I Investigación científica en la actual sociedad del conocimiento.\nCapítulo 1 Ciencia, tecnología y desarrollo.\nParte II Fundamentos epistemológicos de la investigación científica.\nCapítulo 2 Fundamentos de epistemología y concepto de ciencia social.\nCapítulo 3 Tendencia a la integración del conocimiento en las ciencias sociales.\nParte III Métodos para el proceso metodológico de investigación científica.\nCapítulo 4 Métodos cualitativos y cuantitativos en investigación científica.\nCapítulo 5 Cómo elaborar un anteproyecto de investigación científica.\nCapítulo 6 Cómo realizar el trabajo de campo y redactar el informe final de una investigación científica.\nParte IV Redacción para la publicación de resultados de investigación.\nCapítulo 7 Cómo redactar artículos y ensayos de resultados de investigación.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "400 págs.",
       "Request": "VERDADERO",
       "WebSite": "http://recursosmcc.pearsonenespanol.com/ Bernal/",
-      "ImageSource": "978-958-69-9390-8.jpg"
+      "ImageSource": "978-958-69-9390-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/metodologia-de-la-investigacion-4ed-book"
     },
     {
       "Id": "310",
@@ -3207,13 +3132,13 @@
       "SubcategoryName": "Educación",
       "Edition": "3a edición",
       "Year": "2015",
-      "Introduction": "FALSE",
-      "Content": "Conceptos generales. Problemas comunes en la elaboración de tesis de licenciatura. Procedimiento general para elegir tema de investigación en tesis de licenciatura.\nProblemáticas en la investigación de tesis en maestría. Procedimiento general para elegir tema de investigación en tesis de maestría. \nProblemáticas en la investigación de tesis en doctorado. Procedimiento general para elegir tema de investigación de tesis de doctorado. \nElaboración del proyecto de tesis. \nPlanteamiento del tema de investigación. \nContenido formal de una tesis. \nSugerencias para elaborar una tesis. El conocimiento científico. Recopilación y análisis de información. \nRedacción del informe de tesis. El examen profesional y de grado. \n",
+      "Content": "Conceptos generales.\nProblemas comunes en la elaboración de tesis de licenciatura.\nProcedimiento general para elegir tema de investigación en tesis de licenciatura.\nProblemáticas en la investigación de tesis en maestría.\nProcedimiento general para elegir tema de investigación en tesis de maestría.\nProblemáticas en la investigación de tesis en doctorado.\nProcedimiento general para elegir tema de investigación de tesis de doctorado.\nElaboración del proyecto de tesis.\nPlanteamiento del tema de investigación.\nContenido formal de una tesis.\nSugerencias para elaborar una tesis.\nEl conocimiento científico.\nRecopilación y análisis de información.\nRedacción del informe de tesis.\nEl examen profesional y de grado. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "488 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/muñoz",
-      "ImageSource": "978-607-32-3424-5.jpg"
+      "ImageSource": "978-607-32-3424-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/como-elaborar-asesorar-una-investigacion-de-tesis-carlos-3ed-libro"
     },
     {
       "Id": "311",
@@ -3221,7 +3146,7 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Educación",
       "Year": "2012",
-      "Content": "¿A qué llamamos competencia? ¿Cómo se reconoce una competencia? ¿Cuáles son las dimensiones de una competencia? ¿Por qué trabajar con el paradigma de las competencias? ¿Las competencias realmente resuelven problemas de la profesión? ¿Habrá que cambiar la lógica con la que hemos trabajado en la educación superior? ¿Es posible formar competencias en un marco humanista? ¿Dónde quedó el constructivismo? Y... ¿qué pasó con el aprendizaje significativo? ¿Y el llamado aprendizaje situado? ¿De qué se trata el Proyecto Tuning? \nCompetencias y resultados de aprendizaje.\n ¿A qué se refiere la educación centrada en el aprendizaje? ¿Planeación en la educación superior? \n¿Debo poseer competencias para trabajar por competencias? ¿Cuáles son las fases para el diseño y la implementación de un currículo basado en competencias en la educación superior? \n¿Qué hago una vez que tengo el programa de la asignatura en mis manos? Primera decisión. ¿Qué hago una vez que tengo el programa de la asignatura en mis manos? Segunda decisión. ¿Qué hago una vez que tengo el programa de la asignatura en mis manos, después de descomponer la competencia en sus dimensiones? Tercera decisión. \n¿Será necesario modificar mi planeación para la formación de competencias? ¿Cómo determinar una situación problémica contextualizada? \n¿Cómo determinar las competencias necesarias para solucionar el problema?\n ¿Qué son las tareas docentes, y cómo y para qué elaborarlas? ¿Las metodologías de antaño permiten desarrollar competencias? Actividades de los estudiantes y su evaluación simultánea. Técnicas e instrumentos para evaluar. La evaluación educativa tiene historia. \n¿Existen diversos tipos de evaluación? \nTécnicas para la evaluación de las competencias. Un proceso para diseñar los instrumentos de evaluación. Los instrumentos de evaluación. Secuencia didáctica. Prueba de desempeño. Referencias. Índice analítico. \n\n\n",
+      "Content": "¿A qué llamamos competencia?\n¿Cómo se reconoce una competencia?\n¿Cuáles son las dimensiones de una competencia?\n¿Por qué trabajar con el paradigma de las competencias?\n¿Las competencias realmente resuelven problemas de la profesión?\n¿Habrá que cambiar la lógica con la que hemos trabajado en la educación superior?\n¿Es posible formar competencias en un marco humanista?\n¿Dónde quedó el constructivismo?\nY... ¿qué pasó con el aprendizaje significativo?\n¿Y el llamado aprendizaje situado?\n¿De qué se trata el Proyecto Tuning?\nCompetencias y resultados de aprendizaje.\n¿A qué se refiere la educación centrada en el aprendizaje?\n¿Planeación en la educación superior?\n¿Debo poseer competencias para trabajar por competencias?\n¿Cuáles son las fases para el diseño y la implementación de un currículo basado en competencias en la educación superior?\n¿Qué hago una vez que tengo el programa de la asignatura en mis manos? Primera decisión.\n¿Qué hago una vez que tengo el programa de la asignatura en mis manos? Segunda decisión.\n¿Qué hago una vez que tengo el programa de la asignatura en mis manos, después de descomponer la competencia en sus dimensiones? Tercera decisión.\n¿Será necesario modificar mi planeación para la formación de competencias?\n¿Cómo determinar una situación problémica contextualizada?\n¿Cómo determinar las competencias necesarias para solucionar el problema?\n¿Qué son las tareas docentes, y cómo y para qué elaborarlas?\n¿Las metodologías de antaño permiten desarrollar competencias?\nActividades de los estudiantes y su evaluación simultánea.\nTécnicas e instrumentos para evaluar.\nLa evaluación educativa tiene historia.\n¿Existen diversos tipos de evaluación?\nTécnicas para la evaluación de las competencias.\nUn proceso para diseñar los instrumentos de evaluación.\nLos instrumentos de evaluación.\nSecuencia didáctica.\nPrueba de desempeño.\nReferencias.\nIndice analítico.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "144 págs.",
       "Request": "VERDADERO",
@@ -3234,7 +3159,7 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Educación",
       "Year": "2012",
-      "Content": "Introducción. Estrategias para indagar sobre los conocimientos previos. Preguntas. Estrategias que promueven la comprensión mediante la organización de la información. \nDiagramas. Mapas cognitivos. Otras estrategias que promueven la comprensión. Estrategias grupales. Metodologías activas para contribuir al desarrollo de competencias. Fuentes bibliográficas. Fuentes electrónicas. ",
+      "Content": "Introducción.\nEstrategias para indagar sobre los conocimientos previos.\nPreguntas.\nEstrategias que promueven la comprensión mediante la organización de la información.\nDiagramas.\nMapas cognitivos.\nOtras estrategias que promueven la comprensión.\nEstrategias grupales.\nMetodologías activas para contribuir al desarrollo de competencias.\nFuentes bibliográficas.\nFuentes electrónicas.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "192 págs.",
       "Request": "VERDADERO",
@@ -3247,7 +3172,7 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Educación",
       "Year": "2012",
-      "Content": "Fundamentos para el aprovechamiento de las tecnologías de la información y la comunicación en el nivel superior: un modelo. \nCaracterísticas de los ambientes y herramientas digitales: revisión y tipología. \nLa comunicación y la interactividad como base para el diseño de actividades de enseñanza y aprendizaje. El diseño de las interacciones en las actividades mediadas por herramientas tecnológicas digitales. ¿Cómo construir un diseño instruccional y de la evaluación del aprendizaje con tecnologías? Aplicación de cinco familias de estrategias de enseñanza y aprendizaje con tecnologías. \nUna mirada al estudiante: cómo fomentar las competencias para la autonomía en entornos de aprendizaje mediados por tecnologías. Conclusiones y panorama del uso de tecnologías por parte de los docentes. \n",
+      "Content": "Fundamentos para el aprovechamiento de las tecnologías de la información y la comunicación en el nivel superior: un modelo.\nCaracterísticas de los ambientes y herramientas digitales: revisión y tipología.\nLa comunicación y la interactividad como base para el diseño de actividades de enseñanza y aprendizaje.\nEl diseño de las interacciones en las actividades mediadas por herramientas tecnológicas digitales.\n¿Cómo construir un diseño instruccional y de la evaluación del aprendizaje con tecnologías?\nAplicación de cinco familias de estrategias de enseñanza y aprendizaje con tecnologías.\nUna mirada al estudiante: cómo fomentar las competencias para la autonomía en entornos de aprendizaje mediados por tecnologías.\nConclusiones y panorama del uso de tecnologías por parte de los docentes. ",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "264 págs.",
       "Request": "VERDADERO",
@@ -3261,13 +3186,13 @@
       "SubcategoryName": "Educación",
       "Edition": "2a edición",
       "Year": "2016",
-      "Introduction": "FALSE",
-      "Content": "El aprendizaje: base fundamental del enfoque por competencias. El aprendizaje como construcción social. Las competencias. El aprendizaje basado en competencias. La planeación para el aprendizaje en el ABC.\nLos medios o recursos a utilizar: la presencia de las TIC. Las TIC y las actividades de aprendizaje. La evaluación para el desempeño. Las rúbricas: método alternativo de evaluación basado en competencias. El portafolio digital: método alternativo en la evaluación por competencias. Aprendizaje situado: una perspectiva integradora apoyada en las TIC. Aulas para el aprendizaje en el siglo XXI. Los nativos digitales y la inteligencia medida por dispositivos múltiples. ",
+      "Content": "El aprendizaje: base fundamental del enfoque por competencias.\nEl aprendizaje como construcción social.\nLas competencias.\nEl aprendizaje basado en competencias.\nLa planeación para el aprendizaje en el ABC.\nLos medios o recursos a utilizar: la presencia de las TIC.\nLas TIC y las actividades de aprendizaje.\nLa evaluación para el desempeño.\nLas rúbricas: método alternativo de evaluación basado en competencias.\nEl portafolio digital: método alternativo en la evaluación por competencias.\nAprendizaje situado: una perspectiva integradora apoyada en las TIC.\nAulas para el aprendizaje en el siglo XXI.\nLos nativos digitales y la inteligencia medida por dispositivos múltiples. ",
       "Format": "Formato 20 × 25.5",
       "Pages": "360 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/lopezcarrasco",
-      "ImageSource": "978-607-32-3813-7.jpg"
+      "ImageSource": "978-607-32-3813-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/aprendizaje-competencias-y-tic-2ed-book"
     },
     {
       "Id": "315",
@@ -3275,7 +3200,7 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Psicología",
       "Year": "2013",
-      "Content": "Por qué, para qué y cómo un Plan de vida. \nLa construcción del ser humano. La autovaloración y el amor a sí mismo. \nLa asertividad como una forma de vida. \nCómo se viven las emociones. \nEstilos de vida saludable. La planeación estratégica como una herramienta para la construcción del proyecto de vida. Construyendo mi plan de vida. \n",
+      "Content": "Por qué, para qué y cómo un Plan de vida.\nLa construcción del ser humano.\nLa autovaloración y el amor a sí mismo.\nLa asertividad como una forma de vida.\nCómo se viven las emociones.\nEstilos de vida saludable.\nLa planeación estratégica como una herramienta para la construcción del proyecto de vida.\nConstruyendo mi plan de vida. ",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "240 págs.",
       "Request": "VERDADERO",
@@ -3289,13 +3214,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "5a edición",
       "Year": "2007",
-      "Introduction": "FALSE",
-      "Content": "Psicología, investigación y tú. \nNeurociencia y conducta.\nSensación y percepción. \nEstados de conciencia. \nAprendizaje. \nMotivación y emoción. Memoria. Pensamiento, lenguaje e inteligencia. \nDesarrollo a través de la vida. Sexo y género. Personalidad. Desórdenes psicológicos. Terapia. Psicología de la salud. Psicología social: el individuo en la sociedad. \nIndustria, organizaciones y otras aplicaciones de la psicología. \n",
+      "Content": "Psicología, investigación y tú.\nNeurociencia y conducta.\nSensación y percepción.\nEstados de conciencia.\nAprendizaje.\nMotivación y emoción.\nMemoria.\nPensamiento, lenguaje e inteligencia.\nDesarrollo a través de la vida.\nSexo y género.\nPersonalidad.\nDesórdenes psicológicos.\nTerapia.\nPsicología de la salud.\nPsicología social: el individuo en la sociedad.\nIndustria, organizaciones y otras aplicaciones de la psicología. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "824 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/davis",
-      "ImageSource": "978-970-26-1046-5.jpg"
+      "ImageSource": "978-970-26-1046-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-davis-5ed-libro"
     },
     {
       "Id": "317",
@@ -3304,8 +3229,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "6a edición",
       "Year": "2012",
-      "Introduction": "FALSE",
-      "Content": "Aplicaciones y consecuencias de la evaluación psicológica. La historia de la evaluación psicológica. \nNormas y confiabilidad. Validez y desarrollo de las pruebas. Teorías y pruebas individuales de inteligencia y aprovechamiento. Pruebas grupales y controversias sobre las pruebas de habilidades. Evaluación de poblaciones especiales. \nOrígenes de las pruebas de personalidad. \nEvaluación de la normalidad y de las fortalezas humanas. Evaluación y exploración neuropsicológicas. \nEvaluación laboral y ocupacional. \nCuestiones legales y el futuro de las pruebas. Apéndice A. Principales acontecimientos en la historia de las pruebas psicológicas. \nApéndice B. Direcciones de editores de pruebas. Apéndice C. Las pruebas más importantes y sus editores. Apéndice D. Calificaciones estandarizadas equivalentes de los rangos percentilares en una distribución normal. Glosario. Referencias. Índice onomástico. Índice analítico. \n",
+      "Content": "Aplicaciones y consecuencias de la evaluación psicológica.\nLa historia de la evaluación psicológica.\nNormas y confiabilidad.\nValidez y desarrollo de las pruebas.\nTeorías y pruebas individuales de inteligencia y aprovechamiento.\nPruebas grupales y controversias sobre las pruebas de habilidades.\nEvaluación de poblaciones especiales.\nOrígenes de las pruebas de personalidad.\nEvaluación de la normalidad y de las fortalezas humanas.\nEvaluación y exploración neuropsicológicas.\nEvaluación laboral y ocupacional.\nCuestiones legales y el futuro de las pruebas.\nApéndice A. Principales acontecimientos en la historia de las pruebas psicológicas.\nApéndice B. Direcciones de editores de pruebas.\nApéndice C. Las pruebas más importantes y sus editores.\nApéndice D. Calificaciones estandarizadas equivalentes de los rangos percentilares en una distribución normal.\nGlosario.\nReferencias.\nÍndice onomástico.\nÍndice analítico. ",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "648 págs.",
       "Request": "VERDADERO",
@@ -3319,8 +3243,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "5a edición",
       "Year": "2012",
-      "Introduction": "FALSE",
-      "Content": "Psicología del trabajo: una orientación inicial. \nLas diferencias individuales. Las bases de selección de personal: el análisis de puestos de trabajo, competencias y eficacia de la selección. \nProcesos de selección de personal y métodos de evaluación: ¿qué funciona? La evaluación de las personas en el trabajo. \nLas actitudes en el trabajo y las relaciones en el empleo. Enfoques para la motivación laboral y diseño de puestos de trabajo. Diseño en el trabajo. Las tecnologías de comunicación. \nCapacitación y desarrollo. Estrés y bienestar en el trabajo. Grupos, equipos y trabajo en equipo.\nLiderazgo. Comprensión del cambio y la cultura organizacionales. Glosario. Índice analítico. \n",
+      "Content": "Psicología del trabajo: una orientación inicial.\nLas diferencias individuales.Las bases de selección de personal: el análisis de puestos de trabajo, competencias y eficacia de la selección.\nProcesos de selección de personal y métodos de evaluación: ¿qué funciona?.\nLa evaluación de las personas en el trabajo.\nLas actitudes en el trabajo y las relaciones en el empleo.\nEnfoques para la motivación laboral y diseño de puestos de trabajo.\nDiseño en el trabajo.\nLas tecnologías de comunicación.\nCapacitación y desarrollo.\nEstrés y bienestar en el trabajo.\nGrupos, equipos y trabajo en equipo.\nLiderazgo.\nComprensión del cambio y la cultura organizacionales.\nGlosario,\nÍndice analítico. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "680 págs.",
       "Request": "VERDADERO",
@@ -3334,8 +3257,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "2a edición",
       "Year": "2017",
-      "Introduction": "FALSE",
-      "Content": "Introducción al desarrollo organizacional. \nAdministración del proceso de desarrollo organizacional. Proceso de diagnóstico en el desarrollo organizacional. \nIntervención en la cultura organizacional. \nCambio organizacional. Ética organizacional. Comunicación organizacional y resolución de conflictos. \nLiderazgo. Coaching. Equipos y grupos de trabajo. El proceso de consultoría en el desarrollo organizacional. El consultor, agente de cambio organizacional y tendencias. \n",
+      "Content": "Introducción al desarrollo organizacional.\nAdministración del proceso de desarrollo organizacional.\nProceso de diagnóstico en el desarrollo organizacional.\nIntervención en la cultura organizacional.\nCambio organizacional.\nÉtica organizacional.\nComunicación organizacional y resolución de conflictos.\nLiderazgo.\nCoaching.\nEquipos y grupos de trabajo.\nEl proceso de consultoría en el desarrollo organizacional.\nEl consultor, agente de cambio organizacional y tendencias. ",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/hernandez",
@@ -3348,13 +3270,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "10a edición",
       "Year": "2013",
-      "Introduction": "FALSE",
-      "Content": "La ciencia de la psicología. Bases biológicas del comportamiento. \nSensación y percepción. Estados de conciencia. Aprendizaje. Memoria. Cognición y habilidades mentales. \nMotivación y emoción. Desarrollo. Personalidad. Estrés y psicología de la salud. \nDesórdenes psicológicos. Terapias. Psicología social. \n",
+      "Content": "La ciencia de la psicología.\nBases biológicas del comportamiento.\nSensación y percepción.\nEstados de conciencia.\nAprendizaje.\nMemoria.\nCognición y habilidades mentales.\nMotivación y emoción.\nDesarrollo.\nPersonalidad.\nEstrés y psicología de la salud.\nDesórdenes psicológicos.\nTerapias.\nPsicología social. ",
       "Format": "Formato 21.5 × 28 cm",
       "Pages": "636 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/morris",
-      "ImageSource": "978-607-32-2136-8.jpg"
+      "ImageSource": "978-607-32-2136-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-morris-10ed-libro"
     },
     {
       "Id": "321",
@@ -3363,8 +3285,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "1a edición",
       "Year": "2010",
-      "Introduction": "FALSE",
-      "Content": "Marco del comportamiento organizacional. \nComportamiento humano en el campo laboral. Las organizaciones en su relación social. \nGestión de personal. \nMotivación de las personas en las organizaciones. Teorías de la personalidad. Salud mental en las organizaciones. \nÉtica y responsabilidad social. Grupos y equipos en las organizaciones.\nComunicación y organización. \nPoder e influencia en la organización. \nLiderazgo en las organizaciones. Diseño organizacional. Cultura organizacional y contexto cultural. \nLa gestión del conocimiento, el aprendizaje y la gestión de las competencias laborales. \nToma de decisiones. \nConflicto, crisis y estrés. \nGestión del cambio. \nEstrategia organizacional. \n",
+      "Content": "Marco del comportamiento organizacional.\nComportamiento humano en el campo laboral.\nLas organizaciones en su relación social.\nGestión de personal.\nMotivación de las personas en las organizaciones.\nTeorías de la personalidad.\nSalud mental en las organizaciones.\nÉtica y responsabilidad social.\nGrupos y equipos en las organizaciones.\nComunicación y organización.\nPoder e influencia en la organización.\nLiderazgo en las organizaciones.\nDiseño organizacional.\nCultura organizacional y contexto cultural.\nLa gestión del conocimiento, el aprendizaje y la gestión de las competencias laborales.\nToma de decisiones.\nConflicto, crisis y estrés.\nGestión del cambio.\nEstrategia organizacional. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "568 págs.",
       "Request": "VERDADERO",
@@ -3378,13 +3299,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "17a edición",
       "Year": "2017",
-      "Introduction": "FALSE",
-      "Content": "¿Qué es el comportamiento organizacional? \nLa diversidad en las organizaciones. Las actitudes y la satisfacción en el trabajo. \nLas emociones y los estados de ánimo. \nLa personalidad y los valores. La percepción y la toma de decisiones individual. Conceptos de motivación. Motivación: de los conceptos a las aplicaciones. Fundamentos del comportamiento de los grupos. Los equipos de trabajo. Comunicación. Liderazgo. Poder y política. Conflicto y negociación. Fundamentos de la estructura organizacional. Cultura organizacional. Políticas y prácticas de recursos humanos. \nCambio organizacional y manejo del estrés. \n",
+      "Content": "¿Qué es el comportamiento organizacional?\nLa diversidad en las organizaciones.\nLas actitudes y la satisfacción en el trabajo.\nLas emociones y los estados de ánimo.\nLa personalidad y los valores.\nLa percepción y la toma de decisiones individual.\nConceptos de motivación.\nMotivación: de los conceptos a las aplicaciones.\nFundamentos del comportamiento de los grupos.\nLos equipos de trabajo.\nComunicación.\nLiderazgo.\nPoder y política.\nConflicto y negociación.\nFundamentos de la estructura organizacional.\nCultura organizacional.\nPolíticas y prácticas de recursos humanos.\nCambio organizacional y manejo del estrés. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "744 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/robbins",
-      "ImageSource": "978-607-32-3985-1.jpg"
+      "ImageSource": "978-607-32-3985-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/comportamiento-organizacional-17ed-book"
     },
     {
       "Id": "323",
@@ -3393,8 +3314,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "7a edición",
       "Year": "2013",
-      "Introduction": "FALSE",
-      "Content": "Eficacia organizacional. Ética. Administración en un entorno global en constante cambio. Retos básicos del diseño organizacional. \nDiseño de la estructura de organización: autoridad y control. Diseño de la estructura organizacional: especialización y coordinación. Creación y gestión de la cultura organizacional. Diseño organizacional y estrategia en un entorno global. Diseño organizacional, competencias y tecnología. Tipos y formas de cambio organizacional. \nCambios organizacionales: nacimiento, crecimiento, declinación y muerte. Gestión del conocimiento y la tecnología de la información. Innovación, emprendimiento y creatividad. \nManejo de conflictos, poder y políticas. ",
+      "Content": "Eficacia organizacional.\nÉtica.\nAdministración en un entorno global en constante cambio.\nRetos básicos del diseño organizacional.\nDiseño de la estructura de organización: autoridad y control.\nDiseño de la estructura organizacional: especialización y coordinación.\nCreación y gestión de la cultura organizacional.\nDiseño organizacional y estrategia en un entorno global.\nDiseño organizacional, competencias y tecnología.\nTipos y formas de cambio organizacional.\nCambios organizacionales: nacimiento, crecimiento, declinación y muerte.\nGestión del conocimiento y la tecnología de la información.\nInnovación, emprendimiento y creatividad.\nManejo de conflictos, poder y políticas. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "512 págs.",
       "Request": "VERDADERO",
@@ -3408,8 +3328,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "9a edición",
       "Year": "2007",
-      "Introduction": "FALSE",
-      "Content": "Un marco para el desarrollo interpersonal. \nComunicaciones interpersonales. \nHabilidades del trabajo en equipo. \nDesarrollo de habilidades de trabajo en equipo. El solucionar problemas de grupos y toma de decisión. Diversidad cultural. Resolución de conflictos con otros. El convertirse en líder eficaz. Motivación. Ayuda a otros para crecimiento y desarrollo. \nHabilidades políticas positivas. Habilidades para la satisfacción del cliente. \nÉtica y valores. Administración del estrés y productividad personal. Búsqueda de trabajo y habilidades para la carrera de vida. ",
+      "Content": "Un marco para el desarrollo interpersonal. \nComunicaciones interpersonales. \nHabilidades del trabajo en equipo. \nDesarrollo de habilidades de trabajo en equipo. \nEl solucionar problemas de grupos y toma de decisión.\nDiversidad cultural.\nResolución de conflictos con otros.\nEl convertirse en líder eficaz.\nMotivación.\nAyuda a otros para crecimiento y desarrollo.\nHabilidades políticas positivas.\nHabilidades para la satisfacción del cliente. \nÉtica y valores.\nAdministración del estrés y productividad personal.\nBúsqueda de trabajo y habilidades para la carrera de vida. ",
       "Format": "Formato 17 × 24 cm",
       "Pages": "384 págs.",
       "Request": "VERDADERO",
@@ -3423,13 +3342,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "2a edición",
       "Year": "2016",
-      "Introduction": "FALSE",
-      "Content": "El campo de la psicología organizacional. \nLa psicología organizacional en México y América Latina. El cambio organizacional. \nVisión, misión y filosofía organizacionales. \nFormación de equipos de trabajo. \nLiderazgo y relaciones jefe-colaborador. \nSolución de problemas. \nCreatividad e innovación. La toma de decisiones. Motivación. Solución de conflictos. Participación y reconocimiento. \nAtracción del personal hacia la empresa. \nRetención del personal hacia la empresa. \nDesarrollo estructural de la organización. \nDesarrollo funcional de la organización. \nConocimiento del consumidor. \nUna discusión como corolario.",
+      "Content": "El campo de la psicología organizacional. \nLa psicología organizacional en México y América Latina.\nEl cambio organizacional.\nVisión, misión y filosofía organizacionales.\nFormación de equipos de trabajo.\nLiderazgo y relaciones jefe-colaborador.\nSolución de problemas.\nCreatividad e innovación.\nLa toma de decisiones.\nMotivación.\nSolución de conflictos.\nParticipación y reconocimiento. \nAtracción del personal hacia la empresa.\nRetención del personal hacia la empresa. \nDesarrollo estructural de la organización. \nDesarrollo funcional de la organización. \nConocimiento del consumidor. \nUna discusión como corolario.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "536 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/zepeda",
-      "ImageSource": "978-607-32-3841-0.jpg"
+      "ImageSource": "978-607-32-3841-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicolog%C3%ADa-organizacional"
     },
     {
       "Id": "326",
@@ -3438,13 +3357,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "9a edición",
       "Year": "2009",
-      "Introduction": "FALSE",
-      "Content": "Teorías y métodos de investigación. \nDesarrollo prenatal y parto. Herencia y ambiente. Infancia: desarrollo físico, cognoscitivo, lingüístico, de la personalidad y socialización. \nEl preescolar: desarrollo físico, cognoscitivo, lingüístico, de la personalidad y socialización. Niñez media y niños en edad escolar: desarrollo físico, cognoscitivo, de la personalidad y socialización. \nAdolescencia: desarrollo físico, cognoscitivo, de la personalidad y socialización. \nJuventud: desarrollo físico, cognoscitivo, de la personalidad y socialización. \nAdultos de edad madura: desarrollo físico, cognoscitivo, de la personalidad y socialización. Vejez: desarrollo físico, cognoscitivo de la personalidad y socialización. La muerte y el proceso de morir. \n",
+      "Content": "Teorías y métodos de investigación. \nDesarrollo prenatal y parto.\nHerencia y ambiente.\nInfancia: desarrollo físico, cognoscitivo, lingüístico, de la personalidad y socialización. \nEl preescolar: desarrollo físico, cognoscitivo, lingüístico, de la personalidad y socialización.\nNiñez media y niños en edad escolar: desarrollo físico, cognoscitivo, de la personalidad y socialización.\nAdolescencia: desarrollo físico, cognoscitivo, de la personalidad y socialización.\nJuventud: desarrollo físico, cognoscitivo, de la personalidad y socialización.\nAdultos de edad madura: desarrollo físico, cognoscitivo, de la personalidad y socialización.\nVejez: desarrollo físico, cognoscitivo de la personalidad y socialización.\nLa muerte y el proceso de morir. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "712 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/craig",
-      "ImageSource": "978-607-44-2310-5.jpg"
+      "ImageSource": "978-607-44-2310-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-psicologico-craig-9ed-libro"
     },
     {
       "Id": "327",
@@ -3453,8 +3372,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "4a edición",
       "Year": "2006",
-      "Introduction": "FALSE",
-      "Content": "El inicio. El inicio: introducción al desarrollo a través de la vida. El inicio de la vida: genética y desarrollo prenatal. El nacimiento y el recién nacido. Infancia: formación de los cimientos de la vida. \nEl desarrollo físico en la infancia. Desarrollo cognoscitivo en la infancia. Desarrollo social y de la personalidad en la infancia. \nLos años preescolares. El desarrollo físico y cognoscitivo en los años preescolares. \nDesarrollo social y de la personalidad en la primera infancia. Los años de la niñez intermedia. El desarrollo físico y cognoscitivo en la niñez intermedia. Desarrollo social y de la personalidad en la niñez intermedia. \nAdolescencia. El desarrollo físico y cognoscitivo en la adolescencia. Desarrollo social y de la personalidad en la adolescencia. \nAdultez temprana. El desarrollo físico y cognoscitivo en la adultez temprana. Desarrollo social y de la personalidad en la adultez temprana. \nAdultez intermedia. El desarrollo físico y cognoscitivo en la adultez intermedia. \nDesarrollo social y de la personalidad en la adultez intermedia. Adultez tardía. El desarrollo físico y cognoscitivo en la adultez tardía. Desarrollo social y de la personalidad en la adultez tardía. El final. El final: la agonía y la muerte. \n",
+      "Content": "El inicio. \nEl inicio: introducción al desarrollo a través de la vida. \nEl inicio de la vida: genética y desarrollo prenatal. \nEl nacimiento y el recién nacido. \nInfancia: formación de los cimientos de la vida. \nEl desarrollo físico en la infancia. \nDesarrollo cognoscitivo en la infancia. \nDesarrollo social y de la personalidad en la infancia. \nLos años preescolares. \nEl desarrollo físico y cognoscitivo en los años preescolares. \nDesarrollo social y de la personalidad en la primera infancia. \nLos años de la niñez intermedia. \nEl desarrollo físico y cognoscitivo en la niñez intermedia. \nDesarrollo social y de la personalidad en la niñez intermedia. \nAdolescencia. \nEl desarrollo físico y cognoscitivo en la adolescencia. \nDesarrollo social y de la personalidad en la adolescencia. \nAdultez temprana. \nEl desarrollo físico y cognoscitivo en la adultez temprana. \nDesarrollo social y de la personalidad en la adultez temprana. \nAdultez intermedia. \nEl desarrollo físico y cognoscitivo en la adultez intermedia. \nDesarrollo social y de la personalidad en la adultez intermedia.\nAdultez tardía. \nEl desarrollo físico y cognoscitivo en la adultez tardía. \nDesarrollo social y de la personalidad en la adultez tardía.\nEl final. \nEl final: la agonía y la muerte. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "800 págs.",
       "Request": "VERDADERO",
@@ -3468,13 +3386,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "12a edición",
       "Year": "2015",
-      "Introduction": "FALSE",
-      "Content": "Parte 1. Estudiantes Aprendizaje, enseñanza y psicología educativa. Desarrollo cognoscitivo y lenguaje. \nDesarrollo personal, social y moral. \nDiferencias entre los aprendices y necesidades de aprendizaje. Cultura y diversidad. Parte 2. Aprendizaje y motivación Perspectivas conductistas del aprendizaje. \nPerspectivas cognoscitivas del aprendizaje. \nProcesos cognoscitivos complejos. \nCiencias del aprendizaje y constructivismo. \nPerspectivas cognoscitivas sociales del aprendizaje y la motivación. Motivación para el aprendizaje y la enseñanza. Parte 3. Enseñanza y evaluación Creación de ambientes de aprendizaje. \nEnseñanza para cada estudiante. \nEvaluación en el aula, asignación de calificaciones y pruebas. ",
+      "Content": "Parte 1. Estudiantes.\nAprendizaje, enseñanza y psicología educativa.\nDesarrollo cognoscitivo y lenguaje.\nDesarrollo personal, social y moral.\nDiferencias entre los aprendices y necesidades de aprendizaje.\nCultura y diversidad.\nParte 2. Aprendizaje y motivación.\nPerspectivas conductistas del aprendizaje.\nPerspectivas cognoscitivas del aprendizaje.\nProcesos cognoscitivos complejos.\nCiencias del aprendizaje y constructivismo.\nPerspectivas cognoscitivas sociales del aprendizaje y la motivación.\nMotivación para el aprendizaje y la enseñanza.\nParte 3. Enseñanza y evaluación.\nCreación de ambientes de aprendizaje.\nEnseñanza para cada estudiante.\nEvaluación en el aula, asignación de calificaciones y pruebas. ",
       "Format": "Formato 21 × 27 cm",
       "Pages": "704 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/woolfolk",
-      "ImageSource": "978-607-32-2730-8.jpg"
+      "ImageSource": "978-607-32-2730-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-educativa-12ed-ebook"
     },
     {
       "Id": "329",
@@ -3483,8 +3401,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "6a edición",
       "Year": "2012",
-      "Introduction": "FALSE",
-      "Content": "Introducción al estudio del aprendizaje. \nNeurociencia del aprendizaje. \nConductismo. Teoría social cognitiva. \nTeoría del procesamiento de la información. \nConstructivismo. Proceso de aprendizaje cognitivo. \nMotivación. \nAutorregulación. \nDesarrollo. \nGlosario. \nReferencias. \nÍndice onomástico. \nÍndice analítico. ",
+      "Content": "Introducción al estudio del aprendizaje.\nNeurociencia del aprendizaje.\nConductismo.\nTeoría social cognitiva.\nTeoría del procesamiento de la información.\nConstructivismo.\nProceso de aprendizaje cognitivo.\nMotivación.\nAutorregulación.\nDesarrollo.\nGlosario.\nReferencias.\nÍndice onomástico.\nÍndice analítico.",
       "Format": "Formato 19 × 23.5 cm",
       "Pages": "616 págs.",
       "Request": "VERDADERO",
@@ -3498,12 +3415,12 @@
       "SubcategoryName": "Psicología",
       "Edition": "3a edición",
       "Year": "2003",
-      "Introduction": "FALSE",
-      "Content": "Introducción. Freud: el psicoanálisis. Jung: Psicología analítica. Adler: Psicología individual. Erikson: desarrollo psicosocial. Horney: psicoanálisis interpersonal. Allport: teoría personológica de los rasgos. \nCattell y los cinco grandes: teorías analíticofactoriales de los rasgos. Skinner y Staats: el desafío del conductismo. \nDollard y Miller: teoría psicoanalítica del aprendizaje. Mischel y Bandura: teoría cognoscitiva del aprendizaje social. Kelly: la Psicología de los constructos personales. Rogers: teoría centrada en la persona. \nMaslow: Psicología humanista y la jerarquía de las necesidades. ",
+      "Content": "Introducción.\nFreud: el psicoanálisis.\nJung: Psicología analítica.Adler:\nPsicología individual.\nErikson: desarrollo psicosocial.\nHorney: psicoanálisis interpersonal.\nAllport: teoría personológica de los rasgos.\nCattell y los cinco grandes: teorías analíticofactoriales de los rasgos.\nSkinner y Staats: el desafío del conductismo.\nDollard y Miller: teoría psicoanalítica del aprendizaje.\nMischel y Bandura: teoría cognoscitiva del aprendizaje social.\nKelly: la Psicología de los constructos personales.\nRogers: teoría centrada en la persona.\nMaslow: Psicología humanista y la jerarquía de las necesidades.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "592 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0228-6.jpg"
+      "ImageSource": "978-970-26-0228-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/teorias-de-la-personalidad-cloninger-3ed-libro"
     },
     {
       "Id": "331",
@@ -3512,13 +3429,13 @@
       "SubcategoryName": "Psicología",
       "Edition": "4a edición",
       "Year": "2013",
-      "Introduction": "FALSE",
-      "Content": "Qué es la psicología de la personalidad. \nMétodos en el estudio de la personalidad. \nProblemas en la evaluación de la personalidad. \nPerspectiva de rasgos. Perspectiva de motivos. Genética, evolución y personalidad. \nProcesos biológicos y personalidad. \nPerspectiva del psicoanálisis. \nTeorías psicosociales. Perspectiva del aprendizaje. \nActualización de uno mismo y autodeterminación. Perspectiva cognitiva. Perspectiva de la autorregulación. \nPersonalidad en perspectiva: la superposición y la integración. ",
+      "Content": "Qué es la psicología de la personalidad.\nMétodos en el estudio de la personalidad.\nProblemas en la evaluación de la personalidad.\nPerspectiva de rasgos.\nPerspectiva de motivos.\nGenética, evolución y personalidad.\nProcesos biológicos y personalidad.\nPerspectiva del psicoanálisis.\nTeorías psicosociales.\nPerspectiva del aprendizaje.\nActualización de uno mismo y autodeterminación.\nPerspectiva cognitiva.\nPerspectiva de la autorregulación.\nPersonalidad en perspectiva: la superposición y la integración.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "480 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/carver",
-      "ImageSource": "978-607-32-2251-8.jpg"
+      "ImageSource": "978-607-32-2251-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/teorias-personalidad-carver-7ed-libro"
     },
     {
       "Id": "332",
@@ -3527,8 +3444,7 @@
       "SubcategoryName": "Psicología",
       "Edition": "11a edición",
       "Year": "2006",
-      "Introduction": "FALSE",
-      "Content": "Introducción. Perspectivas teóricas sobre la conducta desadaptada. La empresa terapéutica: opciones técnicas y evaluación. Clasificación y evaluación. Estrés, afrontamiento y conducta inadaptada. Desadaptaciones orgánicas: trastornos de la conducta alimentaria, el sueño y psicofisiológicos. Trastornos de la preocupación por el cuerpo. \nTrastornos de la ansiedad. Variantes y trastornos sexuales. Trastornos de la personalidad. Trastornos del estado de ánimo y suicidio. \nEsquizofrenia y otros trastornos psicóticos. \nTrastornos por déficit cognitivo. Trastornos relacionados con sustancias. \nTrastornos de la infancia y la adolescencia.\nTrastornos generalizados del desarrollo y retraso mental. Respuesta de la sociedad a la conducta desadaptada. \n",
+      "Content": "Introducción.\nPerspectivas teóricas sobre la conducta desadaptada.\nLa empresa terapéutica: opciones técnicas y evaluación.\nClasificación y evaluación.\nEstrés, afrontamiento y conducta inadaptada.\nDesadaptaciones orgánicas: trastornos de la conducta alimentaria, el sueño y psicofisiológicos.\nTrastornos de la preocupación por el cuerpo.\nTrastornos de la ansiedad.\nVariantes y trastornos sexuales.\nTrastornos de la personalidad.\nTrastornos del estado de ánimo y suicidio.\nEsquizofrenia y otros trastornos psicóticos.\nTrastornos por déficit cognitivo.\nTrastornos relacionados con sustancias.\nTrastornos de la infancia y la adolescencia.\nTrastornos generalizados del desarrollo y retraso mental.\nRespuesta de la sociedad a la conducta desadaptada.",
       "Format": "Formato 21 × 27 cm",
       "Pages": "704 págs.",
       "Request": "VERDADERO",
@@ -3541,7 +3457,7 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Psicología",
       "Year": "2017",
-      "Content": "Introducción a la conducta criminal \nOrigen del comportamiento criminal: factores de riesgo de desarrollo \nOrígenes del comportamiento criminal: factores biológicos \nOrígenes del comportamiento criminal: Aprendizaje y factores situacionales \nAgresión humana y violencia Delincuencia juvenil \nPsicopatía Delincuencia y trastornos mentales \nHomicidio, asalto, pareja íntima y violencia familiar Muerte múltiple, escuela y violencia en el lugar de trabajo Psicología del terrorismo moderno Asalto sexual Abuso sexual de niños y jóvenes Robo, invasiones en el hogar, robos y ofensas Crimen económico violento, delito cibernético y crímenes de intimidación \nAbuso de sustancias y delincuencia \n",
+      "Content": "Introducción a la conducta criminal.\nOrigen del comportamiento criminal: factores de riesgo de desarrollo.\nOrígenes del comportamiento criminal: factores biológicos.\nOrígenes del comportamiento criminal: Aprendizaje y factores situacionales .\nAgresión humana y violencia.\nDelincuencia juvenil.\nPsicopatía\nDelincuencia y trastornos mentales\nHomicidio, asalto, pareja íntima y violencia familiar.\nMuerte múltiple, escuela y violencia en el lugar de trabajo.\nPsicología del terrorismo moderno.\nAsalto sexual.\nAbuso sexual de niños y jóvenes.\nRobo, invasiones en el hogar, robos y ofensas.\nCrimen económico violento, delito cibernético y crímenes de intimidación.\nAbuso de sustancias y delincuencia.",
       "Format": "Formato 21 × 27",
       "Pages": "592 págs.",
       "Request": "VERDADERO",
@@ -3554,11 +3470,12 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Psicología",
       "Year": "2002",
-      "Content": "Introducción a la psicología social. Desarrollo personal. El yo. Impresiones. \nCognición social. Actitudes y estados de ánimo. Influencia social: la persuasión. Influencia social: obediencia, conformidad y complacencia. Los procesos de grupo. Comunicación. Atracción interpersonal: amigos y amantes. \nConducta prosocial y motivación. Agresión. Los estereotipos, el prejuicio y la discriminación. La justicia, el derecho y la psicología. \nPsicología sociológica y cultural en el contexto latinoamericano. Psicología social psicológica en el contexto latinoamericano. La cultura y la psicología social. \nBibliografía. Glosario. Índice. ",
+      "Content": "Introducción a la psicología social. \nDesarrollo personal.\nEl yo.\nImpresiones. \nCognición social.\nActitudes y estados de ánimo.\nInfluencia social: la persuasión.\nInfluencia social: obediencia, conformidad y complacencia.\nLos procesos de grupo.\nComunicación.\nAtracción interpersonal: amigos y amantes. \nConducta prosocial y motivación.\nAgresión.\nLos estereotipos, el prejuicio y la discriminación.\nLa justicia, el derecho y la psicología. \nPsicología sociológica y cultural en el contexto latinoamericano.\nPsicología social psicológica en el contexto latinoamericano.\nLa cultura y la psicología social. \nBibliografía.\nGlosario.\nÍndice. ",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "592 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0034-3.jpg"
+      "ImageSource": "978-970-26-0034-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-social-americas-kimble-1ed-libro"
     },
     {
       "Id": "335",
@@ -3567,13 +3484,13 @@
       "SubcategoryName": "Ética",
       "Edition": "7a edición",
       "Year": "2012",
-      "Introduction": "FALSE",
-      "Content": "Ética y negocios. Principios de ética en los negocios. El sistema de negocios. La ética en el mercado. Ética y medio ambiente. La ética de la producción para el consumidor y el marketing. La ética de la discriminación en el trabajo. \nEl individuo en la organización. ",
+      "Content": "Ética y negocios.\nPrincipios de ética en los negocios.\nEl sistema de negocios.\nLa ética en el mercado.\nÉtica y medio ambiente.\nLa ética de la producción para el consumidor y el marketing.\nLa ética de la discriminación en el trabajo. \nEl individuo en la organización. ",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "504 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/velasquez",
-      "ImageSource": "978-607-32-1312-7.jpg"
+      "ImageSource": "978-607-32-1312-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/etica-negocios-velasquez-7ed-libro"
     },
     {
       "Id": "336",
@@ -3581,22 +3498,22 @@
       "CategoryName": "Ciencias Sociales",
       "SubcategoryName": "Ética",
       "Year": "2013",
-      "Content": "El sentido de aprender sobre Ética. \nLa Ética en la ciencia y la tecnología. \nLa Ética en las instituciones y organizaciones. Ética en el ejercicio de la profesión. ",
+      "Content": "El sentido de aprender sobre Ética. \nLa Ética en la ciencia y la tecnología. \nLa Ética en las instituciones y organizaciones.\nÉtica en el ejercicio de la profesión. ",
       "Format": "Formato 20 × 27 cm",
       "Pages": "256 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/enriquez",
-      "ImageSource": "978-607-32-2321-8.jpg"
+      "ImageSource": "978-607-32-2321-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/taller-etica-enriquez-1ed-libro"
     },
     {
       "Id": "337",
       "Title": "Relaciones públicas. Estrategias y tácticas",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "10a edición",
       "Year": "2012",
-      "Introduction": "FALSE",
-      "Content": "¿Qué son las relaciones públicas? La evolución de las relaciones públicas. \nÉtica y profesionalidad. Departamentos y consultoras de relaciones públicas. Investigación. Planificación. Comunicación. Evaluación. Opinión pública y persuasión. Gestión de conflictos: tratar con temas potencialmente conflictivos, riesgos y crisis. \nLos públicos. Relaciones públicas y derecho. Internet y medios sociales. Relaciones con la prensa escrita. \nRelaciones con la prensa audiovisual. \nOrganización y gestión de eventos. \nRelaciones públicas corporativas. \nEspectáculos, deporte y turismo. Política y gobierno. Relaciones públicas internacionales. Tercer sector, salud y educación. \n",
+      "Content": "¿Qué son las relaciones públicas?.\nLa evolución de las relaciones públicas. \nÉtica y profesionalidad.\nDepartamentos y consultoras de relaciones públicas.\nInvestigación.\nPlanificación.\nComunicación.\nEvaluación.\nOpinión pública y persuasión.\nGestión de conflictos: tratar con temas potencialmente conflictivos, riesgos y crisis. \nLos públicos.\nRelaciones públicas y derecho.\nInternet y medios sociales.\nRelaciones con la prensa escrita.\nRelaciones con la prensa audiovisual. \nOrganización y gestión de eventos. \nRelaciones públicas corporativas. \nEspectáculos, deporte y turismo.\nPolítica y gobierno.\nRelaciones públicas internacionales.\nTercer sector, salud y educación. ",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "664 págs.",
       "Request": "VERDADERO",
@@ -3606,37 +3523,37 @@
       "Id": "338",
       "Title": "Psicología. Una introducción",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Year": "2011",
-      "Content": "Psicología y pensamiento científico. \nMétodos de investigación. \nPsicobiología. Sensación y percepción. \nAprendizaje. \nMemoria. Leguaje, pensamiento e inteligencia. \nDesarrollo humano. Emoción y motivación. Estrés, salud y sueño. Psicología social. Personalidad. Trastornos psicológicos. Tratamientos psicológicos y biológicos. \nAnexos. Glosario. Respuestas. Referencias. Créditos. ",
+      "Content": "Psicología y pensamiento científico. \nMétodos de investigación. \nPsicobiología.\nSensación y percepción. \nAprendizaje. \nMemoria.\nLeguaje, pensamiento e inteligencia. \nDesarrollo humano.\nEmoción y motivación.\nEstrés, salud y sueño.\nPsicología social.\nPersonalidad.\nTrastornos psicológicos.\nTratamientos psicológicos y biológicos.\nAnexos.\nGlosario.\nRespuestas.\nReferencias.\nCréditos.",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "718 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2727-5.jpg"
+      "ImageSource": "978-848-32-2727-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-lilienfeld-1ed-libro"
     },
     {
       "Id": "339",
       "Title": "Aprendizaje humano",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "4a edición",
       "Year": "2005",
-      "Introduction": "FALSE",
-      "Content": "Parte I. Introducción al aprendizaje humano. \nDefiniciones y perspectivas del aprendizaje. \nAprendizaje y cerebro. Parte II. Perspectivas conductistas del aprendizaje. \nConducción y condicionamiento clásico. \nCondicionamiento operante. Aplicaciones del condicionamiento operante. \nEfectos de los estímulos aversivos. \nParte III. Teoría socio-cognitiva. La teoría socio-cognitiva. Parte IV. Perspectivas cognitivas del aprendizaje. \nAntecedentes y supuestos del cognitivismo. \nComponentes básicos de la memoria. \nMemoria a largo plazo I: almacenamiento. \nMemoria a largo plazo II: la naturaleza del conocimiento. \nMemoria a largo plazo III: recuerdo y olvido. \nParte V. Aprendizaje complejo y cognición. \nMetacognición, aprendizaje autorregulado y estrategias de estudio. \nTransferencia y resolución de problemas. \nProcesos sociales en la construcción del conocimiento. Parte VI. Motivación. \nMotivación y emoción. Factores cognitivos sobre la motivación. \nAtribuciones. Referencias bibliográficas. Índice de materias \n",
+      "Content": "Parte I. Introducción al aprendizaje humano. \nDefiniciones y perspectivas del aprendizaje. \nAprendizaje y cerebro.\nParte II. Perspectivas conductistas del aprendizaje.\nConducción y condicionamiento clásico. \nCondicionamiento operante.\nAplicaciones del condicionamiento operante. \nEfectos de los estímulos aversivos. \nParte III. Teoría socio-cognitiva.\nLa teoría socio-cognitiva.\nParte IV. Perspectivas cognitivas del aprendizaje. \nAntecedentes y supuestos del cognitivismo. \nComponentes básicos de la memoria. \nMemoria a largo plazo I: almacenamiento. \nMemoria a largo plazo II: la naturaleza del conocimiento. \nMemoria a largo plazo III: recuerdo y olvido. \nParte V. Aprendizaje complejo y cognición. \nMetacognición, aprendizaje autorregulado y estrategias de estudio. \nTransferencia y resolución de problemas. \nProcesos sociales en la construcción del conocimiento.\nParte VI. Motivación. \nMotivación y emoción.\nFactores cognitivos sobre la motivación. \nAtribuciones.\nReferencias bibliográficas.\nÍndice de materias ",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "716 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-842-05-4523-3.jpg"
+      "ImageSource": "978-842-05-4523-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/aprendizaje-humano-ellis-4ed-libro"
     },
     {
       "Id": "340",
       "Title": "Modificación de conducta.Qué es y cómo aplicarla",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "8a edición",
       "Year": "2007",
-      "Introduction": "FALSE",
-      "Content": "Prólogo. Parte I. El enfoque de la modificación de conducta. Introducción. Ámbitos de aplicación: una panorámica. \nParte II. Procedimientos y principios conductuales básicos. Conseguir que una conducta ocurra más a menudo mediante reforzamiento positivo. \nDesarrollar y mantener el comportamiento mediante refuerzo condicionado. Reducir la conducta mediante extinción. \nLograr mantener el comportamiento mediante el refuerzo intermitente. Tipos de refuerzo intermitente para reducir una conducta. Hacer lo correcto en el momento y el lugar adecuados: la discriminación y la generalización de los estímulos. \nDesarrollar conductas apropiadas mediante desvanecimiento. Conseguir que se produzca un comportamiento novedoso: una aplicación del moldeado. Conseguir una nueva secuencia de conductas mediante encadenamiento comportamental. Eliminar la conducta inapropiada mediante el castigo. Establecer conductas deseables mediante condicionamiento de escape y de evitación. \nProcedimientos basados sobre los principios del condicionamiento clásico. \nCondicionamientos clásico y operante juntos. \nTransferir el comportamiento a nuevos contextos y lograr que perdure: generalización de la modificación de conducta. \nParte III. Consideraciones preliminares para una programación eficaz de las estrategias. \nAprovechar el control de los estímulos existente: las reglas y los objetivos. \nAprovechar el control del estímulo existente: modelado, guía física e inducción situacional. \nMotivación y modificación de conducta. \nParte IV. Tratamiento de los datos. Evaluación conductual: consideraciones iniciales. \nEvaluación conductual directa: qué registrar y cómo hacerlo. Evaluación funcional de las causas de la conducta problemática. \nLa investigación en modificación de conducta. Parte V. Unir todas las piezas. Planificar, aplicar y evaluar un programa de tratamiento. \nEconomía de fichas. Ayudar a que las personas desarrollen autocontrol. Modificación de conducta cognitiva. Áreas de aplicación clínica de la terapia de conducta. Breve perspectiva histórica. Aspectos éticos. \n\n\n",
+      "Content": "Prólogo.\nParte I. El enfoque de la modificación de conducta.\nIntroducción.\nÁmbitos de aplicación: una panorámica. \nParte II. Procedimientos y principios conductuales básicos.\nConseguir que una conducta ocurra más a menudo mediante reforzamiento positivo. \nDesarrollar y mantener el comportamiento mediante refuerzo condicionado.\nReducir la conducta mediante extinción. \nLograr mantener el comportamiento mediante el refuerzo intermitente.\nTipos de refuerzo intermitente para reducir una conducta.\nHacer lo correcto en el momento y el lugar adecuados: la discriminación y la generalización de los estímulos. \nDesarrollar conductas apropiadas mediante desvanecimiento.\nConseguir que se produzca un comportamiento novedoso: una aplicación del moldeado.\nConseguir una nueva secuencia de conductas mediante encadenamiento comportamental.\nEliminar la conducta inapropiada mediante el castigo.\nEstablecer conductas deseables mediante condicionamiento de escape y de evitación. \nProcedimientos basados sobre los principios del condicionamiento clásico. \nCondicionamientos clásico y operante juntos. \nTransferir el comportamiento a nuevos contextos y lograr que perdure: generalización de la modificación de conducta. \nParte III. Consideraciones preliminares para una programación eficaz de las estrategias. \nAprovechar el control de los estímulos existente: las reglas y los objetivos. \nAprovechar el control del estímulo existente: modelado, guía física e inducción situacional. \nMotivación y modificación de conducta. \nParte IV. Tratamiento de los datos.\nEvaluación conductual: consideraciones iniciales. \nEvaluación conductual directa: qué registrar y cómo hacerlo.\nEvaluación funcional de las causas de la conducta problemática. \nLa investigación en modificación de conducta.\nParte V. Unir todas las piezas.\nPlanificar, aplicar y evaluar un programa de tratamiento. \nEconomía de fichas.\nAyudar a que las personas desarrollen autocontrol.\nModificación de conducta cognitiva.\nÁreas de aplicación clínica de la terapia de conducta.\nBreve perspectiva histórica.\nAspectos éticos. ",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "528 págs.",
       "Request": "VERDADERO",
@@ -3646,38 +3563,38 @@
       "Id": "341",
       "Title": "Psicología clínica",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "12a edición",
       "Year": "2006",
-      "Introduction": "FALSE",
-      "Content": "Psicología clínica: una visión general. \nPerspectivas históricas y contemporáneas de la conducta patológica. Factores y perspectivas causales. \nEvaluación clínica. Estrés y trastornos de adaptación. Pánico, ansiedad y sus trastornos. \nTrastornos del estado de ánimo y suicidio. \nTrastornos disociativos y somatoformes. \nTrastornos de la conducta alimentaria y obesidad. Problemas de salud y conducta. \nTrastornos de personalidad. Trastornos relacionados con sustancias. \nOpciones sexuales, abuso y disfunciones. \nEsquizofrenia y otros trastornos psicóticos. \nTrastornos cognitivos. Trastornos de la niñez y adolescencia. \nTerapia. Aspectos legales contemporáneos en psicología clínica. Bibliografía. Agradecimientos. Índice analítico. \n",
+      "Content": "Psicología clínica: una visión general. \nPerspectivas históricas y contemporáneas de la conducta patológica.\nFactores y perspectivas causales. \nEvaluación clínica.\nEstrés y trastornos de adaptación.\nPánico, ansiedad y sus trastornos. \nTrastornos del estado de ánimo y suicidio. \nTrastornos disociativos y somatoformes. \nTrastornos de la conducta alimentaria y obesidad.\nProblemas de salud y conducta. \nTrastornos de personalidad.\nTrastornos relacionados con sustancias. \nOpciones sexuales, abuso y disfunciones. \nEsquizofrenia y otros trastornos psicóticos. \nTrastornos cognitivos.\nTrastornos de la niñez y adolescencia. \nTerapia.\nAspectos legales contemporáneos en psicología clínica.\nBibliografía.\nAgradecimientos.\nÍndice analítico. ",
       "Format": "Formato 21.5 × 27 cm",
       "Pages": "728 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2317-8.jpg"
+      "ImageSource": "978-848-32-2317-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/psicologia-clinica-butcher-12ed-libro"
     },
     {
       "Id": "342",
       "Title": "Biopsicología",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "6a edición",
       "Year": "2006",
-      "Introduction": "FALSE",
-      "Content": "Parte I. ¿Qué es la Biopsicología? La Biopsicología en tanto que Neurociencia. \nParte II. Fundamentos de Biopsicología. \nEvolución, Genética y experiencia. Anatomía del sistema nervioso. Conducción neural y transmisión sináptica. \nMétodos de investigación en Biopsicología. \nParte III. Sistemas sensitivos y motores. El sistema visual. Mecanismos de la percepción, la conciencia y la atención. Sistema sensitivomotor. Parte IV. Plasticidad cerebral. Desarrollo del sistema nervioso. Daño cerebral y plasticidad neural. \nAprendizaje, memoria y amnesia. Parte V. Biopsicología de la motivación. \nHambre, ingesta de alimentos y salud. \nHormonas y sexo. Sueño, ensueños y ritmos circadianos. \nDrogadicción y circuitos cerebrales de recompensa. Parte VI. Trastornos de la cognición y la emoción. Lateralización, lenguaje y cerebro escindido. \nBiopsicología de la emoción, el estrés y la salud. Biopsicología de los trastornos psiquiátricos. \nEpílogo. Apéndices. Glosario. Bibliografía. \n",
+      "Content": "Parte I. ¿Qué es la Biopsicología?\nLa Biopsicología en tanto que Neurociencia. \nParte II. Fundamentos de Biopsicología. \nEvolución, Genética y experiencia.\nAnatomía del sistema nervioso.\nConducción neural y transmisión sináptica. \nMétodos de investigación en Biopsicología. \nParte III. Sistemas sensitivos y motores.\nEl sistema visual.\nMecanismos de la percepción, la conciencia y la atención.\nSistema sensitivomotor.\nParte IV. Plasticidad cerebral.\nDesarrollo del sistema nervioso.\nDaño cerebral y plasticidad neural. \nAprendizaje, memoria y amnesia.\nParte V. Biopsicología de la motivación. \nHambre, ingesta de alimentos y salud. \nHormonas y sexo.\nSueño, ensueños y ritmos circadianos. \nDrogadicción y circuitos cerebrales de recompensa.\nParte VI. Trastornos de la cognición y la emoción.\nLateralización, lenguaje y cerebro escindido. \nBiopsicología de la emoción, el estrés y la salud.\nBiopsicología de los trastornos psiquiátricos. \nEpílogo.\nApéndices.\nGlosario.\nBibliografía. ",
       "Format": "Formato 19.5 × 27 cm",
       "Pages": "640 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/pinel",
-      "ImageSource": "978-847-82-9081-9.jpg"
+      "ImageSource": "978-847-82-9081-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/biopsicologia-pinel-6ed-libro"
     },
     {
       "Id": "343",
       "Title": "Procesos cognitivos. Modelos y bases neuronales",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Year": "2008",
-      "Content": "Cómo el cerebro alimenta la mente. \nPercepción. Atención. Representación y conocimientos en la memoria a largo plazo. \nCodificación de la memoria a largo plazo. \nTrabajando la memoria. Procedimientos ejecutivos. Emoción y cognición. \nTomando decisiones. Resolución de problemas y razonamiento. \nCognición motora y simulación mental. Lenguaje. \n",
+      "Content": "Cómo el cerebro alimenta la mente. \nPercepción.\nAtención.\nRepresentación y conocimientos en la memoria a largo plazo. \nCodificación de la memoria a largo plazo. \nTrabajando la memoria.\nProcedimientos ejecutivos.\nEmoción y cognición. \nTomando decisiones.\nResolución de problemas y razonamiento. \nCognición motora y simulación mental.\nLenguaje. ",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "648 págs.",
       "Request": "VERDADERO",
@@ -3687,10 +3604,9 @@
       "Id": "344",
       "Title": "Psicología social",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "10a edición",
       "Year": "2005",
-      "Introduction": "FALSE",
       "Format": "Formato 21 × 27 cm",
       "Pages": "608 págs.",
       "Request": "VERDADERO",
@@ -3700,23 +3616,25 @@
       "Id": "345",
       "Title": "Fisiología de la conducta",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Edition": "11a edición",
       "Year": "2014",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-841-55-5275-8.jpg"
+      "ImageSource": "978-841-55-5275-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-de-fisiologia-de-la-conducta-carlson-1ed-libro"
     },
     {
       "Id": "346",
       "Title": "Liderazgo en las organizaciones",
       "CategoryName": "Ciencias Sociales",
-      "SubcategoryName": "España",
+      "SubcategoryName": "España Ciencias Sociales",
       "Year": "2008",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "552 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2344-4.jpg"
+      "ImageSource": "978-848-32-2344-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/liderazgo-organizaciones-yukl-1ed-libro"
     },
     {
       "Id": "400",
@@ -3729,14 +3647,13 @@
       "Content": "¿Qué es la investigación de operaciones? \nModelado con programación lineal \nMétodo simplex y análisis de sensibilidad \nDualidad y análisis postóptimo \nModelo de transporte y sus variantes \nModelo de redes \nProgramación lineal avanzada \nProgramación de metas \nProgramación lineal entera \nProgramación heurística \nProblema del agente viajero (TSP) \nProgramación dinámica determinística \nModelos de inventario (con introducción a la cadena de suministro) \nRepaso de probabilidad básica \nAnálisis de decisiones y juegos \nModelos de inventario probabilísticos \nCadenas de Markov \nSistemas de colas \nModelado de simulación \nTeoría de optimización clásica \nAlgoritmos de programación no lineal \nApéndice A. Tablas estadísticas \nApéndice B. Respuestas parciales a problemas seleccionados\nLa presentación del contenido está basada en resolución de problemas y casos. \nAdemás cuenta con el software TORA que ha sido actualizado para la presente edición, así como el apoyo de AMPL y Excel solver para la resolución de problemas prácticos que permiten\na los estudiantes concentrarse en la compresión de conceptos y su aplicación en vez de perder tiempo en la programación de rutinas\npara resolver los problemas.\nRecursos para profesores (inglés)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/taha",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/taha"
     },
     {
       "Id": "401",
       "Title": "Mecánica de materiales",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Novedades Ingeniería y computación",
       "Edition": "9ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería mecánica, Ingeniería civil, Arquitectura, Mecatrónica.",
@@ -3750,20 +3667,19 @@
       "Id": "402",
       "Title": "Administración de inventarios",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Novedades Ingeniería y computación",
       "Edition": "1ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería y Administración.",
       "Content": "Introducción a los inventarios \nFundamentos de la administración de inventarios \nControl de inventarios \nRelación entre la administración de inventarios y el pronóstico \nSimulación de eventos discretos en procesos de inventario \nProcesos de administración de inventario adicional y conceptos relacionados \nGestión de los flujos de inventario de la cadena de suministro \nMedición del rendimiento del inventario\nEste texto es una guía completa para la gestión de inventarios escrito por expertos de talla mundial en colaboración con el Consejo de Supply Chain Management Professionals. Proporciona un conocimiento profundo de cada enfoque conduce a la gestión de inventarios de la cadena de suministro y las variables que impulsan las decisiones sobre los niveles de inventario.",
       "Format": "Formato 21 × 27 cm",
-      "Request": "VERDADERO",
-      "ImageSource": "FALSO"
+      "Request": "VERDADERO"
     },
     {
       "Id": "403",
       "Title": "Sistemas digitales Principios y aplicaciones",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Novedades Ingeniería y computación",
       "Edition": "11ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería eléctrica, Mecánica, Electrónica.",
@@ -3771,14 +3687,13 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "1024 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/tocci",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/tocci"
     },
     {
       "Id": "404",
       "Title": "Análisis de circuitos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Novedades Ingeniería y computación",
       "Edition": "13ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería eléctrica, Mecánica, Electrónica.",
@@ -3786,42 +3701,39 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "952 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/boylestad",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/boylestad"
     },
     {
       "Id": "405",
       "Title": "Administración de proyectos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Novedades Ingeniería y computación",
       "Edition": "1ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería y Administración",
       "Content": "Es un libro dirigido al estudio de la evaluación y administración de proyectos, una materia del Tecnológico de Monterrey. Cuenta con apoyo de software de seguimiento y control.\nSe ofrece software de apoyo",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/ lopez-lankenau",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/ lopez-lankenau"
     },
     {
       "Id": "406",
       "Title": "Dibujo técnico con gráficas de ingeniería",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Novedades Ingeniería y computación",
       "Edition": "13ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería.",
       "Content": "En esta edición se ha puesto especial atención en las aperturas de capítulo así como las referencias a los estándares al inicio de cada capítulo. Aparece una sección introductoria de fundamentos y una sección de trabajo con CAD que incluye tips de modelación 2D y 3D. \nLos problemas de este libro han sido actualizados incluyendo partes plásticas y metálicas así como ensamblaje actualizado y problemas de esquematización.\nRecursos para profesores (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/giesecke",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/giesecke"
     },
     {
       "Id": "407",
       "Title": "Microsoft® Office Word 2013",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Computación",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Creación de documentos con Microsoft Word 2013. \nUso de tablas y plantillas para crear currículos y cartas de presentación. \nCreación de artículos de investigación, boletines de noticias y etiquetas de correspondencia combinadas.\nCapítulos adicionales en español (Introducción a Office, proyectos adicionales)\nBanco de exámenes (Recursos para profesores en inglés)",
@@ -3829,13 +3741,14 @@
       "Pages": "216 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/gaskin",
-      "ImageSource": "978-607-32-2910-4.jpg"
+      "ImageSource": "978-607-32-2910-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/go-word-2013-gaskin-1ed-libro"
     },
     {
       "Id": "408",
       "Title": "Microsoft® Office Excel 2013",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Computación",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Creación de una hoja de cálculo e introducción de datos. \nUso de funciones, creación de tablas y administración de libros de trabajo grandes. \nAnálisis de datos con gráficos circulares, gráficos lineales y herramientas de análisis de hipótesis.\nCapítulos adicionales en español (Introducción a Office, proyectos adicionales)\nBanco de exámenes (Recursos para profesores en inglés)",
@@ -3843,18 +3756,19 @@
       "Pages": "217 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/gaskin",
-      "ImageSource": "978-607-32-2906-7.jpg"
+      "ImageSource": "978-607-32-2906-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/go-excel-2013-gaskin-1ed-libro"
     },
     {
       "Id": "409",
       "Title": "Microsoft® Office PowerPoint 2013",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Computación",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Los primeros pasos con Microsoft Office PowerPoint 2013. \nDar formato a las presentaciones de PowerPoint. \nMejorar una presentación con animación, video, tablas y gráficos.\nCapítulos adicionales en español (Introducción a Office, proyectos adicionales)\nBanco de exámenes (Recursos para profesores en inglés)",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "Págs. 208 págs.",
+      "Pages": "208 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/gaskin",
       "ImageSource": "978-607-32-2908-1.jpg"
@@ -3863,7 +3777,7 @@
       "Id": "410",
       "Title": "Fundamentos de programación Piensa en C",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Year": "2006",
       "Introduction": "FALSO",
       "Content": "Algoritmos, diagramas de flujo y programas en C. \nEstructuras algorítmicas selectivas. \nEstructuras algorítmicas repetitivas. \nFunciones. \nArreglos unidimensionales. \nArreglos multidimensionales. \nCaracteres y cadenas de caracteres. \nEstructuras y uniones. \nArchivos de datos.",
@@ -3876,7 +3790,7 @@
       "Id": "411",
       "Title": "Procesamiento de bases de datos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "8ª edición",
       "Year": "2003",
       "Introduction": "FALSO",
@@ -3885,13 +3799,14 @@
       "Pages": "624 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/kroenke",
-      "ImageSource": "978-970-26-0325-2.jpg"
+      "ImageSource": "978-970-26-0325-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/procesamiento-datos-kroenke-8ed-libro"
     },
     {
       "Id": "412",
       "Title": "Estructura de datos orientada a objetos Algoritmos con C++",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Year": "2007",
       "Introduction": "FALSO",
       "Content": "Programación orientada a objetos. \nHerencia y amistad. \nSobrecarga, plantillas y polimorfismo. \nArreglos. \nPilas y colas. \nListas. \nÁrboles. \nGráficas. \nOrdenación y búsqueda\nPresentación PowerPoint para el docente (español)\n",
@@ -3905,7 +3820,7 @@
       "Id": "413",
       "Title": "Lenguaje ensamblador para computadoras basadas en Intel",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "5ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -3913,13 +3828,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "752 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1081-6.JPG"
+      "ImageSource": "978-970-26-1081-6.JPG",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/lenguaje-ensamblador-computadoras-basadas-intel-irvine-5ed-ebook1"
     },
     {
       "Id": "414",
       "Title": "Introducción a la programación estructurada en C",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Year": "2011",
       "Introduction": "FALSO",
       "Content": "Introducción al lenguaje C. \nAritmética de C. \nProgramación estructurada. \nEstructuras de control selectivas. \nEstructuras de control repetitivas o iteración condicionada. \nDato de tipo estructurado Arreglo. \nDato de tipo estructurado Estructura (registro). \nFunciones (programación modular). \nEjercicios resueltos.",
@@ -3932,20 +3848,21 @@
       "Id": "415",
       "Title": "C# para estudiantes",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Year": "2011",
       "Introduction": "FALSO",
       "Content": "Antecedentes sobre C#. \nEl entorno de desarrollo de C#. \nIntroducción a los gráficos. \nVariables y cálculos. \nMétodos y argumentos. \nUso de los objetos. \nSelección. \nRepetición. \nDepuración. \nCreación de clases. \nHerencia. \nCálculos. \nEstructuras de datos. \nArreglos. \nArreglos bidimensionales (matrices). \nManipulación de cadenas de caracteres. \nExcepciones. \nArchivos. \nProgramas de consola. \nEl diseño orientado a objetos. \nEstilo de programación. \nLa fase de pruebas. \nInterfases. \nPolimorfismo. \nApéndices. \nBibliografía. \nÍndice.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "464 págs",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0328-9.JPG"
+      "ImageSource": "978-607-32-0328-9.JPG",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estudiantes-bell-1ed-libro"
     },
     {
       "Id": "416",
       "Title": "Cómo programar en C++",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "9ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
@@ -3960,19 +3877,20 @@
       "Id": "417",
       "Title": "Manejo de técnicas de programación Enfoque por competencias",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Unidad 1 \nManejo de técnicas de programación Diseño de secuencias de pasos lógicos, conceptos generales. \nEstructuras algorítmicas en la elaboración de programación estructurada usando C++. \nEstructuras de control selectivas, repetitivas, y aplicaciones con estructuras de datos. \nUnidad 2 Programa en pseudocódigo con técnicas de lenguajes de programación orientados a objetos, dirigidos a eventos y funcional. \nElaboración de rutinas en pseudocódigo con base en clases y herencias usando C++ orientada a objetos. \nElaboración de rutinas en pseudocódigo con base en controles, eventos y multitareas usando HTML y JavaScript. \nElaboración de rutinas en pseudocódigo mediante recursividad usando F#.",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-3233-3.jpg"
+      "ImageSource": "978-607-32-3233-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/manejo-de-tecnicas-de-programacion-sergio-1ed-ebook"
     },
     {
       "Id": "418",
       "Title": "Cómo programar en C/C++ y Java",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "4ª edición",
       "Year": "2004",
       "Introduction": "FALSO",
@@ -3981,13 +3899,14 @@
       "Pages": "1100 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/deitel",
-      "ImageSource": "978-970-26-0531-7.jpg"
+      "ImageSource": "978-970-26-0531-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/como-programar-cc-java-deitel-4ed-libro"
     },
     {
       "Id": "419",
       "Title": "Cómo programar en Java",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "14ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
@@ -3996,13 +3915,14 @@
       "Pages": "640 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/deitel",
-      "ImageSource": "978-607-32-3802-1.jpg"
+      "ImageSource": "978-607-32-3802-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/c%C3%B3mo-programar-en-java-9ed-ebook"
     },
     {
       "Id": "420",
       "Title": "Java para estudiantes",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "6ª edición",
       "Year": "2011",
       "Introduction": "FALSO",
@@ -4010,13 +3930,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "552 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0557-3.jpg"
+      "ImageSource": "978-607-32-0557-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/java-para-estudiantes-bell-6ed-libro"
     },
     {
       "Id": "421",
       "Title": "Cómo programar Internet & World Wide Web",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "5ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
@@ -4031,7 +3952,7 @@
       "Id": "422",
       "Title": "Análisis numérico",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "2ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4040,13 +3961,14 @@
       "Pages": "672 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/sauer",
-      "ImageSource": "978-607-32-2059-0.jpg"
+      "ImageSource": "978-607-32-2059-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-numerico-sauer-2ed-libro"
     },
     {
       "Id": "423",
       "Title": "Introducción a la computación y programación con Python Un enfoque multimedia",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "3ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4061,7 +3983,7 @@
       "Id": "424",
       "Title": "Sistemas operativos modernos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "3ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -4070,26 +3992,28 @@
       "Pages": "1104 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/tanenbaum",
-      "ImageSource": "978-607-44-2046-3.jpg"
+      "ImageSource": "978-607-44-2046-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-operativos-modernos-tanenbaum-3ed-libro"
     },
     {
       "Id": "425",
       "Title": "Sistemas distribuidos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Year": "2008",
       "Introduction": "FALSO",
       "Content": "Introducción. \nArquitecturas. \nProcesos. \nComunicación. \nNombres. \nSincronización. \nConsistencia y replicación. \nTolerancia a las fallas. \nSeguridad. \nSistemas basados en objetos distribuidos. \nSistemas de archivos distribuidos. \nSistemas distribuidos basados en la Web. \nSistemas distribuidos basados en coordinación. \nLista de lecturas y bibliografía.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "704 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1280-3.jpg"
+      "ImageSource": "978-970-26-1280-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-distribuidos-tanenbaum-2ed-libro"
     },
     {
       "Id": "426",
       "Title": "Ingeniería de software",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Programación",
       "Edition": "9ª edición",
       "Year": "2011",
       "Introduction": "FALSO",
@@ -4097,13 +4021,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "792 págs",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0603-7.jpg"
+      "ImageSource": "978-607-32-0603-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-software-sommerville-9ed-libro"
     },
     {
       "Id": "427",
       "Title": "Redes de computadoras",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Redes",
       "Edition": "5ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -4111,13 +4036,14 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "880 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0817-8.jpg"
+      "ImageSource": "978-607-32-0817-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/redes-computadoras-tanenbaum-5ed-libro"
     },
     {
       "Id": "428",
       "Title": "Redes de computadoras e Internet",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Redes",
       "Edition": "6ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4126,13 +4052,14 @@
       "Pages": "672 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/comer",
-      "ImageSource": "978-607-32-3324-8.jpg"
+      "ImageSource": "978-607-32-3324-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/redes-de-computadoras-e-internet-douglas-6ed-book"
     },
     {
       "Id": "429",
       "Title": "Análisis y diseño de sistemas",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "8ª edición",
       "Year": "2011",
       "Introduction": "FALSO",
@@ -4140,13 +4067,14 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "600 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0577-1.jpg"
+      "ImageSource": "978-607-32-0577-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-dise%C3%B1o-sistemas-kendall-8ed-libro"
     },
     {
       "Id": "430",
       "Title": "Sistemas de información gerencial",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "14a edición",
       "Year": "2016",
       "Introduction": "FALSO",
@@ -4155,13 +4083,14 @@
       "Pages": "680 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/laudon",
-      "ImageSource": "978-607-32-3696-6.jpg"
+      "ImageSource": "978-607-32-3696-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-de-informacion-gerencial-laudon-14ed-libro"
     },
     {
       "Id": "431",
       "Title": "E-commerce 2013 Negocios, tecnología, sociedad",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "9ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
@@ -4176,7 +4105,7 @@
       "Id": "432",
       "Title": "Teoría de autómatas Un enfoque práctico",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Sistemas de información",
       "Edition": "1ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4191,7 +4120,7 @@
       "Id": "433",
       "Title": "Introducción a la ingeniería",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Computación avanzada",
       "Edition": "3ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -4206,7 +4135,7 @@
       "Id": "434",
       "Title": "Dinámica de estructuras",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Computación avanzada",
       "Edition": "4ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4215,13 +4144,14 @@
       "Pages": "742 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/ chopradinamica",
-      "ImageSource": "978-607-32-2239-6.jpg"
+      "ImageSource": "978-607-32-2239-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/dinamica-estructuras-chopra-4ed-libro"
     },
     {
       "Id": "435",
       "Title": "Introducción a la ingeniería",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería",
       "Year": "2001",
       "Introduction": "FALSO",
       "Content": "Una mirada a la ingeniería. \nLa ingeniería como profesión. \nEl proceso de diseño en ingeniería. \nMediciones, cálculos y toma de decisiones. \nBúsqueda de información. \nComunicación oral y escrita. \nCriterios y restricciones. \nDefinición del problema. \nGeneración de posibles soluciones. \nSelección de la mejor solución.",
@@ -4234,7 +4164,7 @@
       "Id": "436",
       "Title": "Análisis estructural",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería",
       "Edition": "8ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -4243,13 +4173,14 @@
       "Pages": "720 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/hibbeler",
-      "ImageSource": "978-607-32-1062-1.jpg"
+      "ImageSource": "978-607-32-1062-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-estructural-hibbeller-8ed-libro"
     },
     {
       "Id": "437",
       "Title": "Análisis de circuitos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "13ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -4257,14 +4188,13 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "1224 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/boylestad",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/boylestad"
     },
     {
       "Id": "438",
       "Title": "Circuitos eléctricos y aplicaciones digitales",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "2ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -4272,13 +4202,14 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "480 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1515-2.jpg"
+      "ImageSource": "978-607-32-1515-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/circuitos-electricos-aplicaciones-digitales-villase%C3%B1or-2ed-libro"
     },
     {
       "Id": "439",
       "Title": "Electrónica: teoría de circuitos y dispositivos electrónicos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "10ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -4293,7 +4224,7 @@
       "Id": "440",
       "Title": "Introducción a los sistemas de control Conceptos, aplicaciones y simulación con MATLAB",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "1ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -4307,7 +4238,7 @@
       "Id": "441",
       "Title": "Sistemas digitales Principios y aplicaciones",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "11ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería eléctrica, Mecánica, Electrónica.",
@@ -4315,14 +4246,13 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "1024 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/tocci",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/tocci"
     },
     {
       "Id": "442",
       "Title": "Sistemas de comunicación digitales y analógicos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "7ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -4330,13 +4260,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "784 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-1216-2.jpg"
+      "ImageSource": "978-970-26-1216-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-de-comunicacion-digitales-y-analogicos-couch-1ed-libro"
     },
     {
       "Id": "443",
       "Title": "Diseño digital",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería eléctrica",
       "Edition": "5ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4345,13 +4276,14 @@
       "Pages": "576 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/mano",
-      "ImageSource": "978-607-32-2040-8.jpg"
+      "ImageSource": "978-607-32-2040-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/dise%C3%B1o-digital-mano-5ed-libro"
     },
     {
       "Id": "444",
       "Title": "Análisis y diseño de circuitos lógicos digitales",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniría electrónica",
       "Year": "1996",
       "Introduction": "FALSO",
       "Content": "Sistemas numéricos. \nMétodos algebraicos para el análisis y la síntesis de circuitos lógicos. \nSimplificación de funciones de intercambio. \nLógica combinatoria modular. \nDiseño de un circuito combinatorio con dispositivos lógicos programables. \nIntroducción a los dispositivos secuenciales. \nLógica secuencial modular.\nAnálisis y síntesis de circuitos secuenciales síncronos. Simplificación de circuitos secuenciales. \nCircuitos secuenciales asíncronos. \nCircuitos secuenciales con dispositivos lógicos programables. \nVerificación de un circuito lógico y diseño verificable. Ejemplos de diseño.",
@@ -4364,7 +4296,7 @@
       "Id": "445",
       "Title": "Electrónica de potencia",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniría electrónica",
       "Edition": "4ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4373,13 +4305,14 @@
       "Pages": "640 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/rashid",
-      "ImageSource": "978-607-32-3325-5.jpg"
+      "ImageSource": "978-607-32-3325-5.jpg",
+      "eCommerce": "www.pearsonenespanol.com/mexico/catalogo/electronica-de-potencia-4ed-ebook"
     },
     {
       "Id": "446",
       "Title": "Guía para mediciones electrónicas y prácticas de laboratorio",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniría electrónica",
       "Edition": "2ª edición",
       "Year": "1992",
       "Introduction": "FALSO",
@@ -4387,13 +4320,14 @@
       "Format": "Formato 19 × 23.5 cm",
       "Pages": "616 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-968-88-0224-3.jpg"
+      "ImageSource": "978-968-88-0224-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/guia-mediciones-electronicas-wolf-2ed-libro"
     },
     {
       "Id": "447",
       "Title": "Fundamentos de señales y sistemas Usando la Web y MATLAB®",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniría electrónica",
       "Edition": "3ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -4408,7 +4342,7 @@
       "Id": "448",
       "Title": "Elementos de ingeniería de las reacciones químicas",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería Química",
       "Edition": "4ª edición",
       "Year": "2208",
       "Introduction": "FALSO",
@@ -4422,7 +4356,7 @@
       "Id": "449",
       "Title": "Termodinámica",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería Química",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Introducción \nSistema termodinámico y sus interacciones con el ambiente. \nDescripción de un sistema: Estados y propiedades. \nDesarrollo de ecuaciones de balance de masa, energía y entropía. \nEvaluación de propiedades: Modelos materiales. \nAnálisis de masa, energía y entropía de sistemas estacionarios abiertos. \nMasa, energía y entropía: Análisis de sistemas no estacionarios. \nEcuaciones de balance de energía: Aplicación a sistemas estacionarios y no estacionarios. \nCiclos de potencia cerrados reciprocantes. \nCiclo abierto de potencia de gas. \nCiclos de potencia de vapor abiertos. \nCiclos de refrigeración. \nEvaluación de propiedades: Relaciones termodinámicas. \nPsicrometría. \nCombustión. \nEquilibrio. \nDinámica de gases. \nApéndice A. \nApéndice B. \nRespuestas a los problemas clave. \nÍndice.\nManual de soluciones para el profesor\nPresentaciones PowerPoint",
@@ -4430,13 +4364,14 @@
       "Pages": "724 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/bhattacharjee",
-      "ImageSource": "978-607-32-3690-4.jpg"
+      "ImageSource": "978-607-32-3690-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/termodinamica-bhattacharjee-1ed-libro"
     },
     {
       "Id": "450",
       "Title": "Diseño de mecanismos Análisis y síntesis",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería Química",
       "Edition": "3ª edición",
       "Year": "1998",
       "Introduction": "FALSO",
@@ -4450,7 +4385,7 @@
       "Id": "451",
       "Title": "Diseño de elementos de máquinas",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "4ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
@@ -4458,13 +4393,14 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "944 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0812-7.jpg"
+      "ImageSource": "978-970-26-0812-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/dise%C3%B1o-elementos-maquinas-mott-4ed-libro"
     },
     {
       "Id": "452",
       "Title": "Diseño de máquinas",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "4ª edición",
       "Year": "2011",
       "Introduction": "FALSO",
@@ -4472,7 +4408,8 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "888 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-0589-4.jpg"
+      "ImageSource": "978-607-32-0589-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/dise%C3%B1o-maquinas-norton-4ed-libro"
     },
     {
       "Id": "453",
@@ -4487,13 +4424,14 @@
       "Pages": "384 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/myszka",
-      "ImageSource": "978-607-32-1215-1.jpg"
+      "ImageSource": "978-607-32-1215-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/maquinas-mecanismos-myszka-4ed-libro"
     },
     {
       "Id": "454",
       "Title": "Mecánica de materiales",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "9ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de Ingeniería mecánica, Ingeniería civil, Arquitectura, Mecatrónica.",
@@ -4502,13 +4440,14 @@
       "Pages": "912 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol/hibbeler",
-      "ImageSource": "978-607-32-4099-4.jpg"
+      "ImageSource": "978-607-32-4099-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/mecanica-materiales-hibbeler-6ed-ebook1"
     },
     {
       "Id": "455",
       "Title": "Ingeniería mecánica Estática por competencias",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "1ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4522,7 +4461,7 @@
       "Id": "456",
       "Title": "Ingeniería mecánica Estática",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "14ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
@@ -4531,13 +4470,14 @@
       "Pages": "712 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/hibbeler",
-      "ImageSource": "978-607-32-3707-9.jpg"
+      "ImageSource": "978-607-32-3707-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-mecanica-estatica-hibbeler-14ed-libro"
     },
     {
       "Id": "457",
       "Title": "Manufactura, ingeniería y tecnología Ingeniería y tecnología de materiales Volumen",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "17ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4552,7 +4492,7 @@
       "Id": "458",
       "Title": "Manufactura, ingeniería y tecnología Procesos de manufactura Volumen",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "27ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4567,36 +4507,38 @@
       "Id": "459",
       "Title": "Ingeniería mecánica Dinámica",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "14ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
-      "Content": "Cinemática de una partícula. \nCinética de una partícula: Fuerza y aceleración. \nCinética de una partícula: Trabajo y energía. \nCinética de una partícula: Impulso y cantidad de movimiento. \nCinemática plana de un cuerpo rígido. \nCinética plana de un cuerpo rígido: Fuerza y aceleración. \nCinética plana de un cuerpo rígido: Trabajo y energía. \nCinética plana de un cuerpo rígido: Impulso y cantidad de movimiento. \nCinemática tridimensional de un cuerpo rígido. \nCinética tridimensional de un cuerpo rígido. \nVibraciones.\nManual de soluciones para el profesor\nPresentaciones PowerPoint",
+      "Content": "Cinemática de una partícula. \nCinética de una partícula: Fuerza y aceleración. \nCinética de una partícula: Trabajo y energía. \nCinética de una partícula: Impulso y cantidad de movimiento. \nCinemática plana de un cuerpo rígido.\nCinética plana de un cuerpo rígido: Fuerza y aceleración.\nCinética plana de un cuerpo rígido: Trabajo y energía. \nCinética plana de un cuerpo rígido: Impulso y cantidad de movimiento. \nCinemática tridimensional de un cuerpo rígido.\nCinética tridimensional de un cuerpo rígido. \nVibraciones.\nManual de soluciones para el profesor.\nPresentaciones PowerPoint.",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "792 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/hibbeler",
-      "ImageSource": "978-607-32-3697-3.jpg"
+      "ImageSource": "978-607-32-3697-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-mecanica-dinamica-hibbeler-12ed-libro"
     },
     {
       "Id": "460",
       "Title": "Robótica",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "3ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
-      "Content": "Introducción. \nDescripciones espaciales y transformaciones. \nCinemática de los manipuladores. \nCinemática inversa de los manipuladores. \nJacobianas: Velocidades y fuerzas estáticas. \nDinámica de los manipuladores. \nGeneración de trayectorias. \nDiseño del mecanismo de un manipulador. \nControl lineal de los manipuladores. \nControl no lineal de los manipuladores. \nControl de fuerza de los manipuladores. \nLenguajes de programación de robots y sistemas. \nSistemas de programación fuera de línea. \nApéndices: Identidades trigonométricas, convenciones de dispositivo de ángulo de 24, algunas fórmulas de cinemática inversa.",
+      "Content": "Introducción. \nDescripciones espaciales y transformaciones. \nCinemática de los manipuladores. \nCinemática inversa de los manipuladores.\nJacobianas: Velocidades y fuerzas estáticas.\nDinámica de los manipuladores.\nGeneración de trayectorias.\nDiseño del mecanismo de un manipulador.\nControl lineal de los manipuladores. \nControl no lineal de los manipuladores. \nControl de fuerza de los manipuladores. \nLenguajes de programación de robots y sistemas. \nSistemas de programación fuera de línea.\nApéndices: Identidades trigonométricas, convenciones de dispositivo de ángulo de 24, algunas fórmulas de cinemática inversa.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "400 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0772-4.jpg"
+      "ImageSource": "978-970-26-0772-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/robotica-craig-3ed-libro"
     },
     {
       "Id": "461",
       "Title": "Mecánica de fluidos",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "7ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4605,42 +4547,45 @@
       "Pages": "552 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/mott",
-      "ImageSource": "978-607-32-3288-3.jpg"
+      "ImageSource": "978-607-32-3288-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/mecanica-fluidos-mott-7ed-libro"
     },
     {
       "Id": "462",
       "Title": "Vibraciones mecánicas",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "5ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
-      "Content": "Fundamentos de vibración. \nVibración libre de sistemas de un solo grado de libertad. \nVibración armónicamente excitada. \nVibración en condiciones forzadas. \nSistemas de dos grados de libertad. \nSistemas de varios grados de libertad. \nDeterminación de frecuencias y modos naturales. \nControl de la vibración. \nManual de soluciones para docente (inglés)\nPresentación PowerPoint para docente (inglés)",
+      "Content": "Fundamentos de vibración.\nVibración libre de sistemas de un solo grado de libertad. \nVibración armónicamente excitada.\nVibración en condiciones forzadas. \nSistemas de dos grados de libertad. \nSistemas de varios grados de libertad. \nDeterminación de frecuencias y modos naturales. \nControl de la vibración. \nManual de soluciones para docente (inglés).\nPresentación PowerPoint para docente (inglés).",
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "776 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/rao",
-      "ImageSource": "978-607-32-0952-6.jpg"
+      "ImageSource": "978-607-32-0952-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/vibraciones-mecanicas-rao-5ed-libro"
     },
     {
       "Id": "463",
       "Title": "Introducción al estudio del elemento finito en ingeniería",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "2ª edición",
       "Year": "1999",
       "Introduction": "FALSO",
-      "Content": "Prefacio. \nConceptos fundamentales. \nÁlgebra de matrices y eliminación de Gauss. \nProblemas unidimensionales. \nArmaduras. \nProblemas bidimensionales con uso de triángulos de deformación unitaria constante. \nSólidos de simetría axial sometidos a carga axial simétrica. \nElementos isoparamétricos bidimensionales e integración numérica. \nVigas y marcos. \nProblemas en tres dimensiones de análisis de esfuerzos. \nProblemas de campo escalar. \nConsideraciones importantes. \nPreprocesamiento y posprocesamiento. \nApéndice. \nBibliografía. \nÍndice.",
+      "Content": "Prefacio.\nConceptos fundamentales. \nÁlgebra de matrices y eliminación de Gauss. \nProblemas unidimensionales. \nArmaduras. \nProblemas bidimensionales con uso de triángulos de deformación unitaria constante. \nSólidos de simetría axial sometidos a carga axial simétrica. \nElementos isoparamétricos bidimensionales e integración numérica. \nVigas y marcos. \nProblemas en tres dimensiones de análisis de esfuerzos. \nProblemas de campo escalar. \nConsideraciones importantes. \nPreprocesamiento y posprocesamiento. \nApéndice. \nBibliografía. \nÍndice.",
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "480 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-17-0260-4.jpg"
+      "ImageSource": "978-970-17-0260-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/vibraciones-mecanicas-rao-5ed-libro"
     },
     {
       "Id": "464",
       "Title": "Fundamentos de ingeniería económica",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "2ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -4649,13 +4594,14 @@
       "Pages": "656 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/park",
-      "ImageSource": "978-607-44-2220-7.jpg"
+      "ImageSource": "978-607-44-2220-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-ingenieria-economica-park-2ed-libro"
     },
     {
       "Id": "465",
       "Title": "Ingeniería económica de DeGarmo",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería mecánica",
       "Edition": "12ª edición",
       "Year": "2004",
       "Introduction": "FALSO",
@@ -4664,13 +4610,14 @@
       "Pages": "740 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/sullivan",
-      "ImageSource": "978-970-26-0529-4.jpg"
+      "ImageSource": "978-970-26-0529-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-economica-sullivan-12ed-ebook1"
     },
     {
       "Id": "466",
       "Title": "Administración de operaciones Procesos y cadena de suministro",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "10ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4679,13 +4626,14 @@
       "Pages": "670 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/krajewski",
-      "ImageSource": "978-607-32-2122-1.jpg"
+      "ImageSource": "978-607-32-2122-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-operaciones-krajewski-10ed-ebook1"
     },
     {
       "Id": "467",
       "Title": "Administración de proyectos Guía para el aprendizaje",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "2ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4693,13 +4641,14 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "412 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-2791-9.jpg"
+      "ImageSource": "978-607-32-2791-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-de-procesos--guia-para-el-aprendizaje-1ed-book"
     },
     {
       "Id": "468",
       "Title": "Investigación de operaciones",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "10ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -4708,13 +4657,13 @@
       "Pages": "848 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/taha",
-      "ImageSource": "FALSO"
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/investigacion-de-operaciones-taha-9ed-libro"
     },
     {
       "Id": "469",
       "Title": "Simulación y análisis de sistemas con ProModel",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "2ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -4722,13 +4671,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "320 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1511-4.jpg"
+      "ImageSource": "978-607-32-1511-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/simulacion-analisis-sistemas-promodel-garcia-dunna-2ed-libro"
     },
     {
       "Id": "470",
       "Title": "Seguridad industrial y administración de la salud",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "6ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -4736,13 +4686,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "576 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-44-2939-8.jpg"
+      "ImageSource": "978-607-44-2939-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/seguridad-industria-y-administracion-de-la-salud-asfahl-6ed-libro"
     },
     {
       "Id": "471",
       "Title": "Administración de la calidad",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "4ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
@@ -4750,13 +4701,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "425 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0813-4.jpg"
+      "ImageSource": "978-970-26-0813-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-calidad-summers-4ed-libro"
     },
     {
       "Id": "472",
       "Title": "Control de calidad",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "8ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -4765,13 +4717,14 @@
       "Pages": "552 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/besterfield",
-      "ImageSource": "978-607-44-2121-7.jpg"
+      "ImageSource": "978-607-44-2121-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/control-calidad-besterfield-8ed-libro"
     },
     {
       "Id": "473",
       "Title": "Dirección de la producción y de operaciones Decisiones estratégicas",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "11ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4785,7 +4738,7 @@
       "Id": "474",
       "Title": "Estudios de tiempos y movimientos Para la manufactura ágil",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "2ª edición",
       "Year": "2000",
       "Introduction": "FALSO",
@@ -4799,7 +4752,7 @@
       "Id": "475",
       "Title": "Planificación y control de la producción",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "9ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
@@ -4807,13 +4760,14 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "272 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-970-26-0771-7.jpg"
+      "ImageSource": "978-970-26-0771-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/planificacion-control-produccion-chapman-1ed-libro"
     },
     {
       "Id": "476",
       "Title": "Principios de administración de operaciones",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Operaciones y productividad. \nEstrategia de operaciones en un entorno global. \nAdministración de proyectos. \nPronósticos. \nDiseño de bienes y servicios. \nAdministración de la calidad. \nControl estadístico del proceso. \nEstrategia de procesos. \nPlaneación de la capacidad. \nEstrategias de localización. \nEstrategias de distribución de planta. \nRecursos humanos, diseño del trabajo y medición del trabajo. \nAdministración de la cadena de trabajo. \nAnálisis de la cadena de trabajo. \nAdministración de inventarios. \nPlaneación agregada. \nPlaneación de requerimientos de materiales (MEP) y recursos de la empresa (ERP). \nProgramación a corto plazo. \nSistemas justo a tiempo y producción esbelta. \nMantenimiento y confiabilidad.\nMaterial de apoyo para el profesor (inglés)\nManual de soluciones para el profesor (inglés)\nPresentaciones PowerPoint (inglés)\nBanco de exámenes (inglés)",
@@ -4821,13 +4775,14 @@
       "Pages": "744 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/render",
-      "ImageSource": "978-607-32-2336-2.jpg"
+      "ImageSource": "978-607-32-2336-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/principios-administracion-operaciones-render-9ed-libro"
     },
     {
       "Id": "477",
       "Title": "AutoCad 2013",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Parte 1. Entidades de dos dimensiones \nLíneas y herramientas básicas. \nCírculos y ayudas visuales. \nCapas (layers), colores y tipos de línea. \nPlantillas, copias y matrices. \nArcos y matrices polares. Referencia a objetos. \nParte 2. Texto, dimensiones y otras entidades complejas \nTexto. \nCotas. \nPolilíneas. \nBloques, atributos y referencias externas. \nParte 3. Dibujo isométrico y modelado en tres dimensiones \nDibujo isométrico. \nModelado 3D. \nMás técnicas y comandos para modelado. \nApéndice A. \nApéndice B. \nApéndice C. \nApéndice D. \nGlosario. \nÍndice.\nMaterial de apoyo para el profesor (inglés)\nManual de soluciones para el profesor (inglés)\nPresentaciones PowerPoint (inglés)",
@@ -4835,13 +4790,14 @@
       "Pages": "696 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/dix",
-      "ImageSource": "978-607-32-2128-3.jpg"
+      "ImageSource": "978-607-32-2128-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/autocad-2013-dix-1ed-libro"
     },
     {
       "Id": "478",
       "Title": "Logística Administración de la cadena de suministro",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "5ª edición",
       "Year": "2004",
       "Introduction": "FALSO",
@@ -4855,7 +4811,7 @@
       "Id": "479",
       "Title": "Administración de la cadena de suministro Estrategía, planeación y operación",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "5ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4870,7 +4826,7 @@
       "Id": "480",
       "Title": "Logística contemporánea",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "11ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -4879,13 +4835,14 @@
       "Pages": "320 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/murphy",
-      "ImageSource": "978-607-32-3297-5.jpg"
+      "ImageSource": "978-607-32-3297-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/logistica-contemporanea-murphy-11ed-libro"
     },
     {
       "Id": "481",
       "Title": "Administración de inventarios",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "1ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -4893,13 +4850,13 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "208 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "FALSO"
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/planificacion-control-produccion-chapman-1ed-libro"
     },
     {
       "Id": "482",
       "Title": "Desarrollo de dibujos mecánicos Enfoque por competencias",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Unidad 1. Manejo de las herramientas básicas del dibujo técnico Instrumentos y herramientas utilizadas en el dibujo técnico. \nTrazos de figuras geométricas básicas. \nUnidad 2. Dibujo de planos y diagramas \nSimbología de componentes en equipos mecatrónicos. \nElaboración de planos de sistemas mecatrónicos. \nElaboración diagramas de sistemas mecatrónicos. \nUnidad 3. Uso de herramientas de diseño CAD \nInstalación del software de diseño. \nHerramientas del software para el desarrollo de dibujos. \nElaboración de planos de sistemas mecatrónicos. \nElaboración de diagramas de sistemas mecatrónicos.",
@@ -4911,39 +4868,37 @@
       "Id": "483",
       "Title": "Dibujo técnico con gráficas de ingeniería",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "Ingeniería industrial",
       "Edition": "15ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
       "Content": "Recursos para profesores (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/giesecke",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/giesecke"
     },
     {
       "Id": "484",
       "Title": "Redes de computadoras Un enfoque descendente",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "7ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
       "Content": "Redes de computadoras e Internet. \nLa capa de aplicación. \nLa capa de transporte. \nLa capa de red: el plano de datos. \nLa capa de red: el plano de control. \nLa capa de enlace y las redes de área local. \nRedes inalámbricas y móviles. \nSeguridad en las redes de computadoras. \nRedes multimedia.\nRecursos disponibles (inglés)",
-      "Format": "FALSO",
       "Request": "VERDADERO",
-      "ImageSource": "978-849-03-5528-2.jpg"
+      "ImageSource": "978-849-03-5528-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/redes-computadoras-kurose-5ed-libro"
     },
     {
       "Id": "485",
       "Title": "Programación orientada a objetos con Java usando BlueJ",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "6ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
       "Content": "Objetos y clases \nCapítulo. \nDefiniciones de clases. \nInteracción de objetos. \nAgrupación de objetos. \nProcesamiento funcional de colecciones (avanzado). \nComportamientos más sofisticados. \nColecciones de tamaño fijo: matrices. \nDiseño de clases. \nObjetos con un buen comportamiento. \nMejora de la estructura mediante la herencia. \nMás sobre la herencia. \nTécnicas de abstracción adicionales. \nEstructura de interfaces gráficas de usuario. \nTratamiento de errores. \nDiseño de aplicaciones. \nUn caso de estudio.\nRecursos disponibles (inglés)",
-      "Format": "FALSO",
       "Request": "VERDADERO",
       "ImageSource": "978-849-03-5531-2.jpg"
     },
@@ -4951,7 +4906,7 @@
       "Id": "486",
       "Title": "Estructuras de datos en Java",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "4ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -4959,13 +4914,14 @@
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "1016 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-841-55-5222-2.jpg"
+      "ImageSource": "978-841-55-5222-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estructura-de-datos-en-java-4ed-2013"
     },
     {
       "Id": "487",
       "Title": "UML y patrones Una introducción al análisis y diseño orientado a objetos y al proceso unificado",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2003",
       "Introduction": "FALSO",
@@ -4979,7 +4935,7 @@
       "Id": "488",
       "Title": "Fundamentos de seguridad en redes Aplicaciones y estándares",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2003",
       "Introduction": "FALSO",
@@ -4993,7 +4949,7 @@
       "Id": "489",
       "Title": "Inteligencia artificial Un enfoque moderno",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2004",
       "Introduction": "FALSO",
@@ -5008,7 +4964,7 @@
       "Id": "490",
       "Title": "Ciencias de la Tierra",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "10ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -5016,13 +4972,14 @@
       "Format": "Formato 21.5 × 27 cm",
       "Pages": "772 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-849-03-5394-3.jpg"
+      "ImageSource": "978-849-03-5394-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ciencias-de-la-tierra-tarbuck-10ed-libro"
     },
     {
       "Id": "491",
       "Title": "Recursos de la Tierra y el medio ambiente",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "4ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -5030,26 +4987,28 @@
       "Format": "Formato 21.5 × 27 cm",
       "Pages": "632 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-841-55-5202-4.jpg"
+      "ImageSource": "978-841-55-5202-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/recursos-de-la-tierra-y-el-medio-ambiente-craig-4ed-libro"
     },
     {
       "Id": "492",
       "Title": "Riesgos naturales Procesos de la Tierra como riesgos, desastres y catástrofes",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2007",
       "Introduction": "FALSO",
       "Content": "Introducción a los riesgos naturales. \nTerremotos. \nVolcanes. \nInundaciones. \nMovimientos en masa. \nSubsidencia. \nAtmósfera y tiempo severo. \nRiesgos costeros. \nClima y cambio climático. \nIncendios arrasadores. \nImpactos y extinciones.",
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "448 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2336-9.jpg"
+      "ImageSource": "978-848-32-2336-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/riesgos-naturales-keller-1ed-libro"
     },
     {
       "Id": "493",
       "Title": "Centrales de energías renovables Generación eléctrica con energías renovables",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -5063,7 +5022,7 @@
       "Id": "494",
       "Title": "Sistemas de control en tiempo discreto",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "1996",
       "Introduction": "FALSO",
@@ -5071,13 +5030,14 @@
       "Format": "Formato 19 × 23.5 cm",
       "Pages": "832 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-968-88-0539-8.jpg"
+      "ImageSource": "978-968-88-0539-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sistemas-control-tiempo-directo-ogata-2ed-libro"
     },
     {
       "Id": "495",
       "Title": "Ingeniería de control moderna",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "5ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -5085,13 +5045,14 @@
       "Format": "Formato 19.5 × 25 cm",
       "Pages": "904 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-848-32-2660-5.jpg"
+      "ImageSource": "978-848-32-2660-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-control-moderna-ogata-1ed-libro"
     },
     {
       "Id": "496",
       "Title": "Fundamentos de sistemas digitales",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "9ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
@@ -5100,13 +5061,14 @@
       "Pages": "1024 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsoneducacion.net/floyd",
-      "ImageSource": "978-848-32-2085-6.jpg"
+      "ImageSource": "978-848-32-2085-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fundamentos-sistemas-digitales-floyd-9ed-libro"
     },
     {
       "Id": "497",
       "Title": "Introducción a la ciencia de materiales para ingenieros",
       "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "7ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -5119,98 +5081,86 @@
     {
       "Id": "500",
       "Title": "Cálculo Una Variable",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "13ª edición",
       "Year": "2016",
       "Introduction": "Este libro ofrece una introducción moderna al cálculo con los elementos fundamentales de un curso tradicional. \nSu contenido se complementa con MyMathLab Español, un sistema de ejercicios algorítmicos en línea.\nEl desarrollo de los temas a lo largo de los capítulos estimulan al alumno a pensar y no sólo a memorizar de fórmulas y procedimientos.\nEl libro contiene una gran cantidad de ejemplos y ejercicios que ayudan a una comprensión plena del cálculo en todos los niveles.\nHay aplicaciones relacionadas con el mundo actual en constante cambio.\nCuenta con el apoyo de MyMathLab en Español® asociada al libro de la 13ª edición en formato eText con casi 1700 ejercicios que son un complemento ideal para el aprendizaje del cálculo.",
       "Content": "Funciones\nLímites y continuidad\nDerivadas\nAplicaciones de las derivadas\nIntegrales\nAplicaciones de las integrales definidas\nFunciones trascendentes\nTécnicas de integración\nEcuaciones diferenciales de primer orden\nSecuencias infinitas y series\nEcuaciones paramétricas y coordenadas polares \nMyMathLab Español contiene más de 1698 ejercicios acompañados del libro en versión eText que se presenta por secciones alusivas a cada ejercicio y como un eText completo en la sección de recursos para alumnos. \nLos ejercicios cuentan además con tutoriales de ayuda,\nejemplos, animaciones y videos.\nMyMathLab Español de Thomas, Cálculo Una Variable, incluye eText del libro Cálculo. \nUna variable, 13/E, de Thomas, Weir, Hass y Heil.\nMyMathLab Español con libro en versión eText para cursos de cálculo basados en Cálculo Una Variable de Thomas",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/thomas",
-      "ImageSource": "FALSO"
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-thomas-12ed-libro"
     },
     {
       "Id": "501",
       "Title": "Cálculo Varias Variables con MyMathLab Español",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "13ª edición",
       "Year": "2016",
       "Introduction": "Este libro es el segundo volumen para un curso de cálculo. Se complementa con MyMathLab Español.\nEl desarrollo de los temas a lo largo de los capítulos estimulan al alumno a pensar y no sólo a memorizar de fórmulas y procedimientos.\nEl libro contiene una gran cantidad de ejemplos y ejercicios que ayudan a una comprensión plena del cálculo en todos los niveles.\nHay aplicaciones relacionadas con el mundo actual en constante cambio.\nCuenta con el apoyo de MyMathLab en Español®",
       "Content": "Ecuaciones paramétricas y coordenadas polares \nLos vectores y la geometría del espacio \nFunciones con valores vectoriales y movimiento en el espacio \nDerivadas parciales \nIntegrales múltiples \nIntegrales y campos vectoriales \nEcuaciones diferenciales de segundo orden\nMyMathLab Español contiene más de 700 ejercicios acompañados del libro en versión eText que se presenta por secciones alusivas a cada ejercicio y como un eText completo en la sección de recursos para alumnos. \nLos ejercicios cuentan además con tutoriales de ayuda, ejemplos, animaciones y videos.\nMyMathLab Español de Thomas, Cálculo. Varias Variables, incluye eText del libro Cálculo. Una variable, 13/E, de Thomas, Weir, Hass y Heil.\nMyMathLab Español con libro en versión eText para cursos de cálculo basados en Cálculo Varias Variables\nde Thomas",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/thomas",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/thomas"
     },
     {
       "Id": "502",
       "Title": "Cálculo. Varias Variables MyMathLab ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "2ª edición",
       "Year": "2016",
       "Introduction": "Es un libro imprescindible para el área económica-administrativa en el que se revisa cómo aplicar los conceptos de análisis de negocios, métodos cuantitativos y negocios al mundo real con énfasis en construcción de modelos y aplicaciones computacionales con instrucciones presentadas paso a paso.",
       "Content": "Introducción al análisis cuantitativo  \nConceptos y aplicaciones de probabilidad \nAnálisis de decisiones. \nModelos de regresión \nPronósticos \nModelos de control de inventarios \nModelos de programación lineal: métodos gráficos y en computadora \nAplicaciones de programación lineal \nModelos de transporte, asignación y redes \nProgramación entera, programación por metas y programación no lineal \nGestión de proyectos \nModelos de líneas de espera y teoría de colas \nModelado de simulaciones \nAnálisis de Markov \nControl estadístico de la calidad MÓDULOS EN LÍNEA\nProceso analítico de jerarquización\nProgramación dinámica \nTeoría de decisiones y la distribución normal \nTeoría de juegos \nHerramientas matemáticas: determinantes y matrices \nOptimización basada en el Cálculo \nProgramación lineal: el método simplex \nAlgoritmos de transporte, asignación y redes\nEn esta nueva edición se innovará en mostrar aplicaciones de los métodos cuantitativos al mundo real, mediante el uso de recuadros como “métodos cuantitativos en acción” que ilustrarán cómo las organizaciones en el mundo real utilizan el análisis cuantitativo para resolver problemas, y “mundo real” que mostrarán las aplicaciones de cada técnica presentada en el libro. \nAdemás de lo anterior, se\nagregarán ejemplos nuevos a lo largo del texto, así como varios problemas y casos de estudio como reto al estudiante y bienvenida al mundo empresarial.\nIncluye eText del libro Cálculo, Una Variable, 13/E, de Thomas, Weir, Hass y Heil",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/thomas",
-      "ImageSource": "FALSO"
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-varias-variables-acc-mymathlab-thomas-13ed-libro"
     },
     {
       "Id": "503",
       "Title": "Matemáticas para diseño Pearson eText",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Year": "2016",
       "Introduction": "Se trata de un libro de matemáticas cuyo contenido está dirigido a las carreras de de arquitectura, diseño, animación digital, comunicación y medios digitales, y diseño industrial ya que tiene aplicaciones y ejemplos en ésas áreas, así como temas propiamente de estas carreras como son modelado, razón áurea y fractales. \nEl formato digital eText presenta un contenido a todo color y de gran riqueza visual. \nTiene funcionalidades de resaltado y de adición de notas, entre otras.",
       "Content": "Introducción \nFunciones \nAproximación y modelado \nLa derivada de una función \nFunciones trascendentes \nIntegrales \nRazón áurea \nGeometría fractal. \nAnexos \nSoluciones a problemas y ejercicios \nGlosario\nEste libro tiene un enfoque práctico de las matemáticas y su aplicación en las áreas de diseño y arquitectura. \nContiene más de 620 ejercicios teóricos y aplicativos con soluciones a varios de ellos al final del libro. \nTambién propone 15 proyectos para el alumno, divididos a lo largo de los capítulos. \nAdemás incluye secciones de “Es interesante saber que...” en las que se presenta información cultural sobre relación de las matemáticas con el diseño de objetos variados a través de anécdotas históricas y ejemplos reales.\nContiene imágenes, gráficas, diagramas y tablas a todo color que ilustran desarrollos matemáticos, ejemplos y ejercicios.\nActividades colaborativas y tutorial del graficador Graphmatica en el sitio Web del libro",
       "Format": "Formato eText",
       "Pages": "333 págs. ",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/aviño",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/aviño"
     },
     {
       "Id": "504",
       "Title": "Matemáticas financieras",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "5ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a las carreras de ingeniería y administración.",
       "Content": "Ecuaciones paramétricas y coordenadas polares \nLos vectores y la geometría del espacio \nFunciones con valores vectoriales y movimiento en el espacio \nDerivadas parciales \nIntegrales múltiples \nIntegrales y campos vectoriales \nEcuaciones diferenciales de segundo orden \nEste sistema de ejercicios en línea se desarrolló como complementoal libro Cálculo Varias Variables, 13/E, de Thomas, Weir, Hass y Heil.\nContiene más de 700 ejercicios acompañados del libro en versión eText que se presenta por secciones alusivas a cada ejercicio y como un eText completo en la sección de recursos para alumnos.\nLos ejercicios cuentan además con tutoriales de ayuda, ejemplos, animaciones y videos.\nCapítulos online adicionales al libro impreso (español)",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/villalobos",
-      "ImageSource": "978-607-32-3854-0.jpg"
+      "ImageSource": "978-607-32-3854-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/matematicas-financieras-5ed-book"
     },
     {
       "Id": "505",
       "Title": "Matemáticas financieras MyMathLab Español",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "1ª edición",
       "Year": "FALSO",
       "Introduction": "Dirigido a las carreras de administración y actuaría.",
       "Content": "Fundamentos de matemáticas \nSeries y sucesiones \nInterés y descuento simple \nInterés compuesto \nAnualidades \nAmortización de créditos \nConstitución de fondos \nDepreciación de activos \nAcciones, bonos y obligaciones \nAnualidades contingentes\nEste sistema de ejercicios en línea se desarrolló como complemento al libro Matemáticas financieras, 5/E de José Luis Villalobos. \nContiene más de 600 ejercicios acompañados del libro en versión eText. \nLos ejercicios cuentan con tutoriales de ayuda y ejemplos resueltos. \nEste sistema de ejercicios permite al usuario trabajar en la plataforma por su cuenta para mejorar sus habilidades matemáticas mediante el plan de estudio y el diagnóstico personalizado que proporciona el sistema, o bien, puede registrarse como asistente al curso creado por su profesor donde realizará tareas y evaluaciones, y podrá revisar los avances que va alcanzando. \nEs también una herramienta que permite a los profesores administrar un curso ligado al libro del mismo nombre, asignando de manera fácil y rápida tareas, exámenes y calificaciones en línea.\nIncluye eText del libro Matemáticas financieras 5/E, de José Luis Villalobos",
-      "Format": "FALSO",
-      "Pages": "FALSO",
-      "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/villalobos",
-      "ImageSource": "FALSO"
+      "Request": "FALSE",
+      "WebSite": "www.pearsonenespañol.com/villalobos"
     },
     {
       "Id": "506",
       "Title": "Química orgánica Vol. 1 ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "9ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a estudiantes de las carreras de química y bioquímica o aquéllas que incluyan cursos de química orgánica como medicina, veterinaria y ciencias ambientales.",
@@ -5219,13 +5169,14 @@
       "Pages": "800 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/wade",
-      "ImageSource": "978-607-32-3847-2.jpg"
+      "ImageSource": "978-607-32-3847-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-organica-vol1-wade-7ed-ebook1"
     },
     {
       "Id": "507",
       "Title": "Química orgánica Vol. 2",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "9ª edición",
       "Year": "2017",
       "Introduction": "Dirigido a estudiantes de las carreras de química y bioquímica o aquéllas que incluyan cursos de química orgánica como medicina, veterinaria y ciencias ambientales.",
@@ -5239,23 +5190,23 @@
     {
       "Id": "508",
       "Title": "Métodos cuantitativos para los negocios ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Novedades Ciencias y Matemáticas",
       "Edition": "12ª edición",
       "Year": "2017",
       "Introduction": "Es un libro imprescindible para el área económica-administrativa en el que se revisa cómo aplicar los conceptos de análisis de negocios, métodos cuantitativos y negocios al mundo real con énfasis en construcción de modelos y aplicaciones computacionales con instrucciones presentadas paso a paso.",
       "Content": "Introducción al análisis cuantitativo \nConceptos y aplicaciones de probabilidad \nAnálisis de decisiones. \nModelos de regresión \nPronósticos \nModelos de control de inventarios \nModelos de programación lineal: métodos gráficos y en computadora \nAplicaciones de programación lineal \nModelos de transporte, asignación y redes \nProgramación entera, programación por metas y programación no lineal \nGestión de proyectos \nModelos de líneas de espera y teoría de colas \nModelado de simulaciones \nAnálisis de Markov \nControl estadístico de la calidad \nMÓDULOS EN LÍNEA \nProceso analítico de jerarquización \nProgramación dinámica \nTeoría de decisiones y la distribución normal \nTeoría de juegos \nHerramientas matemáticas: determinantes y matrices\nOptimización basada en el Cálculo \nProgramación lineal: el método simplex \nAlgoritmos de transporte, asignación y redes\nEn esta nueva edición se innovará en mostrar aplicaciones de los métodos cuantitativos al mundo real, mediante el uso de recuadros como “métodos cuantitativos en acción” que ilustrarán cómo las organizaciones en el mundo real utilizan el análisis cuantitativo para resolver problemas, y “mundo real” que mostrarán las aplicaciones de cada técnica presentada en el libro. \nAdemás de lo anterior, se agregarán ejemplos nuevos a lo largo del texto, así como varios problemas y casos de estudio como reto al estudiante y bienvenida al mundo empresarial.\nMódulos adicionales online (español)\nExcelQM y POM (inglés)\nArchivos de datos para Excel y POM-QM (inglés)\nBanco de exámenes (inglés)\nTestGen (inglés)\nCasos de estudio (inglés)\nProblemas (inglés)",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/render",
-      "ImageSource": "978-607-32-3761-1.jpg"
+      "ImageSource": "978-607-32-3761-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/m%C3%A9todos-cuantitativos-para-los-negocios-12ed-ebook"
     },
     {
       "Id": "509",
       "Title": "Física universitaria de Sears y Zemansky Volumen 1 ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Edition": "13ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -5269,8 +5220,8 @@
     {
       "Id": "510",
       "Title": "Física universitaria con física moderna de Sears y Zemansky Volumen 2 ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Edition": "13ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -5284,28 +5235,25 @@
     {
       "Id": "511",
       "Title": "Sears y Zemansky Física universitaria con física moderna Pearson eText Tarjeta con código de acceso para: Los 2 volúmenes de Sears y Zemansky en un solo eText ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Edition": "12ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Mecánica. \nOndas / Acústica. \nTermodinámica. \nElectromagnetismo. \nÓptica. \nFísica Moderna. \nApéndices.\nEnlaces a videos de experimentos",
-      "Format": "FALSO",
       "Pages": "1640 págs.",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/sears",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/sears"
     },
     {
       "Id": "512",
       "Title": "Sears y Zemansky Física universitaria con física moderna MasteringPhysics ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Edition": "12ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Mecánica. \nOndas / Acústica. \nTermodinámica. \nElectromagnetismo. \nÓptica. \nFísica Moderna. \nApéndices.\nEnlaces multimedia y Mastering Physics",
-      "Format": "FALSO",
       "Pages": "1641 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/sears",
@@ -5314,9 +5262,8 @@
     {
       "Id": "513",
       "Title": "Sears y Zemansky Física para cursos con enfoque por competencias",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Introducción. \nEstática. \nDinámica. \nPropiedades y resistencia de materiales. \nElectricidad y magnetismo. \nOndas y óptica. \nMecánica de fluidos y termodinámica. \nApéndices.\nFiguras o elementos gráficos acompañados de un código QR que, al leerse o escanearse con un dispositivo móvil, le permitirá ver en su pantalla la imagen a todo color. Se puede acceder a las mismas imágenes a color en el sitio Web",
@@ -5324,13 +5271,14 @@
       "Pages": "416 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/sears",
-      "ImageSource": "978-607-32-2342-3.jpg"
+      "ImageSource": "978-607-32-2342-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/sears-y-zemansky-fisica-para-cursos-con-enfoque-por-competencias-sears-1ed-libro"
     },
     {
       "Id": "514",
       "Title": "Física para ciencias e ingeniería Volumen I ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Edition": "4ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -5344,8 +5292,8 @@
     {
       "Id": "515",
       "Title": "Física para ciencias e ingeniería con física moderna Volumen II",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Edition": "4ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -5359,9 +5307,8 @@
     {
       "Id": "516",
       "Title": "Física moderna",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Física general",
       "Year": "2006",
       "Introduction": "FALSO",
       "Content": "La teoría de la relatividad. \nEl efecto fotoeléctrico. \nLos rayos X. \nEl átomo. \nEl núcleo. \nReacciones nucleares.",
@@ -5369,14 +5316,14 @@
       "Pages": "248 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-26-0789-2.jpg"
+      "ImageSource": "978-970-26-0789-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fisica-moderna-flores-1ed-libro"
     },
     {
       "Id": "517",
       "Title": "Química experimental Manual de laboratorio",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Introducción. \nIntroducción al laboratorio de química experimental. \nTécnicas básicas de experimentación en el laboratorio de química: extracción, filtración, cristalización y sublimación. \nTécnicas de destilación: simple y de hidrodestilación. \nTécnicas de separación: cromatografía en columna, en capa fina y en papel. \nEstequiometría 1. Ley de conservación de la materia y clasificación de reacciones. \nEstequiometría 2. Ley de conservación de la materia. \nEl mol y el número de Avogadro. \nCinética y equilibrio químico. \nElectroquímica: reacciones redox. \nIntroducción al análisis cualitativo de cationes y al análisis elemental. \nIntroducción al análisis cualitativo y cuantitativo. \nAniones y humedad. \nIntroducción al análisis cualitativo. \nSales solubles. \nTitulación ácido-base. \nPráctica final. Primera parte. \nDeterminación colorimétrica final del fierro. \nPráctica final. Segunda parte. \nDeterminación de fierro por absorción atómica. \nAnexos.\nManual de sugerencias didácticas para instructores",
@@ -5384,13 +5331,14 @@
       "Pages": "232 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/romero",
-      "ImageSource": "978-607-32-2248-8.jpg"
+      "ImageSource": "978-607-32-2248-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-experimental-romero-1ed-libro"
     },
     {
       "Id": "518",
       "Title": "Manual de laboratorio de química para ingenierías",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Edition": "1ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -5399,13 +5347,14 @@
       "Pages": "160 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/rodriguezromero",
-      "ImageSource": "978-607-32-3042-1.jpg"
+      "ImageSource": "978-607-32-3042-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-ingenierias-rodriguez-1ed-libro"
     },
     {
       "Id": "519",
       "Title": "Laboratorio virtual de química general ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Edition": "3ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -5414,13 +5363,14 @@
       "Pages": "240 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/woodfield",
-      "ImageSource": "978-607-44-2210-8.jpg"
+      "ImageSource": "978-607-44-2210-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/laboratorio-virtual-quimica-general-woodfield-3ed-libro"
     },
     {
       "Id": "520",
       "Title": "Química La ciencia central ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Edition": "12ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
@@ -5429,13 +5379,14 @@
       "Pages": "1200 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/brown",
-      "ImageSource": "978-607-32-2237-2.jpg"
+      "ImageSource": "978-607-32-2237-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-ciencia-central-brown-11ed-libro"
     },
     {
       "Id": "521",
       "Title": "Química Un enfoque molecular ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Edition": "3ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
@@ -5444,13 +5395,13 @@
       "Pages": "588 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "FALSO"
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/etext-interactivo-de-qu%C3%ADmica"
     },
     {
       "Id": "522",
       "Title": "Fisicoquímica ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Edition": "2ª edición",
       "Year": "1987",
       "Introduction": "FALSO",
@@ -5459,14 +5410,14 @@
       "Pages": "1088 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-968-44-4316-7.jpg"
+      "ImageSource": "978-968-44-4316-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/introduccion-fisioquimica-termodinamica-engel-1ed-libro"
     },
     {
       "Id": "523",
       "Title": "Química de BROWN para cursos con enfoque por competencias",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química general",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Teoría cuántica y estructura atómica. \nElementos químicos y su clasificación. \nEnlace químico. \nCompuestos inorgánicos y su nomenclatura. \nReacciones químicas y estequiometría. \nDisoluciones y sus unidades de concentración. \nElectroquímica. \nTermoquímica. \nApéndices. \nFiguras o elementos gráficos acompañados de un código QR que, al leerse o escanearse con un dispositivo móvil, le permitirá ver en su pantalla la imagen a todo color. Se puede acceder a las mismas imágenes a color en el sitio Web",
@@ -5474,13 +5425,14 @@
       "Pages": "432 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/brown",
-      "ImageSource": "978-607-32-2339-3.jpg"
+      "ImageSource": "978-607-32-2339-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-competencias-brown-1ed-libro"
     },
     {
       "Id": "524",
       "Title": "Química de los alimentos ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química de los alimentos",
       "Edition": "5ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -5489,28 +5441,29 @@
       "Pages": "744 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-607-32-1508-4.jpg"
+      "ImageSource": "978-607-32-1508-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-alimentos-badui-5ed-libro"
     },
     {
       "Id": "525",
       "Title": "La ciencia de los alimentos en la práctica",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química orgánica",
       "Edition": "2ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Naturaleza química de los alimentos.\nPercepción sensorial de los alimentos. \nAlimentos y salud. \nPresencia de agentes dañinos en los alimentos. \nPreparación de los alimentos en la cocina. \nConservación industrial de los alimentos. \nAditivos. \nClases de alimentos. \nBebidas no alcohólicas. \nAnexos. \nBibliografía.\nVideos de procesos",
       "Format": "Formato 20 × 25.5 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/badui",
-      "ImageSource": "978-607-32-3280-7.jpg"
+      "ImageSource": "978-607-32-3280-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ciencia-alimentos-practica-badui-2ed-ebook1"
     },
     {
       "Id": "526",
       "Title": "Química orgánica",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química orgánica",
       "Edition": "5ª edición",
       "Year": "1990",
       "Introduction": "FALSO",
@@ -5519,13 +5472,14 @@
       "Pages": "1510 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-968-44-4340-2.jpg"
+      "ImageSource": "978-968-44-4340-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-organica-morrison-5ed-libro"
     },
     {
       "Id": "527",
       "Title": "Química orgánica Volumen 1 ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química orgánica",
       "Edition": "9ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -5534,13 +5488,14 @@
       "Pages": "800 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/wade",
-      "ImageSource": "978-607-32-3847-2.jpg"
+      "ImageSource": "978-607-32-3847-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/Quimica-organica.-Volumen-1-9ed-book"
     },
     {
       "Id": "528",
       "Title": "Química orgánica Volumen 2 ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Química orgánica",
       "Edition": "9ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -5549,13 +5504,14 @@
       "Pages": "680 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/wade",
-      "ImageSource": "978-607-32-3849-6.jpg"
+      "ImageSource": "978-607-32-3849-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/quimica-organica--volumen-2-9ed-book"
     },
     {
       "Id": "529",
       "Title": "Elementos de ingeniería de las reacciones químicas ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Ingeniería Química",
       "Edition": "4ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -5569,8 +5525,8 @@
     {
       "Id": "530",
       "Title": "Ingeniería de procesos de separación ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Ingeniería Química",
       "Edition": "2ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -5579,14 +5535,14 @@
       "Pages": "768 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-26-1281-0.jpg"
+      "ImageSource": "978-970-26-1281-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ingenieria-procesos-separacion-wankat-2ed-ebook1"
     },
     {
       "Id": "531",
       "Title": "Termodinámica Introducción a la fisicoquímica",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Ingeniería Química",
       "Year": "2006",
       "Introduction": "FALSO",
       "Content": "Conceptos fundamentales de Termodinámica. \nCalor, trabajo, energía interna y la primera ley de la Termodinámica. \nLa importancia de las funciones de estado: energía y entalpía. \nTermoquímica. \nEntropía y la segunda y tercera leyes de la Termodinámica. \nEquilibrio químico. \nGases reales e ideales. \nDiagramas de fase y la estabilidad relativa de los sólidos, líquidos y gases. \nSoluciones reales e irreales. \nSoluciones electrolíticas. \nCeldas electroquímicas, pilas y pilas de combustible. \nProbabilidad. \nLa distribución Botzmann. \nConjuntos y funciones de división molecular. \nEstadísticas de Termodinámica. \nTeoría cinética de gases. \nTransporte de fenómenos. \nQuímica cinética básica. \nMecanismos de reacciones complejas. \nSuplemento matemático",
@@ -5599,8 +5555,8 @@
     {
       "Id": "532",
       "Title": "Introducción a la bioquímica ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Bioquímica",
       "Edition": "4ª edición",
       "Year": "2007",
       "Introduction": "FALSO",
@@ -5614,8 +5570,8 @@
     {
       "Id": "533",
       "Title": "Manual de diagnósticos de enfermería",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Ciencias de la salud",
       "Edition": "10ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
@@ -5624,14 +5580,14 @@
       "Pages": "1064 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/wilkinson",
-      "ImageSource": "978-607-32-3499-3.jpg"
+      "ImageSource": "978-607-32-3499-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/manual-de-diagnosticos-de-enfermeria-wikilson-10ed-libro"
     },
     {
       "Id": "534",
       "Title": "Álgebra lineal Fundamentos y aplicaciones",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Álgebra lineal",
       "Year": "2013",
       "Introduction": "FALSO",
       "Content": "Ecuaciones lineales y matrices. \nAplicaciones de ecuaciones lineales y matrices. \nDeterminantes. \nVectores en Rn . \nAplicaciones de vectores en R2 y R3 . \nEspacios vectoriales reales. \nValores propios, vectores propios y diagonalización. \nAplicaciones de valores propios y vectores propios. \nTransformaciones lineales y matrices. \nApéndices. \nÍndice.",
@@ -5644,39 +5600,34 @@
     {
       "Id": "535",
       "Title": "Álgebra lineal ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Álgebra lineal",
       "Edition": "5ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Ecuaciones lineales en álgebra lineal. \nÁlgebra de matrices. \nDeterminantes. \nEspacios vectoriales. \nValores propios y vectores propios. \nOrtogonalidad y mínimos cuadrados. \nMatrices simétricas y formas cuadráticas. \nLa geometría de los espacios vectoriales. \nOptimización (online en inglés). \nCadenas de Markov de estado finito (online en inglés). \nApéndices. \nGlosario. \nRespuestas a ejercicios impares\nCapítulos online (inglés)\nManuales de MatLab, Maple y Mathematica, ejemplos, aplicaciones y proyectos (inglés)",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/lay",
-      "ImageSource": "978-607-32-3745-1.jpg"
+      "ImageSource": "978-607-32-3745-1.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/algebra-lineal-kolman-1ed-libro"
     },
     {
       "Id": "536",
       "Title": "Álgebra lineal y sus aplicaciones MyMathLab Español Código de acceso vía tarjeta o virtua",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Álgebra lineal",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Ecuaciones lineales en álgebra lineal. \nÁlgebra de matrices.\nDeterminantes. \nEspacios vectoriales. \nValores propios y vectores propios. \nOrtogonalidad y mínimos cuadrados. \nMatrices simétricas y formas cuadráticas. \nGeometría de los espacios vectoriales. \nOptimización (disponible en inglés en el sitio web del libro). \nCadenas de Markov de estado finito (disponible en inglés en el sitio web del libro).\nIncluye eText del libro Álgebra lineal, 4ª edición, de David C. Lay.",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/lay",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/lay"
     },
     {
       "Id": "537",
       "Title": "Álgebra lineal para cursos con enfoque por competencias",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Álgebra lineal",
       "Year": "2013",
       "Introduction": "FALSO",
       "Content": "Ecuaciones lineales en álgebra lineal. \nÁlgebra de matrices. \nDeterminantes. \nEspacios vectoriales. \nOrtogonalidad y mínimos cuadrados. \nNúmeros complejos. \nMatrices simétricas y formas cuadráticas. \nGeometría de los espacios vectoriales. \nOptimización (disponible en inglés en el sitio Web del libro). \nCadenas de Markov de estado finito (disponible en inglés en el sitio Web del libro). \nApéndices. \nÍndice.",
@@ -5684,14 +5635,14 @@
       "Pages": "456 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-607-32-1638-8.jpg"
+      "ImageSource": "978-607-32-1638-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/algebra-lineal-cursos-competencias-lay-1ed-libro"
     },
     {
       "Id": "538",
       "Title": "Precálculo",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Precálculo",
       "Year": "2012",
       "Introduction": "FALSO",
       "Content": "Sistemas de números. \nExponentes. \nRadicales. \nExpresiones algebraicas y sus operaciones. \nProductos notables o especiales. \nFactorización. \nFracciones simples y complejas. \nEcuaciones. \nDesigualdades y valor absoluto. \nSistemas de ecuaciones lineales y no lineales. \nFunciones y gráficas. \nAplicaciones diversas. \nEvaluación de expresiones algebraicas. \nEl álgebra y su conexión con el cálculo.",
@@ -5699,14 +5650,14 @@
       "Pages": "174 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-607-32-0836-9.jpg"
+      "ImageSource": "978-607-32-0836-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/precalculo2-cantu-1ed-libro"
     },
     {
       "Id": "539",
       "Title": "Cálculo aplicado a la administración y a la economía",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Year": "2011",
       "Introduction": "FALSO",
       "Content": "La derivada. \nCálculo de derivadas. \nOptimización y bosquejo de curvas. \nMás sobre derivadas. \nIntegración. \nLa integral definida. \nFunciones de varias variables.\nManual de soluciones a los problemas de repaso (español)",
@@ -5719,9 +5670,8 @@
     {
       "Id": "540",
       "Title": "Cálculo diferencial para cursos con enfoque por competencias",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Year": "2013",
       "Introduction": "FALSO",
       "Content": "Números reales. \nFunciones y sus gráficas. \nLímites y continuidad. \nDerivadas.\nEstudio general de curvas. \nRespuestas a todos los ejercicios del libro (disponible en la página Web). \nIntroducción al uso de software (disponible en la página Web). \nApéndices.\nRespuestas a los ejercicios de las actividades de trabajo, de las actividades integradoras y el desarrollo de la solución de los problemas de aplicación\nManual de soluciones de los problemas de aplicación para el profesor",
@@ -5729,14 +5679,14 @@
       "Pages": "296 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/gil-sevilla",
-      "ImageSource": "978-607-32-1948-8.jpg"
+      "ImageSource": "978-607-32-1948-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/c%C3%A1lculo-diferencial-enfoques-competencias-gil-1ed-libro"
     },
     {
       "Id": "541",
       "Title": "Cálculo integral para cursos con enfoque por competencias",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Teorema fundamental del cálculo. \nIntegral indefinida y métodos de integración. \nAplicaciones de la integral. \nSeries. \nApéndices.\nManual de soluciones para el profesor\nSugerencias didácticas para el profesor",
@@ -5744,14 +5694,14 @@
       "Pages": "272 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/morales",
-      "ImageSource": "978-607-32-2242-6.jpg"
+      "ImageSource": "978-607-32-2242-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-integral-para-cursos-con-enfoque-por-competencias-morales-1ed-libro"
     },
     {
       "Id": "542",
       "Title": "Cálculo para cursos con enfoque por competencias",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Números reales. \nFunciones y sus gráficas. \nLímites y continuidad. \nDerivadas. \nEstudio general de curvas.\nTeorema fundamental del cálculo. \nIntegral indefinida y métodos de integración. \nAplicaciones de la integral. \nSeries. \nApéndices. \nIntroducción al uso de software (en página Web).\nCapítulo Introducción al uso de software\nRespuestas a los ejercicios de las actividades de trabajo y de las actividades integradoras\nManual de soluciones para el profesor\nSugerencias didácticas para el profesor",
@@ -5759,19 +5709,19 @@
       "Pages": "520 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/gil-morales",
-      "ImageSource": "978-607-32-2662-2.jpg"
+      "ImageSource": "978-607-32-2662-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-integral-para-cursos-con-enfoque-por-competencias-morales-1ed-libro"
     },
     {
       "Id": "543",
       "Title": "Cálculo Una Variable con MyMathLab Español ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Edition": "13ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Funciones. \nLímites y continuidad. \nDerivadas. \nAplicaciones de las derivadas. \nIntegrales. \nAplicaciones de las integrales definidas. \nFunciones trascendentes. \nTécnicas de integración. \nEcuaciones diferenciales de primer orden. \nSecuencias infinitas y series. \nEcuaciones paramétricas y coordenadas polares.\nRecursos para profesores (inglés)\nBiografías en el Cálculo (inglés)\nProyectos y manual de Maple (inglés)\nProyectos y manual de Mathematica (inglés)\nMyMathLab Español con eText",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/thomas",
       "ImageSource": "978-970-26-2786-9.jpg"
@@ -5779,14 +5729,13 @@
     {
       "Id": "544",
       "Title": "Cálculo Varias Variables con MyMathLab Español",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Edition": "13ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Ecuaciones paramétricas y coordenadas polares. \nLos vectores y la geometría del espacio. \nFunciones con valores vectoriales y movimiento en el espacio. \nDerivadas parciales. \nIntegrales múltiples. \nIntegrales y campos vectoriales. \nEcuaciones diferenciales de segundo orden.\nRecursos para profesores (inglés)\nBiografías en el Cálculo (inglés)\nProyectos y manual de Maple (inglés)\nProyectos y manual de Mathematica (inglés)\nMyMathLab Español con eText.",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/thomas",
       "ImageSource": "978-970-26-2786-9.jpg"
@@ -5794,38 +5743,32 @@
     {
       "Id": "545",
       "Title": "Cálculo Una Variable MyMathLab Código de acceso vía tarjeta o virtual ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Edition": "13ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Funciones. \nLímites y continuidad. \nDerivadas. \nAplicaciones de las derivadas. \nIntegrales. \nAplicaciones de las integrales definidas. \nFunciones trascendentes. \nTécnicas de integración. \nEcuaciones diferenciales de primer orden. \nSecuencias infinitas y series. \nEcuaciones paramétricas y coordenadas polares.\nIncluye eText del libro Cálculo, Una Variable, 13ª edición, de Thomas, Weir, Hass y Heil",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/thomas",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/thomas"
     },
     {
       "Id": "546",
       "Title": "Cálculo Varias Variables MyMathLab Código de acceso vía tarjeta o virtual",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Edition": "13ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Ecuaciones paramétricas y coordenadas polares. \nLos vectores y la geometría del espacio. \nFunciones con valores vectoriales y movimiento en el espacio. \nDerivadas parciales. \nIntegrales múltiples. \nIntegrales y campos vectoriales.\nEcuaciones diferenciales de segundo orden\nIncluye eText del libro Cálculo, Varias Variables, 13ª edición, de Thomas, Weir, Hass y Heil",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/thomas",
-      "ImageSource": "FALSO"
+      "WebSite": "www.pearsonenespañol.com/thomas"
     },
     {
       "Id": "547",
       "Title": "Cálculo ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Edition": "9ª edición",
       "Year": "2007",
       "Introduction": "FALSO",
@@ -5834,13 +5777,14 @@
       "Pages": "872 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-26-0919-3.jpg"
+      "ImageSource": "978-970-26-0919-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-purcell-9ed-libro"
     },
     {
       "Id": "548",
       "Title": "Cálculo vectorial ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Cálculo",
       "Edition": "2ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -5849,13 +5793,14 @@
       "Pages": "624 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/colley",
-      "ImageSource": "978-607-32-2056-9.jpg"
+      "ImageSource": "978-607-32-2056-9.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-vectorial-colley-4ed-libro"
     },
     {
       "Id": "549",
       "Title": "Ecuaciones diferenciales ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Ecuaciones diferenciales",
       "Edition": "5ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -5864,13 +5809,14 @@
       "Pages": "536 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-607-32-0206-0.jpg"
+      "ImageSource": "978-607-32-0206-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ecuaciones-diferenciales-carmona-5ed-libro"
     },
     {
       "Id": "550",
       "Title": "Ecuaciones diferenciales y problemas con valores en la frontera ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Ecuaciones diferenciales",
       "Edition": "4ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -5879,13 +5825,14 @@
       "Pages": "816 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/edwards",
-      "ImageSource": "978-970-26-1285-8.jpg"
+      "ImageSource": "978-970-26-1285-8.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/ecuaciones-diferenciales-edwards-4ed-ebook1"
     },
     {
       "Id": "551",
       "Title": "Matemáticas avanzadas para ingeniería ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas avanzadas",
       "Edition": "2ª edición",
       "Year": "2001",
       "Introduction": "FALSO",
@@ -5894,13 +5841,14 @@
       "Pages": "496 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-26-0209-5.jpg"
+      "ImageSource": "978-970-26-0209-5.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/matematicas-avanzadas-para-ingenieria-james-2ed-libro"
     },
     {
       "Id": "552",
       "Title": "Introducción al estudio del elemento finito en ingeniería",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas avanzadas",
       "Edition": "2ª edición",
       "Year": "1999",
       "Introduction": "FALSO",
@@ -5909,14 +5857,14 @@
       "Pages": "480 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-17-0260-4.jpg"
+      "ImageSource": "978-970-17-0260-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/introduccion-estudio-elemento-finito-ingenieria-chandrupatla-2ed-libro"
     },
     {
       "Id": "553",
       "Title": "MATLAB® para ingenieros",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas avanzadas",
       "Year": "2007",
       "Introduction": "FALSO",
       "Content": "Acerca de MATLAB ®. \nAmbiente MATLAB®. \nFunciones internas de MATLAB®. \nManipulación de matrices MATLAB®. \nGraficación H37. \nFunciones definidas por el usuario. \nEntrada y salida controladas por el usuario. \nFunciones lógicas y estructuras de control. \nÁlgebra matricial. \nOtros tipos de arreglos. \nMatemática simbólica. \nTécnicas numéricas. \nGráficos avanzados.",
@@ -5924,13 +5872,14 @@
       "Pages": "624 págs. ",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-26-1082-3.jpg"
+      "ImageSource": "978-970-26-1082-3.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/matlab-ingenieros-moore-1ed-libro1"
     },
     {
       "Id": "554",
       "Title": "Análisis numérico ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Métodos númericos",
       "Edition": "2ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -5939,13 +5888,14 @@
       "Pages": "672 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/sauer",
-      "ImageSource": "978-607-32-2059-0.jpg"
+      "ImageSource": "978-607-32-2059-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/analisis-numerico-sauer-2ed-libro"
     },
     {
       "Id": "555",
       "Title": "Matemáticas discretas ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas discretas",
       "Edition": "6ª edición",
       "Year": "2005",
       "Introduction": "FALSO",
@@ -5954,13 +5904,14 @@
       "Pages": "694 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "978-970-26-0637-6.jpg"
+      "ImageSource": "978-970-26-0637-6.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/matematicas-discretas-johnsonbaugh-6ed-libro"
     },
     {
       "Id": "556",
       "Title": "Estadística para administración y economía ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para administración y economía",
       "Edition": "7ª edición revisada",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -5969,13 +5920,14 @@
       "Pages": "888 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/levin",
-      "ImageSource": "978-607-32-0723-2.jpg"
+      "ImageSource": "978-607-32-0723-2.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estadistica-para-administracion-y-economia-paul-8ed-book"
     },
     {
       "Id": "557",
       "Title": "Estadística para administración",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para administración y economía",
       "Edition": "6ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
@@ -5984,13 +5936,14 @@
       "Pages": "624 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/levine",
-      "ImageSource": "978-607-32-2257-0.jpg"
+      "ImageSource": "978-607-32-2257-0.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estadistica-para-administracion-6ed-ebook"
     },
     {
       "Id": "558",
       "Title": "Pronósticos en los negocios ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para administración y economía",
       "Edition": "9ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -5999,13 +5952,14 @@
       "Pages": "576 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsoneducacion.net/hanke",
-      "ImageSource": "978-607-44-2700-4.jpg"
+      "ImageSource": "978-607-44-2700-4.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/pronosticos-negocios-hanke-9ed-ebook1"
     },
     {
       "Id": "559",
       "Title": "Control de calidad",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para administración y economía",
       "Edition": "8ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -6014,13 +5968,14 @@
       "Pages": "552 págs.",
       "Request": "TRUE",
       "WebSite": "www.pearsoneducacion.net/besterfield",
-      "ImageSource": "978-607-44-2121-7.jpg"
+      "ImageSource": "978-607-44-2121-7.jpg",
+      "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/control-calidad-besterfield-8ed-libro"
     },
     {
       "Id": "560",
       "Title": "Estadística ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística",
       "Edition": "11ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -6035,24 +5990,21 @@
     {
       "Id": "561",
       "Title": "Estadística MyMathLab Español Código de acceso vía tarjeta o virtual ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística",
       "Edition": "1ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Introducción a la estadística. \nResumen y gráficas de datos.\nEstadísticos para describir, explorar y comparar datos. \nProbabilidad. \nDistribuciones de probabilidad discreta. \nDistribuciones de probabilidad normal. \nEstimaciones y tamaño de la muestra. \nPrueba de hipótesis. \nInferencias a partir de dos muestras. \nCorrelación y regresión. \nBondad de ajuste y tablas de contingencia. \nAnálisis de varianza. \nEstadística no paramétrica. \nControl estadístico de procesos. \nProyectos, procedimientos y perspectivas.\nIncluye eText del libro Estadística,",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/triola",
-      "ImageSource": "FALSO",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/kit-dig-mymathlab-etxt-de-estadistica-1ed-mml"
     },
     {
       "Id": "562",
       "Title": "Probabilidad y estadística para ingenieros de Miller y Freund ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para ingeniería",
       "Edition": "8ª edición",
       "Year": "2011",
       "Introduction": "FALSO",
@@ -6067,8 +6019,8 @@
     {
       "Id": "563",
       "Title": "Probabilidad y estadística para ingeniería y ciencias ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para ingeniería",
       "Edition": "9ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -6083,9 +6035,8 @@
     {
       "Id": "564",
       "Title": "Bioestadística",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Estadística para ingeniería",
       "Year": "2008",
       "Introduction": "FALSO",
       "Content": "Fundamentos de bioestadística. \nMétodos descriptivos. Probabilidad.\nIntroducción a la inferencia y a los métodos de una muestra. \nMétodos de muestra paralela. \nMétodos de dos muestras independientes. \nMétodos de muestras múltiples. \nEstimación de relaciones. \nRegresión lineal. \nMétodos basados en el principio de permutación. \nApéndices: Tabla de la curva normal. \nValores críticos de la distribución t de Student, de la distribución F, chi-cuadrada, de q de la prueba HSD de Tukey, del coeficiente de correlación de rangos, de la prueba de rangos con signo de Wilcoxon, de la prueba de suma de Kruskal-Wallis. \nEstudios de caso. \nRespuesta de los ejercicios.",
@@ -6099,8 +6050,8 @@
     {
       "Id": "565",
       "Title": "Matemáticas aplicadas a la administración y a la economía",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas para administración",
       "Edition": "5ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -6115,8 +6066,8 @@
     {
       "Id": "566",
       "Title": "Matemáticas para administración y economía ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas para administración",
       "Edition": "13ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
@@ -6131,24 +6082,21 @@
     {
       "Id": "567",
       "Title": "Matemáticas para administración y economía MyMathLab Español Código de acceso vía tarjeta o virtual",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas para administración",
       "Edition": "1ª edición",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Repaso de álgebra. \nAplicaciones y más álgebra. \nFunciones y gráficas. \nRectas, parábolas y sistemas de ecuaciones. \nFunciones exponenciales y logarítmicas. \nMatemáticas financieras. \nÁlgebra matricial. \nProgramación lineal. \nIntroducción a la probabilidad y la estadística. \nTemas adicionales de probabilidad. \nLímites y continuidad. \nDiferenciación. \nTemas adicionales de diferenciación. \nTrazado de curvas. \nIntegración. \nMétodos y aplicaciones de la integración.\nVariables aleatorias continuas. \nCálculo de varias variables.\nIncluye eText del libro Matemáticas para\nAdministración y Economía, 13ª edición, de Haeussler y Paul.",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "FALSO",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/kit-dig-mymathlab-etxt-de-matematicas-para-administracion-y-economia-haeussler-1ed-iml"
     },
     {
       "Id": "568",
       "Title": "Investigación de operaciones ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas para administración",
       "Edition": "10ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -6157,20 +6105,18 @@
       "Pages": "848 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/taha",
-      "ImageSource": "FALSO",
       "eCommerce": "FALSO"
     },
     {
       "Id": "569",
       "Title": "Métodos cuantitativos para los negocios ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Investigación de operaciones",
       "Edition": "12ª edición",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Introducción al análisis cuantitativo. \nConceptos y aplicaciones de probabilidad. \nAnálisis de decisiones. \nModelos de regresión. \nPronósticos. \nModelos de control de inventarios. \nModelos de programación lineal: métodos gráficos y en computadora. \nAplicaciones de programación lineal.\nModelos de transporte, asignación y redes. \nProgramación entera, programación por metas y programación no lineal. \nGestión de proyectos. \nModelos de líneas de espera y teoría de colas. \nModelado de simulaciones. \nAnálisis de Markov. \nControl estadístico de la calidad. \nMÓDULOS EN LÍNEA \nProceso analítico de jerarquización. \nProgramación dinámica. \nTeoría de decisiones y la distribución normal. \nTeoría de juegos. \nHerramientas matemáticas: determinantes y matrices. \nOptimización basada en el Cálculo. \nProgramación lineal: el método simplex. \nAlgoritmos de transporte, asignación y redes.\nMódulos adicionales online (español)\nExcelQM y POM (inglés)\nArchivos de datos para Excel y POM-QM (inglés)\nBanco de exámenes (inglés)\nTestGen (inglés)\nCasos de estudio (inglés)\nProblemas (inglés).",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/render",
       "ImageSource": "978-607-32-3761-1.jpg",
@@ -6179,9 +6125,8 @@
     {
       "Id": "570",
       "Title": "Del sentido numérico al pensamiento prealgebraico",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Didáctica de la matemática",
       "Year": "2012",
       "Introduction": "FALSO",
       "Content": "Prólogo.\nLa calculadora en el aula.\nIntroducción.\nReferente teórico.\nModelo didáctico.\nInvestigación.\nGuía didáctica.\nManual básico para el uso de un Sistema Algebraico Computarizado (SAC).\nOperaciones y propiedades de los números naturales.\nNúmeros decimales: sus operaciones y propiedades.\nFracciones comunes.\nNúmeros con signo y sus operaciones.\nEl concepto de aproximación en el contexto de la potenciación y radicación.\nMétodos no convencionales para resolver ecuaciones.\nExponentes y simbolización.\nIntroducción a la representación gráfica de funciones.\nIntroducción a la representación gráfica de funciones cuadráticas.\nPuntos en el plano cartesiano.",
@@ -6195,8 +6140,8 @@
     {
       "Id": "571",
       "Title": "Matemáticas financieras ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas financieras",
       "Edition": "5ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
@@ -6211,25 +6156,21 @@
     {
       "Id": "572",
       "Title": "Matemáticas financieras MyMathLab Español Código de acceso vía tarjeta o virtual ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas financieras",
       "Edition": "1ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
       "Content": "Fundamentos de matemáticas.\nSeries y sucesiones.\nInterés y descuento simple.\nInterés compuesto.\nAnualidades.\nAmortización de créditos.\nConstitución de fondos.\nDepreciación de activos.\nAcciones, bonos y obligaciones.\nAnualidades contingentes.\nIncluye eText del libro Matemáticas financieras 5ª edición, de José Luis Villalobos.",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "FALSO",
-      "ImageSource": "FALSO",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/kit-dig-mymathlab---etxt-de-mat-financieras-1ed-mml"
     },
     {
       "Id": "573",
       "Title": "Matemáticas para diseño Pearson eText",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "Matemáticas para diseño",
       "Year": "2016",
       "Introduction": "FALSO",
       "Content": "Introducción.\nFunciones.\nAproximación y modelado.\nLa derivada de una función.\nFunciones trascendentes.\nIntegrales.\nRazón áurea.\nGeometría fractal.\nAnexos.\nSoluciones a problemas y ejercicios.\nGlosario.\nActividades colaborativas y tutorial del graficador Graphmatica en el sitio Web del libro",
@@ -6237,20 +6178,17 @@
       "Pages": "333 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/aviño",
-      "ImageSource": "FALSO",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/etext-interactivo-de-matematicas-para-diseno"
     },
     {
       "Id": "574",
       "Title": "Química general ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "11ª edición",
       "Year": "2017",
       "Introduction": "FALSO",
       "Content": "Las propiedades de la materia y su medida.\nLos átomos y la teoría atómica.\nCompuestos químicos.\nLas reacciones químicas.\nIntroducción a las reacciones en disolución acuosa.\nGases.\nTermoquímica.\nLos electrones en los átomos.\nLa Tabla Periódica y algunas propiedades atómicas.\nEnlace químico I. Conceptos básicos.\nEnlace químico II. Teorías del enlace de valencia y de los orbitales moleculares.\nLíquidos, sólidos y fuerzas intermoleculares.\nEspontaneidad. Entropía y Energía Gibbs.\nLas disoluciones y sus propiedades físicas.\nPrincipios del equilibrio químico.\nÁcidos y bases.\nOtros aspectos del equilibrio ácido-base.\nSolubilidad y equilibrio de iones complejos.\nElectroquímica.\nCinética química.\nElementos de los grupos principales I: Grupos 1, 2, 13 y 14.\nElementos de los grupos principales II: Grupos 18, 17, 16, 15 y el hidrógeno.\nElementos de transición.\nIones complejos y compuestos de coordinación.\nQuímica nuclear.\nEstructura de los compuestos orgánicos.\nReacciones de los compuestos orgánicos.\nQuímica de los seres vivos.\nApéndices.\nA. Operaciones matemáticas.\nB. Conceptos físicos básicos.\nC. Unidades SI.\nD. Tablas de datos.\nE. Mapas conceptuales.\nF. Glosario.\nG. Respuestas a los ejemplos prácticos y ejercicios seleccionados.\nH. Respuestas a las evaluaciones de conceptos.\nMasteringChemistry\nDisponibles en inglés",
-      "Format": "FALSO",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "FALSO",
       "ImageSource": "978-849-03-5533-6.jpg",
@@ -6259,8 +6197,8 @@
     {
       "Id": "575",
       "Title": "Centrales de energías renovables Generación eléctrica con energías renovables",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -6275,8 +6213,8 @@
     {
       "Id": "576",
       "Title": "Óptica ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "3ª edición",
       "Year": "2000",
       "Introduction": "FALSO",
@@ -6291,8 +6229,8 @@
     {
       "Id": "577",
       "Title": "Introducción a la ciencia de materiales para ingenieros ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "7ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -6307,9 +6245,8 @@
     {
       "Id": "578",
       "Title": "Ciencia de materiales para ingenieros",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2012",
       "Introduction": "FALSO",
       "Content": "Introducción a la Ciencia de los materiales.\nPropiedades de los materiales.\nEstructura cristalina.\nImperfecciones de la estructura cristalina.\nDiagrama de fases.\nTransformaciones de la estructura cristalina.\nMecanismos de endurecimiento de materiales cristalinos.\nComportamiento en servicio de materiales metálicos.\nMateriales metálicos.\nMateriales poliméricos.\nMateriales cerámicos.\nMateriales compuestos.",
@@ -6323,8 +6260,8 @@
     {
       "Id": "579",
       "Title": "El mundo de la célula ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "6ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
@@ -6339,8 +6276,8 @@
     {
       "Id": "580",
       "Title": "Introducción a la biotecnología",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2010",
       "Introduction": "FALSO",
@@ -6355,8 +6292,8 @@
     {
       "Id": "581",
       "Title": "Ciencias de la Tierra ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "10ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -6371,8 +6308,8 @@
     {
       "Id": "582",
       "Title": "Bioquímica ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "4ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -6387,8 +6324,8 @@
     {
       "Id": "583",
       "Title": "Recursos de la Tierra y el medio ambiente ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "4ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -6403,8 +6340,8 @@
     {
       "Id": "584",
       "Title": "Ecología",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "6ª edición",
       "Year": "2007",
       "Introduction": "FALSO",
@@ -6419,9 +6356,8 @@
     {
       "Id": "585",
       "Title": "Riesgos naturales Procesos de la Tierra como riesgos, desastres y catástrofes",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2007",
       "Introduction": "FALSO",
       "Content": "Introducción a los riesgos naturales. \nTerremotos. \nVolcanes. \nInundaciones. \nMovimientos en masa. \nSubsidencia. \nAtmósfera y tiempo severo. \nRiesgos costeros. \nClima y cambio climático. \nIncendios arrasadores. \nImpactos y extinciones.",
@@ -6435,8 +6371,8 @@
     {
       "Id": "586",
       "Title": "Conceptos de genética ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "10ª edición",
       "Year": "2013",
       "Introduction": "FALSO",
@@ -6451,14 +6387,13 @@
     {
       "Id": "587",
       "Title": "Fisiología de la conducta ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "11ª edición",
       "Year": "2014",
       "Introduction": "FALSO",
       "Content": "Introducción. \nEstructura y funciones de las células del sistema nervioso. \nEstructura del sistema nervioso. \nPsicofarmacología. \nMétodos y procedimientos de investigación. \nVisión. \nLa audición, los sentidos corporales y los sentidos químicos. \nControl del movimiento. \nSueños y ritmos biológicos. \nConducta reproductora. \nEmoción. \nConducta de ingesta. \nAprendizaje y memoria. \nComunicación humana. \nTrastornos neurológicos. \nEsquizofrenia y trastornos afectivos. \nTrastornos de ansiedad, trastorno autista, trastorno por déficit de atención con hiperactividad y trastornos por estrés. \nDrogadicción.\nContiene código de acceso al laboratorio de recursos digitales MyPsychLab",
       "Format": "Formato 21 × 27 cm",
-      "Pages": "FALSO",
       "Request": "TRUE",
       "WebSite": "FALSO",
       "ImageSource": "978-841-55-5275-8.jpg",
@@ -6467,8 +6402,8 @@
     {
       "Id": "588",
       "Title": "Biopsicología",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "6ª edición",
       "Year": "2006",
       "Introduction": "FALSO",
@@ -6483,9 +6418,8 @@
     {
       "Id": "589",
       "Title": "PhysioExTM 9.0 Simulaciones de laboratorio de fisiología",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2012",
       "Introduction": "FALSO",
       "Content": "Mecanismos de transporte y permeabilidad celular. \nFisiología del músculo esquelético. \nNeurofisiología del impulso nervioso. \nFisiología del sistema endocrino. \nDinámica cardiovascular. \nFisiología cardiovascular. \nMecanismo del sistema respiratorio. \nProcesos químicos y físicos de la digestión. \nFisiología del sistema renal. \nEquilibrio ácido-base. \nAnálisis de sangre. \nPruebas serológicas. \nÍndice",
@@ -6499,8 +6433,8 @@
     {
       "Id": "590",
       "Title": "Fundamentos de enfermería Pack 2 volúmenes ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "9ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -6515,8 +6449,8 @@
     {
       "Id": "591",
       "Title": "Anatomía y fisiología humana ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "9ª edición",
       "Year": "2008",
       "Introduction": "FALSO",
@@ -6531,9 +6465,8 @@
     {
       "Id": "592",
       "Title": "Asistencia de enfermería materno-neonatal",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2010",
       "Introduction": "FALSO",
       "Content": "Parte I. Introducción a la enfermería materno-neonatal. \nEl DUE en la enfermería materno-neonatal. \nPensamiento crítico en la enfermería materno-neonatal. \nAspectos éticos y legales de la enfermería materno-neonatal. \nIntroducción a la asistencia de enfermería de familia. \nParte II. Reproducción y salud. \nAnatomía y fisiología del aparato reproductor. \nSalud de la mujer. \nCuestiones relativas a la reproducción. \nParte III. Asistencia de enfermería durante el período prenatal. \nDesarrollo fetal. \nValoración prenatal, puerperal y neonatal. \nAsistencia durante el embarazo normal. \nNutrición prenatal, puerperal y neonatal. \nAsistencia a la adolescente embarazada. \nAsistencia durante el embarazo de riesgo alto. \nParte IV. Asistencia de enfermería durante el parto y nacimiento. \nAsistencia durante el parto y un nacimiento normales. \nAsistencia durante el parto y un nacimiento de riesgo alto. \nParte V. Asistencia de enfermería en el puerperio. \nAsistencia de enfermería en el puerperio. \nParte VI. Asistencia de enfermería al neonato. \nAsistencia a un neonato normal. \nAsistencia a un neonato de riesgo alto.",
@@ -6547,9 +6480,8 @@
     {
       "Id": "593",
       "Title": "Gerontología Actualización, innovación y propuestas",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2005",
       "Introduction": "FALSO",
       "Content": "Claves para comprender la posición actual de la Gerontología. \nJustificación de la obra.\nEl siglo XXI, siglo de poblaciones que envejecen. \nEnvejecimiento y género. \nLa salud y el envejecimiento. \nEl estado de salud de las personas mayores. \nCalidad de vida de las personas mayores. \nEl enfoque del ciclo vital: hacia un abordaje evolutivo del envejecimiento. \nEnvejecimiento y cambio cognitivo. \nEl apoyo social y las relaciones sociales de las personas mayores. \nLas relaciones abuelos-nietos. \nGerontagogía: intervención socioeducativa en personas mayores. \nLa profesionalización en el campo gerontológico y geriátrico. \nUn trabajo interdependiente. \nLos programas universitarios para mayores. \nLos programas intergeneracionales. \nEl ocio y la intervención con personas mayores. \nEl envejecimiento productivo. \nConcepto y factores explicativos. \nProvisión de cuidados y apoyo social informal: una visión psicosocial de la dependencia. \nEconomía de los cuidados al final de la vida. \nBioética y envejecimiento. \nLa gestión del cuidado en una sociedad liberal. \nLa muerte y el proceso de morirse. \nPérdida y duelo.",
@@ -6563,8 +6495,8 @@
     {
       "Id": "594",
       "Title": "Enfermería medicoquirúrgica Pensamiento crítico en la asistencia del paciente Volumen II",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "4ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -6579,8 +6511,8 @@
     {
       "Id": "595",
       "Title": "Enfermería medicoquirúrgica Pensamiento crítico en la asistencia del paciente Volumen I ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "4ª edición",
       "Year": "2009",
       "Introduction": "FALSO",
@@ -6595,9 +6527,8 @@
     {
       "Id": "596",
       "Title": "Nutrición",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
-      "Edition": "FALSO",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Year": "2008",
       "Introduction": "FALSO",
       "Content": "El papel de la nutrición en nuestra salud. \nDiseño de una dieta sana. \nEl cuerpo humano. \n¿Somos realmente lo que comemos? \nHidratos de carbono. \nUna fuente abundante de energía y nutrientes. \nLípidos. \nNutrientes esenciales que aportan energía. \nProteínas. \nComponentes esenciales de todos los tejidos del cuerpo. \nMetabolismo. \nDe la comida a la vida. \nNutrientes implicados en el metabolismo energético. \nNutrientes implicados en el equilibrio hídrico y electrolítico. \nNutrientes implicados en la función antioxidante. \nNutrientes implicados en la salud ósea. \nNutrientes que influyen en la salud de la sangre y la inmunidad. \nCómo alcanzar y mantener un peso corporal saludable. \nActividad física y nutrición. \nClaves para una buena salud. \nTrastornos alimentarios. \nSeguridad y tecnología alimentarias. \nImpacto en los consumidores.\n La nutrición en el ciclo vital. \nEmbarazo y primer año de vida. \nLa nutrición en el ciclo vital. \nInfancia y adolescencia. \nLa nutrición en el ciclo vital. \nLos últimos años. \nNutrición mundial. \nApéndices. \nRespuestas a las preguntas de repaso. \nGlosario. \nÍndice.",
@@ -6611,8 +6542,8 @@
     {
       "Id": "597",
       "Title": "Cálculo vectorial ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "5ª edición",
       "Year": "2004",
       "Introduction": "FALSO",
@@ -6627,8 +6558,8 @@
     {
       "Id": "598",
       "Title": "Matemáticas para el análisis económico ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "2ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -6643,8 +6574,8 @@
     {
       "Id": "599",
       "Title": "Introducción a la econometría ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "3ª edición",
       "Year": "2012",
       "Introduction": "FALSO",
@@ -6659,8 +6590,8 @@
     {
       "Id": "600",
       "Title": "Análisis multivariante ",
-      "CategoryName": "Ingeniería y computación",
-      "SubcategoryName": "Ingeniería y computación",
+      "CategoryName": "Matemáticas y ciencias",
+      "SubcategoryName": "España Ingeniería y computación",
       "Edition": "5ª edición",
       "Year": "1999",
       "Introduction": "FALSO",
@@ -10870,7 +10801,7 @@
     },
     {
       "BookId": "41",
-      "AttributeName": "e-eBook"
+      "AttributeName": "eBook"
     },
     {
       "BookId": "45",
@@ -11030,23 +10961,23 @@
     },
     {
       "BookId": "112",
-      "AttributeName": "e-eBook"
+      "AttributeName": "eBook"
     },
     {
       "BookId": "113",
-      "AttributeName": "e-eBook"
+      "AttributeName": "eBook"
     },
     {
       "BookId": "113",
-      "AttributeName": "web"
+      "AttributeName": "Web"
     },
     {
       "BookId": "114",
-      "AttributeName": "web"
+      "AttributeName": "Web"
     },
     {
       "BookId": "114",
-      "AttributeName": "e-eBook"
+      "AttributeName": "eBook"
     },
     {
       "BookId": "115",
@@ -11054,15 +10985,15 @@
     },
     {
       "BookId": "116",
-      "AttributeName": "web"
+      "AttributeName": "Web"
     },
     {
       "BookId": "116",
-      "AttributeName": "e-eBook"
+      "AttributeName": "eBook"
     },
     {
       "BookId": "117",
-      "AttributeName": "web"
+      "AttributeName": "Web"
     },
     {
       "BookId": "117",
@@ -11074,7 +11005,7 @@
     },
     {
       "BookId": "119",
-      "AttributeName": "web"
+      "AttributeName": "Web"
     },
     {
       "BookId": "119",
@@ -11090,7 +11021,7 @@
     },
     {
       "BookId": "122",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "122",
@@ -11166,7 +11097,7 @@
     },
     {
       "BookId": "132",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "132",
@@ -11242,7 +11173,7 @@
     },
     {
       "BookId": "141",
-      "AttributeName": "web"
+      "AttributeName": "Web"
     },
     {
       "BookId": "141",
@@ -11258,7 +11189,7 @@
     },
     {
       "BookId": "143",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "144",
@@ -11306,7 +11237,7 @@
     },
     {
       "BookId": "150",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "150",
@@ -11394,7 +11325,7 @@
     },
     {
       "BookId": "159",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "159",
@@ -11526,7 +11457,7 @@
     },
     {
       "BookId": "175",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "176",
@@ -11566,7 +11497,7 @@
     },
     {
       "BookId": "181",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "181",
@@ -11602,7 +11533,7 @@
     },
     {
       "BookId": "186",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "186",
@@ -11674,7 +11605,7 @@
     },
     {
       "BookId": "196",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "196",
@@ -11722,7 +11653,7 @@
     },
     {
       "BookId": "202",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "202",
@@ -11734,7 +11665,7 @@
     },
     {
       "BookId": "203",
-      "AttributeName": "cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "203",
@@ -12258,7 +12189,7 @@
     },
     {
       "BookId": "327",
-      "AttributeName": "Cd-rom"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "327",
@@ -12422,31 +12353,31 @@
     },
     {
       "BookId": "400",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "401",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "402",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "403",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "404",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "405",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "406",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "407",
@@ -12489,9 +12420,6 @@
       "AttributeName": "Web"
     },
     {
-      "BookId": "413"
-    },
-    {
       "BookId": "414",
       "AttributeName": "eBook"
     },
@@ -12512,18 +12440,12 @@
       "AttributeName": "eBook"
     },
     {
-      "BookId": "418"
-    },
-    {
       "BookId": "419",
       "AttributeName": "Web"
     },
     {
       "BookId": "419",
       "AttributeName": "eBook"
-    },
-    {
-      "BookId": "420"
     },
     {
       "BookId": "421",
@@ -12556,9 +12478,6 @@
     {
       "BookId": "424",
       "AttributeName": "eBook"
-    },
-    {
-      "BookId": "425"
     },
     {
       "BookId": "426",
@@ -12621,9 +12540,6 @@
       "AttributeName": "eBook"
     },
     {
-      "BookId": "435"
-    },
-    {
       "BookId": "436",
       "AttributeName": "Web"
     },
@@ -12661,16 +12577,13 @@
     },
     {
       "BookId": "441",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "441",
       "AttributeName": "eBook"
     },
     {
-      "BookId": "442"
-    },
-    {
       "BookId": "443",
       "AttributeName": "Web"
     },
@@ -12679,18 +12592,12 @@
       "AttributeName": "eBook"
     },
     {
-      "BookId": "444"
-    },
-    {
       "BookId": "445",
       "AttributeName": "Web"
     },
     {
       "BookId": "445",
       "AttributeName": "eBook"
-    },
-    {
-      "BookId": "446"
     },
     {
       "BookId": "447",
@@ -12698,7 +12605,7 @@
     },
     {
       "BookId": "448",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "448",
@@ -12714,7 +12621,7 @@
     },
     {
       "BookId": "450",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "451",
@@ -12762,7 +12669,7 @@
     },
     {
       "BookId": "456",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "456",
@@ -12813,9 +12720,6 @@
       "AttributeName": "eBook"
     },
     {
-      "BookId": "463"
-    },
-    {
       "BookId": "464",
       "AttributeName": "Web"
     },
@@ -12825,7 +12729,7 @@
     },
     {
       "BookId": "465",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "465",
@@ -12849,7 +12753,7 @@
     },
     {
       "BookId": "468",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "468",
@@ -12857,7 +12761,7 @@
     },
     {
       "BookId": "469",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "469",
@@ -12877,7 +12781,7 @@
     },
     {
       "BookId": "472",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "472",
@@ -12886,9 +12790,6 @@
     {
       "BookId": "473",
       "AttributeName": "eBook"
-    },
-    {
-      "BookId": "474"
     },
     {
       "BookId": "475",
@@ -12912,7 +12813,7 @@
     },
     {
       "BookId": "478",
-      "AttributeName": "cd-room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "478",
@@ -13024,7 +12925,7 @@
     },
     {
       "BookId": "492",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "493",
@@ -13064,39 +12965,39 @@
     },
     {
       "BookId": "500",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "501",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "502",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "503",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "504",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "505",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "506",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "507",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "508",
-      "AttributeName": "Novedades"
+      "AttributeName": "Novedad"
     },
     {
       "BookId": "509",
@@ -13195,9 +13096,6 @@
       "AttributeName": "eText"
     },
     {
-      "BookId": "522"
-    },
-    {
       "BookId": "523",
       "AttributeName": "Web"
     },
@@ -13218,9 +13116,6 @@
       "AttributeName": "eBook"
     },
     {
-      "BookId": "526"
-    },
-    {
       "BookId": "527",
       "AttributeName": "Novedad"
     },
@@ -13246,7 +13141,7 @@
     },
     {
       "BookId": "529",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "529",
@@ -13254,7 +13149,7 @@
     },
     {
       "BookId": "530",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "530",
@@ -13263,9 +13158,6 @@
     {
       "BookId": "531",
       "AttributeName": "eBook"
-    },
-    {
-      "BookId": "532"
     },
     {
       "BookId": "533",
@@ -13298,9 +13190,6 @@
     {
       "BookId": "537",
       "AttributeName": "eBook"
-    },
-    {
-      "BookId": "538"
     },
     {
       "BookId": "539",
@@ -13403,12 +13292,6 @@
       "AttributeName": "eBook"
     },
     {
-      "BookId": "551"
-    },
-    {
-      "BookId": "552"
-    },
-    {
       "BookId": "553",
       "AttributeName": "eBook"
     },
@@ -13454,7 +13337,7 @@
     },
     {
       "BookId": "559",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "559",
@@ -13674,7 +13557,7 @@
     },
     {
       "BookId": "585",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "586",
@@ -13698,7 +13581,7 @@
     },
     {
       "BookId": "588",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "588",
@@ -13726,7 +13609,7 @@
     },
     {
       "BookId": "591",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "591",
@@ -13754,7 +13637,7 @@
     },
     {
       "BookId": "594",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "594",
@@ -13766,7 +13649,7 @@
     },
     {
       "BookId": "595",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "595",
@@ -13778,7 +13661,7 @@
     },
     {
       "BookId": "596",
-      "AttributeName": "Cd-Room"
+      "AttributeName": "Cd-Rom"
     },
     {
       "BookId": "596",
@@ -13906,7 +13789,7 @@
     {
       "BookId": "9",
       "ISBN": "978-607-32-3549-5",
-      "Description": "eTex"
+      "Description": "eText"
     },
     {
       "BookId": "10",
@@ -13919,22 +13802,22 @@
     {
       "BookId": "12",
       "ISBN": "978-607-32-2946-3",
-      "Description": "eTex"
+      "Description": "eText"
     },
     {
       "BookId": "13",
       "ISBN": "978-607-32-2931-9",
-      "Description": "eTex"
+      "Description": "eText"
     },
     {
       "BookId": "14",
       "ISBN": "978-607-32-2684-4",
-      "Description": "eTex"
+      "Description": "eText"
     },
     {
       "BookId": "15",
       "ISBN": "978-607-32-2858-9",
-      "Description": "eTex"
+      "Description": "eText"
     },
     {
       "BookId": "16",

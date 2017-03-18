@@ -317,7 +317,7 @@ categories = [
  {
    "Id": 36,
    "ParentId": "35",
-   "Name": "Álgebra ",
+   "Name": "Álgebra lineal",
    "Slug": null,
    "StyleName": null,
    "ImageSource": null,
@@ -425,7 +425,7 @@ categories = [
  {
    "Id": 48,
    "ParentId": "35",
-   "Name": "Física",
+   "Name": "Física general",
    "Slug": null,
    "StyleName": null,
    "ImageSource": null,
@@ -452,7 +452,7 @@ categories = [
  {
    "Id": 51,
    "ParentId": "35",
-   "Name": "Química",
+   "Name": "Química general",
    "Slug": null,
    "StyleName": null,
    "ImageSource": null,
@@ -470,7 +470,7 @@ categories = [
  {
    "Id": 53,
    "ParentId": null,
-   "Name": "Ciencias sociales",
+   "Name": "Ciencias Sociales",
    "Slug": "socia",
    "StyleName": 'ciencias_sociales',
    "ImageSource": 'fingerprint_ciencias_sociales.png',
@@ -628,5 +628,149 @@ categories = [
     "StyleName": "custom",
     "ImageSource": "fingerprint_custom.png",
     "ShowSlider": true
-  }
+ },
+ {
+    "Id": 71,
+    "ParentId": "35",
+    "Name": "Química de los alimentos",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 72,
+    "ParentId": "35",
+    "Name": "Química orgánica",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 73,
+    "ParentId": "35",
+    "Name": "Ingeniería Química",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 74,
+    "ParentId": "35",
+    "Name": "Bioquímica",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 75,
+    "ParentId": "35",
+    "Name": "Ciencias de la salud",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 76,
+    "ParentId": "35",
+    "Name": "Precálculo",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 77,
+    "ParentId": "35",
+    "Name": "Matemáticas avanzadas",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 78,
+    "ParentId": "35",
+    "Name": "Métodos númericos",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 79,
+    "ParentId": "35",
+    "Name": "Matemáticas discretas",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 80,
+    "ParentId": "35",
+    "Name": "Estadística para administración y economía",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 81,
+    "ParentId": "35",
+    "Name": "Estadística para ingeniería",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 82,
+    "ParentId": "35",
+    "Name": "Matemáticas para administración",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 83,
+    "ParentId": "35",
+    "Name": "Didáctica de la matemática",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 84,
+    "ParentId": "35",
+    "Name": "Matemáticas financieras",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 85,
+    "ParentId": "35",
+    "Name": "Matemáticas para diseño",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 86,
+    "ParentId": "35",
+    "Name": "España Ingeniería y computación",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ }
 ];
