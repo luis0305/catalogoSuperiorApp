@@ -6,15 +6,14 @@
       if(form.$valid){
         var signupPopup = $ionicPopup.show({
          templateUrl: 'home/views/popup-signup-view.html',
-         title: 'Registrando',
-         subTitle: 'Registrando...',
          scope: $scope
         });
+        /*
         $timeout(function() {
           //add logic to register
           signupPopup.close();
           $state.go('home');
-        }, 3000);
+        }, 3000);*/
       }
     };
   });
