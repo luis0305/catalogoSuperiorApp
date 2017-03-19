@@ -345,3 +345,14 @@ font-family: 'Playfair Display', serif !important;
     font-size: 15px !important;
 }
 
+.input-label-registro{
+font-size: 12px;
+}
+
+.error_input{
+    color: red;
+    font-size: 12px;
+    text-align: left;
+    position: absolute;
+    right: 14px;
+}
