@@ -11,43 +11,43 @@
         <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
       </label>
     </div>
-    <div style="background: #fff">
-      <div class="row">
-        <ion-scroll direction="x">
+    <div style="overflow-x: scroll;">
+      <div class="row" style="height:160px;">
+          <div ng-repeat="book in books | limitTo : 10 " style="border-style:none; padding:0; margin:0; display:inline; width:320px; height:160px !important">
+            <ion-scroll direction="x">
 
-            <div ng-repeat="book in books | limitTo : 10 " style="border-style:none; padding:0; margin:0; display:inline; width:320px">
-              <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
-                    <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                         style="max-width:120px"/>
+            <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
+                <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
+                     style="max-width:120px; position:relative; float:left; padding:5px; margin:5px"/>
               </a>
-            </div>
+            </ion-scroll>
 
-        </ion-scroll>
+          </div>
       </div>
     </div>
 
     <div class="row responsive-lg">
       <div class="list">
-      <div class="item" ng-repeat="book in books | filter: searchFilter " style="border-style:none; padding:0; margin:0">
-        <div class="col-67 col-offset-33">
-        <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
-          <div class="row box-title">
-            <div class="col col-25">
-              <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                   style="max-width:120px"/>
-            </div>
-            <div class="col col-75">
-              <h3 class="book-title">{{book.Title}}</h3>
-              <p class="book-area">{{book.Subcategory.Name}}</p>
-              <p class="book-author" ng-repeat="author in book.Authors | limitTo:2">{{author.Name}}</p>
+        <div class="item" ng-repeat="book in books | filter: searchFilter " style="border-style:none; padding:0; margin:0">
+          <div class="col-67 col-offset-33">
+            <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
+              <div class="row box-title">
+                <div class="col col-25">
+                  <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
+                       style="max-width:120px"/>
+                </div>
+                <div class="col col-75">
+                  <h3 class="book-title">{{book.Title}}</h3>
+                  <p class="book-area">{{book.Subcategory.Name}}</p>
+                  <p class="book-author" ng-repeat="author in book.Authors | limitTo:2">{{author.Name}}</p>
 
-              <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
-              <span class="more-info">Mas información </span>
-            </div>
+                  <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
+                  <span class="more-info">Mas información </span>
+                </div>
+              </div>
+            </a>
           </div>
-        </a>
         </div>
-      </div>
       </div>
     </div>
 
