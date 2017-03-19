@@ -45,7 +45,17 @@
       controller: 'signup-controller'
     });
 
-    $urlRouterProvider.otherwise('/signup');
+
+    $stateProvider.state('pearson.about', {
+      url: '/about',
+      views: {
+        'menu-content' : {
+          templateUrl: 'home/views/about-us-view.html'
+        }
+      }
+    });
+
+    $urlRouterProvider.otherwise('/home');
 
   });
 
