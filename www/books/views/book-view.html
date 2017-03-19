@@ -1,4 +1,4 @@
-<ion-view view-title="Catálogo / {{subcategory.Name}}" class="white">
+<ion-view view-title="Catálogo / {{category.Name}}" class="white">
 
   <ion-nav-buttons side="left">
     <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
@@ -9,7 +9,7 @@
     <div class="list list-inset buscar">
       <label class="item item-input buscador">
         <i class="icon ion-search placeholder-icon"></i>
-        <input type="text" placeholder="Buscar en {{subcategory.Name | lowercase }}" ng-model="searchFilter">
+        <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
       </label>
     </div>
     <div style="background: #fff">
@@ -22,7 +22,7 @@
     <div class="list row responsive-lg">
 
       <div class="item col col-50" ng-repeat="book in books | filter: searchFilter " style="border-style:none; padding:0; margin:0">
-        <a href="#/pearson/{{subcategory.Slug}}/books/detail/{{book.Id}}">
+        <a href="/#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
           <div class="row box-title">
             <div class="col col-25">
               <img ng-src="{{book.ImageSource}}"

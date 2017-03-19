@@ -55,7 +55,7 @@ text-decoration:none !important;
   height: auto !important;
 }
 
-.mision, .catalogo_universitario, .ciencias_sociales, .ciencias_y_matematicas, .ingenieria_y_computacion, .productos_digitales, .administracion_general {
+.mision, .catalogo_universitario, .ciencias_sociales, .ciencias_y_matematicas, .ingenieria_y_computacion, .productos_digitales, .administracion_general, .custom {
   bottom: 0;
   left: 0;
   margin: auto;
@@ -99,6 +99,12 @@ text-decoration:none !important;
   background: url('../img/bckgr_ciencias_sociales.jpg') center right;
   background-size:cover
 }
+
+.custom {
+  background: url('../img/bckgr_custom.jpg') center right;
+  background-size:cover
+}
+
 
 .svg_image_slide{
   top: 0 !important;
@@ -338,3 +344,4 @@ background: #2a2f31;
 font-family: 'Playfair Display', serif !important;
     font-size: 15px !important;
 }
+

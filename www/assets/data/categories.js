@@ -1,11 +1,11 @@
-subcategories = [
+categories = [
  {
    "Id": 1,
    "ParentId": null,
    "Name": "Administración General",
    "Slug": "admin",
    "StyleName": 'administracion_general',
-   "ImageSource": 'fingerprint_administracion_general.svg',
+   "ImageSource": 'fingerprint_administracion_general.png',
    "ShowSlider": true
  },
  {
@@ -140,7 +140,7 @@ subcategories = [
    "Name": "Ingeniería y computación",
    "Slug": "ingen",
    "StyleName": 'ingenieria_y_computacion',
-   "ImageSource": 'fingerprint_ingenieria_y_computacion.svg',
+   "ImageSource": 'fingerprint_ingenieria_y_computacion.png',
    "ShowSlider": true
  },
  {
@@ -311,7 +311,7 @@ subcategories = [
    "Name": "Matemáticas y ciencias",
    "Slug": "cienc",
    "StyleName": 'ciencias_y_matematicas',
-   "ImageSource": 'fingerprint_ciencias_y_matematicas.svg',
+   "ImageSource": 'fingerprint_ciencias_y_matematicas.png',
    "ShowSlider": true
  },
  {
@@ -473,7 +473,7 @@ subcategories = [
    "Name": "Ciencias sociales",
    "Slug": "socia",
    "StyleName": 'ciencias_sociales',
-   "ImageSource": 'fingerprint_ciencias_sociales.svg',
+   "ImageSource": 'fingerprint_ciencias_sociales.png',
    "ShowSlider": true
  },
  {
@@ -572,13 +572,13 @@ subcategories = [
    "Name": "Productos digitales",
    "Slug": "digit",
    "StyleName": 'productos_digitales',
-   "ImageSource": 'fingerprint_productos_digitales.svg',
+   "ImageSource": 'fingerprint_productos_digitales.png',
    "ShowSlider": true
  },
  {
    "Id": 65,
    "ParentId": "64",
-   "Name": "MyMathLab español",
+   "Name": "MyMathLab Español",
    "Slug": null,
    "StyleName": null,
    "ImageSource": null,
@@ -610,5 +610,23 @@ subcategories = [
    "StyleName": null,
    "ImageSource": null,
    "ShowSlider": false
- }
-]
+ },
+ {
+    "Id": 69,
+    "ParentId": "64",
+    "Name": "Pearson eText",
+    "Slug": null,
+    "StyleName": null,
+    "ImageSource": null,
+    "ShowSlider": false
+ },
+ {
+    "Id": 70,
+    "ParentId": null,
+    "Name": "Custom",
+    "Slug": "custo",
+    "StyleName": "custom",
+    "ImageSource": "fingerprint_custom.png",
+    "ShowSlider": true
+  }
+];
