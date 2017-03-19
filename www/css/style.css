@@ -345,3 +345,12 @@ font-family: 'Playfair Display', serif !important;
     font-size: 15px !important;
 }
 
+
+div_responsive_books_list{
+width:40%;
+margin:2.5%;
+padding:2.5%;
+position:relative;
+float:left
+
+}
