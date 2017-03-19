@@ -64,9 +64,9 @@
         </div>
 
         <div id="Request" class="tabcontent">
-          <a href="#" onclick="window.open('{{book.eCommerce}}', '_self'); return false;">
+          <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
             <button class="button cta-pearson">
-              {{book.eCommerce}}
+              Solicitar
             </button>
           </a>
         </div>
