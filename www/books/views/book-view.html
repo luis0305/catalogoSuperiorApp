@@ -13,8 +13,16 @@
     </div>
     <div style="background: #fff">
       <div class="row">
+        <ion-scroll direction="x">
 
+            <div ng-repeat="book in books | limitTo : 10 " style="border-style:none; padding:0; margin:0; display:inline; width:320px">
+              <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
+                    <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
+                         style="max-width:120px"/>
+              </a>
+            </div>
 
+        </ion-scroll>
       </div>
     </div>
 
