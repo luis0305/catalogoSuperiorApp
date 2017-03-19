@@ -82,7 +82,8 @@
       "Format": "Formas de entrega \nMyMathLab se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso o bien a través del portal de Pearson www.mypearsonshop.com.mx",
       "Request": "TRUE",
       "WebSite": "www.mymathlab.com/espanol",
-      "ImageSource": "mymathlab_razonamiento_y_aplicaciones.png"
+      "ImageSource": "mymathlab_razonamiento_y_aplicaciones.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/kit-dig-mymathlab-etxt-de-matematica-razonamiento-y-aplic-1ed-mml"
     },
     {
       "Id": "7",
@@ -140,7 +141,8 @@
       "Format": "Formas de entrega \nEste eText se puede adquirir mediante la compra de una tarjeta que contiene un código de acceso, o bien a través del portal de Pearson www.mypearsonshop.com.mx",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
-      "ImageSource": "etext_Matematicas_para_diseno.png"
+      "ImageSource": "etext_Matematicas_para_diseno.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/etext-interactivo-de-matematicas-para-diseno"
     },
     {
       "Id": "11",
@@ -167,7 +169,8 @@
       "Format": "Formas de entrega \nAcceso a través del registro del código que se entrega en una tarjeta. www.mypearsonshop.com.mx",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
-      "ImageSource": "etext_fisica_universitaria.png"
+      "ImageSource": "etext_fisica_universitaria.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/etext-interactivo-de-sears-y-zemansky-f%C3%ADsica-universitaria-con-f%C3%ADsica-moderna"
     },
     {
       "Id": "13",
@@ -208,7 +211,8 @@
       "Format": "Formas de entrega \nAcceso a través del registro del código que se entrega en una tarjeta. www.mypearsonshop.com.mx",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/etext",
-      "ImageSource": "etext_administracion_gestion_organizacional.png"
+      "ImageSource": "etext_administracion_gestion_organizacional.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/etext-interactivo-de-administracion-lourdes-2ed-etx"
     },
     {
       "Id": "16",
@@ -249,7 +253,8 @@
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
-      "ImageSource": "my_lab_espanol_recursos_humanos.png"
+      "ImageSource": "my_lab_espanol_recursos_humanos.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/recursos-humanos-dessler-1ed-mylab"
     },
     {
       "Id": "19",
@@ -290,7 +295,8 @@
       "Format": "Formas de entrega \n • Acceso a través del registro del código que se entrega en la tarjeta. \n • Venta digital del kit electrónico a través del sitio: www.mypearsonshop.com",
       "Request": "TRUE",
       "WebSite": "Página de acceso y registro\nwww.pearsonenespañol.com/mylab",
-      "ImageSource": "my_lab_espanol_manufactura_ingenieria.png"
+      "ImageSource": "my_lab_espanol_manufactura_ingenieria.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/kit-dig-mylab-etext-de-manufactura-kalpajian-1ed-iml"
     },
     {
       "Id": "22",
@@ -386,7 +392,8 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "160 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3796-3.png"
+      "ImageSource": "978-607-32-3796-3.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/electronica-de-potencia-modelado-y-control-de-convertidores-1ed-book"
     },
     {
       "Id": "29",
@@ -450,7 +457,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "112 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3753-6.png"
+      "ImageSource": "978-607-32-3753-6.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/histories-of-english-as-a-foreing-language-teacher-developme-1ed-ebook"
     },
     {
       "Id": "34",
@@ -462,7 +470,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "104 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3741-3.png"
+      "ImageSource": "978-607-32-3741-3.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/la-perspectiva-de-genero-osuna-1ed-libro"
     },
     {
       "Id": "35",
@@ -474,7 +483,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "208 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3736-9.png"
+      "ImageSource": "978-607-32-3736-9.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/jovenes-y-medios-digitales-moviles-en-mexico-duarte-1ed-libro"
     },
     {
       "Id": "36",
@@ -500,7 +510,8 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "592 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3910-3.png"
+      "ImageSource": "978-607-32-3910-3.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/el-estres-y-su-impacto-en-la-productividad-1ed-ebook"
     },
     {
       "Id": "38",
@@ -566,7 +577,7 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "224 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3733-8.ong",
+      "ImageSource": "978-607-32-3733-8.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/fisica-ii-Luz-Maria-1ed-book"
     },
     {
@@ -683,7 +694,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "112 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3422-7.png"
+      "ImageSource": "978-607-32-3422-7.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/aspectos-legales-de-la-clasificacion-arancelaria-de-mercancias-garcia-1ed-libro"
     },
     {
       "Id": "52",
@@ -722,7 +734,8 @@
       "Format": "Formato 20 × 25.5 cm",
       "Pages": "304 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-3617-1.png"
+      "ImageSource": "978-607-32-3617-1.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/procesos-educativos-desaf%C3%ADos-y-retos-en-el-siglo-xxi"
     },
     {
       "Id": "55",
@@ -854,7 +867,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "192 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2596-0.png"
+      "ImageSource": "978-607-32-2596-0.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/sistemas-economicos-comparados-erquizio-1ed-libro"
     },
     {
       "Id": "65",
@@ -916,7 +930,7 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "200 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2326-3 .png"
+      "ImageSource": "978-607-32-2326-3.jpg"
     },
     {
       "Id": "70",
@@ -941,7 +955,8 @@
       "Format": "Formato 17 × 24 cm",
       "Pages": "248 págs.",
       "Request": "TRUE",
-      "ImageSource": "978-607-32-2472-7.png"
+      "ImageSource": "978-607-32-2472-7.png",
+      "eCommerce": "http://www.mypearsonshop.com.mx/mexico/catalogo/estudios-caso-desarrollo-regional-medellin-1ed-libro"
     },
     {
       "Id": "72",
@@ -1125,7 +1140,8 @@
       "Introduction": "Para lograr el objetivo de poner en claro los conceptos en materia de RSE y de presentar los diferentes esfuerzos realizados para responder a los desafíos económicos, sociales y ambientales que supone gestionar empresas en el contexto latinoamericano, el libro se ha estructurado en dos grandes partes: la primera se centra en la clarificación teórica y presentación de la RSE; la segunda está formada por un conjunto de casos prácticos para inducir el análisis y la reflexión.",
       "Content": "Evolución de la RSE: nacimiento, definición y proliferación \nÉtica y filosofía de la RSE \nHerramientas de gestión de la RSE \nRSE y desarrollo sostenible \nEmpresas y desarrollo humano: la contribución de las compañías transnacionales al desarrollo humano \nLa perspectiva de los grupos de interés en la RSE \nRSE estratégica \nLa lógica de la responsabilidad corporativa en el buen gobierno \nCondiciones laborales en América Latina y responsabilidad social \nEl mercadeo y la RSE \nLogística con responsabilidad social \nFinanzas y RSE \nRelaciones y alianzas entre empresas ONG, impacto en el desarrollo social \nLa lógica de creación de valor mezclado en la PYME latinoamericana. \nCasos de estudio\nActualización del contenido\nCasos pedagógicos originales y de alta calidad, sobre empresas y\norganizaciones latinoamericanas\nPresentaciones PowerPoint\n(español)",
       "Format": "Formato 20 × 25.5 cm",
-      "Request": "TRUE"
+      "Request": "TRUE",
+      "ImageSource": "respo_etica_y_sus_emp.jpg"
     },
     {
       "Id": "107",
@@ -1179,7 +1195,8 @@
       "Introduction": "Es un libro de texto versátil y flexible que puede ser utilizado en diferentes ambientes, incluso puede complementar los materiales que se pueden encontrar en libros de texto tradicionales de marketing, operaciones y recursos humanos.\nEs una obra con un enfoque latinoamericano ya que los adaptadores son investigadores consultores y docentes radicados en México, Argentina y España. Está estructurado en cinco partes que abarcan por completo los procesos para administrar una empresa de servicios y ofrece herramientas que permiten a los estudiantes aprender cómo los conceptos pueden ser usados para aplicarlos en situaciones similares, además incorpora interesantes ejemplos de Latinoamérica y contiene lecturas seleccionadas y casos que han sido probados en el salón de clases.",
       "Content": "Vivimos en una economía y sociedad de servicios \nVisión estratégica y liderazgo del negocio de servicio \nParticipación del cliente en los procesos de servicio \nEl cliente en la experiencia de servicio \nCómo elegir los clientes, administrar las relaciones y generar lealtad \nCreación e innovación de servicios \nPosicionamiento de un servicio en el mercado \nEstrategias de precios para servicios \nComunicación y promoción de servicios \nDiseño de sistemas de entrega del servicio \nAdministración de la demanda y la capacidad en empresas de servicio \nLa dirección del talento humano en empresas de servicio \nIncremento del valor de los servicios mejorando su calidad y productividad \nAdministración de quejas y recuperación del servicio\nHerramientas, conceptos y estrategias que enfatizan el nuevo\nparadigma de administrar y competir a través de los servicios en los\nnegocios de hoy.\nNegocios basados en la creación de experiencias con la participación\ndel cliente para el desarrollo de relaciones de largo plazo.\nIntegración de temas, situaciones y ejemplos en diferentes contextos,\nincluyendo el ambiente de negocio a negocio (B2B).\nÉnfasis en el impacto de la tecnología\nen la creación y ejecución de servicios en\nla economía post-moderna.\nNumerosos ejemplos de diferentes empresas de servicio,\nespecialmente\nde América Latina y España, así como de servicios en empresas de\nmanufactura.\nImportantes resultados de investigación sobre diferentes procesos\nclave de marketing, operaciones y recursos humanos en la\nadministración del negocio de servicio, incluyendo los relacionados a\nla base de\nla pirámide.\nCasos de estudio probados en el aula, incluyendo empresas en países\nemergentes y de habla hispana.\nLecturas actuales de autores líderes en su campo de estudio.",
       "Format": "Formato 20 × 25.5 cm",
-      "Request": "TRUE"
+      "Request": "TRUE",
+      "ImageSource": "admin_de_servicios.jpg"
     },
     {
       "Id": "111",
@@ -1192,6 +1209,7 @@
       "Content": "Introducción al desarrollo organizacional \nAdministración del proceso de desarrollo organizacional \nProceso de diagnóstico en el desarrollo organizacional \nIntervención en la cultura organizacional \nCambio organizacional \nÉtica organizacional \nComunicación organizacional y resolución de conflictos \nLiderazgo \nCoaching \nEquipos y grupos de trabajo \nEl proceso de consultoría en el desarrollo organizacional \nEl consultor, agente de cambio organizacional y tendencias\nActualización del contenido\nCapítulo nuevo sobre Coaching\nActividades nuevas",
       "Format": "Formato 21 × 27 cm",
       "Request": "TRUE",
+      "ImageSource": "desarrollo_organizacional.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-organizacional-hernandez-1ed-libro"
     },
     {
@@ -1285,6 +1303,7 @@
       "Content": "Vivimos en una economía y sociedad de\r\nservicios.\r\nVisión estratégica y liderazgo del negocio\r\nde servicio.\r\nParticipación del cliente en los procesosde\r\nservicio.\r\nEl cliente en la experiencia de servicio.\r\nCómo elegir los clientes, administrar las\r\nrelaciones y generar lealtad.\r\nCreación e innovación de servicios.\r\nPosicionamiento de un servicio en el\r\nmercado.\r\nEstrategias de precios para servicios.\r\nComunicación y promoción de servicios.\r\nDieño de sistemas de entrega delservicio.\r\nAdministración de la demanda y la\r\ncapacidad en empresas de servicio.\r\nLa dirección del talento humano en\r\nempresas de servicio.\r\nIncremento del valor de los servicios\r\nmejorando su calidad y productividad.\r\nAdministración de quejas y recuperación\r\ndel servicio.",
       "Format": "Formato 20 × 25.5 cm",
       "Request": "VERDADERO",
+      "ImageSource": "admin_de_servicios.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-servicios-lovelock-2ed-libro"
     },
     {
@@ -1712,7 +1731,8 @@
       "Content": "Introducción al marketing de fidelización.\r\nEl modelo de la fidelización.\r\nEstrategias en el management de las quejas\r\ny reclamos.\r\nLa administración del cliente como un\r\nactivo.\r\nLas experiencias como piedra angular\r\nde la lealtad.\r\nLos procesos como bases de las\r\nexperiencias.\r\nEl management de personal y su impacto\r\nen la fidelización.\r\nLa modelización en la fidelización.\r\nProgramas de fidelización.\r\nLa personalización digital en la fidelidad.\r\nLa organización y el cambio que lidera la\r\ncultura de la fidelización.",
       "Format": "Formato 17 × 23 cm",
       "Pages": "520 págs.",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "ImageSource": "978-987-61-5346-1.jpg"
     },
     {
       "Id": "150",
@@ -1737,7 +1757,8 @@
       "Year": "2017",
       "Content": "Evolución de la RSE: nacimiento, definición y proliferación.\r\nÉtica y filosofía de la RSE.\r\nHerramientas de gestión de la RSE.\r\nRSE y desarrollo sostenible.\r\nEmpresas y desarrollo humano: la\r\ncontribución de las compañías\r\ntransnacionales al desarrollo humano.\r\nLa perspectiva de los grupos de interés en\r\nla RSE.\r\nRSE estratégica.\r\nLa lógica de la responsabilidad corporativa\r\nen el buen gobierno.\r\nCondiciones laborales en América Latina y\r\nresponsabilidad social.\r\nEl mercadeo y la RSE.\r\nLogística con responsabilidad social\r\nFinanzas y RSE.\r\nRelaciones y alianzas entre empresas ONG, impacto en el desarrollo social.\r\nLa lógica de creación de valor mezclado en la PYME latinoamericana.\r\nCasos de estudio.\nPresentaciones PowerPoint (español)",
       "Format": "Formato 20 × 25.5 cm",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "ImageSource": "respo_etica_y_sus_emp.jpg"
     },
     {
       "Id": "152",
@@ -1859,6 +1880,7 @@
       "Content": "Introducción al desarrollo organizacional.\nAdministración del proceso de desarrollo\norganizacional.\nProceso de diagnóstico en el desarrollo\norganizacional.\nIntervención en la cultura organizacional\nCambio organizacional.\nÉtica organizacional.\nComunicación organizacional y resolución\nde conflictos.\nLiderazgo.\nCoaching.\nEquipos y grupos de trabajo.\nEl proceso de consultoría en el desarrollo\norganizacional.\nEl consultor, agente de cambio organizacional y tendencias.",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
+      "ImageSource": "admon_de_la_compensacion.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/administracion-compensacion-varela-2ed-libro"
     },
     {
@@ -1898,6 +1920,7 @@
       "Content": "Introducción al desarrollo organizacional.\r\nAdministración del proceso de desarrollo organizacional.\r\nProceso de diagnóstico en el desarrollo organizacional.\r\nIntervención en la cultura organizacional.\r\nCambio organizacional.\r\nÉtica organizacional.\r\nComunicación organizacional y resolución de conflictos.\r\nLiderazgo.\r\nCoaching.\r\nEquipos y grupos de trabajo.\r\nEl proceso de consultoría en el desarrollo organizacional.\r\nEl consultor, agente de cambio organizacional y tendencias.",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
+      "ImageSource": "desarrollo_organizacional.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/desarrollo-organizacional-hernandez-1ed-libro"
     },
     {
@@ -2492,6 +2515,7 @@
       "Format": "Formato 18.5 × 23.5 cm",
       "Pages": "368 págs.",
       "Request": "VERDADERO",
+      "ImageSource": "978-607-32-0065-3.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/microeconomia-graue-1ed-libro"
     },
     {
@@ -2505,7 +2529,7 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "512 págs.",
       "Request": "VERDADERO",
-      "ImageSource": "978-607-32-1239-7.jpg",
+      "ImageSource": "978-607-32-0065-3.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/principios-microeconomia-case-10ed-libro"
     },
     {
@@ -3647,7 +3671,8 @@
       "Content": "¿Qué es la investigación de operaciones? \nModelado con programación lineal \nMétodo simplex y análisis de sensibilidad \nDualidad y análisis postóptimo \nModelo de transporte y sus variantes \nModelo de redes \nProgramación lineal avanzada \nProgramación de metas \nProgramación lineal entera \nProgramación heurística \nProblema del agente viajero (TSP) \nProgramación dinámica determinística \nModelos de inventario (con introducción a la cadena de suministro) \nRepaso de probabilidad básica \nAnálisis de decisiones y juegos \nModelos de inventario probabilísticos \nCadenas de Markov \nSistemas de colas \nModelado de simulación \nTeoría de optimización clásica \nAlgoritmos de programación no lineal \nApéndice A. Tablas estadísticas \nApéndice B. Respuestas parciales a problemas seleccionados\nLa presentación del contenido está basada en resolución de problemas y casos. \nAdemás cuenta con el software TORA que ha sido actualizado para la presente edición, así como el apoyo de AMPL y Excel solver para la resolución de problemas prácticos que permiten\na los estudiantes concentrarse en la compresión de conceptos y su aplicación en vez de perder tiempo en la programación de rutinas\npara resolver los problemas.\nRecursos para profesores (inglés)",
       "Format": "Formato 18.5 × 23.5 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/taha"
+      "WebSite": "www.pearsonenespañol.com/taha",
+      "ImageSource": "investigacion_de_operaciones.jpg"
     },
     {
       "Id": "401",
@@ -3673,7 +3698,8 @@
       "Introduction": "Dirigido a las carreras de Ingeniería y Administración.",
       "Content": "Introducción a los inventarios \nFundamentos de la administración de inventarios \nControl de inventarios \nRelación entre la administración de inventarios y el pronóstico \nSimulación de eventos discretos en procesos de inventario \nProcesos de administración de inventario adicional y conceptos relacionados \nGestión de los flujos de inventario de la cadena de suministro \nMedición del rendimiento del inventario\nEste texto es una guía completa para la gestión de inventarios escrito por expertos de talla mundial en colaboración con el Consejo de Supply Chain Management Professionals. Proporciona un conocimiento profundo de cada enfoque conduce a la gestión de inventarios de la cadena de suministro y las variables que impulsan las decisiones sobre los niveles de inventario.",
       "Format": "Formato 21 × 27 cm",
-      "Request": "VERDADERO"
+      "Request": "VERDADERO",
+      "ImageSource": "administracion_de_inventarios.jpg"
     },
     {
       "Id": "403",
@@ -3687,7 +3713,8 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "1024 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/tocci"
+      "WebSite": "www.pearsonenespañol.com/tocci",
+      "ImageSource": "sistemas_digitales.jpg"
     },
     {
       "Id": "404",
@@ -3701,7 +3728,8 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "952 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/boylestad"
+      "WebSite": "www.pearsonenespañol.com/boylestad",
+      "ImageSource": "analisis_de_circuitos.jpg"
     },
     {
       "Id": "405",
@@ -3714,7 +3742,8 @@
       "Content": "Es un libro dirigido al estudio de la evaluación y administración de proyectos, una materia del Tecnológico de Monterrey. Cuenta con apoyo de software de seguimiento y control.\nSe ofrece software de apoyo",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/ lopez-lankenau"
+      "WebSite": "www.pearsonenespañol.com/ lopez-lankenau",
+      "ImageSource": "administracion_de_proyectos.jpg"
     },
     {
       "Id": "406",
@@ -3727,7 +3756,8 @@
       "Content": "En esta edición se ha puesto especial atención en las aperturas de capítulo así como las referencias a los estándares al inicio de cada capítulo. Aparece una sección introductoria de fundamentos y una sección de trabajo con CAD que incluye tips de modelación 2D y 3D. \nLos problemas de este libro han sido actualizados incluyendo partes plásticas y metálicas así como ensamblaje actualizado y problemas de esquematización.\nRecursos para profesores (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/giesecke"
+      "WebSite": "www.pearsonenespañol.com/giesecke",
+      "ImageSource": "dibujo_tecnico.jpg"
     },
     {
       "Id": "407",
@@ -4188,7 +4218,8 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "1224 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/boylestad"
+      "WebSite": "www.pearsonenespañol.com/boylestad",
+      "ImageSource": "analisis_de_circuitos.jpg"
     },
     {
       "Id": "438",
@@ -4246,7 +4277,8 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "1024 págs.",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/tocci"
+      "WebSite": "www.pearsonenespañol.com/tocci",
+      "ImageSource": "sistemas_digitales.jpg"
     },
     {
       "Id": "442",
@@ -4657,6 +4689,7 @@
       "Pages": "848 págs.",
       "Request": "VERDADERO",
       "WebSite": "www.pearsonenespañol.com/taha",
+      "ImageSource": "investigacion_de_operaciones.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/investigacion-de-operaciones-taha-9ed-libro"
     },
     {
@@ -4850,6 +4883,7 @@
       "Format": "Formato 21 × 27 cm",
       "Pages": "208 págs.",
       "Request": "VERDADERO",
+      "ImageSource": "administracion_de_inventarios.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/planificacion-control-produccion-chapman-1ed-libro"
     },
     {
@@ -4875,7 +4909,8 @@
       "Content": "Recursos para profesores (inglés)",
       "Format": "Formato 21 × 27 cm",
       "Request": "VERDADERO",
-      "WebSite": "www.pearsonenespañol.com/giesecke"
+      "WebSite": "www.pearsonenespañol.com/giesecke",
+      "ImageSource": "dibujo_tecnico.jpg"
     },
     {
       "Id": "484",
@@ -5089,6 +5124,7 @@
       "Content": "Funciones\nLímites y continuidad\nDerivadas\nAplicaciones de las derivadas\nIntegrales\nAplicaciones de las integrales definidas\nFunciones trascendentes\nTécnicas de integración\nEcuaciones diferenciales de primer orden\nSecuencias infinitas y series\nEcuaciones paramétricas y coordenadas polares \nMyMathLab Español contiene más de 1698 ejercicios acompañados del libro en versión eText que se presenta por secciones alusivas a cada ejercicio y como un eText completo en la sección de recursos para alumnos. \nLos ejercicios cuentan además con tutoriales de ayuda,\nejemplos, animaciones y videos.\nMyMathLab Español de Thomas, Cálculo Una Variable, incluye eText del libro Cálculo. \nUna variable, 13/E, de Thomas, Weir, Hass y Heil.\nMyMathLab Español con libro en versión eText para cursos de cálculo basados en Cálculo Una Variable de Thomas",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/thomas",
+      "ImageSource": "978-970-26-2785-2.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-thomas-12ed-libro"
     },
     {
@@ -5101,7 +5137,8 @@
       "Introduction": "Este libro es el segundo volumen para un curso de cálculo. Se complementa con MyMathLab Español.\nEl desarrollo de los temas a lo largo de los capítulos estimulan al alumno a pensar y no sólo a memorizar de fórmulas y procedimientos.\nEl libro contiene una gran cantidad de ejemplos y ejercicios que ayudan a una comprensión plena del cálculo en todos los niveles.\nHay aplicaciones relacionadas con el mundo actual en constante cambio.\nCuenta con el apoyo de MyMathLab en Español®",
       "Content": "Ecuaciones paramétricas y coordenadas polares \nLos vectores y la geometría del espacio \nFunciones con valores vectoriales y movimiento en el espacio \nDerivadas parciales \nIntegrales múltiples \nIntegrales y campos vectoriales \nEcuaciones diferenciales de segundo orden\nMyMathLab Español contiene más de 700 ejercicios acompañados del libro en versión eText que se presenta por secciones alusivas a cada ejercicio y como un eText completo en la sección de recursos para alumnos. \nLos ejercicios cuentan además con tutoriales de ayuda, ejemplos, animaciones y videos.\nMyMathLab Español de Thomas, Cálculo. Varias Variables, incluye eText del libro Cálculo. Una variable, 13/E, de Thomas, Weir, Hass y Heil.\nMyMathLab Español con libro en versión eText para cursos de cálculo basados en Cálculo Varias Variables\nde Thomas",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/thomas"
+      "WebSite": "www.pearsonenespañol.com/thomas",
+      "ImageSource": "978-970-26-2786-9.jpg"
     },
     {
       "Id": "502",
@@ -5114,6 +5151,7 @@
       "Content": "Introducción al análisis cuantitativo  \nConceptos y aplicaciones de probabilidad \nAnálisis de decisiones. \nModelos de regresión \nPronósticos \nModelos de control de inventarios \nModelos de programación lineal: métodos gráficos y en computadora \nAplicaciones de programación lineal \nModelos de transporte, asignación y redes \nProgramación entera, programación por metas y programación no lineal \nGestión de proyectos \nModelos de líneas de espera y teoría de colas \nModelado de simulaciones \nAnálisis de Markov \nControl estadístico de la calidad MÓDULOS EN LÍNEA\nProceso analítico de jerarquización\nProgramación dinámica \nTeoría de decisiones y la distribución normal \nTeoría de juegos \nHerramientas matemáticas: determinantes y matrices \nOptimización basada en el Cálculo \nProgramación lineal: el método simplex \nAlgoritmos de transporte, asignación y redes\nEn esta nueva edición se innovará en mostrar aplicaciones de los métodos cuantitativos al mundo real, mediante el uso de recuadros como “métodos cuantitativos en acción” que ilustrarán cómo las organizaciones en el mundo real utilizan el análisis cuantitativo para resolver problemas, y “mundo real” que mostrarán las aplicaciones de cada técnica presentada en el libro. \nAdemás de lo anterior, se\nagregarán ejemplos nuevos a lo largo del texto, así como varios problemas y casos de estudio como reto al estudiante y bienvenida al mundo empresarial.\nIncluye eText del libro Cálculo, Una Variable, 13/E, de Thomas, Weir, Hass y Heil",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/thomas",
+      "ImageSource": "978-970-26-2800-2.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/calculo-varias-variables-acc-mymathlab-thomas-13ed-libro"
     },
     {
@@ -5127,7 +5165,8 @@
       "Format": "Formato eText",
       "Pages": "333 págs. ",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/aviño"
+      "WebSite": "www.pearsonenespañol.com/aviño",
+      "ImageSource": "978-607-32-3623-2.jpg"
     },
     {
       "Id": "504",
@@ -5154,7 +5193,8 @@
       "Introduction": "Dirigido a las carreras de administración y actuaría.",
       "Content": "Fundamentos de matemáticas \nSeries y sucesiones \nInterés y descuento simple \nInterés compuesto \nAnualidades \nAmortización de créditos \nConstitución de fondos \nDepreciación de activos \nAcciones, bonos y obligaciones \nAnualidades contingentes\nEste sistema de ejercicios en línea se desarrolló como complemento al libro Matemáticas financieras, 5/E de José Luis Villalobos. \nContiene más de 600 ejercicios acompañados del libro en versión eText. \nLos ejercicios cuentan con tutoriales de ayuda y ejemplos resueltos. \nEste sistema de ejercicios permite al usuario trabajar en la plataforma por su cuenta para mejorar sus habilidades matemáticas mediante el plan de estudio y el diagnóstico personalizado que proporciona el sistema, o bien, puede registrarse como asistente al curso creado por su profesor donde realizará tareas y evaluaciones, y podrá revisar los avances que va alcanzando. \nEs también una herramienta que permite a los profesores administrar un curso ligado al libro del mismo nombre, asignando de manera fácil y rápida tareas, exámenes y calificaciones en línea.\nIncluye eText del libro Matemáticas financieras 5/E, de José Luis Villalobos",
       "Request": "FALSE",
-      "WebSite": "www.pearsonenespañol.com/villalobos"
+      "WebSite": "www.pearsonenespañol.com/villalobos",
+      "ImageSource": "978-970-26-2928-3.jpg"
     },
     {
       "Id": "506",
@@ -5243,7 +5283,8 @@
       "Content": "Mecánica. \nOndas / Acústica. \nTermodinámica. \nElectromagnetismo. \nÓptica. \nFísica Moderna. \nApéndices.\nEnlaces a videos de experimentos",
       "Pages": "1640 págs.",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/sears"
+      "WebSite": "www.pearsonenespañol.com/sears",
+      "ImageSource": "978-607-32-2946-3.jpg"
     },
     {
       "Id": "512",
@@ -5395,6 +5436,7 @@
       "Pages": "588 págs.",
       "Request": "TRUE",
       "WebSite": "FALSO",
+      "ImageSource": "978-607-32-2916-6.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/etext-interactivo-de-qu%C3%ADmica"
     },
     {
@@ -5614,14 +5656,15 @@
     },
     {
       "Id": "536",
-      "Title": "Álgebra lineal y sus aplicaciones MyMathLab Español Código de acceso vía tarjeta o virtua",
+      "Title": "Álgebra lineal y sus aplicaciones MyMathLab Español Código de acceso vía tarjeta o virtual",
       "CategoryName": "Matemáticas y ciencias",
       "SubcategoryName": "Álgebra lineal",
       "Year": "2015",
       "Introduction": "FALSO",
       "Content": "Ecuaciones lineales en álgebra lineal. \nÁlgebra de matrices.\nDeterminantes. \nEspacios vectoriales. \nValores propios y vectores propios. \nOrtogonalidad y mínimos cuadrados. \nMatrices simétricas y formas cuadráticas. \nGeometría de los espacios vectoriales. \nOptimización (disponible en inglés en el sitio web del libro). \nCadenas de Markov de estado finito (disponible en inglés en el sitio web del libro).\nIncluye eText del libro Álgebra lineal, 4ª edición, de David C. Lay.",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/lay"
+      "WebSite": "www.pearsonenespañol.com/lay",
+      "ImageSource": "978-970-26-2590-2.jpg"
     },
     {
       "Id": "537",
@@ -5750,7 +5793,8 @@
       "Introduction": "FALSO",
       "Content": "Funciones. \nLímites y continuidad. \nDerivadas. \nAplicaciones de las derivadas. \nIntegrales. \nAplicaciones de las integrales definidas. \nFunciones trascendentes. \nTécnicas de integración. \nEcuaciones diferenciales de primer orden. \nSecuencias infinitas y series. \nEcuaciones paramétricas y coordenadas polares.\nIncluye eText del libro Cálculo, Una Variable, 13ª edición, de Thomas, Weir, Hass y Heil",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/thomas"
+      "WebSite": "www.pearsonenespañol.com/thomas",
+      "ImageSource": "978-970-26-2785-2.jpg"
     },
     {
       "Id": "546",
@@ -5762,7 +5806,8 @@
       "Introduction": "FALSO",
       "Content": "Ecuaciones paramétricas y coordenadas polares. \nLos vectores y la geometría del espacio. \nFunciones con valores vectoriales y movimiento en el espacio. \nDerivadas parciales. \nIntegrales múltiples. \nIntegrales y campos vectoriales.\nEcuaciones diferenciales de segundo orden\nIncluye eText del libro Cálculo, Varias Variables, 13ª edición, de Thomas, Weir, Hass y Heil",
       "Request": "TRUE",
-      "WebSite": "www.pearsonenespañol.com/thomas"
+      "WebSite": "www.pearsonenespañol.com/thomas",
+      "ImageSource": "978-970-26-2786-9.jpg"
     },
     {
       "Id": "547",
@@ -5998,6 +6043,7 @@
       "Content": "Introducción a la estadística. \nResumen y gráficas de datos.\nEstadísticos para describir, explorar y comparar datos. \nProbabilidad. \nDistribuciones de probabilidad discreta. \nDistribuciones de probabilidad normal. \nEstimaciones y tamaño de la muestra. \nPrueba de hipótesis. \nInferencias a partir de dos muestras. \nCorrelación y regresión. \nBondad de ajuste y tablas de contingencia. \nAnálisis de varianza. \nEstadística no paramétrica. \nControl estadístico de procesos. \nProyectos, procedimientos y perspectivas.\nIncluye eText del libro Estadística,",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/triola",
+      "ImageSource": "978-970-26-2267-3.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/kit-dig-mymathlab-etxt-de-estadistica-1ed-mml"
     },
     {
@@ -6090,6 +6136,7 @@
       "Content": "Repaso de álgebra. \nAplicaciones y más álgebra. \nFunciones y gráficas. \nRectas, parábolas y sistemas de ecuaciones. \nFunciones exponenciales y logarítmicas. \nMatemáticas financieras. \nÁlgebra matricial. \nProgramación lineal. \nIntroducción a la probabilidad y la estadística. \nTemas adicionales de probabilidad. \nLímites y continuidad. \nDiferenciación. \nTemas adicionales de diferenciación. \nTrazado de curvas. \nIntegración. \nMétodos y aplicaciones de la integración.\nVariables aleatorias continuas. \nCálculo de varias variables.\nIncluye eText del libro Matemáticas para\nAdministración y Economía, 13ª edición, de Haeussler y Paul.",
       "Request": "TRUE",
       "WebSite": "FALSO",
+      "ImageSource": "978-970-26-2567-4.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/kit-dig-mymathlab-etxt-de-matematicas-para-administracion-y-economia-haeussler-1ed-iml"
     },
     {
@@ -6105,6 +6152,7 @@
       "Pages": "848 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/taha",
+      "ImageSource": "investigacion_de_operaciones.jpg",
       "eCommerce": "FALSO"
     },
     {
@@ -6164,6 +6212,7 @@
       "Content": "Fundamentos de matemáticas.\nSeries y sucesiones.\nInterés y descuento simple.\nInterés compuesto.\nAnualidades.\nAmortización de créditos.\nConstitución de fondos.\nDepreciación de activos.\nAcciones, bonos y obligaciones.\nAnualidades contingentes.\nIncluye eText del libro Matemáticas financieras 5ª edición, de José Luis Villalobos.",
       "Request": "TRUE",
       "WebSite": "FALSO",
+      "ImageSource": "978-970-26-2928-3.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/kit-dig-mymathlab---etxt-de-mat-financieras-1ed-mml"
     },
     {
@@ -6178,6 +6227,7 @@
       "Pages": "333 págs. ",
       "Request": "TRUE",
       "WebSite": "www.pearsonenespañol.com/aviño",
+      "ImageSource": "978-607-32-3623-2.jpg",
       "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/etext-interactivo-de-matematicas-para-diseno"
     },
     {

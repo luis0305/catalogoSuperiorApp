@@ -67,9 +67,9 @@
               book.Id = parseInt(book.Id);
 
               try{
-                book.ImageSource = "../img/" + book.ImageSource.replace('.png','.jpg');
+                book.ImageSource = "img/portadas/" + book.ImageSource.replace('.png','.jpg');
               } catch(e) {
-                book.ImageSource = "../img/" + book.ImageSource;
+                book.ImageSource = "img/portadas/" + book.ImageSource;
               }
 
 
