@@ -1,5 +1,6 @@
 (function(){
-  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.categories']);
+  var app = angular.module('starter', ['ionic', 'starter.controller.books','starter.controller.categories',
+  'starter.signup.controller']);
 
   app.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider){
 
@@ -34,6 +35,22 @@
         'menu-content' : {
           templateUrl: 'books/views/book-detail-view.html',
           controller: 'detail-controller'
+        }
+      }
+    });
+
+    $stateProvider.state('signup',{
+      url: "/signup",
+      templateUrl: 'home/views/signup-view.html',
+      controller: 'signup-controller'
+    });
+
+
+    $stateProvider.state('pearson.about', {
+      url: '/about',
+      views: {
+        'menu-content' : {
+          templateUrl: 'home/views/about-us-view.html'
         }
       }
     });

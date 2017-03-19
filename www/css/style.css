@@ -345,12 +345,14 @@ font-family: 'Playfair Display', serif !important;
     font-size: 15px !important;
 }
 
+.input-label-registro{
+font-size: 12px;
+}
 
-div_responsive_books_list{
-width:40%;
-margin:2.5%;
-padding:2.5%;
-position:relative;
-float:left
-
+.error_input{
+    color: red;
+    font-size: 12px;
+    text-align: left;
+    position: absolute;
+    right: 14px;
 }
