@@ -50,6 +50,26 @@ text-decoration:none !important;
   text-decoration: none;
 }
 
+.solicitar{
+  border-color: transparent;
+  background-color: #EA067E;
+  color: #fff;
+  border-radius: 6px;
+  font-size:14px;
+  padding: 0 10px;
+      min-height: 35px;
+          line-height: 35px;
+          width:100%;
+}
+
+.solicitar:hover {
+  color: #FFF;
+  background-color: #961f5d;
+  text-decoration: none;
+}
+
+
+
 .image_slide_title{
   max-width: 250px !important;
   height: auto !important;
@@ -162,10 +182,20 @@ h3.book-title, .detail-book-title{
       margin: 0 0 4px;
 }
 
-.book-author, .detail-book-author {
+.book-author {
   border-top:1px solid #505759;
     color:#505759;
         font-size: 10px;
+}
+
+.detail-book-author {
+    border-top: 1px solid #505759;
+    color: #505759;
+    font-size: 10px;
+    float: left;
+    position: relative;
+    padding: 3px;
+    margin: 3px;
 }
 
 .box-title{

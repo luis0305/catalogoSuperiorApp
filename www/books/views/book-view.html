@@ -12,15 +12,13 @@
       </label>
     </div>
     <div style="overflow-x: scroll;">
-      <div class="row" style="height:160px;">
+      <div class="row" style="height:170px;">
           <div ng-repeat="book in books | limitTo : 10 " style="border-style:none;padding:0; margin:0; display:inline; width:320px; height:160px !important">
-            <ion-scroll direction="x">
 
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
                 <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                     style="max-width:120px; position:relative; float:left; padding:5px; margin:5px"/>
+                     style="max-width:120px; position:relative; float:left; overflow-x:hidden"/>
               </a>
-            </ion-scroll>
 
           </div>
       </div>
