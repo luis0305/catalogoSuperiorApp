@@ -16794,7 +16794,7 @@ books = [
             "Format": "Formato 18.5 × 23.5 cm",
             "Pages": "752 págs.",
             "Request": "VERDADERO",
-            "ImageSource": "img/portadas/978-970-26-1081-6.JPG",
+            "ImageSource": "img/portadas/978-970-26-1081-6.jpg",
             "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/lenguaje-ensamblador-computadoras-basadas-intel-irvine-5ed-ebook1",
             "Authors": [
               {
@@ -16830,7 +16830,7 @@ books = [
             "Format": "Formato 18.5 × 23.5 cm",
             "Pages": "376 págs",
             "Request": "VERDADERO",
-            "ImageSource": "img/portadas/978-607-32-0600-6.JPG",
+            "ImageSource": "img/portadas/978-607-32-0600-6.jpg",
             "Authors": [
               {
                 "BookId": "414",
@@ -16888,7 +16888,7 @@ books = [
             "Format": "Formato 18.5 × 23.5 cm",
             "Pages": "464 págs",
             "Request": "VERDADERO",
-            "ImageSource": "img/portadas/978-607-32-0328-9.JPG",
+            "ImageSource": "img/portadas/978-607-32-0328-9.jpg",
             "eCommerce": "http://www.pearsonenespanol.com/mexico/catalogo/estudiantes-bell-1ed-libro",
             "Authors": [
               {

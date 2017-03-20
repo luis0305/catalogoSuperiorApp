@@ -6,6 +6,7 @@
     var slug = $state.params.slug;
     $scope.books = Books.getBySlug(slug);
     $scope.category = Categories.getBySlug(slug);
+    $scope.slug = slug;
   });
 
   booksController.controller('detail-controller', function($scope, $state, Books, Categories){
