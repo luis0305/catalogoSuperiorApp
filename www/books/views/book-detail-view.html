@@ -13,12 +13,16 @@
 
             <div class="col col-20 text-right">
               <span class="book-content-year">{{book.Year}}</span>
-              <span class="book-content-area">{{book.Subcategory.Name}} </span>
+              <span class="book-content-area" ng-if="book.Subcategory != undefined">{{book.Subcategory.Name}} </span>
             </div>
           </div>
           <div class="row">
-            <div class="col">
-
+            <div ng-if="book.eCommerce != undefined" class="col">
+              <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
+                <button class="button cta-pearson">
+                  Solicitar
+                </button>
+              </a>
             </div>
             <div class="col">
               <img class="image_book" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
@@ -39,7 +43,6 @@
           <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Introduction')">Introducción</a></li>
           <li><a href="javascript:void(0)" class="tablinks tab-active" onclick="openInfo(event, 'Content')">Contenido</a></li>
           <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Detail')">Ficha técnica</a></li>
-          <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Request')">Solicitar</a></li>
         </ul>
 
         <div id="Introduction" class="tabcontent" >
@@ -63,15 +66,6 @@
             <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.ISBN}} {{isbnItem.Description}}</li>
           </ul>
         </div>
-
-        <div id="Request" class="tabcontent">
-          <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
-            <button class="button cta-pearson">
-              Solicitar
-            </button>
-          </a>
-        </div>
-
       </div>
     </div>
 
