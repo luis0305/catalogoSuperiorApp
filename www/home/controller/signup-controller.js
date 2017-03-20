@@ -2,6 +2,9 @@
   appSignup = angular.module('starter.signup.controller',[]);
 
   appSignup.controller ('signup-controller', function ($scope, $state, $ionicPopup, $timeout , $http ){
+
+    $scope.slug = $state.params.slug;
+
     $scope.signUp = function (form){
       if(form.$valid){
         var signupPopup = $ionicPopup.show({

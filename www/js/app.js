@@ -40,14 +40,14 @@
     });
 
     $stateProvider.state('signup',{
-      url: "/signup",
+      url: "/:slug/signup",
       templateUrl: 'home/views/signup-view.html',
       controller: 'signup-controller'
     });
 
 
     $stateProvider.state('pearson.about', {
-      url: '/about',
+      url: '/:slug/about',
       views: {
         'menu-content' : {
           templateUrl: 'home/views/about-us-view.html'
