@@ -415,6 +415,10 @@ font-size: 12px;
 
 }
 
+#Content.tabcontent>p>ul{
+list-style-type: circle;
+    padding-left: 20px;
+}
 
 @media (max-width:680px) and (min-width:414px) {
 .margin_responsive_about_us{
