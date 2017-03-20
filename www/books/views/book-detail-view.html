@@ -12,23 +12,30 @@
             </div>
 
             <div class="col col-20 text-right">
-              <span class="book-content-year">{{book.Year}}</span>
+              <span class="book-content-year" ng-if="book.Year != undefined">{{book.Year}}</span>
               <span class="book-content-area" ng-if="book.Subcategory != undefined">{{book.Subcategory.Name}} </span>
             </div>
           </div>
           <div class="row">
-            <div ng-if="book.eCommerce != undefined" class="col">
+
+            <div class="col">
+              <img class="image_book" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
+            </div>
+
+            <div class="col col-bottom">
+              <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
+            </div>
+
+          </div>
+
+          <div class="row">
+
+            <div ng-if="book.eCommerce != undefined" class="col col-bottom">
               <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
                 <button class="button cta-pearson">
                   Solicitar
                 </button>
               </a>
-            </div>
-            <div class="col">
-              <img class="image_book" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
-            </div>
-            <div class="col col-bottom">
-              <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
             </div>
 
           </div>
