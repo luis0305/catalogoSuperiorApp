@@ -75,24 +75,23 @@
 
               try{
 
-                var contents = book.Content.split("&#10;");
+                var contents = book.Content.split("\n");
 
                 var itemsContent = "";
 
                 contents.forEach(function(content){
                   itemsContent += "<li>{{content}}</li>".replace("{{content}}", content);
-
                 });
 
-                book.Content = "<ul style=\"list-style-type:none\">" + itemsContent + "</ul>";
+                book.Content = "<ul>" + itemsContent + "</ul>";
               } catch (e){
-                book.Content = "<ul style=\"list-style-type:none\"><li></li></ul>";
+                book.Content = "<ul><li></li></ul>";
               }
 
               try
               {
 
-                var introductions = book.Introduction.split("&#10;");
+                var introductions = book.Introduction.split("\n");
 
                 var itemsIntroduction = "";
 
@@ -102,10 +101,10 @@
 
                 });
 
-                book.Introduction = "<ul style=\"list-style-type:none\">" + itemsIntroduction + "</ul>";
+                book.Introduction = "<ul>" + itemsIntroduction + "</ul>";
               } catch ( e) {
                 console.log(book.Id);
-                book.Introduction = "<ul style=\"list-style-type:none\"><li>" + book.Introduction + "<li></ul>";
+                book.Introduction = "<ul><li>" + book.Introduction + "<li></ul>";
 
               }
 
