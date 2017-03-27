@@ -218,10 +218,11 @@ h3.book-title, .detail-book-title{
   font-size: 16px;
 }
 
-.book-area{
+p.book-area{
   color:#505759;
-  font-size: 12px;
+  font-size: 14px;
       margin: 0 0 4px;
+      font-weight: 600;
 }
 
 .book-author {
@@ -265,13 +266,13 @@ color: #fff;
 border-top: 1px solid #FFF;
 color: #fff;
 }
-/*
+
 .box-title:hover>.col-75 p.book-area{
 color: #fff;
 }
 
 
-
+/*
 h3.book-title:hover, p.book-area:hover, p.book-author:hover {
 color: #fff;
 }
