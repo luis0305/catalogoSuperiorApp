@@ -39,8 +39,11 @@
                   <p class="book-area">{{book.Subcategory.Name}}</p>
                   <p class="book-author" ng-repeat="author in book.Authors | limitTo:2">{{author.Name}}</p>
 
-                  <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
-                  <span class="more-info">Mas información </span>
+                  <ul class="tags">
+                    <li ng-repeat="attribute in book.Attributes" ><a href="#" class="atributo-lista">{{attribute.AttributeName}}</a></li>
+                    <li><a href="#" class="more-info">Mas información</a></li>
+                  </ul>
+
                 </div>
               </div>
             </a>

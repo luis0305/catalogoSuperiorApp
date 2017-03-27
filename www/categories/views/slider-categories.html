@@ -5,30 +5,40 @@
 
       <ion-slide-page>
         <div class="box catalogo_universitario">
-          <img ng-src="img/fingerprint_catalogo_universitario.png" alt="" class="svg_image_slide">
-          <div class="row">
-            <div class="col col-67 col-offset-10">
+          <div class="row responsive-md">
+            <div class="col"></div>
+            <div class="col">
+              <img ng-src="img/bckgr_catalogo_universitario.jpg" alt="" class="catalogo_universitario_img">
             </div>
+            <div class="col"></div>
           </div>
         </div>
       </ion-slide-page>
 
       <ion-slide-page>
-        <div class="box mision">
-          <div class="row row-center">
-            <div class="col col-center ">
-              <img ng-src="img/mision.png" alt="" class="image_slide_title">
+          <div class="box mision">
+            <div class="row">
+              <div class="col col-50 col-offset-25 ">
+                <div class="center_about_us">
+                  <img class="center_about_us" src="img/pictograma_about_us-01.png" >
+                </div>
+              </div>
+            </div>
+            <div class="row responsive-md">
+              <div class="col col-50 col-offset-25 ">
+                <div class="center_about_us">
+                  <h2 class="text-center">Misión </h2>
+                  <p class="text-center">Nuestra misión es ayudar a las personas a lograr progesos cuantificables en sus vidas através del aprendizaje  </p>
+                  <div class="text-center">
+                  <button class="button cta-pearson">
+                    Conocer más
+                  </button>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col col-67 col-offset-10">
-              <button class="button cta-pearson">
-                Conocer más
-              </button>
-            </div>
-          </div>
-        </div>
-      </ion-slide-page>
+       </ion-slide-page>
 
       <ion-slide-page ng-repeat="category in categories">
         <div class="box {{category.StyleName}}">
