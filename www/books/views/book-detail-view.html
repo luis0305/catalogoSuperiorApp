@@ -12,8 +12,10 @@
             </div>
 
             <div class="col col-50 text-right">
-              <span class="book-content-year" ng-if="book.Year != undefined">{{book.Year}}</span>
-              <span class="book-content-area" ng-if="book.Subcategory != undefined">{{book.Subcategory.Name}} </span>
+              <ul class="tags">
+              <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>
+              <li ng-if="book.Subcategory != undefined"><span class="atributo-lista">{{book.Subcategory.Name}}</span> </li>
+              </ul>
             </div>
           </div>
           <div class="row responsive-md">
@@ -23,7 +25,9 @@
             </div>
 
             <div class="col col-10 col-bottom">
-              <span class="book-cta" ng-repeat="attribute in book.Attributes">{{attribute.AttributeName}}</span>
+              <ul class="tags">
+              <li ng-repeat="attribute in book.Attributes"> <span class="atributo-lista"> {{attribute.AttributeName}} </span></li>
+              </ul>
             </div>
 
           </div>

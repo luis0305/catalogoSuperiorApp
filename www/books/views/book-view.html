@@ -13,11 +13,11 @@
     </div>
     <div style="overflow-x: scroll;">
       <div class="row" style="height:170px;">
-          <div ng-repeat="book in books | limitTo : 10 " style="border-style:none;padding:0; margin:0; display:inline; width:320px; height:160px !important">
+          <div ng-repeat="book in books | limitTo : 10 " class="div_for_image_slider">
 
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
                 <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                     style="max-width:120px; position:relative; float:left; overflow-x:hidden"/>
+                     class="image_slider_category"/>
               </a>
 
           </div>
@@ -40,8 +40,8 @@
                   <p class="book-author" ng-repeat="author in book.Authors | limitTo:2">{{author.Name}}</p>
 
                   <ul class="tags">
-                    <li ng-repeat="attribute in book.Attributes" ><a href="#" class="atributo-lista">{{attribute.AttributeName}}</a></li>
-                    <li><a href="#" class="more-info">Mas información</a></li>
+                    <li ng-repeat="attribute in book.Attributes" ><span class="atributo-lista">{{attribute.AttributeName}}</span></li>
+                    <li><span class="more-info">Mas información</span></li>
                   </ul>
 
                 </div>
@@ -56,7 +56,7 @@
     <div class="row bottom-items">
       <div class="col novedades">
         <div class="col col-center" style="padding: 0;">
-          <img src="img/catalogo-spot.svg" alt="">
+          <h2>Novedades</h2>
         </div>
       </div>
     </div>
