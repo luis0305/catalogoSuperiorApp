@@ -6,7 +6,8 @@ categories = [
    "Slug": "admin",
    "StyleName": 'administracion_general',
    "ImageSource": 'fingerprint_administracion_general.png',
-   "ShowSlider": true
+   "ShowSlider": true ,
+   "OrderSlider" : 2
  },
  {
    "Id": 2,
@@ -141,7 +142,8 @@ categories = [
    "Slug": "ingen",
    "StyleName": 'ingenieria_y_computacion',
    "ImageSource": 'fingerprint_ingenieria_y_computacion.png',
-   "ShowSlider": true
+   "ShowSlider": true ,
+   "OrderSlider": 5
  },
  {
    "Id": 17,
@@ -312,7 +314,8 @@ categories = [
    "Slug": "cienc",
    "StyleName": 'ciencias_y_matematicas',
    "ImageSource": 'fingerprint_ciencias_y_matematicas.png',
-   "ShowSlider": true
+   "ShowSlider": true ,
+   "OrderSlider": 4
  },
  {
    "Id": 36,
@@ -474,7 +477,8 @@ categories = [
    "Slug": "socia",
    "StyleName": 'ciencias_sociales',
    "ImageSource": 'fingerprint_ciencias_sociales.png',
-   "ShowSlider": true
+   "ShowSlider": true ,
+   "OrderSlider": 3
  },
  {
    "Id": 54,
@@ -573,7 +577,8 @@ categories = [
    "Slug": "digit",
    "StyleName": 'productos_digitales',
    "ImageSource": 'fingerprint_productos_digitales.png',
-   "ShowSlider": true
+   "ShowSlider": true ,
+   "OrderSlider": 1
  },
  {
    "Id": 65,
@@ -627,6 +632,7 @@ categories = [
     "Slug": "custo",
     "StyleName": "custom",
     "ImageSource": "fingerprint_custom.png",
-    "ShowSlider": true
+    "ShowSlider": true ,
+    "OrderSlider": 6
   }
 ];
