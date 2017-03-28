@@ -10,10 +10,11 @@
 }
 
 .flb {
-  background-color: #3ebffb;
+  background-color: #D4EAE4;
   height:100%;
   width:100%;
   animation: pulse 1s linear forwards;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -30,8 +31,34 @@
 #custom-overlay img {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 40px;
   height: auto;
   animation: animation 3100ms linear infinite both;
   animation-delay: 1s;
+   -webkit-transform:  scale(4);
+      -moz-transform: scale(4);
+      -o-transform:  scale(4);
+      -ms-transform: scale(4);
+      transform:  scale(4);
+}
+
+@keyframes ex4  { /* CSS3 */
+	0%   {  transform:  scale(0.5); }
+	50%  { transform:  scale(2); }
+	100% { transform:  scale(4); }
+}
+@-moz-keyframes ex4  { /* Firefox */
+	0%   {  -moz-transform:  scale(0.5); }
+    	50%  { -moz-transform:  scale(2); }
+    	100% { -moz-transform:  scale(4); }
+}
+@-webkit-keyframes ex4  { /* Webkit */
+	0%   {  -webkit-transform:  scale(0.5); }
+    	50%  { -webkit-transform:  scale(2); }
+    	100% { -webkit-transform:  scale(4); }
+}
+.#custom-overlay img {
+	animation:         ex4 1.5s linear infinite both; /* CSS3 */
+	-moz-animation:    ex4 1.5s linear infinite both; /* Firefox */
+	-webkit-animation: ex4 1.5s linear infinite both; /* Webkit */
 }
