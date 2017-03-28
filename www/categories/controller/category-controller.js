@@ -25,8 +25,5 @@
       return parseInt(selfCategory.OrderSlider) - parseInt(category.OrderSlider)
     });
     $scope.slug = $state.params.slug;
-
-
-
   });
 })();
