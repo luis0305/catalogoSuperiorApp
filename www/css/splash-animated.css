@@ -6,14 +6,13 @@
   left: 0;
   z-index: 100000;
   width:100%;
-  background-color: #002a3e;
+  background-color: #007da4;
 }
 
 .flb {
-  background-color: #D4EAE4;
+  background-color: #007da4;
   height:100%;
   width:100%;
-  animation: 1.5s ease forwards;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,15 +37,15 @@
 
 @keyframes ex4  { /* CSS3 */
 	from   { transform:  scale(4); top:0px; }
-	to { transform:  scale(20); top:60px;}
+	to { transform:  scale(10); top:60px;}
 }
 @-moz-keyframes ex4  { /* Firefox */
 	from   { -moz-transform:  scale(4); top:0px; }
-    to { -moz-transform:  scale(20); top:60px; }
+    to { -moz-transform:  scale(10); top:60px; }
 }
 @-webkit-keyframes ex4  { /* Webkit */
 	from   {  -webkit-transform:  scale(4); top:0px; }
-    to { -webkit-transform:  scale(20); top:60px; }
+    to { -webkit-transform:  scale(10); top:60px; }
 }
 #custom-overlay img {
 	animation:         ex4 4s ease infinite ; /* CSS3 */
