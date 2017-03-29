@@ -31,26 +31,36 @@
   margin: 0 auto;
   width: 40px;
   height: auto;
- /* animation: animation 3100ms linear infinite both;
-  animation-delay: 1s;  */
+ animation: animation 1000ms linear infinite both;
+  animation-delay: 2s;
 }
 
+
+
+
 @keyframes ex4  { /* CSS3 */
-	from   { transform:  scale(4); top:0px; }
-	to { transform:  scale(10); top:60px;}
+	0%   { transform:  scale(2); }
+	50%  { transform:  scale(2); }
+	90%  { transform:  scale(4); }
+	100% { transform:  scale(20); }
 }
 @-moz-keyframes ex4  { /* Firefox */
-	from   { -moz-transform:  scale(4); top:0px; }
-    to { -moz-transform:  scale(10); top:60px; }
+	0%   { -moz-transform:  scale(2); }
+    50%  { -moz-transform:  scale(2); }
+    90%  { -moz-transform:  scale(4); }
+    100% { -moz-transform:  scale(20); }
 }
 @-webkit-keyframes ex4  { /* Webkit */
-	from   {  -webkit-transform:  scale(4); top:0px; }
-    to { -webkit-transform:  scale(10); top:60px; }
+	0%   {  -webkit-transform:  scale(2);}
+    50%  { -webkit-transform:  scale(2); }
+    90%  { -webkit-transform:  scale(4); }
+    100% { -webkit-transform:  scale(20); }
 }
+
 #custom-overlay img {
-	animation:         ex4 4s ease infinite ; /* CSS3 */
-	-moz-animation:    ex4 4s ease infinite ; /* Firefox */
-	-webkit-animation: ex4 4s ease infinite ; /* Webkit */
+	animation:         ex4 3s ease-in  ; /* CSS3 */
+	-moz-animation:    ex4 3s ease-in  ; /* Firefox */
+	-webkit-animation: ex4 3s ease-in  ; /* Webkit */
 	animation-direction: alternate;
 	-webkit-animation-direction: alternate;
 
