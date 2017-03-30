@@ -39,6 +39,7 @@
   </platform>
   <icon src="resources/android/icon/drawable-xhdpi-icon.png"/>
   <allow-intent href="http://*" />
+  <allow-intent href="mailto:*"/>
   <plugin name="cordova-plugin-inappbrowser"/>
   <plugin name="cordova-plugin-network-information"/>
 </widget>
