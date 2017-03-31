@@ -160,7 +160,7 @@ text-decoration:none !important;
 }
 
 .green_about_us{
-    background: #D2DB0E !important;
+    background: #c0e1da !important;
       background-size:cover
 }
 
@@ -292,14 +292,16 @@ color: #fff;
 }
 
 */
-.tags{
-	    left: 3px;
-        bottom: -3px;
-        list-style: none;
-        position: relative;
-        padding: 2px;
-        margin: 2px;
-	}
+.tags {
+    left: 3px;
+    bottom: -3px;
+    list-style: none;
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    width: 100%;
+}
 
 	.tags li, .tags span{
     	float:right;
@@ -361,15 +363,16 @@ color: #fff;
 
 
 	.tags span.more-info{
-            	margin:5px;
-            	padding:0 7px 0 7px;
-            	background:#EA067E;
-            	font-size:11px,
-            	color:#fff;
-            	text-decoration:none;
-            	-moz-border-radius:4px;
-            	-webkit-border-radius:4px;
-            	border-radius:4px;
+                    margin: 4px;
+                    padding: 0 4px 0 4px;
+                    background: #EA067E;
+                    font-size: 11px, color:#fff;
+                    text-decoration: none;
+                    -moz-border-radius: 4px;
+                    -webkit-border-radius: 4px;
+                    border-radius: 4px;
+                    width: 100%;
+                    text-align: center;
             	}
 
 
