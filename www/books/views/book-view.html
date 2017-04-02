@@ -11,16 +11,21 @@
         <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
       </label>
     </div>
-    <div style="overflow-x: scroll;">
-      <div class="row" style="height:170px;">
+    <div class="row">
+      <div class="scroll-horiz">
+        <div class="red">
+          <ion-scroll zooming="true" direction="x" style="width: 400px; height: 160px">
+            <div style="width: 1400px; height: 160px">
           <div ng-repeat="book in books | limitTo : 10 " class="div_for_image_slider">
 
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
-                <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                     class="image_slider_category"/>
-              </a>
-
+              <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
+                   class="image_slider_category"/>
+            </a>
           </div>
+              </div>
+          </ion-scroll>
+        </div>
       </div>
     </div>
 
