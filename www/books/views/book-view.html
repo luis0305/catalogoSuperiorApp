@@ -26,7 +26,7 @@
 
     <div class="row responsive-lg">
       <div class="list">
-        <div class="item" ng-repeat="book in books | filter: searchFilter " style="border-style:none; padding:0; margin:0">
+        <div class="item" ng-repeat="book in books | filter: searchFilter" style="border-style:none; padding:0; margin:0">
           <div class="col-67 col-offset-33">
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
               <div class="row box-title">
@@ -58,7 +58,7 @@
     <div class="row bottom-items">
       <div class="col novedades">
         <div class="col col-center" style="padding: 0;">
-          <h2>Novedades</h2>
+          <a ng-click="searchFilter='Novedad'"><h2>Novedades</h2></a>
         </div>
       </div>
     </div>
