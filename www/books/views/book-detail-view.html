@@ -58,7 +58,7 @@
         </ul>
 
         <div id="Introduction" class="tabcontent" >
-          <p ng-bind-html="book.Introduction">{{book.Introduction}}</p>
+          <p ng-bind-html="book.Introduction" ng-if="book.Introduction != undefined">{{book.Introduction}}</p>
         </div>
 
         <div id="Content" class="tabcontent" style="display:block">
