@@ -55,6 +55,15 @@
       }
     });
 
+     $stateProvider.state('pearson.help', {
+          url: '/:slug/help',
+          views: {
+            'menu-content' : {
+              templateUrl: 'home/views/help.html'
+            }
+          }
+        });
+
     $urlRouterProvider.otherwise('/home');
 
   });

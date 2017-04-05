@@ -184,6 +184,19 @@ text-decoration:none !important;
       background-size:cover
 }
 
+.acerca_de_pearson{
+    background: #c0e1da !important;
+}
+
+.acerca_de_pearson p{
+color: #003057 !important
+}
+
+.acerca_de_pearson p span.italic{
+color: #003057 !important;
+    font-style:italic;
+}
+
 .fingerprint_about_us{
   background: url('../img/fingerprint_about_us-01.png') center ;
   background-repeat: no-repeat;
