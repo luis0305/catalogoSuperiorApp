@@ -55,14 +55,23 @@
       }
     });
 
-     $stateProvider.state('pearson.help', {
-          url: '/:slug/help',
-          views: {
-            'menu-content' : {
-              templateUrl: 'home/views/help.html'
-            }
-          }
-        });
+    $stateProvider.state('pearson.help', {
+      url: '/:slug/help',
+      views: {
+        'menu-content' : {
+          templateUrl: 'home/views/help.html'
+        }
+      }
+    });
+
+    $stateProvider.state('pearson.request', {
+      url: '/request',
+      views: {
+        'menu-content' : {
+          templateUrl: 'books/views/request-book-view.html'
+        }
+      }
+    });
 
     $urlRouterProvider.otherwise('/home');
 
