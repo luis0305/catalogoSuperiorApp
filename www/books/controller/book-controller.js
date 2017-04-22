@@ -22,7 +22,7 @@
     $scope.book = Books.getById($scope.id);
     var slug = $state.params.slug;
     $scope.category = Categories.getBySlug(slug);
-
+    $scope.user.bookInterested = $scope.book.Title;
     $scope.requestBook = function(form){
       //window.open( window.encodeURIComponent(href), '_system');
       if(form.$valid){
@@ -32,12 +32,18 @@
         var body = "Nombre:" +$scope.user.name;
         body += "|Teléfono fijo:" + $scope.user.phone;
         body += "|Teléfono celular:" + $scope.user.phone;
-        body += "|Universidad:" + $scope.user.university;
-        body += "|Materia:" + $scope.user.subject;
-        body += "|Matrícula:" + $scope.user.enrollment;
-        body += "|Estado:" + $scope.user.state;
-        body += "|Matería de intéres:" + $scope.user.bookInterested;
-        body += "|Solicitud:" + $scope.user.request;
+        if( !($scope.user.university === undefined) )
+          body += "|Universidad:" + $scope.user.university;
+        if( !($scope.user.subject === undefined) )
+          body += "|Materia:" + $scope.user.subject;
+        if( !($scope.user.enrollment === undefined) )
+          body += "|Matrícula:" + $scope.user.enrollment;
+        if( !($scope.user.state === undefined) )
+          body += "|Estado:" + $scope.user.state;
+        if( !($scope.user.bookInterested === undefined) )
+          body += "|Matería de intéres:" + $scope.user.bookInterested;
+        if( !($scope.user.request === undefined) )
+          body += "|Solicitud:" + $scope.user.request;
         href += "&body=" + body;
         var mailto = document.createElement('a');
         mailto.setAttribute('href', href);

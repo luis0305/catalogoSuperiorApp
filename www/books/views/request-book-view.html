@@ -58,7 +58,7 @@
                   <label class="item item-input item-select">
                     <span class="input-label input-label-registro">Estado:</span>
                     <select ng-model="user.state">
-                      <option value="No seleccionó estado">Seleccionar...</option>
+                      <option value="No seleccionó estado" selected>Seleccionar...</option>
                       <option value="Aguascalientes">Aguascalientes</option>
                       <option value="Baja California">Baja California</option>
                       <option value="Baja California Sur">Baja California Sur</option>
@@ -95,7 +95,7 @@
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Materia de interés: </span>
-                    <input type="text" ng-model="user.bookInterested" placeholder="{{book.Title}}">
+                    <input type="text" ng-model="user.bookInterested">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Solicitud:</span>
