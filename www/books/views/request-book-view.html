@@ -1,5 +1,5 @@
 <ion-view title="Más información">
-  <ion-content scroll="true">
+  <ion-content scroll="false">
 
     <ion-nav-buttons side="left">
       <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
@@ -12,31 +12,31 @@
             <div class="col"></div>
             <div class="col col-50">
 
-              <h3 class="white text-center">¡Solicita más información de {{bookName}}!</h3>
+              <h3 class="white text-center">¡Solicita más información!</h3>
 
               <p class="white text-center">Si eres Profesor, Docente, Coordinador o Bibliotecario y te interesa este material, llena los siguientes datos para solicitar más información o contactar con uno de nuestros Asesores de Servicios de Aprendizaje Pearson.</p>
 
-              <form name="signupForm" novalidate="" ng-submit="signUp(signupForm)" role="form">
+              <form name="requestForm" novalidate="" ng-submit="requestBook(requestForm)" role="form">
                 <div class="list">
                   <label class="item item-input item-float-label">
                     <span class="input-label input-label-registro">Nombre:</span>
                     <input type="text" ng-model="user.name" name="name" required>
-                    <span class="error_input" ng-show="signupForm.name.$touched && signupForm.name.$invalid">
-                      <span ng-show="signupForm.name.$error.required">Obligatorio</span>
+                    <span class="error_input" ng-show="requestForm.name.$touched && requestForm.name.$invalid">
+                      <span ng-show="requestForm.name.$error.required">Obligatorio</span>
                     </span>
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Correo:</span>
                     <input type="email" ng-model="user.email" name="email" required>
-                    <span class="error_input" ng-show="signupForm.email.$touched && signupForm.email.$invalid">
-                      <span ng-show="signupForm.email.$error.required || signupForm.email.$invalid">Obligatorio</span>
+                    <span class="error_input" ng-show="requestForm.email.$touched && requestForm.email.$invalid">
+                      <span ng-show="requestForm.email.$error.required || requestForm.email.$invalid">Obligatorio</span>
                     </span>
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Teléfono fijo:</span>
                     <input type="tel" ng-model="user.phone" name="phone" required>
-                    <span class="error_input" ng-show="signupForm.phone.$touched && signupForm.phone.$invalid">
-                      <span ng-show="signupForm.phone.$error.required || signupForm.phone.$invalid">Obligatorio</span>
+                    <span class="error_input" ng-show="requestForm.phone.$touched && requestForm.phone.$invalid">
+                      <span ng-show="requestForm.phone.$error.required || requestForm.phone.$invalid">Obligatorio</span>
                     </span>
                   </label>
                   <label class="item item-input">
@@ -49,7 +49,7 @@
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Materia que imparte:</span>
-                    <input type="text" ng-model="user.course" name="course">
+                    <input type="text" ng-model="user.subject" name="subject">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Matrícula</span>
@@ -57,8 +57,8 @@
                   </label>
                   <label class="item item-input item-select">
                     <span class="input-label input-label-registro">Estado:</span>
-                    <select>
-                      <option value="0">Seleccionar...</option>
+                    <select ng-model="user.state">
+                      <option value="No seleccionó estado">Seleccionar...</option>
                       <option value="Aguascalientes">Aguascalientes</option>
                       <option value="Baja California">Baja California</option>
                       <option value="Baja California Sur">Baja California Sur</option>
@@ -94,8 +94,8 @@
                     </select>
                   </label>
                   <label class="item item-input">
-                    <span class="input-label input-label-registro" >Materia de interés:</span>
-                    <input type="text" ng-model="user.bookInterested" name="bookInterested">
+                    <span class="input-label input-label-registro" >Materia de interés: </span>
+                    <input type="text" ng-model="user.bookInterested" placeholder="{{book.Title}}">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Solicitud:</span>
@@ -104,7 +104,7 @@
                 </div>
 
                 <div class="padding text-center">
-                  <button class="button cta-pearson" type="submit" ng-disabled="signupForm.$invalid">
+                  <button class="button cta-pearson" type="submit" ng-disabled="requestForm.$invalid">
                     Solicitar
                   </button>
                 </div>

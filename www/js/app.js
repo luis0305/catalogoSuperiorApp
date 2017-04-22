@@ -65,10 +65,11 @@
     });
 
     $stateProvider.state('pearson.request', {
-      url: '/request',
+      url: '/:slug/books/detail/{id:int}/request',
       views: {
         'menu-content' : {
-          templateUrl: 'books/views/request-book-view.html'
+          templateUrl: 'books/views/request-book-view.html',
+          controller: 'book-request'
         }
       }
     });
