@@ -24,12 +24,26 @@
     $scope.category = Categories.getBySlug(slug);
 
     $scope.requestBook = function(form){
+      //window.open( window.encodeURIComponent(href), '_system');
       if(form.$valid){
         var href = "mailto:marketinghead@pearson.com?";
         href += "subject=Más información";
         href += "&from=" + $scope.user.email;
-        window.open( window.encodeURIComponent(href), '_system');
+        var body = "Nombre:" +$scope.user.name;
+        body += "|Teléfono fijo:" + $scope.user.phone;
+        body += "|Teléfono celular:" + $scope.user.phone;
+        body += "|Universidad:" + $scope.user.university;
+        body += "|Materia:" + $scope.user.subject;
+        body += "|Matrícula:" + $scope.user.enrollment;
+        body += "|Estado:" + $scope.user.state;
+        body += "|Matería de intéres:" + $scope.user.bookInterested;
+        body += "|Solicitud:" + $scope.user.request;
+        href += "&body=" + body;
+        var mailto = document.createElement('a');
+        mailto.setAttribute('href', window.encodeURIComponent(href));
+        mailto.click();
       }
+
     };
   });
 
