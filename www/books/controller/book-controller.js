@@ -16,7 +16,7 @@
     $scope.category = Categories.getBySlug(slug);
   });
 
-  booksController.controller('book-request', function($scope, $state, Books, Categories){
+  booksController.controller('book-request', function($scope, $state, Books, Categories, $window){
     $scope.user = {};
     $scope.id = $state.params.id;
     $scope.book = Books.getById($scope.id);
@@ -40,8 +40,9 @@
         body += "|Solicitud:" + $scope.user.request;
         href += "&body=" + body;
         var mailto = document.createElement('a');
-        mailto.setAttribute('href', window.encodeURIComponent(href));
+        mailto.setAttribute('href', href);
         mailto.click();
+        $window.history.back();
       }
 
     };
