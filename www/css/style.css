@@ -105,6 +105,16 @@ text-decoration:none !important;
   }
 */
 
+.ion-scroll-hor{
+width: 400px;
+height: 160px;
+}
+
+.inside-div{
+width: 1400px;
+height: 160px;
+}
+
 .image_slide_title{
   max-width: 250px !important;
   height: auto !important;
@@ -586,6 +596,23 @@ font-size: 12px;
 list-style-type: circle;
     padding-left: 20px;
 }
+
+.content-books-div{
+width: 100% !important;
+}
+
+@media (max-width:1440px) and (min-width:1201px) {
+.ion-scroll-hor {
+    width: 900px;
+}
+}
+
+@media (max-width:1200px) and (min-width:769px) {
+.ion-scroll-hor {
+    width: 700px;
+}
+}
+
 
 @media (max-width:768px) and (min-width:420px) {
 .catalogo_universitario_img{

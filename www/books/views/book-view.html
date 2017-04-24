@@ -14,8 +14,8 @@
     <div class="row">
       <div class="scroll-horiz" style="margin: 0 auto;">
         <div class="red">
-          <ion-scroll zooming="true" direction="x" style="width: 400px; height: 160px">
-            <div style="width: 1400px; height: 160px">
+          <ion-scroll zooming="true" direction="x" class="ion-scroll-hor">
+            <div class="inside-div">
           <div ng-repeat="book in books | limitTo : 10 " class="div_for_image_slider">
 
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
@@ -30,9 +30,9 @@
     </div>
 
     <div class="row responsive-lg">
-      <div class="list">
+      <div class="list content-books-div">
         <div class="item" ng-repeat="book in books | filter: searchFilter" style="border-style:none; padding:0; margin:0">
-          <div class="col-67 col-offset-33">
+          <div class="col col-80 col-offset-10">
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
               <div class="row box-title">
                 <div class="col col-25">
