@@ -14,6 +14,13 @@
     $scope.book = Books.getById($scope.id);
     var slug = $state.params.slug;
     $scope.category = Categories.getBySlug(slug);
+    var attributes = $scope.book.Attributes;
+    var hasAttribute = false;
+    angular.forEach(attributes, function(attribute, key){
+      if (attribute.AttributeName =='Novedad')
+        hasAttribute = true;
+    });
+    $scope.isNewBook = hasAttribute;
   });
 
   booksController.controller('book-request', function($scope, $state, Books, Categories, $window){
