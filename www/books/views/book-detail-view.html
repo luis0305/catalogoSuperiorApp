@@ -2,66 +2,60 @@
 
   <ion-content>
 
-    <div class = "row responsive-sm" style="background: #f3f3f3;">
-      <div class="col" style="background:#fff">
-        <div class=" ">
-          <div class="row responsive-md">
-            <div class="col col-50">
-              <h3 class="detail-book-title">{{book.Title}}</h3>
-              <p class="detail-book-author" ng-repeat="author in book.Authors" >{{author.Name}}</p>
-            </div>
-
-            <div class="col col-50 text-right">
-              <ul class="tags">
-              <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>
-              <li ng-if="book.Subcategory != undefined"><span class="atributo-lista">{{book.Subcategory.Name}}</span> </li>
-              </ul>
-            </div>
-          </div>
-          <div class="row responsive-md">
-
-            <div class="col col-90">
-              <img class="image_book" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
-            </div>
-
-            <div class="col col-10 col-bottom">
-              <ul class="tags">
-              <li ng-repeat="attribute in book.Attributes"> <span class="atributo-lista"> {{attribute.AttributeName}} </span></li>
-              </ul>
-            </div>
-
-          </div>
-
-          <div class="row responsive-md" style="height: 50px;">
-            <div class="col"> </div>
-            <div ng-if="book.eCommerce != undefined" class="col col-bottom">
-              <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
-                <button class="button solicitar">
-                  Adquirir
-                </button>
-              </a>
-            </div>
-            <div class="col"> </div>
-
-          </div>
-
-          <div class="row responsive-md">
-            <div class="col"> </div>
-            <div class="col col-bottom">
-              <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}/request" >
-                <button class="button solicitar">
-                  Solicitar más información
-                </button>
-              </a>
-            </div>
-            <div class="col"> </div>
-
-          </div>
-
-        </div>
+    <div class="row row-center">
+      <div class="col">
+        <img class="image-book-detail" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
       </div>
     </div>
+    <div class="row row-center">
+      <div class="col">
+        <h3 class="detail-book-title text-center">{{book.Title}}</h3>
+      </div>
+    </div>
+    <div class="row row-center text-center">
+      <div class="col">
+        <span class="detail-book-author text-center" ng-repeat="author in book.Authors" >{{author.Name}}</span>
+      </div>
+    </div>
+    <div class="detail-icon">
+      <div ng-if="book.eCommerce != undefined">
+        <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">  <i class="icon ion-ios-cart">  </i> </a>
+      </div>
+      <i class="icon ion-ios-list"></i>
+      <i class="icon ion-information"></i>
+      <i class="icon ion-document-text"></i>
+      <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}/request" >
+        <i class="icon ion-ios-email"></i>
+      </a>
+    </div>
 
+    <div class="row" style="background: #f3f3f3;">
+      <div class="col"  style="background:#fff">
+        <li ng-if="isNewBook == true"><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Introduction')">Introducción</a></li>
+        <p ng-bind-html="book.Introduction" ng-if="book.Introduction != undefined">{{book.Introduction}}</p>
+        <li><a href="javascript:void(0)" class="tablinks tab-active" onclick="openInfo(event, 'Content')">Contenido</a></li>
+        <p ng-bind-html="book.Content">{{book.Content}}</p>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openInfo(event, 'Detail')">Ficha técnica</a></li>
+        <ul>
+          <li ng-repeat="author in book.Authors">{{author.Name}}</li>
+        </ul>
+        <p>{{book.Edition}}</p>
+        <p>{{book.Format}}</p>
+        <p>Páginas : {{book.Pages}}</p>
+        <p>ISBN</p>
+        <ul>
+          <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.ISBN}} {{isbnItem.Description}}</li>
+        </ul>
+
+        <ul class="tags">
+          <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>
+          <li ng-if="book.Subcategory != undefined"><span class="atributo-lista">{{book.Subcategory.Name}}</span> </li>
+          <li ng-repeat="attribute in book.Attributes"> <span class="atributo-lista"> {{attribute.AttributeName}} </span></li>
+        </ul>
+
+
+      </div>
+    </div>
 
     <div class="row" style="background: #f3f3f3;">
       <div class="col"  style="background:#fff">
@@ -92,6 +86,16 @@
             <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.ISBN}} {{isbnItem.Description}}</li>
           </ul>
         </div>
+      </div>
+    </div>
+
+    <div class="row row-center">
+      <div class="col">
+        <ul class="tags">
+          <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>
+          <li ng-if="book.Subcategory != undefined"><span class="atributo-lista">{{book.Subcategory.Name}}</span> </li>
+          <li ng-repeat="attribute in book.Attributes"> <span class="atributo-lista"> {{attribute.AttributeName}} </span></li>
+        </ul>
       </div>
     </div>
 
