@@ -18,3 +18,4 @@ function openInfo(evt, infoName) {
     document.getElementById(infoName).style.display = "block";
     evt.currentTarget.className += " tab-active";
 }
+

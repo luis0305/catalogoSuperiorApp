@@ -628,9 +628,15 @@ width: 100% !important;
        -ms-flex-align: center;
        -webkit-align-items: center;
        -moz-align-items: center;
-       width: 254px;
+       width: 160px;
        margin: 0 auto;
        text-align: center;
+    }
+
+    #infoDiv ul li{
+    list-style: circle;
+        padding-left: 2px;
+        margin-left: 15px;
     }
 
 @media (max-width:1440px) and (min-width:1201px) {
