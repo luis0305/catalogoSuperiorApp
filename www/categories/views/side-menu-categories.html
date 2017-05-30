@@ -13,6 +13,13 @@
       <h1 class="title black">Catálogo completo</h1>
     </header>
     <ion-content class="has-header">
+      <img src="../img/productos_digitales.png">
+      <ion-list>
+        <ion-item menu-close href="#/pearson/{{slug}}/about">
+          <h2 class="lateral-menu-buttons">Acerca de Pearson</h2>
+        </ion-item>
+      </ion-list>
+      <img src="../img/productos_impresos.png">
       <ion-list>
         <ion-item menu-close ng-repeat="category in categories"
                   href="#/pearson/{{category.Slug}}/books">
@@ -26,11 +33,6 @@
         </ion-item>
       </ion-list>-->
 
-      <ion-list>
-        <ion-item menu-close href="#/pearson/{{slug}}/about">
-          <h2 class="lateral-menu-buttons">Acerca de Pearson</h2>
-        </ion-item>
-      </ion-list>
 
       <ion-list>
         <ion-item menu-close href="#/pearson/{{slug}}/help">
