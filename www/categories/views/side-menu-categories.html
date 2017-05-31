@@ -13,19 +13,35 @@
       <h1 class="title black">Catálogo completo</h1>
     </header>
     <ion-content class="has-header">
-      <img src="../img/productos_digitales.png">
+
       <ion-list>
+
         <ion-item menu-close href="#/pearson/{{slug}}/about">
           <h2 class="lateral-menu-buttons">Acerca de Pearson</h2>
         </ion-item>
-      </ion-list>
-      <img src="../img/productos_impresos.png">
-      <ion-list>
+        <ion-item>
+          <img ng-src="img/productos_impresos.png">
+        </ion-item>
+
+
         <ion-item menu-close ng-repeat="category in categories"
                   href="#/pearson/{{category.Slug}}/books">
           <h2 class="lateral-menu-buttons">{{category.Name}}</h2>
         </ion-item>
+
+        <ion-item menu-close href="#/pearson/{{DigitalProductCategory.Slug}}/books">
+          <img ng-src="img/productos_digitales.png">
+          <h2 class="lateral-menu-buttons">{{DigitalProductCategory.Name}}</h2>
+        </ion-item>
+
+        <ion-item menu-close href="#/pearson/{{slug}}/help">
+          <h2 class="lateral-menu-buttons">Ayuda</h2>
+        </ion-item>
+
       </ion-list>
+
+
+
       <!-- Commented until we can develop a web service
       <ion-list>
         <ion-item menu-close href="#/{{slug}}/signup">
@@ -35,8 +51,7 @@
 
 
       <ion-list>
-        <ion-item menu-close href="#/pearson/{{slug}}/help">
-          <h2 class="lateral-menu-buttons">Ayuda</h2>
+
       </ion-list>
 
     </ion-content>

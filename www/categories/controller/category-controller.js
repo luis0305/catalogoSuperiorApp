@@ -6,11 +6,14 @@
   });
   appCategories.controller('side-menu-categories-controller', function($scope, Categories, $state){
     //$scope.categories = Categories.getParents();
-    var categories = Categories.getParents();
+    var categories = Categories.getParents().filter(function(category){
+      return category.Id != 64;
+    });
     $scope.categories = categories.sort(function(selfCategory, category){
       return parseInt(selfCategory.OrderSlider) - parseInt(category.OrderSlider)
     });
     $scope.slug = $state.params.slug;
+    $scope.DigitalProductCategory = Categories.getById(64);
   });
   appCategories.controller('slider-categories-controller', function($scope, Categories, $state){
 
