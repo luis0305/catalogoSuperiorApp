@@ -19,22 +19,26 @@
         <ion-item menu-close href="#/pearson/{{slug}}/about">
           <h2 class="lateral-menu-buttons">Acerca de Pearson</h2>
         </ion-item>
-        <ion-item style="padding: 0 !important;  height: 120px !important;">
-          <img ng-src="img/productos_impresos.png">
-        </ion-item>
-
-
-        <ion-item menu-close ng-repeat="category in categories"
-                  href="#/pearson/{{category.Slug}}/books">
-          <h2 class="lateral-menu-buttons">{{category.Name}}</h2>
-        </ion-item>
 
         <ion-item style="padding: 0 !important; height: 120px !important;">
-        <img  ng-src="img/productos_digitales.png">
+          <img  ng-src="img/productos_digitales.png">
         </ion-item>
 
         <ion-item menu-close href="#/pearson/{{DigitalProductCategory.Slug}}/books">
           <h2 class="lateral-menu-buttons">{{DigitalProductCategory.Name}}</h2>
+        </ion-item>
+
+        <ion-item style="padding: 0 !important;  height: 120px !important;">
+          <img ng-src="img/productos_impresos.png">
+        </ion-item>
+
+        <ion-item menu-close >
+          <h2 class="lateral-menu-buttons">Productos Impresos</h2>
+        </ion-item>
+
+        <ion-item menu-close ng-repeat="category in categories"
+                  href="#/pearson/{{category.Slug}}/books">
+          <h2 class="lateral-menu-buttons">{{category.Name}}</h2>
         </ion-item>
 
         <ion-item menu-close href="#/pearson/{{slug}}/help">
