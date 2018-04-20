@@ -10,66 +10,25 @@
     <div class="col"></div>
   </div>
 
-  <ion-content scroll="false">
-    <ion-slides  options="options" slider="data.slider">
-
-      <ion-slide-page>
-        <div class="box catalogo_universitario">
-          <div class="row responsive-md">
-            <div class="col"></div>
-            <div class="col">
-              <img ng-src="img/bckgr_catalogo_universitario.jpg" alt="" class="catalogo_universitario_img">
-            </div>
-            <div class="col"></div>
-          </div>
-        </div>
-      </ion-slide-page>
-
-      <ion-slide-page>
-          <div class="box mision">
+  <ion-content>
+    <div class="row responsive-lg">
+      <div class="list">
+        <div class="item" ng-repeat="category in categories" style="border-style:none; padding:0; margin:0">
+          <div class="box {{category.StyleName}}">
+            <img ng-src="img/{{category.ImageSource}}" alt="" class="svg_image_slide">
             <div class="row">
-              <div class="col col-50 col-offset-25 ">
-                <div class="center_about_us" style="margin-top:50px;">
-                  <img class="center_about_us" src="img/pictograma_about_us-01.png" >
-                </div>
+              <div class="col col-67 col-offset-10">
+                <a href="#/pearson/{{category.Slug}}/books">
+                  <button class="button cta-pearson">
+                    Ver catálogo
+                  </button>
+                </a>
               </div>
-            </div>
-            <div class="row responsive-md">
-              <div class="col col-50 col-offset-25 ">
-                <div class="center_about_us">
-                  <h2 class="text-center mision_h2">Misión </h2>
-                  <p class="text-center mision_p">Nuestra misión es ayudar a las personas a lograr progesos cuantificables en sus vidas através del aprendizaje  </p>
-                  <div class="text-center">
-                    <a href="http://www.mypearsonshop.com.mx/acerca-de/quienes-somos" ng-click="window.open(this.href, '_blank', 'location=yes');">
-                      <button class="button cta-pearson">
-                        Conocer más
-                      </button>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-       </ion-slide-page>
-
-      <ion-slide-page ng-repeat="category in categories">
-        <div class="box {{category.StyleName}}">
-          <img ng-src="img/{{category.ImageSource}}" alt="" class="svg_image_slide">
-          <div class="row">
-            <div class="col col-67 col-offset-10">
-              <a href="#/pearson/{{category.Slug}}/books">
-                <button class="button cta-pearson">
-                  Ver catálogo
-                </button>
-              </a>
             </div>
           </div>
         </div>
-      </ion-slide-page>
-
-
-
-    </ion-slides>
+      </div>
+    </div>
   </ion-content>
 
 </ion-view>
