@@ -4,30 +4,25 @@
     <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
 
-  <ion-content>
+  <ion-content padding>
+
     <div class="list list-inset buscar">
       <label class="item item-input buscador">
         <i class="icon ion-search placeholder-icon"></i>
         <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
       </label>
     </div>
-    <div class="row">
-      <div class="scroll-horiz" style="margin: 0 auto;">
-        <div class="red">
-          <ion-scroll zooming="true" direction="x" class="ion-scroll-hor">
-            <div class="inside-div">
-          <div ng-repeat="book in books | limitTo : 10 " class="div_for_image_slider">
 
-            <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
-              <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                   class="image_slider_category"/>
-            </a>
-          </div>
-              </div>
-          </ion-scroll>
+    <ion-slides options="sliderOptions" style="max-height:200px">
+      <ion-slide-page ng-repeat="book in books | limitTo : 10 ">
+        <div class="box">
+          <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
+            <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
+                 class="image_slider_category"/>
+          </a>
         </div>
-      </div>
-    </div>
+      </ion-slide-page>
+    </ion-slides>
 
     <div class="row responsive-lg">
       <div class="list content-books-div">

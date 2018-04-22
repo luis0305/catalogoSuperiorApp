@@ -7,6 +7,11 @@
     $scope.books = Books.getBySlug(slug);
     $scope.category = Categories.getBySlug(slug);
     $scope.slug = slug;
+    $scope.sliderOptions = {
+      initialSlide: 0,
+      direction: 'horizontal',
+      speed: 300
+    };
   });
 
   booksController.controller('detail-controller', function($scope, $state, Books, Categories){
