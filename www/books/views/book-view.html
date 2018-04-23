@@ -13,7 +13,7 @@
       </label>
     </div>
 
-    <ion-slides options="sliderOptions" style="max-height:200px">
+    <ion-slides options="sliderOptions" slider="swiper" style="max-height:200px">
       <ion-slide-page ng-repeat="book in books | limitTo : 10 ">
         <div class="box">
           <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">

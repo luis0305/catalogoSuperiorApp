@@ -10,7 +10,10 @@
     $scope.sliderOptions = {
       initialSlide: 0,
       direction: 'horizontal',
-      speed: 300
+      speed: 300,
+      onInit: function(swiper){
+        $scope.swiper = swiper;
+      }
     };
   });
 
