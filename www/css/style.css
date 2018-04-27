@@ -679,10 +679,10 @@ margin-top:30%;
 /**** TEST 2018 CSS *****/
 
 .open-sans{
-font-family:'Open Sans',sans-serif;
+font-family:'Open Sans',sans-serif !important;
 }
 .playfair{
-font-family:'Playfair Display',serif;
+font-family:'Playfair Display',serif !important;
 }
 
 
@@ -702,8 +702,8 @@ position: relative;
 width: 100%;
 overflow: hidden;
 z-index: 1;
-    height: 42vh;
-    margin-top: -2vh;
+    height: 40vh;
+    margin-top: -8vh;
 }
 
 .section-slider-home:after {
@@ -725,10 +725,11 @@ z-index: 1;
 .content-slider-quote {
    position: relative;
 z-index: 3;
-top: 100px;
+top: 50px;
 width: 90%;
-text-align: lrft;
+text-align: left;
 margin: 0 auto;
+
 }
 
 .botton-plus{
@@ -766,40 +767,49 @@ margin-top: 10px;
 
 
   blockquote {
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
+    margin: 0.3em 6px;
+    padding: 0.5em 6px;
     quotes: "\201C""\201D""\2018""\2019";
+    width: 80%;
   }
   blockquote:before {
-    color: #ccc;
+    color: #1280a2;
     content: open-quote;
     font-size: 4em;
     line-height: 0.1em;
     margin-right: 0.25em;
     vertical-align: -0.4em;
-font-family:'Playfair Display',serif;
+    font-family:'Playfair Display',serif;
   }
 
     blockquote:after {
-      color: #ccc;
+      color: #1280a2;
       content: close-quote;
       font-size: 4em;
-      line-height: 0.1em;
-      margin-right: 0.25em;
-      vertical-align: -0.4em;
       font-family:'Playfair Display',serif;
+      line-height: 0.1em;
+          margin-left: 0.15em;
+          vertical-align: -0.7em;
 
     }
 
   blockquote p {
     display: inline;
+    color: #ffffff;
   }
 
+  hr.blueline{
+  border: 1px solid #1280a2;
+  display: block;
+      margin: 1em 0;
+      padding: 0;
+      width: 90%
+  }
 
-@import url('./fonts/family=Playfair+Display');
-
-@import url('./fonts?family=Playfair+Display');
-
+.quote-text{
+font-size:1.0em;
+line-height:1.3em;
+}
 
 
 /**** TEST 2018 CSS *****/
