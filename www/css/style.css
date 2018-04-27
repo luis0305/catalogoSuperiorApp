@@ -674,7 +674,75 @@ margin-top:30%;
 }
 
 
-/**** TEST CSS *****/
-/**** TEST CSS *****/
-/**** TEST CSS *****/
+/**** TEST 2018 CSS *****/
+/**** TEST 2018 CSS *****/
+/**** TEST 2018 CSS *****/
+
+.open-sans{
+font-family:'Open Sans',sans-serif;
+}
+.playfair{
+font-family:'Playfair Display',serif;
+}
+
+.top-slide-section{
+  text-align:center;
+  font-size:1.2em;
+}
+
+.gray-text{
+  color:#e3e3e3;
+}
+
+.white-text{
+  color:#ffffff;
+}
+
+.section-slider-home {
+    margin: 30vh 0;
+text-align: left;
+position: relative;
+width: 100%;
+overflow: hidden;
+z-index: 1;
+height: 100vh;
+}
+
+.section-slider-home:after {
+    width: 100%;
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 10%;
+    -webkit-transform: skewY(4deg);
+    -moz-transform: skewY(4deg);
+    -ms-transform: skewY(4deg);
+    -o-transform: skewY(4deg);
+    transform: skewY(4deg);
+    background-color: #023156;
+    z-index: 2;
+}
+
+.content-slider-quote {
+   position: relative;
+z-index: 3;
+top: 100px;
+width: 90%;
+text-align: lrft;
+margin: 0 auto;
+}
+
+.botton-plus{
+  border-radius:15px;
+  border: 1px solid #FFFFFF;
+  width:60px;
+  height:60px;
+  position:relative;
+  float:right;
+}
+
+/**** TEST 2018 CSS *****/
+/**** TEST 2018 CSS *****/
+/**** TEST 2018 CSS *****/
 

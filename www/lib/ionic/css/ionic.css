@@ -5700,8 +5700,8 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   position: relative;
   z-index: 2;
   display: block;
-  margin: -1px;
-  padding: 16px;
+/* padding: 16px; */
+/* border-width: 1px; */
   border-width: 1px;
   border-style: solid;
   font-size: 16px; }
@@ -9061,7 +9061,7 @@ a.button {
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
-  padding: 5px;
+ /* padding: 5px;*/
   width: 100%; }
 
 .row-wrap {
