@@ -174,7 +174,7 @@ height: 160px;
   background-size:cover
 }
 
- .ciencias_y_matematicas {
+ .ciencias_y_matematicas-background {
   background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
   background-size:cover
 }
@@ -685,10 +685,7 @@ font-family:'Open Sans',sans-serif;
 font-family:'Playfair Display',serif;
 }
 
-.top-slide-section{
-  text-align:center;
-  font-size:1.2em;
-}
+
 
 .gray-text{
   color:#e3e3e3;
@@ -699,13 +696,14 @@ font-family:'Playfair Display',serif;
 }
 
 .section-slider-home {
-    margin: 30vh 0;
+
 text-align: left;
 position: relative;
 width: 100%;
 overflow: hidden;
 z-index: 1;
-height: 100vh;
+    height: 42vh;
+    margin-top: -2vh;
 }
 
 .section-slider-home:after {
@@ -741,6 +739,68 @@ margin: 0 auto;
   position:relative;
   float:right;
 }
+
+.top-slide-section h3{
+margin-top: 10px;
+}
+
+.top-slide-section{
+  text-align:center;
+  font-size:1.2em;
+  padding:10px;
+  }
+
+  .ciencias_y_matematicas-title{
+  background: #d4eae4;
+  }
+
+  .height-section{
+  height:100vh;
+
+  }
+
+  .height-image{
+  height:60vh;
+  }
+
+
+
+  blockquote {
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+font-family:'Playfair Display',serif;
+  }
+
+    blockquote:after {
+      color: #ccc;
+      content: close-quote;
+      font-size: 4em;
+      line-height: 0.1em;
+      margin-right: 0.25em;
+      vertical-align: -0.4em;
+      font-family:'Playfair Display',serif;
+
+    }
+
+  blockquote p {
+    display: inline;
+  }
+
+
+@import url('./fonts/family=Playfair+Display');
+
+@import url('./fonts?family=Playfair+Display');
+
+
 
 /**** TEST 2018 CSS *****/
 /**** TEST 2018 CSS *****/

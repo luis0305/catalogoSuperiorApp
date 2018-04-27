@@ -23,6 +23,8 @@
   used under CC BY http://creativecommons.org/licenses/by/4.0/
   Modified icons to fit ionicon’s grid from original.
 */
+
+
 @font-face {
   font-family: "Ionicons";
   src: url("../fonts/ionicons.eot?v=2.0.1");
@@ -3675,7 +3677,7 @@ dd {
 dt {
   font-weight: bold; }
 
-blockquote {
+/*blockquote {
   margin: 0 0 20px;
   padding: 10px 20px;
   border-left: 5px solid gray; }
@@ -3689,7 +3691,7 @@ blockquote {
     display: block;
     line-height: 1.42857; }
     blockquote small:before {
-      content: '\2014 \00A0'; }
+      content: '\2014 \00A0'; }*/
 
 q:before,
 q:after,
@@ -5702,7 +5704,6 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   display: block;
 /* padding: 16px; */
 /* border-width: 1px; */
-  border-width: 1px;
   border-style: solid;
   font-size: 16px; }
   .item h2 {
