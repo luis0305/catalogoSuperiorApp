@@ -14,17 +14,17 @@
 
     <div class="row responsive-lg height-section">
       <div class="list">
-        <div class="item">
+        <div class="item" ng-repeat="category in categories">
           <div class="top-slide-section ciencias-y-matematicas-title title-1">
-            <h3 class="playfair title-gray">Ciencias y Matemáticas</h3>
+            <h3 class="playfair title-gray">{{category.Name}}</h3>
           </div>
-          <div class="ciencias_y_matematicas-background height-image">
+          <div class="{{category.StyleName}} height-image">
 
           </div>
           <div class="section-slider-home">
             <div class="content-slider-quote">
               <blockquote>
-                <p class="white opensans quote-text">El avance científico impacta al desarrollo global mejorando la calidad de vida de las personas </p>
+                <p class="white opensans quote-text">ShortDescription</p>
               </blockquote>
               <hr class="blueline" />
             </div>
@@ -37,54 +37,6 @@
         </div>
       </div>
     </div>
-
-    <div class="row responsive-lg">
-      <div class="list">
-        <div class="item" ng-repeat="category in categories" style="border-style:none; padding:0; margin:0">
-          <div class="box {{category.StyleName}}">
-            <img ng-src="img/{{category.ImageSource}}" alt="" class="svg_image_slide">
-            <div class="row">
-              <div class="col col-67 col-offset-10">
-                <a href="#/pearson/{{category.Slug}}/books">
-                  <button class="button cta-pearson">
-                    Ver catálogo
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-
-    <div class="row responsive-lg height-section">
-      <div class="list">
-        <div class="item">
-          <div class="top-slide-section administracion_general-title title-2">
-            <h3 class="playfair title-white">Administración General</h3>
-          </div>
-          <div class="administracion_general-background height-image">
-
-          </div>
-          <div class="section-slider-home">
-            <div class="content-slider-quote">
-              <blockquote>
-                <p class="white opensans quote-text">Aprender a planear, organizar y dirigir impacta en el desarrollo organizacional social </p>
-              </blockquote>
-              <hr class="blueline" />
-            </div>
-            <a href="#/pearson/{{category.Slug}}/books">
-              <div class="botton-plus">
-                <p>+</p>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-
 
   </ion-content>
 

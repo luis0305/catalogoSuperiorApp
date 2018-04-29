@@ -830,33 +830,33 @@ color: #ffffff;
 }
 
 
-.administracion_general-background {
+.administracion_general {
   background: url('../img/bckgr_administracion_general.jpg') center right;
   background-size:cover
 }
 
 
- .productos_digitales-background {
+ .productos_digitales {
   background: url('../img/bckgr_productos_digitales.jpg') center right;
   background-size:cover
 }
 
-.ingenieria_y_computacion-background {
+.ingenieria_y_computacion {
   background: url('../img/bckgr_ingenieria_y_computacion.jpg') center right;
   background-size:cover
 }
 
- .ciencias_y_matematicas-background {
+.ciencias_y_matematicas {
   background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
   background-size:cover
 }
 
-.ciencias_sociales-background {
+.ciencias_sociales {
   background: url('../img/bckgr_ciencias_sociales.jpg') center right;
   background-size:cover
 }
 
-.custom-background {
+.custom {
   background: url('../img/bckgr_custom.jpg') center right;
   background-size:cover
 }
