@@ -160,37 +160,6 @@ height: 160px;
   margin: 0 auto;
 }
 
-.administracion_general {
-  background: url('../img/bckgr_administracion_general.jpg') center right;
-  background-size:cover
-}
-
-
- .productos_digitales {
-  background: url('../img/bckgr_productos_digitales.jpg') center right;
-  background-size:cover
-}
-
-.ingenieria_y_computacion {
-  background: url('../img/bckgr_ingenieria_y_computacion.jpg') center right;
-  background-size:cover
-}
-
- .ciencias_y_matematicas-background {
-  background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
-  background-size:cover
-}
-
-.ciencias_sociales {
-  background: url('../img/bckgr_ciencias_sociales.jpg') center right;
-  background-size:cover
-}
-
-.custom {
-  background: url('../img/bckgr_custom.jpg') center right;
-  background-size:cover
-}
-
 .green_about_us{
     background: #c0e1da !important;
       background-size:cover
@@ -251,11 +220,11 @@ color: #505759;
 }
 
 .buscador{
-  -moz-border-radius: 25px !important;
-  -webkit-border-radius: 25px !important;
-  border-radius: 25px !important;
+  -moz-border-radius: 12px !important;
+  -webkit-border-radius: 12px !important;
+  border-radius: 12px !important;
   border-style: solid !important;
-  border-color: #EA067E !important;
+  border-color: #143253 !important;
   border-width:1px !important;
 }
 
@@ -704,7 +673,7 @@ position: relative;
 width: 100%;
 overflow: hidden;
 z-index: 1;
-    height: 40vh;
+    height: 42vh;
     margin-top: -8vh;
 }
 
@@ -773,6 +742,7 @@ margin-top: 10px;
 
   .height-section{
   height:100vh;
+  width:100%;
 
   }
 
@@ -858,6 +828,39 @@ color: #e2e2e2:
 .title-white{
 color: #ffffff;
 }
+
+
+.administracion_general-background {
+  background: url('../img/bckgr_administracion_general.jpg') center right;
+  background-size:cover
+}
+
+
+ .productos_digitales-background {
+  background: url('../img/bckgr_productos_digitales.jpg') center right;
+  background-size:cover
+}
+
+.ingenieria_y_computacion-background {
+  background: url('../img/bckgr_ingenieria_y_computacion.jpg') center right;
+  background-size:cover
+}
+
+ .ciencias_y_matematicas-background {
+  background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
+  background-size:cover
+}
+
+.ciencias_sociales-background {
+  background: url('../img/bckgr_ciencias_sociales.jpg') center right;
+  background-size:cover
+}
+
+.custom-background {
+  background: url('../img/bckgr_custom.jpg') center right;
+  background-size:cover
+}
+
 
 /**** TEST 2018 CSS *****/
 /**** TEST 2018 CSS *****/

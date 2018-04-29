@@ -3008,7 +3008,8 @@ time, mark, audio, video {
   border: 0;
   vertical-align: baseline;
   font: inherit;
-  font-size: 100%; }
+  font-size: 100%;
+   }
 
 ol, ul {
   list-style: none; }
@@ -7604,8 +7605,17 @@ textarea {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none; }
-  .item-input .icon {
-    min-width: 14px; }
+  .item-input .icon
+  {
+        min-width: 45px;
+        /* float: right; */
+        /* position: relative; */
+        /* right: 0; */
+        height: 32px;
+        font-size: 24px;
+        border-left: 1px solid #003057;
+        padding-left: 3px;
+    }
 
 .platform-windowsphone .item-input input {
   flex-shrink: 1; }
@@ -7668,11 +7678,11 @@ textarea {
   font-size: 16px; }
 
 .placeholder-icon {
-  color: #aaa; }
+  color: #143253; }
   .placeholder-icon:first-child {
     padding-right: 6px; }
   .placeholder-icon:last-child {
-    padding-left: 6px; }
+    padding-left: 12px; }
 
 .item-stacked-label {
   display: block;
