@@ -399,13 +399,7 @@ width: 100% !important;
         float: left;
     }
 
-    .image-book-detail{
-      height: auto;
-      width: auto;
-      display: block;
-      margin: auto;
-        box-shadow: 0px 1px 6px #aeaeae;
-    }
+
 
     .detail-icon{
    -webkit-box-align: center;
@@ -709,7 +703,7 @@ h3.book-title, .detail-book-title{
   color:#143253;
   font-size: 18px;
   margin-bottom:0;
-  padding-left:10px;
+  padding:10px;
  }
 
 
@@ -871,6 +865,14 @@ p.book-area{
      align-content: center!important;
      align-items: center!important;
 }
+
+.image-book-detail{
+      height: auto;
+      width: auto;
+      display: block;
+          margin: 20px auto;
+          box-shadow: 0px 1px 2px #aeaeae;
+    }
 
 /**** TEST 2018 CSS *****/
 /**** TEST 2018 CSS *****/

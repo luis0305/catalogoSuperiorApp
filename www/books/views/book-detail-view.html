@@ -1,20 +1,14 @@
 <ion-view view-title="Catálogo / {{category.Name}}">
 
   <ion-content>
-
+      <div class="row row-center">
+          <div class="col">
+              <h3 class="detail-book-title text-center playfair">{{book.Title}}</h3>
+          </div>
+      </div>
     <div class="row row-center">
       <div class="col">
         <img class="image-book-detail" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
-      </div>
-    </div>
-    <div class="row row-center">
-      <div class="col">
-        <h3 class="detail-book-title text-center">{{book.Title}}</h3>
-      </div>
-    </div>
-    <div class="row row-center text-center">
-      <div class="col">
-        <span class="detail-book-author text-center" ng-repeat="author in book.Authors" >{{author.Name}}</span>
       </div>
     </div>
     <div class="row row-center text-center">
