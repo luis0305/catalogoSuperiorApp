@@ -5723,7 +5723,9 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item p {
     color: #666;
     font-size: 14px;
-    margin-bottom: 2px; }
+    margin-bottom: 2px;
+    padding-left:10px
+     }
   .item h1:last-child,
   .item h2:last-child,
   .item h3:last-child,
@@ -5969,8 +5971,8 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
 .item-content h6,
 .item-content p {
   overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap; }
+  /*text-overflow: ellipsis;
+  white-space: nowrap;*/ }
 
 a.item {
   color: inherit;
@@ -9353,8 +9355,8 @@ a.button {
       flex: 1;
       margin-bottom: 15px;
       margin-left: 0;
-      max-width: 100%;
-      width: 100%; } }
+      /*max-width: 100%;
+      width: 100%;*/ } }
 
 /**
  * Utility Classes

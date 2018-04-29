@@ -8,8 +8,8 @@
 
     <div class="list list-inset buscar">
       <label class="item item-input buscador">
-        <i class="icon ion-search placeholder-icon"></i>
         <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
+        <i class="icon ion-search placeholder-icon"></i>
       </label>
     </div>
 
@@ -27,26 +27,26 @@
     <div class="row responsive-lg">
       <div class="list content-books-div">
         <div class="item" ng-repeat="book in books | filter: searchFilter" style="border-style:none; padding:0; margin:0">
-          <div class="col col-80 col-offset-10">
+          <div class="col col-100">
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
               <div class="row box-title">
-                <div class="col col-25">
+                <div class="col col-66 vertical-align-content">
+                  <h3 class="book-title playfair">{{book.Title}}</h3>
+                  <p class="book-area opensans">{{book.Subcategory.Name}}</p>
+                  <p class="book-author opensans" ng-repeat="author in book.Authors | limitTo:2">{{author.Name}}</p>
+                 <!-- <ul class="tags">
+                    <li ng-repeat="attribute in book.Attributes" ><span class="atributo-lista">{{attribute.AttributeName}}</span></li>
+                  </ul> -->
+                  <ul class="tags">
+                    <li><span class="more-info">+</span></li>
+                  </ul>
+                </div>
+
+                <div class="col col-33">
                   <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
                        style="max-width:120px"/>
                 </div>
-                <div class="col col-75">
-                  <h3 class="book-title">{{book.Title}}</h3>
-                  <p class="book-area">{{book.Subcategory.Name}}</p>
-                  <p class="book-author" ng-repeat="author in book.Authors | limitTo:2">{{author.Name}}</p>
 
-                  <ul class="tags">
-                    <li ng-repeat="attribute in book.Attributes" ><span class="atributo-lista">{{attribute.AttributeName}}</span></li>
-                  </ul>
-                  <ul class="tags">
-                    <li><span class="more-info">Mas información</span></li>
-                  </ul>
-
-                </div>
               </div>
             </a>
           </div>
@@ -54,14 +54,6 @@
       </div>
     </div>
 
-
-    <div class="row bottom-items">
-      <div class="col novedades">
-        <div class="col col-center" style="padding: 0;">
-          <a ng-click="searchFilter='Novedad'"><h2>Novedades</h2></a>
-        </div>
-      </div>
-    </div>
 
 
   </ion-content>
