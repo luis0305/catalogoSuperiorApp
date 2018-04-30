@@ -713,7 +713,7 @@ font-size:1.2em;
 -moz-box-shadow: 0px -1px 9px 2px rgba(194,194,194,1);
 box-shadow: 0px -1px 9px 2px rgba(194,194,194,1); */
   background:#fff;
-  max-width:100%;
+  max-width:95%;
   margin: 1px auto;
     transition: all 0.5s ease;
     border:1px solid #bcbcbc;
@@ -933,14 +933,25 @@ p.book-area{
     }
 
     .inner-element{
-      width: 60px;
-      height: 60px;
-      background-color: #f1c40f;
+    /*  background-color: #f1c40f; */
+        width: 70px;
+        height: 70px;
+        /* background-color: #f1c40f; */
+        padding: 5px;
     }
 
-    .inner-element image{
-         width: 60px;
-         height: 60px;
+    .inner-element>image{
+         width: 50px;
+         height: 50px;
+    }
+
+    .inner-element span{
+        font-size: 10px;
+        text-align: center;
+        position: relative;
+        top: -10px;
+        color: #1280a2 !important;
+
     }
 
 /**** TEST 2018 CSS *****/

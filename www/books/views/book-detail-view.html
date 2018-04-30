@@ -15,13 +15,22 @@
     <div class="row row-center text-center detail-items-divs">
       <div class="col">
         <div class="detail-icon flex-container">
-          <div ng-if="book.eCommerce != undefined" class="inner-element">
-            <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">  <img src="./img/icon-cart.png" style="width:60px" > </a>
-          </div>
-            <img src="./img/icon-detail.png" style="width:60px" onclick="openInfo(event, 'infoDiv')">
-          <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}/request" >
-              <img src="./img/icon-try.png" style="width:60px" >
-          </a>
+            <div class="inner-element">
+            <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');" ng-if="book.eCommerce != undefined">
+            <img src="./img/icon-cart.png" style="width:50px">
+                <span>Comprar</span>
+            </a>
+            </div>
+            <div class="inner-element" onclick="openInfo(event, 'infoDiv')">
+             <img src="./img/icon-detail.png" style="width:50px" >
+            <span>Detalles</span>
+            </div>
+            <div class="inner-element">
+            <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}/request">
+            <img src="./img/icon-try.png" style="width:50px">
+                <span>Solicitar</span>
+            </a>
+            </div>
         </div>
       </div>
     </div>
