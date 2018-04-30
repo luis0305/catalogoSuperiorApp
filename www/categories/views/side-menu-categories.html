@@ -21,7 +21,7 @@
         </ion-item>
 
         <ion-item style="padding: 0 !important; height: 120px !important;">
-          <img  ng-src="img/productos_digitales.png">
+          <img  ng-src="img/productos-digitales.jpg">
         </ion-item>
 
         <ion-item menu-close href="#/pearson/{{DigitalProductCategory.Slug}}/books">
@@ -29,7 +29,7 @@
         </ion-item>
 
         <ion-item style="padding: 0 !important;  height: 120px !important;">
-          <img ng-src="img/productos_impresos.png">
+          <img ng-src="img/productos-impresos.jpg">
         </ion-item>
 
         <ion-item menu-close >
@@ -38,12 +38,13 @@
 
         <ion-item menu-close ng-repeat="category in categories"
                   href="#/pearson/{{category.Slug}}/books">
+          <img ng-src="img/productos-impresos-administracion-general.jpg">
           <h2 class="lateral-menu-buttons">{{category.Name}}</h2>
         </ion-item>
 
-        <ion-item menu-close href="#/pearson/{{slug}}/help">
+       <!-- <ion-item menu-close href="#/pearson/{{slug}}/help">
           <h2 class="lateral-menu-buttons">Ayuda</h2>
-        </ion-item>
+        </ion-item>  -->
 
       </ion-list>
 
