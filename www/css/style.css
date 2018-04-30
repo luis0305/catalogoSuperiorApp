@@ -384,20 +384,20 @@ list-style-type: circle;
 width: 100% !important;
 }
 
-.detail-icon .icon{
-        width: 40px;
-        height: 40px;
-        background-color: #EA067E;
-        border-radius: 50%;
-        padding: 7px;
-        margin: 5px;
-        color: #fff;
-        font-size: 23px;
-        text-align: center;
-        vertical-align: middle;
-        display: inline-block;
-        float: left;
-    }
+.detail-icon .icon {
+    /* width: 60px; */
+    /* height: 60px; */
+    /* background-color: #EA067E; */
+    /* border-radius: 50%; */
+    padding: 7px;
+    margin: 5px;
+    color: #fff;
+    font-size: 23px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    /* float: left; */
+}
 
 
 
@@ -406,7 +406,7 @@ width: 100% !important;
        -ms-flex-align: center;
        -webkit-align-items: center;
        -moz-align-items: center;
-       width: 160px;
+       width: 360px;
        margin: 0 auto;
        text-align: center;
     }
@@ -417,15 +417,25 @@ width: 100% !important;
         margin-left: 15px;
     }
 
+    .image-book-list{
+        max-width: 168px;
+        float: right;
+        padding: 10px;
+        }
+
 @media (max-width:1440px) and (min-width:1201px) {
 .ion-scroll-hor {
     width: 900px;
+}
+
+.image-book-list{
+max-width: 120px;
 }
 }
 
 @media (max-width:1200px) and (min-width:769px) {
 .ion-scroll-hor {
-    width: y 700px;
+    width: 700px;
 }
 }
 
@@ -435,11 +445,19 @@ width: 100% !important;
 max-width:400px !important;
 }
 
+.image-book-list{
+max-width: 110px;
+}
+
 }
 
 @media (max-width:680px) and (min-width:414px) {
 .margin_responsive_about_us{
 margin-top:20%;
+}
+
+.image-book-list{
+max-width: 110px;
 }
 
 }
@@ -449,6 +467,10 @@ margin-top:20%;
 .margin_responsive_about_us{
 margin-top:30%;
 }
+.image-book-list{
+max-width: 100px;
+}
+
 }
 
 
@@ -467,6 +489,10 @@ font-family:'Playfair Display',serif !important;
 
 .gray-text{
   color:#e3e3e3;
+}
+
+blue-text{
+color: #000357;
 }
 
 .white-text{
@@ -509,29 +535,30 @@ text-align: left;
 margin: 0 auto;
 
 }
-
-.botton-plus{
-  border-radius: 50%;
-      border: 1px solid #FFFFFF;
-      width: 60px;
-      height: 60px;
-      position: relative;
-      float: right;
-      z-index: 3;
-      margin-right: 10px;
-      color:#ffffff;
+.botton-plus {
+    border-radius: 50%;
+    border: 1px solid #FFFFFF;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    float: right;
+    z-index: 3;
+    margin-right: 20px;
+    color: #ffffff;
 }
 
-.botton-plus p{
+.botton-plus p {
     z-index: 4;
     color: white;
-    font-size: 3.5em;
+    font-size: 2.5em;
     text-align: center;
-    top: 30%;
+    top: 25%;
     position: relative;
     font-weight: 100;
     height: 100%;
-    }
+    /* text-align: center; */
+    left: -4px;
+}
 
 .top-slide-section h3{
 margin-top: 10px;
@@ -592,12 +619,22 @@ margin-top: 10px;
   }
 
   hr.blueline{
-  border: 1px solid #1280a2;
-  display: block;
-      margin: 1em 0;
-      padding: 0;
-      width: 70%
-  }
+     border: 0.5px solid #1280a2;
+     /* display: block; */
+     /* margin: 32px; */
+     padding: 0;
+     width: 20%;
+     text-align: center;
+ }
+
+ hr.blueline-slider {
+     border: 0.5px solid #1280a2;
+     display: block;
+     margin: 32px;
+     padding: 0;
+     width: 60%;
+     text-align: center;
+ }
 
 .quote-text{
 font-size:1.0em !important;
@@ -629,11 +666,13 @@ background: #505759;
 }
 
 .title-gray{
-color: #e2e2e2:
+color: #e2e2e2;
+font-size:1.2em;
 }
 
 .title-white{
 color: #ffffff;
+font-size:1.2em;
 }
 
 
@@ -872,6 +911,36 @@ p.book-area{
       display: block;
           margin: 20px auto;
           box-shadow: 0px 1px 2px #aeaeae;
+    }
+
+    .detail-items-divs{
+    background: #eeeeef;
+        padding: 5px;
+    }
+
+    .flex-container{
+      display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+      display: -ms-flexbox;  /* TWEENER - IE 10 */
+      display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+      display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+
+      justify-content: center;
+      align-items: center;
+
+      width: 100%;
+      height: 60px;
+      background-color: #eeeeef;
+    }
+
+    .inner-element{
+      width: 60px;
+      height: 60px;
+      background-color: #f1c40f;
+    }
+
+    .inner-element image{
+         width: 60px;
+         height: 60px;
     }
 
 /**** TEST 2018 CSS *****/

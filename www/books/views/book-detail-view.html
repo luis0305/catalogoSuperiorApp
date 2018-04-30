@@ -4,6 +4,7 @@
       <div class="row row-center">
           <div class="col">
               <h3 class="detail-book-title text-center playfair">{{book.Title}}</h3>
+              <hr class="blueline" />
           </div>
       </div>
     <div class="row row-center">
@@ -11,15 +12,15 @@
         <img class="image-book-detail" ng-src="{{book.ImageSource}}" style="max-width:140px"/>
       </div>
     </div>
-    <div class="row row-center text-center">
+    <div class="row row-center text-center detail-items-divs">
       <div class="col">
-        <div class="detail-icon">
-          <div ng-if="book.eCommerce != undefined">
-            <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">  <i class="icon ion-ios-cart">  </i> </a>
+        <div class="detail-icon flex-container">
+          <div ng-if="book.eCommerce != undefined" class="inner-element">
+            <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">  <img src="./img/icon-cart.png" style="width:60px" > </a>
           </div>
-          <i class="icon ion-ios-list" onclick="openInfo(event, 'infoDiv')"></i>
+            <img src="./img/icon-detail.png" style="width:60px" onclick="openInfo(event, 'infoDiv')">
           <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}/request" >
-            <i class="icon ion-ios-email"></i>
+              <img src="./img/icon-try.png" style="width:60px" >
           </a>
         </div>
       </div>
@@ -42,11 +43,11 @@
           <ul>
             <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.ISBN}} {{isbnItem.Description}}</li>
           </ul>
-          <ul class="tags">
+        <!--  <ul class="tags">
             <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>
             <li ng-if="book.Subcategory != undefined"><span class="atributo-lista">{{book.Subcategory.Name}}</span> </li>
             <li ng-repeat="attribute in book.Attributes"> <span class="atributo-lista"> {{attribute.AttributeName}} </span></li>
-          </ul>
+          </ul> -->
       </div>
     </div>
 
