@@ -26,7 +26,7 @@
 
     <div class="row responsive-lg">
       <div class="list content-books-div">
-        <div class="item" ng-repeat="book in books | filter: searchFilter" style="border-style:none; padding:0; margin:0">
+        <div class="item" ng-repeat="book in books | filter: searchFilter" data-aos="flip-up" style="border-style:none; padding:0; margin:0">
           <div class="col col-100">
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
               <div class="row box-title">
