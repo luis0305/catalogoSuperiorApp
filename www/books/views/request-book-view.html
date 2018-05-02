@@ -5,55 +5,58 @@
       <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
     </ion-nav-buttons>
 
-    <div class = "row responsive-md blue" >
+    <div class = "row responsive-md title-1" >
       <div class="col" >
         <div class=" ">
           <div class="row responsive-md">
             <div class="col"></div>
             <div class="col col-50">
 
-              <h3 class="white text-center">¡Solicita más información!</h3>
+              <h3 class="text-gray text-center playfair">¡Solicita más información!</h3>
 
-              <p class="white text-center">Si eres Profesor, Docente, Coordinador o Bibliotecario y te interesa este material, llena los siguientes datos para solicitar más información o contactar con uno de nuestros Asesores de Servicios de Aprendizaje Pearson.</p>
+              <p class="text-gray text-center opensans">Si eres Profesor, Docente, Coordinador o Bibliotecario y te interesa este material, llena los siguientes datos para solicitar más información o contactar con uno de nuestros Asesores de Servicios de Aprendizaje Pearson.</p>
+              <div class="text-center col">
+                <img src="img/solicitar-informacion.png" style="max-width:120px">
+              </div>
 
-              <form name="requestForm" novalidate="" ng-submit="requestBook(requestForm)" role="form">
+              <form name="requestForm" novalidate="" ng-submit="requestBook(requestForm)" role="form" >
                 <div class="list">
                   <label class="item item-input item-float-label">
                     <span class="input-label input-label-registro">Nombre:</span>
-                    <input type="text" ng-model="user.name" name="name" required>
-                    <span class="error_input" ng-show="requestForm.name.$touched && requestForm.name.$invalid">
+                    <input class="input-border" type="text" ng-model="user.name" name="name" required>
+                    <span class="error_input input-label " ng-show="requestForm.name.$touched && requestForm.name.$invalid">
                       <span ng-show="requestForm.name.$error.required">Obligatorio</span>
                     </span>
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Correo:</span>
-                    <input type="email" ng-model="user.email" name="email" required>
-                    <span class="error_input" ng-show="requestForm.email.$touched && requestForm.email.$invalid">
+                    <input class="input-border" type="email" ng-model="user.email" name="email" required>
+                    <span class="error_input input-label " ng-show="requestForm.email.$touched && requestForm.email.$invalid">
                       <span ng-show="requestForm.email.$error.required || requestForm.email.$invalid">Obligatorio</span>
                     </span>
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Teléfono fijo:</span>
-                    <input type="tel" ng-model="user.phone" name="phone" required>
-                    <span class="error_input" ng-show="requestForm.phone.$touched && requestForm.phone.$invalid">
+                    <input class="input-border" type="tel" ng-model="user.phone" name="phone" required>
+                    <span class="error_input input-label " ng-show="requestForm.phone.$touched && requestForm.phone.$invalid">
                       <span ng-show="requestForm.phone.$error.required || requestForm.phone.$invalid">Obligatorio</span>
                     </span>
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Teléfono celular:</span>
-                    <input type="tel" ng-model="user.mobile" name="mobile">
+                    <input class="input-border" type="tel" ng-model="user.mobile" name="mobile">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Universidad:</span>
-                    <input type="text" ng-model="user.university" name="university">
+                    <input class="input-border" type="text" ng-model="user.university" name="university">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Materia que imparte:</span>
-                    <input type="text" ng-model="user.subject" name="subject">
+                    <input class="input-border" type="text" ng-model="user.subject" name="subject">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Matrícula</span>
-                    <input type="text" ng-model="user.enrollment" name="enrollment">
+                    <input class="input-border" type="text" ng-model="user.enrollment" name="enrollment">
                   </label>
                   <label class="item item-input item-select">
                     <span class="input-label input-label-registro">Estado:</span>
@@ -95,11 +98,11 @@
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Materia de interés: </span>
-                    <input type="text" ng-model="user.bookInterested">
+                    <input class="input-border" type="text" ng-model="user.bookInterested">
                   </label>
                   <label class="item item-input">
                     <span class="input-label input-label-registro" >Solicitud:</span>
-                    <input type="text" ng-model="user.request" name="request">
+                    <input class="input-border" type="text" ng-model="user.request" name="request">
                   </label>
                 </div>
 

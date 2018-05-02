@@ -7749,12 +7749,13 @@ input[type="tel"],
 input[type="color"] {
   display: block;
   padding-top: 2px;
-  padding-left: 0;
   height: 34px;
   color: #111;
   vertical-align: middle;
   font-size: 14px;
-  line-height: 16px; }
+  line-height: 16px;
+  padding-left:15px;
+  }
 
 .platform-ios input[type="datetime-local"],
 .platform-ios input[type="date"],
