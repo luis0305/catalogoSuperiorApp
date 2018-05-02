@@ -641,27 +641,27 @@ font-size:1.0em !important;
 line-height:1.3em !important;
 }
 
-.title-1{
+.administracion_general_title{
 background: #d4eae4;
 }
 
-.title-2{
+.productos_digitales_title{
 background: #023156;
 }
 
-.title-3{
+.ingenieria_y_computacion_title{
 background: #11853c;
 }
 
-.title-4{
+.ciencias_y_matematicas_title{
 background: #085a6f;
 }
 
-.title-5{
+.ciencias_sociales_title{
 background: #d2d931;
 }
 
-.title-6{
+.custom_title{
 background: #505759;
 }
 
@@ -682,7 +682,7 @@ font-size:1.2em;
 }
 
 
- .productos_digitales {
+.productos_digitales {
   background: url('../img/bckgr_productos_digitales.jpg') center right;
   background-size:cover
 }
