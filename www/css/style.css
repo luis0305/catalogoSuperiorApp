@@ -69,8 +69,8 @@ text-decoration:none !important;
 }
 
 .image_slider_category{
- max-width: 120px !important;
- width:120px !important;
+ /*max-width: 120px !important;
+ width:120px !important; */
   position: relative;
   float: left;
   max-height: 140px;
@@ -558,6 +558,63 @@ margin: 0 auto;
         left: -5px;
         font-weight: 400;
 }
+
+/**SNIPPET SCROLL HORZ***/
+/**SNIPPET SCROLL HORZ***/
+/**SNIPPET SCROLL HORZ***/
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+
+}
+
+.scrolling-wrapper-flexbox {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+
+
+  .book-it {
+    flex: 0 0 auto;
+    margin-right: 3px;
+  }
+}
+
+.book-it {
+  width: 130px;
+  height: 180px;
+  background: #f3f3f3;
+      padding-top: 20px;
+      padding-bottom: 20px;
+
+}
+
+.margin-vertical-slider{
+    margin-top: 20px !important;
+    margin-bottom: 20px;
+    }
+
+.scrolling-wrapper,
+.scrolling-wrapper-flexbox {
+  height: 220px;
+  width: 100%;
+  -webkit-overflow-scrolling: touch;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+
+
+/**SNIPPET SCROLL HORZ***/
+/**SNIPPET SCROLL HORZ***/
+/**SNIPPET SCROLL HORZ***/
+
+
 
 .top-slide-section h3{
 margin-top: 10px;
