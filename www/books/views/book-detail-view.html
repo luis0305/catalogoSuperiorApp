@@ -45,8 +45,8 @@
 
     <div class="row">
       <div id="infoDiv" class="col tabcontent" style="background: #f3f3f3; padding: 20px 15px;" >
-          <h4 ng-if="isNewBook == true">Introducción</h4>
-          <p ng-bind-html="book.Introduction" ng-if="book.Introduction != undefined">{{book.Introduction}}</p>
+          <h4 ng-if="book.Introduction != null">Introducción</h4>
+          <p ng-bind-html="book.Introduction" ng-if="book.Introduction != null">{{book.Introduction}}</p>
           <h4>Contenido</h4>
           <p ng-bind-html="book.Content">{{book.Content}}</p>
           <h4>Ficha técnica</h4>
@@ -58,7 +58,7 @@
           <p>Páginas : {{book.Pages}}</p>
           <p>ISBN</p>
           <ul>
-            <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.ISBN}} {{isbnItem.Description}}</li>
+            <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.Code}} {{isbnItem.Description}}</li>
           </ul>
         <!--  <ul class="tags">
             <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>

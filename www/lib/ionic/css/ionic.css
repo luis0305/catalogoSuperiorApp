@@ -3408,14 +3408,14 @@ body.grade-c {
  */
 @-ms-viewport {
   width: device-width; }
-/*
+
 .scroll-bar {
   position: absolute;
   z-index: 9999; }
 
 .ng-animate .scroll-bar {
   visibility: hidden; }
-*/
+
 .scroll-bar-h {
   right: 2px;
   bottom: 3px;

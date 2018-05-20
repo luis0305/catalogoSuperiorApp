@@ -38,7 +38,7 @@ categories = [
   {
     "Id": 4,
     "ParentId": 1,
-    "Name": "Administración general",
+    "Name": "Administración General",
     "Slug": null,
     "StyleName": null,
     "ImageSource": null,
@@ -626,7 +626,7 @@ categories = [
   {
     "Id": 53,
     "ParentId": null,
-    "Name": "Ciencias sociales",
+    "Name": "Ciencias Sociales",
     "Slug": "socia",
     "StyleName": "ciencias_sociales",
     "ImageSource": "fingerprint_ciencias_sociales.png",
@@ -770,7 +770,7 @@ categories = [
   {
     "Id": 65,
     "ParentId": 64,
-    "Name": "MyMathLab español",
+    "Name": "MyLab Math Español",
     "Slug": null,
     "StyleName": null,
     "ImageSource": null,
@@ -1043,4 +1043,4 @@ categories = [
     "ShortDescription": null,
     "ImageMenu": null
   }
-]
+];
