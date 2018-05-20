@@ -698,27 +698,52 @@ line-height:1.3em !important;
 }
 
 .administracion_general_title{
-background: #d4eae4;
+  background: #d4eae4;
+}
+
+.administracion_general_heading{
+  color: #000000
 }
 
 .productos_digitales_title{
-background: #023156;
+  background: #023156;
+}
+
+.productos_digitales_heading{
+  color: #FFFFFF
 }
 
 .ingenieria_y_computacion_title{
-background: #11853c;
+  background: #11853c;
+  color: #FFFFFF
+}
+
+.ingenieria_y_computacion_heading{
+  color: #FFFFFF
 }
 
 .ciencias_y_matematicas_title{
-background: #085a6f;
+  background: #085a6f;
+}
+
+.ciencias_y_matematicas_heading{
+  color: #FFFFFF
 }
 
 .ciencias_sociales_title{
-background: #d2d931;
+  background: #d2d931;
+}
+
+.ciencias_sociales_hading{
+  color: #000000
 }
 
 .custom_title{
-background: #505759;
+  background: #505759;
+}
+
+.custom_heading{
+  color: #FFFFFF
 }
 
 .title-gray{
