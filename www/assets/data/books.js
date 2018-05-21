@@ -15168,7 +15168,7 @@ books = [
     "Content": "<ul><li>PARTE UNO Antecedentes para los negocios internacionales</li><li> Globalización y negocios internacionales</li><li> PARTE DOS Marcos ambientales comparativos</li><li> Entornos culturales a los que se enfrenta la empresa</li><li> Entornos políticos y jurídicos que enfrentan los negocios</li><li> Entornos económicos que enfrentan los negocios</li><li> Globalización y sociedad</li><li> PARTE TRES Teorías e instituciones: comercio e inversión</li><li> Comercio internacional y teoría de la movilidad de los factores</li><li> Influencia del gobierno en el comercio</li><li> Cooperación y acuerdos entre naciones</li><li> PARTE CUATRO Entorno financiero global</li><li> Mercados globales de divisas</li><li> Determinación de los tipos de cambio</li><li> Mercados globales de capital</li><li> PARTE CINCO Estrategia, estructura e implementación globales</li><li> La estrategia de los negocios internacionales</li><li> Selección y evaluación de países</li><li> Exportación e importación</li><li> Inversión directa y estrategias colaborativas</li><li> Organización de los negocios internacionales</li><li> PARTE SEIS Administración de operaciones  internacionales</li><li> Marketing global</li><li> Operaciones globales y administración de la cadena de suministro</li><li> Contabilidad y asuntos fi nancieros internacionales</li><li> Administración de recursos humanos internacionales</li></ul>",
     "Format": "Formato 21 × 27 cm",
     "Pages": "688 págs.",
-    "WebSite": "www.pearsonenesp añol.com/daniels",
+    "WebSite": "www.pearsonenespañol.com/daniels",
     "ImageSource": "img/portadas/978-607-32-4333-9.jpg",
     "eCommerce": "",
     "Active": null,
