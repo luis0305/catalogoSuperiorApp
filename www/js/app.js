@@ -87,9 +87,6 @@
       if(window.StatusBar) {
         StatusBar.styleDefault();
       }
-
-      AOS.init();
-
     });
   })
 }());
