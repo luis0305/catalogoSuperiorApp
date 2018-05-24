@@ -77,6 +77,25 @@ text-decoration:none !important;
   height:160px !important;
   margin-right: 10px;
   display:inline;
+      -webkit-animation: fades 0.9s  ease-in;
+      -moz-animation: fades 0.9s  ease-in;
+      -o-animation: fades 0.9s  ease-in;
+      animation: fades 0.9s  ease-in;
+      background:#fff;
+  }
+  @-webkit-keyframes fades {
+      0% {
+          -webkit-transform: translate(-20px) scaleX(0) scaleY(0);
+          opacity: 0;
+      }
+      50.01% {
+          -webkit-transform: translate(-10px) scaleX(0) scaleY(0);
+          opacity: 0.7;
+      }
+      100% {
+          -webkit-transform: translate(0) scaleX(1) scaleY(1);
+          opacity: 1;
+      }
   }
 
  /* .scroll-horiz{
@@ -1078,7 +1097,7 @@ padding-left:15px;
 }
 
 .flip-book-list {
-    -webkit-animation: fly 0.75s  linear;
+    -webkit-animation: fly 0.7s  linear;
     -moz-animation: fly 0.7s  linear;
     -o-animation: fly 0.7s  linear;
     animation: fly 0.7s  linear;
