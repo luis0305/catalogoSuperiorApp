@@ -1117,6 +1117,13 @@ padding-left:15px;
     }
 }
 
+.about-text{
+text-align:justify;
+    text-justify:inter-word;
+    max-width: 90%;
+        margin: 0 auto;
+}
+
 /**** TEST 2018 CSS *****/
 /**** TEST 2018 CSS *****/
 /**** TEST 2018 CSS *****/
