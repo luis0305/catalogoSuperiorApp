@@ -69,6 +69,7 @@ text-decoration:none !important;
 }
 
 .image_slider_category{
+transition: all 0.3s ease;
  /*max-width: 120px !important;
  width:120px !important; */
   position: relative;
@@ -96,6 +97,10 @@ text-decoration:none !important;
           -webkit-transform: translate(0) scaleX(1) scaleY(1);
           opacity: 1;
       }
+  }
+
+  .image_slider_category:hover{
+        transform: scale(1.1);
   }
 
  /* .scroll-horiz{
