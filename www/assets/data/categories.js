@@ -7,7 +7,7 @@ categories = [
     "StyleName": "administracion_general",
     "ImageSource": "fingerprint_administracion_general.png",
     "ShowSlider": true,
-    "OrderSlider": 1,
+    "OrderSlider": 3,
     "ShortDescription": "Aprender a planear, organizar y dirigir impacta en el desarrollo organizacional social.",
     "ImageMenu": "productos-impresos-administracion-general.jpg"
   },
@@ -187,7 +187,7 @@ categories = [
     "StyleName": "ingenieria_y_computacion",
     "ImageSource": "fingerprint_ingenieria_y_computacion.png",
     "ShowSlider": true,
-    "OrderSlider": 2,
+    "OrderSlider": 6,
     "ShortDescription": "Soluciones ingeniosas en todos los ámbitos del quehacer humano ofrecen nuevas alternativas a los problemas.",
     "ImageMenu": "productos-impresos-ingenieria-y-computacion.jpg"
   },
@@ -415,7 +415,7 @@ categories = [
     "StyleName": "ciencias_y_matematicas",
     "ImageSource": "fingerprint_ciencias_y_matematicas.png",
     "ShowSlider": true,
-    "OrderSlider": 3,
+    "OrderSlider": 5,
     "ShortDescription": "El avance científico impacta al desarrollo global mejorando la calidad de vida de las personas.",
     "ImageMenu": "productos-impresos-ciencias-y-matematicas.jpg"
   },
@@ -763,7 +763,7 @@ categories = [
     "StyleName": "productos_digitales",
     "ImageSource": "fingerprint_productos_digitales.jpg",
     "ShowSlider": true,
-    "OrderSlider": 5,
+    "OrderSlider": 1,
     "ShortDescription": "Cada institución tiene necesidades diferentes satisfacerlas a la medida implica una nueva forma de educar.",
     "ImageMenu": "productos-digitales.jpg"
   },
@@ -835,7 +835,7 @@ categories = [
     "StyleName": "custom",
     "ImageSource": "fingerprint_custom.png",
     "ShowSlider": true,
-    "OrderSlider": 6,
+    "OrderSlider": 7,
     "ShortDescription": "La tecnología es un apoyo fundamental en la innovación del aprendizaje para mejorar la vida de las personas.",
     "ImageMenu": "productos-impresos-custom.jpg"
   },
