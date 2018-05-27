@@ -23,7 +23,7 @@
             </a>
           </div>
 
-          <div class="inner-element" onclick="openInfo(event, 'infoDiv')">
+          <div ng-if="book.Introduction != null" class="inner-element" onclick="openInfo(event, 'infoDiv')">
             <img src="./img/icon-info.png" style="width:50px" >
             <span>Capítulos</span>
           </div>
@@ -51,10 +51,11 @@
           <h4 style="text-align:center">Contenido</h4>
           <p ng-bind-html="book.Content">{{book.Content}}</p>
           <h4 style="text-align:center">Ficha técnica</h4>
-          <ul style="padding-left:40px">
+          <p>Autor(es):</p>
+          <ul>
             <li ng-repeat="author in book.Authors">{{author.Name}}</li>
           </ul>
-          <p>{{book.Edition}}</p>
+          <p style="margin-top:6px">{{book.Edition}}</p>
           <p>{{book.Format}}</p>
           <p>Páginas : {{book.Pages}}</p>
           <p>ISBN</p>
