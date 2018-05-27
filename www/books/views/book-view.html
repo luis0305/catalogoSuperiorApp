@@ -16,16 +16,16 @@
     </div>
 
     <div class="row responsive-lg margin-vertical-slider">
-    <div class="scrolling-wrapper-flexbox">
-      <div ng-repeat="book in books | limitTo : 10 ">
-        <div class="box book-it">
-          <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
-            <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
-                 class="image_slider_category"/>
-          </a>
+      <div class="scrolling-wrapper-flexbox">
+      <div ng-repeat="book in books | limitTo : 10 | orderBy: 'random'">
+          <div class="box book-it">
+            <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
+              <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
+                   class="image_slider_category"/>
+            </a>
+          </div>
         </div>
-    </div>
-    </div>
+      </div>
     </div>
 
 

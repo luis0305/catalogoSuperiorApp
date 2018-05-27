@@ -2,19 +2,20 @@
 
   var booksController = angular.module('starter.controller.books',['starter.service.books', 'starter.service.categories']);
 
-  booksController.controller('book-controller', function ($scope, $state, Books, Categories){
+  booksController.controller('book-controller', function ($scope, $state, Books, Categories, $window){
     var slug = $state.params.slug;
     $scope.books = Books.getBySlug(slug);
     $scope.category = Categories.getBySlug(slug);
     $scope.slug = slug;
-    $scope.sliderOptions = {
-      initialSlide: 0,
-      direction: 'horizontal',
-      speed: 300,
-      onInit: function(swiper){
-        $scope.swiper = swiper;
-      }
-    };
+    var first_books = Books.getByYear(2018);
+    var second_books = Books.getByYear(2017);
+    $scope.newBooks = [];
+    angular.forEach(first_books, function(book){
+      $scope.newBooks.push(book);
+    });
+    angular.forEach(second_books, function(book){
+      $scope.newBooks.push(book);
+    });
   });
 
   booksController.controller('detail-controller', function($scope, $state, Books, Categories){

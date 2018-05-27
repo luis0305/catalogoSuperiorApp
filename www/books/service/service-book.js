@@ -19,6 +19,16 @@
             console.log(book.Id);
           }
         });
+      },
+      getByYear: function(year){
+        return books.filter(function(book){
+          try{
+            book.random = Math.random();
+            return book.Year == year;
+          } catch (e){
+            console.log(book.Id);
+          }
+        });
       }
     }
   });
