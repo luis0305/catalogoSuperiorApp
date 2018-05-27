@@ -6,7 +6,7 @@
   left: 0;
   z-index: 100000;
   width:100%;
-  background-color: #007da4;
+  background-color: #B1DDD5;
 }
 
 .flb {
@@ -28,22 +28,11 @@
 }
 
 
-@keyframes ex4  {
-	    0%   { opacity:1; }
-    	25%  { opacity:0; }
-    	50%  { opacity:1; }
-        75%  { opacity:0; }
-        100% { opacity:1; }
-}
-
-
 #custom-overlay img {
-	animation:         ex4 3s ease-in  ;
-	animation-direction: alternate;
-	-webkit-animation-direction: alternate;
-	width:90px;
+	width:300px;
 	height:auto;
 	margin-top:200px;
 
 }
+
 
