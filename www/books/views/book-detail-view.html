@@ -16,16 +16,16 @@
       <div class="col">
         <div class="detail-icon flex-container">
 
-          <div class="inner-element">
-            <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');" ng-if="book.eCommerce != undefined">
+          <div class="inner-element" ng-if="book.eCommerce != undefined">
+            <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
             <img src="./img/icon-cart.png" style="width:50px">
                 <span>Comprar</span>
             </a>
           </div>
 
-          <div ng-if="book.Introduction != null" class="inner-element" onclick="openInfo(event, 'infoDiv')">
+          <div class="inner-element" onclick="openInfo(event, 'content')">
             <img src="./img/icon-info.png" style="width:50px" >
-            <span>Capítulos</span>
+            <span>Contenido</span>
           </div>
 
           <div class="inner-element" onclick="openInfo(event, 'infoDiv')">
@@ -45,23 +45,25 @@
     </div>
 
     <div class="row">
+      <div id="content" class="col tabcontent" style="background: #FFF; padding: 20px 15px;">
+        <h4 ng-if="book.Introduction != null" style="text-align:center">Introducción</h4>
+        <p ng-bind-html="book.Introduction" ng-if="book.Introduction != null">{{book.Introduction}}</p>
+        <h4 style="text-align:center">Contenido</h4>
+        <p ng-bind-html="book.Content">{{book.Content}}</p>
+      </div>
       <div id="infoDiv" class="col tabcontent" style="background: #FFF; padding: 20px 15px;" >
-          <h4 ng-if="book.Introduction != null" style="text-align:center">Introducción</h4>
-          <p ng-bind-html="book.Introduction" ng-if="book.Introduction != null">{{book.Introduction}}</p>
-          <h4 style="text-align:center">Contenido</h4>
-          <p ng-bind-html="book.Content">{{book.Content}}</p>
-          <h4 style="text-align:center">Ficha técnica</h4>
-          <p>Autor(es):</p>
-          <ul>
-            <li ng-repeat="author in book.Authors">{{author.Name}}</li>
-          </ul>
-          <p style="margin-top:6px">{{book.Edition}}</p>
-          <p>{{book.Format}}</p>
-          <p>Páginas : {{book.Pages}}</p>
-          <p>ISBN</p>
-          <ul>
-            <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.Code}} {{isbnItem.Description}}</li>
-          </ul>
+        <h4 style="text-align:center">Ficha técnica</h4>
+        <p>Autor(es):</p>
+        <ul>
+          <li ng-repeat="author in book.Authors">{{author.Name}}</li>
+        </ul>
+        <p style="margin-top:6px">{{book.Edition}}</p>
+        <p>{{book.Format}}</p>
+        <p>Páginas : {{book.Pages}}</p>
+        <p>ISBN</p>
+        <ul>
+          <li ng-repeat="isbnItem in book.ISBNs">{{isbnItem.Code}} {{isbnItem.Description}}</li>
+        </ul>
         <!--  <ul class="tags">
             <li ng-if="book.Year != undefined"><span class="atributo-lista"> {{book.Year}} </span></li>
             <li ng-if="book.Subcategory != undefined"><span class="atributo-lista">{{book.Subcategory.Name}}</span> </li>
