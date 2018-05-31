@@ -589,29 +589,34 @@ text-align: left;
 margin: 0 auto;
 
 }
-.botton-plus {
-    border-radius: 50%;
-    border: 2px solid #FFFFFF;
-    width: 50px;
-    height: 50px;
-    position: relative;
+
+.div-right{
+ position: relative;
     float: right;
-    z-index: 3;
-    margin-right: 20px;
+        z-index: 4;
+         top: 23%;
+                position: relative;
+                margin-right:20px;
+
 }
 
-.botton-plus p {
-    z-index: 4;
-    color: white;
-    font-size: 2.5em;
-    text-align: center;
-        top: 23%;
-        position: relative;
-        font-weight: 100;
-        height: 100%;
-        left: -5px;
-        font-weight: 400;
+.botton-plus {
+  border: 2px solid #FFFFFF !important;
+      width: 50px;
+      height: 50px;
+      display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+      z-index: 3;
+      color: white !important;
+          font-size: 2.5em;
+          text-align: center;
+          border-radius:50%;
+          margin: 0.5em;
 }
+
+
+
 
 /**SNIPPET SCROLL HORZ***/
 /**SNIPPET SCROLL HORZ***/
@@ -982,25 +987,6 @@ p.book-area{
 	}
 
 
-	.tags span.more-info{
-                    margin: 4px;
-                        padding: 6px 5px 0px 4px;
-                        background: #f4f3f3;
-                        font-size: 24px;
-                        color: #51585a;
-                        text-decoration: none;
-                        -moz-border-radius: 50%;
-                        -webkit-border-radius: 50%;
-                        border-radius: 50%;
-                        width: 35px;
-                        text-align: center;
-                        height: 35px;
-                        font-weight: 100;
-                            line-height: 20px;
-                            position: relative;
-                            float: left;
-            	}
-
 
             /*	.tags span.more-info:before{
                 	content:"";
@@ -1034,12 +1020,13 @@ p.book-area{
     	}
 */
 
-.vertical-align-content > *
+/* SE REMOVIO PARA DAR ESPACIO AL DISPLAY EN EL BOTON DE MAS EN CENTER
+ .vertical-align-content > *
 {
-     display: flex!important;
+     display: flex !important;
      align-content: center!important;
      align-items: center!important;
-}
+}*/
 
 .image-book-detail{
       height: auto;
@@ -1128,6 +1115,26 @@ text-align:justify;
     max-width: 90%;
         margin: 0 auto;
 }
+
+.more-inform{
+display: block !important;
+ width: 35px;
+ height: 35px;
+	 display: table-cell !important;
+	 text-align: center;
+                 vertical-align: middle;
+                 z-index:3;
+	                    background: #f4f3f3;
+                        font-size: 24px;
+                        color: #51585a;
+                        text-decoration: none;
+                        -moz-border-radius: 50%;
+                        -webkit-border-radius: 50%;
+                        border-radius: 50%;
+                        margin-top:15px;
+                        font-weight: 100;
+            	}
+
 
 /**** TEST 2018 CSS *****/
 /**** TEST 2018 CSS *****/

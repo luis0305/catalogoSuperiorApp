@@ -764,7 +764,7 @@ categories = [
     "ImageSource": "fingerprint_productos_digitales.jpg",
     "ShowSlider": true,
     "OrderSlider": 1,
-    "ShortDescription": "Cada institución tiene necesidades diferentes satisfacerlas a la medida implica una nueva forma de educar.",
+    "ShortDescription": "Cada institución tiene necesidades diferentes, satisfacerlas a la medida implica una nueva forma de educar.",
     "ImageMenu": "productos-digitales.jpg"
   },
   {
