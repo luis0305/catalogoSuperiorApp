@@ -61,10 +61,7 @@
         if( !($scope.user.request === undefined) )
           body += "|Solicitud:" + $scope.user.request;
         href += "&body=" + body;
-        var mailto = document.createElement('a');
-        mailto.setAttribute('href', href);
-        mailto.click();
-        $window.history.back();
+        $window.open(href, '_system');
       }
 
     };
