@@ -43,23 +43,23 @@
       //window.open( window.encodeURIComponent(href), '_system');
       if(form.$valid){
         var href = "mailto:marketinghead@pearson.com?";
-        href += "subject=Más información";
+        href += "subject= Más información";
         href += "&from=" + $scope.user.email;
-        var body = "Nombre:" +$scope.user.name;
-        body += "%0ATeléfono fijo:" + $scope.user.phone;
-        body += "%0ATeléfono celular:" + $scope.user.phone;
+        var body = "Nombre: " +$scope.user.name;
+        body += "%0ATeléfono fijo: " + $scope.user.phone;
+        body += "%0ATeléfono celular: " + $scope.user.phone;
         if( !($scope.user.university === undefined) )
-          body += "%0AUniversidad:" + $scope.user.university;
+          body += "%0AUniversidad : " + $scope.user.university;
         if( !($scope.user.subject === undefined) )
-          body += "%0AMateria:" + $scope.user.subject;
+          body += "%0AMateria : " + $scope.user.subject;
         if( !($scope.user.enrollment === undefined) )
-          body += "%0AMatrícula:" + $scope.user.enrollment;
+          body += "%0AMatrícula :" + $scope.user.enrollment;
         if( !($scope.user.state === undefined) )
-          body += "%0AEstado:" + $scope.user.state;
+          body += "%0AEstado :" + $scope.user.state;
         if( !($scope.user.bookInterested === undefined) )
-          body += "%0AMatería de intéres:" + $scope.user.bookInterested;
+          body += "%0AMatería de intéres :" + $scope.user.bookInterested;
         if( !($scope.user.request === undefined) )
-          body += "%0ASolicitud:" + $scope.user.request;
+          body += "%0ASolicitud :" + $scope.user.request;
         href += "&body=" + body;
         $window.open(href, '_system');
       }
