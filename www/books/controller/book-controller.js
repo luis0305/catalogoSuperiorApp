@@ -46,20 +46,20 @@
         href += "subject=Más información";
         href += "&from=" + $scope.user.email;
         var body = "Nombre:" +$scope.user.name;
-        body += "|Teléfono fijo:" + $scope.user.phone;
-        body += "|Teléfono celular:" + $scope.user.phone;
+        body += "%0ATeléfono fijo:" + $scope.user.phone;
+        body += "%0ATeléfono celular:" + $scope.user.phone;
         if( !($scope.user.university === undefined) )
-          body += "|Universidad:" + $scope.user.university;
+          body += "%0AUniversidad:" + $scope.user.university;
         if( !($scope.user.subject === undefined) )
-          body += "|Materia:" + $scope.user.subject;
+          body += "%0AMateria:" + $scope.user.subject;
         if( !($scope.user.enrollment === undefined) )
-          body += "|Matrícula:" + $scope.user.enrollment;
+          body += "%0AMatrícula:" + $scope.user.enrollment;
         if( !($scope.user.state === undefined) )
-          body += "|Estado:" + $scope.user.state;
+          body += "%0AEstado:" + $scope.user.state;
         if( !($scope.user.bookInterested === undefined) )
-          body += "|Matería de intéres:" + $scope.user.bookInterested;
+          body += "%0AMatería de intéres:" + $scope.user.bookInterested;
         if( !($scope.user.request === undefined) )
-          body += "|Solicitud:" + $scope.user.request;
+          body += "%0ASolicitud:" + $scope.user.request;
         href += "&body=" + body;
         $window.open(href, '_system');
       }
