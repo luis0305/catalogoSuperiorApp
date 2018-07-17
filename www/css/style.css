@@ -454,6 +454,7 @@ width: 100% !important;
 
 .image-book-list{
 max-width: 120px;
+
 }
 
 
@@ -484,10 +485,75 @@ max-width: 120px;
     max-width: 70% !important;
 }
 
+
+.administracion_general {
+  background: url('../img/bckgr_administracion_general.jpg') center 80%;
+  background-size:cover
+}
+
+
+.productos_digitales {
+  background: url('../img/bckgr_productos_digitales.jpg') center 80%;
+  background-size:cover
+}
+
+.ingenieria_y_computacion {
+  background: url('../img/bckgr_ingenieria_y_computacion.jpg') center 80%;
+  background-size:cover
+}
+
+.ciencias_y_matematicas {
+  background: url('../img/bckgr_ciencias_y_matematicas.jpg') center 80%;
+  background-size:cover
+}
+
+.ciencias_sociales {
+  background: url('../img/bckgr_ciencias_sociales.jpg') center 80%;
+  background-size:cover
+}
+
+.custom {
+  background: url('../img/bckgr_custom.jpg') center 80%;
+  background-size:cover
+}
+
+
 }
 
 
 @media (max-width:768px) and (min-width:420px) {
+
+.administracion_general {
+  background: url('../img/bckgr_administracion_general.jpg') center 80%;
+  background-size:cover
+}
+
+
+.productos_digitales {
+  background: url('../img/bckgr_productos_digitales.jpg') center 80%;
+  background-size:cover
+}
+
+.ingenieria_y_computacion {
+  background: url('../img/bckgr_ingenieria_y_computacion.jpg') center 80%;
+  background-size:cover
+}
+
+.ciencias_y_matematicas {
+  background: url('../img/bckgr_ciencias_y_matematicas.jpg') center 80%;
+  background-size:cover
+}
+
+.ciencias_sociales {
+  background: url('../img/bckgr_ciencias_sociales.jpg') center 80%;
+  background-size:cover
+}
+
+.custom {
+  background: url('../img/bckgr_custom.jpg') center 80%;
+  background-size:cover
+}
+
 .catalogo_universitario_img{
 max-width:400px !important;
 }
@@ -560,7 +626,7 @@ position: relative;
 width: 100%;
 overflow: hidden;
 z-index: 1;
-    height: 42vh;
+    height: 50vh;
     margin-top: -8vh;
 }
 
@@ -601,7 +667,7 @@ margin: 0 auto;
 }
 
 .botton-plus {
-  border: 2px solid #FFFFFF !important;
+ /* border: 2px solid #FFFFFF !important;
       width: 50px;
       height: 50px;
       display: table-cell;
@@ -612,15 +678,33 @@ margin: 0 auto;
           font-size: 2.5em;
           text-align: center;
           border-radius:50%;
-          margin: 0.5em;
+          margin: 0.5em;*/
+
+             border: 2px solid white;
+                 border-radius: 30px;
+                 color: white;
+                 font: 200 32px/23px Helvetica, Verdana, Tahoma;
+                 height: 45px;
+                 min-width: 45px;
+                 padding: 4px 3px 0 3px;
+                 text-align: center;
 }
 
 
 
 
+
+
+
 /**SNIPPET SCROLL HORZ***/
 /**SNIPPET SCROLL HORZ***/
 /**SNIPPET SCROLL HORZ***/
+
+.long-container {
+  width: 2000px;
+  height: 240px;
+}
+
 
 .scrolling-wrapper {
   overflow-x: scroll;
@@ -660,11 +744,9 @@ margin: 0 auto;
 .scrolling-wrapper,
 .scrolling-wrapper-flexbox {
   height: 220px;
+      white-space: nowrap;
   width: 100%;
   -webkit-overflow-scrolling: touch;
-  &::-webkit-scrollbar {
-    display: none;
-  }
 }
 
 
@@ -1028,6 +1110,11 @@ p.book-area{
      align-items: center!important;
 }*/
 
+
+.theme-input {
+    padding: 5px !important;
+}
+
 .image-book-detail{
       height: auto;
       width: auto;
@@ -1117,7 +1204,7 @@ text-align:justify;
 }
 
 .more-inform{
-display: block !important;
+/*display: block !important;
  width: 35px;
  height: 35px;
 	 display: table-cell !important;
@@ -1132,7 +1219,19 @@ display: block !important;
                         -webkit-border-radius: 50%;
                         border-radius: 50%;
                         margin-top:15px;
-                        font-weight: 100;
+                        font-weight: 100;*/
+
+                                     border: 2px solid white;
+                                         border-radius: 30px;
+                                         color: white;
+                                         font: 200 32px/23px Helvetica, Verdana, Tahoma;
+                                         height: 45px;
+                                         min-width: 45px;
+                                         padding: 4px 3px 0 3px;
+                                         text-align: center;
+                                         background: #f4f3f3;
+                                         color: #51585a;
+                                         width: 12px;
             	}
 
 
