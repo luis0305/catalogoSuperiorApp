@@ -7,30 +7,26 @@
   <ion-content padding>
 
     <div class="row responsive-lg">
-    <div class="list list-inset buscar">
-      <label class="item item-input buscador">
-        <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
-        <i class="icon ion-search placeholder-icon"></i>
-      </label>
+      <div class="list list-inset buscar">
+        <label class="item item-input buscador">
+          <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
+          <i class="icon ion-search placeholder-icon"></i>
+        </label>
+      </div>
     </div>
-    </div>
 
-
-
-    <div class="row responsive-lg margin-vertical-slider">
-      <div class="scrolling-wrapper-flexbox">
-      <div ng-repeat="book in books | limitTo : 10 | orderBy: 'random'">
-          <div class="box book-it">
+    <ion-scroll direction="x" overflow-scroll="false" class="responsive-lg margin-vertical-slider">
+      <ul style="width: 1300px;height: 120px;" >
+        <li ng-repeat="book in books | limitTo : 10 | orderBy: 'random'" class="book-it" style="float:left;">
+          <div class="box">
             <a href="#/pearson/{{category.Slug}}/books/detail/{{book.Id}}">
               <img ng-src="{{book.ImageSource}}"  ng-if="book.ImageSource.indexOf('.jpg') != 0"
                    class="image_slider_category"/>
             </a>
           </div>
-        </div>
-      </div>
-    </div>
-
-
+        </li>
+      </ul>
+    </ion-scroll>
 
     <div class="row responsive-lg">
       <div class="list content-books-div flip-book-list">
