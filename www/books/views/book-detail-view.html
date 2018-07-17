@@ -45,13 +45,13 @@
     </div>
 
     <div class="row">
-      <div id="content" class="col tabcontent" style="background: #FFF; padding: 20px 15px;">
+      <div id="content" class="col tabcontent" style="background: #FFF; padding: 20px 15px; height:100vh">
         <h4 ng-if="book.Introduction != null" style="text-align:center">Introducción</h4>
         <p ng-bind-html="book.Introduction" ng-if="book.Introduction != null">{{book.Introduction}}</p>
         <h4 style="text-align:center">Contenido</h4>
         <p ng-bind-html="book.Content">{{book.Content}}</p>
       </div>
-      <div id="infoDiv" class="col tabcontent" style="background: #FFF; padding: 20px 15px;" >
+      <div id="infoDiv" class="col tabcontent" style="background: #FFF; padding: 20px 15px; height:100vh" >
         <h4 style="text-align:center">Ficha técnica</h4>
         <p>Autor(es):</p>
         <ul>
