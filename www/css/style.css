@@ -667,27 +667,11 @@ margin: 0 auto;
 }
 
 .botton-plus {
- /* border: 2px solid #FFFFFF !important;
-      width: 50px;
-      height: 50px;
-      display: table-cell;
-        text-align: center;
-        vertical-align: middle;
-      z-index: 3;
-      color: white !important;
-          font-size: 2.5em;
-          text-align: center;
-          border-radius:50%;
-          margin: 0.5em;*/
 
-             border: 2px solid white;
-                 border-radius: 30px;
+
+
                  color: white;
-                 font: 200 32px/23px Helvetica, Verdana, Tahoma;
-                 height: 45px;
-                 min-width: 45px;
-                 padding: 4px 3px 0 3px;
-                 text-align: center;
+
 }
 
 
@@ -1221,17 +1205,9 @@ text-align:justify;
                         margin-top:15px;
                         font-weight: 100;*/
 
-                                     border: 2px solid white;
-                                         border-radius: 30px;
-                                         color: white;
-                                         font: 200 32px/23px Helvetica, Verdana, Tahoma;
-                                         height: 45px;
-                                         min-width: 45px;
-                                         padding: 4px 3px 0 3px;
-                                         text-align: center;
+
                                          background: #f4f3f3;
-                                         color: #51585a;
-                                         width: 12px;
+
             	}
 
 
