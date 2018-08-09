@@ -626,7 +626,7 @@ position: relative;
 width: 100%;
 overflow: hidden;
 z-index: 1;
-    height: 50vh;
+    height: 45vh;
     margin-top: -8vh;
 }
 
@@ -649,7 +649,7 @@ z-index: 1;
 .content-slider-quote {
    position: relative;
 z-index: 3;
-top: 50px;
+top: 70px;
 width: 90%;
 text-align: left;
 margin: 0 auto;
@@ -762,7 +762,7 @@ margin-top: 10px;
   }
 
   .height-image{
-  height:60vh;
+  height:50vh;
   }
 
 
@@ -883,33 +883,33 @@ font-size:1.2em;
 
 
 .administracion_general {
-  background: url('../img/bckgr_administracion_general.jpg') center right;
+  background: url('../img/bckgr_administracion_general.jpg') bottom right;
   background-size:cover
 }
 
 
 .productos_digitales {
-  background: url('../img/bckgr_productos_digitales.jpg') center right;
+  background: url('../img/bckgr_productos_digitales.jpg') bottom right;
   background-size:cover
 }
 
 .ingenieria_y_computacion {
-  background: url('../img/bckgr_ingenieria_y_computacion.jpg') center right;
+  background: url('../img/bckgr_ingenieria_y_computacion.jpg') bottom right;
   background-size:cover
 }
 
 .ciencias_y_matematicas {
-  background: url('../img/bckgr_ciencias_y_matematicas.jpg') center right;
+  background: url('../img/bckgr_ciencias_y_matematicas.jpg') bottom right;
   background-size:cover
 }
 
 .ciencias_sociales {
-  background: url('../img/bckgr_ciencias_sociales.jpg') center right;
+  background: url('../img/bckgr_ciencias_sociales.jpg') bottom right;
   background-size:cover
 }
 
 .custom {
-  background: url('../img/bckgr_custom.jpg') center right;
+  background: url('../img/bckgr_custom.jpg') bottom right;
   background-size:cover
 }
 
