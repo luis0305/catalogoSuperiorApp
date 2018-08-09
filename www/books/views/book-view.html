@@ -9,7 +9,7 @@
     <div class="row responsive-lg">
       <div class="list list-inset buscar">
         <label class="item item-input buscador">
-          <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-model="searchFilter">
+          <input type="text" placeholder="Buscar en {{category.Name | lowercase }}" ng-keypress="keyPressed($event)" ng-model="searchFilter">
           <i class="icon ion-search placeholder-icon"></i>
         </label>
       </div>
