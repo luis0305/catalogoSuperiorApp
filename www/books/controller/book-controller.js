@@ -2,7 +2,7 @@
 
   var booksController = angular.module('starter.controller.books',['starter.service.books', 'starter.service.categories']);
 
-  booksController.controller('book-controller', function ($scope, $state, Books, Categories, $window, $cordovaKeyboard){
+  booksController.controller('book-controller', function ($scope, $state, Books, Categories, $window){
     var slug = $state.params.slug;
     $scope.books = Books.getBySlug(slug);
     $scope.category = Categories.getBySlug(slug);
@@ -20,7 +20,7 @@
     $scope.keyPressed = function($event){
       var keyCode = $event.which || $event.keyCode;
       if (keyCode == 13){
-        $cordovaKeyboard.close();
+        //$cordovaKeyboard.close();
       }
     }
 
