@@ -382,7 +382,7 @@ font-family: 'Playfair Display', serif !important;
 }
 
 .input-label-registro{
-font-size: 12px;
+font-size: 11px;
 }
 
 .error_input{
@@ -626,7 +626,7 @@ position: relative;
 width: 100%;
 overflow: hidden;
 z-index: 1;
-    height: 45vh;
+    height: 50vh;
     margin-top: -8vh;
 }
 
