@@ -3,11 +3,14 @@
   "version": "1.2.1",
   "description": "Pearson App",
   "dependencies": {
+    "cordova-android": "^7.1.1",
+    "cordova-plugin-whitelist": "~1.3.1",
     "gulp": "^3.5.6",
-    "gulp-sass": "^2.0.4",
     "gulp-concat": "^2.2.0",
     "gulp-minify-css": "^0.3.0",
-    "gulp-rename": "^1.2.0"
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.0.4",
+    "ionic-plugin-keyboard": "^2.2.1"
   },
   "devDependencies": {
     "bower": "^1.3.3",
@@ -30,5 +33,16 @@
       "version": "",
       "locator": "android"
     }
-  ]
+  ],
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-whitelist": {},
+      "ionic-plugin-keyboard": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
 }

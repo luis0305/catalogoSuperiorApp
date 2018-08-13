@@ -9,11 +9,11 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <preference name="SplashScreen" value="none"/>
+    <preference name="SplashScreen" value="none" />
     <preference name="webviewbounce" value="false" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-minSdkVersion" value="19" />
     <preference name="BackupWebStorage" value="none" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
@@ -45,5 +45,9 @@
     <plugin name="cordova-plugin-inappbrowser" />
     <plugin name="cordova-plugin-network-information" />
     <plugin name="cordova-plugin-whitelist" spec="~1.3.1" />
-    <plugin name="ionic-plugin-keyboard" />
+    <plugin name="ionic-plugin-keyboard" spec="^2.2.1" />
+    <feature name="Keyboard">
+        <param name="ios-package" onload="true" value="IonicKeyboard" />
+    </feature>
+    <engine name="android" spec="^7.1.1" />
 </widget>

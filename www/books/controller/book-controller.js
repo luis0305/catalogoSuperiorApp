@@ -20,7 +20,7 @@
     $scope.keyPressed = function($event){
       var keyCode = $event.which || $event.keyCode;
       if (keyCode == 13){
-        //$cordovaKeyboard.close();
+        cordova.plugins.Keyboard.close();
       }
     }
 
