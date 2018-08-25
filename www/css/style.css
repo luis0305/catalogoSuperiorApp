@@ -883,7 +883,7 @@ font-size:1.2em;
 
 
 .administracion_general {
-  background: url('../img/bckgr_administracion_general.jpg') bottom right;
+  background: url('../img/bckgr_administracion_general.jpg') top right;
   background-size:cover
 }
 
@@ -894,22 +894,22 @@ font-size:1.2em;
 }
 
 .ingenieria_y_computacion {
-  background: url('../img/bckgr_ingenieria_y_computacion.jpg') bottom right;
+  background: url('../img/bckgr_ingenieria_y_computacion.jpg') top right;
   background-size:cover
 }
 
 .ciencias_y_matematicas {
-  background: url('../img/bckgr_ciencias_y_matematicas.jpg') bottom right;
+  background: url('../img/bckgr_ciencias_y_matematicas.jpg') top right;
   background-size:cover
 }
 
 .ciencias_sociales {
-  background: url('../img/bckgr_ciencias_sociales.jpg') bottom right;
+  background: url('../img/bckgr_ciencias_sociales.jpg') top right;
   background-size:cover
 }
 
 .custom {
-  background: url('../img/bckgr_custom.jpg') bottom right;
+  background: url('../img/bckgr_custom.jpg') top right;
   background-size:cover
 }
 
