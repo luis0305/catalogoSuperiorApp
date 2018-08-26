@@ -16,7 +16,7 @@
       <div class="col">
         <div class="detail-icon flex-container">
 
-          <div class="inner-element" ng-if="book.eCommerce != undefined">
+          <div class="inner-element" ng-if="book.eCommerce != '' && book.eCommerce != undefined ">
             <a href="{{book.eCommerce}}" ng-click="window.open( this.href, '_blank', 'location=yes');">
             <img src="./img/icon-cart.png" style="width:50px">
                 <span>Comprar</span>
