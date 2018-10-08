@@ -49,6 +49,6 @@
     <feature name="Keyboard">
         <param name="ios-package" onload="true" value="IonicKeyboard" />
     </feature>
-    <engine name="android" spec="^7.1.1" />
     <engine name="ios" spec="~4.5.5" />
+    <engine name="android" spec="~7.1.1" />
 </widget>
